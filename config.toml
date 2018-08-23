@@ -1,0 +1,8 @@
+baseURL = "https://blog.muehlburger.at"
+languageCode = "en-us"
+theme = "hyde-hyde"
+title = "{ - }"
+
+[Params]
+    description = "Herbert Mühlburger"
+    #copyright = "Herbert Mühlburger"
