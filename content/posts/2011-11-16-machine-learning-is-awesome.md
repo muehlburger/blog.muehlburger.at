@@ -1,31 +1,17 @@
----
-title: Machine Learning is awesome
-author: Herbert Mühlburger
-type: post
-date: 2011-11-16T11:04:20+00:00
-url: /2011/11/machine-learning-is-awesome/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "473739476"
-bitcointips_address:
-  - 1AVBk4PRbAKyammx412aunLVhbkAgVm4Gr
-categories:
-  - Computer Science
-  - Machine Learning
-tags:
-  - Artificial intelligence
-  - Contests
-  - Kaggle
-  - Linear Regression
-  - Logistic Regression
-  - Machine Learning
-  - Neural Networks
-  - Tuned IT
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1AVBk4PRbAKyammx412aunLVhbkAgVm4Gr"]
+categories = ["Computer Science", "Machine Learning"]
+date = "2011-11-16T11:04:20+00:00"
+dsq_thread_id = ["473739476"]
+tags = ["Artificial intelligence", "Contests", "Kaggle", "Linear Regression", "Logistic Regression", "Machine Learning", "Neural Networks", "Tuned IT"]
+title = "Machine Learning is awesome"
+type = "post"
+url = "/2011/11/machine-learning-is-awesome/"
 
----
++++
 ## Machine Learning Class
 
 Machine Learning has always been a topic that attracted my interest. Currently I attend the &#8220;<a title="Machine Learning Class" href="http://www.ml-class.org" target="_blank">Machine Learning</a>&#8221; class (<a title="@ml_class" href="http://twitter.com/ml_class" target="_blank">@ml_class</a>) offered by Prof. <a title="Prof. Andrew Ng" href="http://ai.stanford.edu/%7Eang/" target="_blank"><span class="zem_slink">Andrew Ng</span></a> from <a class="zem_slink" title="Stanford University" href="http://en.wikipedia.org/wiki/Stanford_University" rel="wikipedia">Stanford University</a>. The class is awesome. The video lectures are made of small chunks explaining every topic in detail. A lot of topics were already covered:

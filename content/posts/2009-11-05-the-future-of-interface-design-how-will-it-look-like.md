@@ -1,42 +1,17 @@
----
-title: How will The Future of Interface Design look like?
-author: Herbert Mühlburger
-type: post
-date: 2009-11-05T08:16:31+00:00
-url: /2009/11/the-future-of-interface-design-how-will-it-look-like/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "249773899"
-bitcointips_address:
-  - 13HaRotr3nnYbXwnSFeQk8s5HE9ggP7r4M
-categories:
-  - Computer Science
-  - Usability
-  - Videos
-tags:
-  - application
-  - AR
-  - Augmented reality
-  - BCI
-  - Brain Computer Interface
-  - Gesture Based Interfacaes
-  - Handhelds
-  - Head Up Display
-  - Interface Design
-  - IPhone
-  - Mobile device
-  - Science Fiction
-  - Sensor Based Interface
-  - Smart Surfaces
-  - Smartphone
-  - Spatial Motion Interfaces
-  - User Interfaces
-  - Virtual reality
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["13HaRotr3nnYbXwnSFeQk8s5HE9ggP7r4M"]
+categories = ["Computer Science", "Usability", "Videos"]
+date = "2009-11-05T08:16:31+00:00"
+dsq_thread_id = ["249773899"]
+tags = ["application", "AR", "Augmented reality", "BCI", "Brain Computer Interface", "Gesture Based Interfacaes", "Handhelds", "Head Up Display", "Interface Design", "IPhone", "Mobile device", "Science Fiction", "Sensor Based Interface", "Smart Surfaces", "Smartphone", "Spatial Motion Interfaces", "User Interfaces", "Virtual reality"]
+title = "How will The Future of Interface Design look like?"
+type = "post"
+url = "/2009/11/the-future-of-interface-design-how-will-it-look-like/"
 
----
++++
 <a title="Posts by David  Leggett" href="http://www.uxbooth.com/author/admin/" target="_blank">David Leggett</a> tried to answer this question in a <a title="The Future of Interface Design" href="http://www.uxbooth.com/blog/the-future-of-interface-design/" target="_blank">blogpost</a> written for <a title="uxbooth" href="http://www.uxbooth.com/" target="_blank">uxBOOTH</a>. He writes:
 
 > The future of how we interact with computers is exciting to say the least. What once seemed like nonsense outside of Hollywood and <a class="zem_slink" title="Science fiction" rel="wikipedia" href="http://en.wikipedia.org/wiki/Science_fiction">Science Fiction</a> is now starting to find it’s way into reality, and some of the technology is a bit overwhelming. Have a taste of what the future of <a class="zem_slink" title="User interface design" rel="wikipedia" href="http://en.wikipedia.org/wiki/User_interface_design">interface design</a> has to offer:

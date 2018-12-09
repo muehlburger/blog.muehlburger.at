@@ -1,46 +1,20 @@
----
-title: NOSQL Summer in Graz Kick-Off Meeting
-author: Herbert Mühlburger
-type: post
-date: 2010-07-21T19:27:07+00:00
-url: /2010/07/nosql-summer-in-graz-kick-off-meeting/
-aktt_tweeted:
-  - "1"
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-shorturls:
-  - 'a:4:{s:9:"permalink";s:76:"http://blog.muehlburger.at/2010/07/21/nosql-summer-in-graz-kick-off-meeting/";s:7:"tinyurl";s:26:"http://tinyurl.com/32vjldp";s:4:"isgd";s:18:"http://is.gd/kvwOw";s:5:"bitly";s:20:"http://bit.ly/dcOff0";}'
-tweetbackscheck:
-  - "1295591455"
-  - "1295591455"
-  - "1295591455"
-  - "1295591455"
-  - "1295591455"
-  - "1295591455"
-  - "1295591455"
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "246421279"
-bitcointips_address:
-  - 13fXiwRLSpBErNAvfGPr4wGJRvk2Nc4G8R
-categories:
-  - Computer Science
-  - NOSQL Summer
-tags:
-  - austria
-  - Cloud computing
-  - Distributed computing
-  - Graz University of Technology
-  - Hadoop
-  - NoSQL
-  - NOSQL Summer
-  - Open source
-  - Privacy
-  - Social network
++++
+aktt_notify_twitter = ["yes", "yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["13fXiwRLSpBErNAvfGPr4wGJRvk2Nc4G8R"]
+categories = ["Computer Science", "NOSQL Summer"]
+date = "2010-07-21T19:27:07+00:00"
+dsq_thread_id = ["246421279"]
+shorturls = ["a:4:{s:9:\"permalink\";s:76:\"http://blog.muehlburger.at/2010/07/21/nosql-summer-in-graz-kick-off-meeting/\";s:7:\"tinyurl\";s:26:\"http://tinyurl.com/32vjldp\";s:4:\"isgd\";s:18:\"http://is.gd/kvwOw\";s:5:\"bitly\";s:20:\"http://bit.ly/dcOff0\";}"]
+tags = ["austria", "Cloud computing", "Distributed computing", "Graz University of Technology", "Hadoop", "NoSQL", "NOSQL Summer", "Open source", "Privacy", "Social network"]
+title = "NOSQL Summer in Graz Kick-Off Meeting"
+tweetbackscheck = ["1295591455", "1295591455", "1295591455", "1295591455", "1295591455", "1295591455", "1295591455"]
+twittercomments = ["a:0:{}"]
+type = "post"
+url = "/2010/07/nosql-summer-in-graz-kick-off-meeting/"
 
----
++++
 Today was the kick-off  meeting of <a title="NOSQL Summer" href="http://nosqlsummer.org/" target="_blank">NOSQL Summer</a> here in Graz, Austria.
 
 > A NOSQL Summer is a network of local reading groups, that will decipher & discuss NOSQL-related articles, from late June to early September 2010. Each group sets its own meeting pace (usually once a week or once every two weeks) and select which papers are up for discussion.

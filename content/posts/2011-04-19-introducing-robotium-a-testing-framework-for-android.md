@@ -1,36 +1,17 @@
----
-title: Introducing Robotium – A Testing Framework for Android
-author: Herbert Mühlburger
-type: post
-date: 2011-04-19T12:55:52+00:00
-url: /2011/04/introducing-robotium-a-testing-framework-for-android/
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "283315618"
-aktt_notify_twitter:
-  - 'yes'
-bitcointips_address:
-  - 13fiNBMwZ39c886dDQ6EbaNWbxPRCaeTMB
-categories:
-  - Android
-  - Computer Science
-  - Testing
-  - Videos
-tags:
-  - Android
-  - Black Box Testing
-  - Java
-  - Languages
-  - Open source
-  - Programming
-  - Source code
-  - Test case
-  - Test-driven development
-  - Testing
-  - Unit testing
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["13fiNBMwZ39c886dDQ6EbaNWbxPRCaeTMB"]
+categories = ["Android", "Computer Science", "Testing", "Videos"]
+date = "2011-04-19T12:55:52+00:00"
+dsq_thread_id = ["283315618"]
+tags = ["Android", "Black Box Testing", "Java", "Languages", "Open source", "Programming", "Source code", "Test case", "Test-driven development", "Testing", "Unit testing"]
+title = "Introducing Robotium – A Testing Framework for Android"
+type = "post"
+url = "/2011/04/introducing-robotium-a-testing-framework-for-android/"
 
----
++++
 <div class="zemanta-img">
   <figure style="width: 145px" class="wp-caption alignleft"><a href="http://en.wikipedia.org/wiki/File:Android-logo.jpg"><img title="Android robot logo." alt="Android robot logo." src="http://upload.wikimedia.org/wikipedia/en/a/a5/Android-logo.jpg" width="145" height="160" /></a><figcaption class="wp-caption-text">Image via Wikipedia</figcaption></figure>
 </div>

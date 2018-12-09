@@ -1,30 +1,16 @@
----
-title: Monopoly für die Generation Internet
-author: Herbert Mühlburger
-type: post
-date: 2008-06-15T11:51:06+00:00
-url: /2008/06/monopoly-fur-die-generation-internet/
-aktt_notify_twitter:
-  - 'no'
-dsq_thread_id:
-  - "246912225"
-bitcointips_address:
-  - 13VpBBrKs9UcJwp9cvhm3YdV9dFaQApe7P
-categories:
-  - Computer Science
-tags:
-  - Board Games
-  - Games
-  - Generation Internet
-  - german
-  - googolopoly
-  - Internet
-  - Lee Daniels
-  - Monopoly
-  - Sicherheit
-  - Spiel
++++
+aktt_notify_twitter = ["no"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["13VpBBrKs9UcJwp9cvhm3YdV9dFaQApe7P"]
+categories = ["Computer Science"]
+date = "2008-06-15T11:51:06+00:00"
+dsq_thread_id = ["246912225"]
+tags = ["Board Games", "Games", "Generation Internet", "german", "googolopoly", "Internet", "Lee Daniels", "Monopoly", "Sicherheit", "Spiel"]
+title = "Monopoly für die Generation Internet"
+type = "post"
+url = "/2008/06/monopoly-fur-die-generation-internet/"
 
----
++++
 <div class="mceTemp mceIEcenter">
   <dl id="attachment_700" class="wp-caption aligncenter" style="width: 440px;">
     <dt class="wp-caption-dt">

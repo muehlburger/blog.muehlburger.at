@@ -1,34 +1,17 @@
----
-title: What will the web look like in five years?
-author: Herbert Mühlburger
-type: post
-date: 2009-11-01T18:49:06+00:00
-url: /2009/11/what-will-the-web-look-like-in-five-years/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "246421145"
-bitcointips_address:
-  - 1DgkSwVQAUKz5Nh5TepqAFy4FXF6TcDMa1
-categories:
-  - Semantic Web
-  - Videos
-tags:
-  - Chinese language
-  - Eric E. Schmidt
-  - Eric Schmidt
-  - Facebook
-  - future
-  - Future of Internet
-  - google
-  - "Moore's Law"
-  - twitter
-  - Web
-  - YouTube
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1DgkSwVQAUKz5Nh5TepqAFy4FXF6TcDMa1"]
+categories = ["Semantic Web", "Videos"]
+date = "2009-11-01T18:49:06+00:00"
+dsq_thread_id = ["246421145"]
+tags = ["Chinese language", "Eric E. Schmidt", "Eric Schmidt", "Facebook", "future", "Future of Internet", "google", "Moore's Law", "twitter", "Web", "YouTube"]
+title = "What will the web look like in five years?"
+type = "post"
+url = "/2009/11/what-will-the-web-look-like-in-five-years/"
 
----
++++
 <a title="Eric Schmidt" href="http://www.google.com/corporate/execs.html#eric" target="_blank">Eric Schmidt</a>, CEO of Google was answering this question in an interesting interview at <a title="Gartner Symposium/ITxpo Orlando 2009" href="http://blogs.gartner.com/symposium-times/" target="_blank">Gartner Symposium/ITxpo Orlando 2009</a>. <a title="ReadWriteWeb" href="http://www.readwriteweb.com" target="_blank">ReadWriteWeb</a> has summarized the <a title="ReadWriteWeb" href="http://www.readwriteweb.com/archives/google_web_in_five_years.php" target="_blank">highlights</a> of Eric&#8217;s interview as follows:
 
 >   * Five years from now the internet will be dominated by <a class="zem_slink" title="Chinese language" rel="wikipedia" href="http://en.wikipedia.org/wiki/Chinese_language">Chinese-language</a> content.

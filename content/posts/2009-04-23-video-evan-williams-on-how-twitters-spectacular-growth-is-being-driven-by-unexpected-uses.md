@@ -1,32 +1,17 @@
----
-title: '[video] – Evan Williams on “How Twitter’s spectacular growth is being driven by unexpected uses”'
-author: Herbert Mühlburger
-type: post
-date: 2009-04-23T19:22:11+00:00
-url: /2009/04/video-evan-williams-on-how-twitters-spectacular-growth-is-being-driven-by-unexpected-uses/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "283291513"
-bitcointips_address:
-  - 18o7nUqTjx4QBAH6upWvCZyx5Z2Aox8R7E
-categories:
-  - Computer Science
-  - Web2.0
-tags:
-  - Bill Gates
-  - Evan Williams
-  - Facebook
-  - IPhone
-  - Social Networking
-  - TED
-  - TED conference
-  - twitter
-  - video
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["18o7nUqTjx4QBAH6upWvCZyx5Z2Aox8R7E"]
+categories = ["Computer Science", "Web2.0"]
+date = "2009-04-23T19:22:11+00:00"
+dsq_thread_id = ["283291513"]
+tags = ["Bill Gates", "Evan Williams", "Facebook", "IPhone", "Social Networking", "TED", "TED conference", "twitter", "video"]
+title = "[video] – Evan Williams on “How Twitter’s spectacular growth is being driven by unexpected uses”"
+type = "post"
+url = "/2009/04/video-evan-williams-on-how-twitters-spectacular-growth-is-being-driven-by-unexpected-uses/"
 
----
++++
 The next video is about twitter&#8217;s growth by the unexpected use of the service. Very intersting video!
 
 

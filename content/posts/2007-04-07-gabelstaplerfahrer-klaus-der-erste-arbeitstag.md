@@ -1,31 +1,16 @@
----
-title: Gabelstaplerfahrer Klaus – Der erste Arbeitstag
-author: Herbert Mühlburger
-type: post
-date: 2007-04-07T05:52:13+00:00
-url: /2007/04/gabelstaplerfahrer-klaus-der-erste-arbeitstag/
-aktt_notify_twitter:
-  - 'no'
-dsq_thread_id:
-  - "247219227"
-bitcointips_address:
-  - 12wcb9cPuUcbUjzJMWQKN36db5JE2ZsTyM
-categories:
-  - Videos
-tags:
-  - Arbeitsschutz
-  - Arts
-  - Education
-  - Film School
-  - Film Societies
-  - Gabelstaplerfahrer Klaus
-  - Infogesellschaft
-  - Movies
-  - Organizations
-  - Theory and Criticism
-  - United States
++++
+aktt_notify_twitter = ["no"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["12wcb9cPuUcbUjzJMWQKN36db5JE2ZsTyM"]
+categories = ["Videos"]
+date = "2007-04-07T05:52:13+00:00"
+dsq_thread_id = ["247219227"]
+tags = ["Arbeitsschutz", "Arts", "Education", "Film School", "Film Societies", "Gabelstaplerfahrer Klaus", "Infogesellschaft", "Movies", "Organizations", "Theory and Criticism", "United States"]
+title = "Gabelstaplerfahrer Klaus – Der erste Arbeitstag"
+type = "post"
+url = "/2007/04/gabelstaplerfahrer-klaus-der-erste-arbeitstag/"
 
----
++++
 Hier mal ein kleiner Film zum Thema Arbeitsschutz!
 
 

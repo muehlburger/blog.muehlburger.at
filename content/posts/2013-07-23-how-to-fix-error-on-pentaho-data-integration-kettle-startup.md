@@ -1,26 +1,14 @@
----
-title: How to fix error on Pentaho Data Integration (Kettle) startup
-author: Herbert Mühlburger
-type: post
-date: 2013-07-23T07:48:40+00:00
-url: /2013/07/how-to-fix-error-on-pentaho-data-integration-kettle-startup/
-bitcointips_address:
-  - 19NpYWYxxBGcYU4KwffxFj3Ltv4yZe97q5
-categories:
-  - Business Intelligence
-  - Computer Science
-  - HowTo
-  - Kettle
-  - Pentaho
-tags:
-  - BI
-  - Business Intelligence
-  - Data Integration
-  - Kettle
-  - PDI
-  - Pentaho
++++
+author = "Herbert Mühlburger"
+bitcointips_address = ["19NpYWYxxBGcYU4KwffxFj3Ltv4yZe97q5"]
+categories = ["Business Intelligence", "Computer Science", "HowTo", "Kettle", "Pentaho"]
+date = "2013-07-23T07:48:40+00:00"
+tags = ["BI", "Business Intelligence", "Data Integration", "Kettle", "PDI", "Pentaho"]
+title = "How to fix error on Pentaho Data Integration (Kettle) startup"
+type = "post"
+url = "/2013/07/how-to-fix-error-on-pentaho-data-integration-kettle-startup/"
 
----
++++
 Howto fix startup error of <a title="Pentaho Data Integration" href="http://kettle.pentaho.com/" target="_blank">Pentaho Data Integration</a> (Kettle) on CentOS 6? You just need to modify the spoon.sh startup script after downloading and unzipping Pentaho Data Integration. The modification updates the Java runtime options for Kettle to startup properly. Therefore open
 
 [code language=&#8221;bash&#8221;]spoon.sh[/code]

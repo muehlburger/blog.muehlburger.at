@@ -1,18 +1,13 @@
----
-title: JavaScript Rising Stars 2017
-author: Herbert Mühlburger
-type: post
-date: 2018-01-19T10:26:44+00:00
-url: /2018/01/javascript-rising-stars-2017/
-categories:
-  - Software Engineering
-  - Technology
-tags:
-  - "2017"
-  - JavaScript
-  - RisingStars
++++
+author = "Herbert Mühlburger"
+categories = ["Software Engineering", "Technology"]
+date-old = "2018-01-19T10:26:44+00:00"
+date = "2018-01-19T10:26:44+00:00"
+tags = ["2017", "JavaScript", "RisingStars"]
+title = "JavaScript Rising Stars 2017"
+url = "/2018/01/javascript-rising-stars-2017/"
 
----
++++
 <p data-reactid="26">
   I found an intersting <a href="https://risingstars.js.org/2017/en/">article</a> on the rising stars in the JavaScript world in 2017. There are the most important sections taken from the report.
 </p>

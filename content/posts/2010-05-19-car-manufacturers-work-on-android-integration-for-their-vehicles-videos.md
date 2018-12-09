@@ -1,33 +1,17 @@
----
-title: 'Car Manufacturers work on Android Integration for their Vehicles – [videos]'
-author: Herbert Mühlburger
-type: post
-date: 2010-05-19T06:08:49+00:00
-url: /2010/05/car-manufacturers-work-on-android-integration-for-their-vehicles-videos/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "247229575"
-bitcointips_address:
-  - 1LgxmFg3sdemr6z9YDjYgW8ky3yNynAdn9
-categories:
-  - Android
-  - Videos
-tags:
-  - Android
-  - Automobile
-  - Cars
-  - Chevrolet Volt
-  - Ford
-  - Ford Motor Company
-  - FordSync
-  - OnStar
-  - Pandora Radio
-  - Radio
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1LgxmFg3sdemr6z9YDjYgW8ky3yNynAdn9"]
+categories = ["Android", "Videos"]
+date = "2010-05-19T06:08:49+00:00"
+dsq_thread_id = ["247229575"]
+tags = ["Android", "Automobile", "Cars", "Chevrolet Volt", "Ford", "Ford Motor Company", "FordSync", "OnStar", "Pandora Radio", "Radio"]
+title = "Car Manufacturers work on Android Integration for their Vehicles – [videos]"
+type = "post"
+url = "/2010/05/car-manufacturers-work-on-android-integration-for-their-vehicles-videos/"
 
----
++++
 <a title="GM" href="http://www.gm.com" target="_blank">GM</a> and <a title="OnStar" href="http://www.onstar.com" target="_blank">OnStar</a> are working on the integration of mobile <a title="Android" href="http://www.android.com" target="_blank">Android</a> application into one of their cars (Chevrolet <a title="Chevrolet Volt" href="http://www.chevrolet.com/pages/open/default/future/volt.do" target="_blank">Volt</a>). A demonstration of a first working prototype can be seen in the video below.
 
 [youtube KFj3OdXxszk]

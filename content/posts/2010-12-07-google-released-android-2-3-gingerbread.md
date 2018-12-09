@@ -1,24 +1,15 @@
----
-title: Google released Android 2.3 Gingerbread
-author: Herbert Mühlburger
-type: post
-date: 2010-12-07T16:02:19+00:00
-url: /2010/12/google-released-android-2-3-gingerbread/
-dsq_thread_id:
-  - "246512555"
-bitcointips_address:
-  - 1FkcC4tub6oeo3QZi1EUdpz7x5jqQvRAvY
-categories:
-  - Computer Science
-tags:
-  - Android
-  - google
-  - htc desire
-  - Nexus S
-  - PlayStation Controller
-  - readwriteweb
++++
+author = "Herbert Mühlburger"
+bitcointips_address = ["1FkcC4tub6oeo3QZi1EUdpz7x5jqQvRAvY"]
+categories = ["Computer Science"]
+date = "2010-12-07T16:02:19+00:00"
+dsq_thread_id = ["246512555"]
+tags = ["Android", "google", "htc desire", "Nexus S", "PlayStation Controller", "readwriteweb"]
+title = "Google released Android 2.3 Gingerbread"
+type = "post"
+url = "/2010/12/google-released-android-2-3-gingerbread/"
 
----
++++
 Yesterday <a class="zem_slink" title="Google" rel="homepage" href="http://google.com">Google</a> released a new version of Android 2.3 called <a title="Android 2.3 Gingerbread" href="http://android-developers.blogspot.com/2010/12/android-23-platform-and-updated-sdk.html" target="_blank">Gingerbread</a>. The following video explains some of the new features:
 
 [youtube Jx3pdWBlZ34]

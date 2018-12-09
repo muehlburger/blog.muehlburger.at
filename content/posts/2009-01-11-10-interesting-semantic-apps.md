@@ -1,34 +1,17 @@
----
-title: 10 Interesting Semantic Apps
-author: Herbert Mühlburger
-type: post
-date: 2009-01-11T19:23:56+00:00
-url: /2009/01/10-interesting-semantic-apps/
-aktt_tweeted:
-  - "1"
-aktt_notify_twitter:
-  - 'yes'
-dsq_thread_id:
-  - "246421067"
-bitcointips_address:
-  - 1NiaawtHPso2L98v5oJYJL8MnCD9HuXDpW
-categories:
-  - Computer Science
-  - Semantic Web
-  - Web2.0
-tags:
-  - Knowledge Management
-  - Metadata
-  - San Francisco California
-  - Semantic Apps
-  - Semantic Web
-  - Technical Services
-  - tim berners-lee
-  - Web 2.0
-  - Web Ontology Language
-  - World Wide Web Consortium
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1NiaawtHPso2L98v5oJYJL8MnCD9HuXDpW"]
+categories = ["Computer Science", "Semantic Web", "Web2.0"]
+date = "2009-01-11T19:23:56+00:00"
+dsq_thread_id = ["246421067"]
+tags = ["Knowledge Management", "Metadata", "San Francisco California", "Semantic Apps", "Semantic Web", "Technical Services", "tim berners-lee", "Web 2.0", "Web Ontology Language", "World Wide Web Consortium"]
+title = "10 Interesting Semantic Apps"
+type = "post"
+url = "/2009/01/10-interesting-semantic-apps/"
 
----
++++
 <blockquote style="text-align: left;">
   <div class="zemanta-img zemanta-action-dragged">
     <p style="text-align: center;">

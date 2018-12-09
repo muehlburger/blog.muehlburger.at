@@ -1,36 +1,17 @@
----
-title: '[paper] – Peer Assessment System for Modern Learning Settings: Towards a Flexible E-Assessment System'
-author: Herbert Mühlburger
-type: post
-date: 2010-05-04T08:27:09+00:00
-url: /2010/05/paper-peer-assessment-system-for-modern-learning-settings-towards-a-flexible-e-assessment-system/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "250960023"
-bitcointips_address:
-  - 1Bw2LtH5vShAgMmoCntzoYvpcLRzBMH47s
-categories:
-  - Computer Science
-tags:
-  - Assessment
-  - Distance Learning
-  - Education
-  - graz
-  - Graz University of Technology
-  - Instructional Technology
-  - Learning management system
-  - Methods and Theories
-  - Online Teaching and Learning
-  - Peer-Assessment
-  - Technology
-  - Technology-Enhanced Learning
-  - TEL
-  - TU Graz
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1Bw2LtH5vShAgMmoCntzoYvpcLRzBMH47s"]
+categories = ["Computer Science"]
+date = "2010-05-04T08:27:09+00:00"
+dsq_thread_id = ["250960023"]
+tags = ["Assessment", "Distance Learning", "Education", "graz", "Graz University of Technology", "Instructional Technology", "Learning management system", "Methods and Theories", "Online Teaching and Learning", "Peer-Assessment", "Technology", "Technology-Enhanced Learning", "TEL", "TU Graz"]
+title = "[paper] – Peer Assessment System for Modern Learning Settings: Towards a Flexible E-Assessment System"
+type = "post"
+url = "/2010/05/paper-peer-assessment-system-for-modern-learning-settings-towards-a-flexible-e-assessment-system/"
 
----
++++
 Diese Woche habe ich mich im Zuge der Lehrveranstaltung &#8220;<a title="Technology Enhanced Learning" href="http://tugll.tugraz.at/tel/weblog/" target="_blank">Technology Enhanced Learning</a>&#8220;, abgehalten an der <a title="Technische Universität Graz" href="http://www.tugraz.at" target="_blank">Technischen Universität Graz</a> (<a class="zem_slink" title="Graz University of Technology" rel="geolocation" href="http://maps.google.com/maps?ll=47.0688888889,15.45&spn=0.01,0.01&q=47.0688888889,15.45 (Graz%20University%20of%20Technology)&t=h">TU Graz</a>), mit dem Artikel &#8220;<a title="Peer Assessment System for Modern Learning Settings: Towards a Flexible E-Assessment System" href="http://online-journals.org/i-jet/article/view/1229" target="_blank">Peer Assessment System for Modern Learning Settings: Towards a Flexible E-Assessment System</a>&#8221; [1] beschäftigt. In diesem Artikel beschreiben die Autoren PASS (Peer ASsessment System), einen Prototypen eines Peer Assessment Systems, der im Zuge der Lehrveranstaltung &#8220;<a title="Information Search and Retrieval" href="https://online.tu-graz.ac.at/tug_online/lv.detail?clvnr=135636&sprache=1" target="_blank">Information Search and Retrieval</a>&#8221; an der TU Graz zur Beurteilung der Studierendenleistungen eingesetzt wurde.
 
 Die Beurteilung beruhte auf einem Experiment das die folgenden acht Phasen durchlief:

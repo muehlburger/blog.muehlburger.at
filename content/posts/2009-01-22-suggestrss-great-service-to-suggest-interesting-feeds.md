@@ -1,31 +1,17 @@
----
-title: SuggestRSS – Great Service to suggest interesting feeds
-author: Herbert Mühlburger
-type: post
-date: 2009-01-22T12:17:23+00:00
-url: /2009/01/suggestrss-great-service-to-suggest-interesting-feeds/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "248671154"
-bitcointips_address:
-  - 1MknBZvhSs2ewxNw1Kftes3Xk46hfq4Y52
-categories:
-  - Computer Science
-  - Web2.0
-tags:
-  - Directories
-  - Export
-  - Feed Readers
-  - Generators
-  - On the Web
-  - OPML
-  - RSS
-  - Syndication and Feeds
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1MknBZvhSs2ewxNw1Kftes3Xk46hfq4Y52"]
+categories = ["Computer Science", "Web2.0"]
+date = "2009-01-22T12:17:23+00:00"
+dsq_thread_id = ["248671154"]
+tags = ["Directories", "Export", "Feed Readers", "Generators", "On the Web", "OPML", "RSS", "Syndication and Feeds"]
+title = "SuggestRSS – Great Service to suggest interesting feeds"
+type = "post"
+url = "/2009/01/suggestrss-great-service-to-suggest-interesting-feeds/"
 
----
++++
 <div class="mceTemp mceIEcenter">
   <dl id="attachment_328" class="wp-caption aligncenter" style="width: 441px;">
     <dt class="wp-caption-dt">

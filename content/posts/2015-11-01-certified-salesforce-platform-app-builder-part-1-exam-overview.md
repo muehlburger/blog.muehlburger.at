@@ -1,25 +1,14 @@
----
-title: 'Certified Salesforce Platform App Builder – Part 1: Exam Overview'
-author: Herbert Mühlburger
-type: post
-date: 2015-11-01T11:59:44+00:00
-url: /2015/11/certified-salesforce-platform-app-builder-part-1-exam-overview/
-bitcointips_address:
-  - 1AWYPwsPKuhTz8LFvLQd31oP3zyXKpyzTV
-categories:
-  - Consulting
-  - HowTo
-  - Salesforce
-tags:
-  - Certification
-  - exam
-  - Platform App Builder
-  - Preperation
-  - Salesforce
-  - Salesforce Certified Platform App Builder Exam
-  - Study Guide
++++
+author = "Herbert Mühlburger"
+bitcointips_address = ["1AWYPwsPKuhTz8LFvLQd31oP3zyXKpyzTV"]
+categories = ["Consulting", "HowTo", "Salesforce"]
+date = "2015-11-01T11:59:44+00:00"
+tags = ["Certification", "exam", "Platform App Builder", "Preperation", "Salesforce", "Salesforce Certified Platform App Builder Exam", "Study Guide"]
+title = "Certified Salesforce Platform App Builder – Part 1: Exam Overview"
+type = "post"
+url = "/2015/11/certified-salesforce-platform-app-builder-part-1-exam-overview/"
 
----
++++
 In order to prepare and pass the <a href="http://certification.salesforce.com/app-builders" target="_blank">Salesforce App Builder Exam</a> I follow the learning path as described in the official &#8220;<a href="http://certification.salesforce.com/SG_CertifiedPlatformAppBuilder.pdf" target="_blank">Certified Salesforce Platform App Builder Study Guide</a>&#8220;.
 
 But how many questions on each topic have to be answered in the exam? The total number of questions is 60 and the expected number of questions on each topic can easily be calculated:

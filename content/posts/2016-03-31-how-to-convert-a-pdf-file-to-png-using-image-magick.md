@@ -1,17 +1,13 @@
----
-title: How to convert a .PDF file to .PNG using Image Magick
-author: Herbert Mühlburger
-type: post
-date: 2016-03-31T08:27:56+00:00
-url: /2016/03/how-to-convert-a-pdf-file-to-png-using-image-magick/
-categories:
-  - HowTo
-tags:
-  - convert
-  - image converstion
-  - image manipulation
++++
+author = "Herbert Mühlburger"
+categories = ["HowTo"]
+date = "2016-03-31T08:27:56+00:00"
+tags = ["convert", "image converstion", "image manipulation"]
+title = "How to convert a .PDF file to .PNG using Image Magick"
+type = "post"
+url = "/2016/03/how-to-convert-a-pdf-file-to-png-using-image-magick/"
 
----
++++
 <a href="http://www.imagemagick.org" target="_blank">ImageMagick</a> is a powerfull tool to manipulate images. If you want to convert a .PDF to an .PNG file use the following command:
 
 `convert -verbose -density 300 -trim input.pdf -quality 100 -sharpen 0x1.0 -background white -flatten output.png`

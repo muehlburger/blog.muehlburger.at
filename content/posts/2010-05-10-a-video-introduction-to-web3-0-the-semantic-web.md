@@ -1,34 +1,20 @@
----
-title: A Video Introduction to Web3.0 (The Semantic Web?)
-author: Herbert Mühlburger
-type: post
-date: 2010-05-10T20:14:44+00:00
-url: /2010/05/a-video-introduction-to-web3-0-the-semantic-web/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-tweetbackscheck:
-  - "1282070958"
-shorturls:
-  - 'a:4:{s:9:"permalink";s:86:"http://blog.muehlburger.at/2010/05/10/a-video-introduction-to-web3-0-the-semantic-web/";s:7:"tinyurl";s:26:"http://tinyurl.com/347u67h";s:4:"isgd";s:18:"http://is.gd/kj3nq";s:5:"bitly";s:20:"http://bit.ly/c13BoN";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "249974829"
-bitcointips_address:
-  - 1JwpW7wdvLiPgJLXEKS9S4xDeaaaTr6sFo
-categories:
-  - Videos
-tags:
-  - Business
-  - search engines
-  - Semantic Web
-  - Technology
-  - tim berners-lee
-  - Web 3.0
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1JwpW7wdvLiPgJLXEKS9S4xDeaaaTr6sFo"]
+categories = ["Videos"]
+date = "2010-05-10T20:14:44+00:00"
+dsq_thread_id = ["249974829"]
+shorturls = ["a:4:{s:9:\"permalink\";s:86:\"http://blog.muehlburger.at/2010/05/10/a-video-introduction-to-web3-0-the-semantic-web/\";s:7:\"tinyurl\";s:26:\"http://tinyurl.com/347u67h\";s:4:\"isgd\";s:18:\"http://is.gd/kj3nq\";s:5:\"bitly\";s:20:\"http://bit.ly/c13BoN\";}"]
+tags = ["Business", "search engines", "Semantic Web", "Technology", "tim berners-lee", "Web 3.0"]
+title = "A Video Introduction to Web3.0 (The Semantic Web?)"
+tweetbackscheck = ["1282070958"]
+twittercomments = ["a:0:{}"]
+type = "post"
+url = "/2010/05/a-video-introduction-to-web3-0-the-semantic-web/"
 
----
++++
 Today I found a very interesting video discussing the term of the Semantic Web, not only in a technical way. Have a look at the following video:
 
 [vimeo 11529540]

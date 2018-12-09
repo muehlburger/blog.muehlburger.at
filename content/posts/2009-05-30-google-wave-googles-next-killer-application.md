@@ -1,30 +1,17 @@
----
-title: Google Wave – Google’s next killer application?
-author: Herbert Mühlburger
-type: post
-date: 2009-05-30T09:49:40+00:00
-url: /2009/05/google-wave-googles-next-killer-application/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "288934119"
-bitcointips_address:
-  - 12SUF6CTaK57ZeumRkRAjxgUfkFKwNWv2f
-categories:
-  - Computer Science
-tags:
-  - google
-  - Google I/O
-  - googlewave
-  - Instant messaging
-  - search engines
-  - Searching
-  - Spell checker
-  - Spelling
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["12SUF6CTaK57ZeumRkRAjxgUfkFKwNWv2f"]
+categories = ["Computer Science"]
+date = "2009-05-30T09:49:40+00:00"
+dsq_thread_id = ["288934119"]
+tags = ["google", "Google I/O", "googlewave", "Instant messaging", "search engines", "Searching", "Spell checker", "Spelling"]
+title = "Google Wave – Google’s next killer application?"
+type = "post"
+url = "/2009/05/google-wave-googles-next-killer-application/"
 
----
++++
 <div class="zemanta-img">
   <div>
     <dl class="wp-caption alignright">

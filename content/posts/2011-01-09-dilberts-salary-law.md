@@ -1,28 +1,17 @@
----
-title: Dilbert’s Salary Law
-author: Herbert Mühlburger
-type: post
-date: 2011-01-09T13:19:33+00:00
-url: /2011/01/dilberts-salary-law/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "250199237"
-bitcointips_address:
-  - 1Kg565GNmAsr1kMmFiMikT6iT6hdKjfpSj
-categories:
-  - Computer Science
-tags:
-  - Dilbert
-  - "Dilbert's Salary Law"
-  - Knowledge
-  - Knowledge Management
-  - Law
-  - Salary
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1Kg565GNmAsr1kMmFiMikT6iT6hdKjfpSj"]
+categories = ["Computer Science"]
+date = "2011-01-09T13:19:33+00:00"
+dsq_thread_id = ["250199237"]
+tags = ["Dilbert", "Dilbert's Salary Law", "Knowledge", "Knowledge Management", "Law", "Salary"]
+title = "Dilbert’s Salary Law"
+type = "post"
+url = "/2011/01/dilberts-salary-law/"
 
----
++++
 **Dilbert&#8217;s Salary Theorem** states that: &#8220;_Engineers and scientists will never make as much money as business executives._&#8220;
 
 Now we have an mathematical proof that explains why this is true:

@@ -1,30 +1,17 @@
----
-title: '[video] – Connect Your Mailbox to the Internet'
-author: Herbert Mühlburger
-type: post
-date: 2011-01-21T06:44:35+00:00
-url: /2011/01/video-connect-your-mailbox-to-the-internet/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "246421277"
-bitcointips_address:
-  - 13q4faapU5jyZC4guBBBtfXtsQmh7XLgoi
-categories:
-  - Computer Science
-tags:
-  - Arduino
-  - Internet of Things
-  - IoT
-  - IPhone
-  - PHP
-  - Prowl
-  - readwriteweb
-  - Web server
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["13q4faapU5jyZC4guBBBtfXtsQmh7XLgoi"]
+categories = ["Computer Science"]
+date = "2011-01-21T06:44:35+00:00"
+dsq_thread_id = ["246421277"]
+tags = ["Arduino", "Internet of Things", "IoT", "IPhone", "PHP", "Prowl", "readwriteweb", "Web server"]
+title = "[video] – Connect Your Mailbox to the Internet"
+type = "post"
+url = "/2011/01/video-connect-your-mailbox-to-the-internet/"
 
----
++++
 Recently I found a video on the web demonstrating a simple system sending push notifications to your iPhone whenever the mailman has delivered your post.
 
 As a part of their &#8220;<a title="Internet of Things" href="http://www.readwriteweb.com/archives/internet-of-things/" target="_blank">Internet of Things</a>&#8221; series <a title="ReadWriteWeb" href="http://www.readwriteweb.com" target="_blank">ReadWriteWeb</a> came up with an article describing how Make Magazine built the system using an <a title="Arduino" href="http://www.arduino.cc/en/" target="_blank">Arduino</a>. This is a nice way of using this technology. In the following you can see the video demonstrating the system.

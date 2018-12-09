@@ -1,22 +1,14 @@
----
-title: How to mount Novell directory in Ubuntu
-author: Herbert Mühlburger
-type: post
-date: 2014-03-12T14:04:18+00:00
-url: /2014/03/how-to-mount-novell-directory-in-ubuntu/
-bitcointips_address:
-  - 167DCfB9qHD92UppDFZj6X3ytPaY2fsxbm
-categories:
-  - HowTo
-tags:
-  - How To
-  - mount
-  - ncpfs
-  - ncpmount
-  - novell
-  - Ubuntu
++++
+author = "Herbert Mühlburger"
+bitcointips_address = ["167DCfB9qHD92UppDFZj6X3ytPaY2fsxbm"]
+categories = ["HowTo"]
+date = "2014-03-12T14:04:18+00:00"
+tags = ["How To", "mount", "ncpfs", "ncpmount", "novell", "Ubuntu"]
+title = "How to mount Novell directory in Ubuntu"
+type = "post"
+url = "/2014/03/how-to-mount-novell-directory-in-ubuntu/"
 
----
++++
 First you have to install ncpfs using apt-get:
 
 [code language=&#8221;bash&#8221;]

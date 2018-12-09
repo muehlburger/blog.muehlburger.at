@@ -1,30 +1,17 @@
----
-title: Minecraft Documentary Explores Indie Game’s Impact
-author: Herbert Mühlburger
-type: post
-date: 2011-03-07T18:06:30+00:00
-url: /2011/03/minecraft-documentary-explores-indie-games-impact/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "247809889"
-bitcointips_address:
-  - 1NvRMd4ewJuna45YV1EqRKysYgWLSNsYkT
-categories:
-  - Computer Science
-  - Videos
-tags:
-  - Documentary film
-  - Games
-  - Independent video game development
-  - Minecraft
-  - Open world
-  - Video game
-  - Video game industry
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1NvRMd4ewJuna45YV1EqRKysYgWLSNsYkT"]
+categories = ["Computer Science", "Videos"]
+date = "2011-03-07T18:06:30+00:00"
+dsq_thread_id = ["247809889"]
+tags = ["Documentary film", "Games", "Independent video game development", "Minecraft", "Open world", "Video game", "Video game industry"]
+title = "Minecraft Documentary Explores Indie Game’s Impact"
+type = "post"
+url = "/2011/03/minecraft-documentary-explores-indie-games-impact/"
 
----
++++
 The impact of indie games given Minecraft as an example is the topic of the following 20 minutes documentary. Wired.com states:
 
 > Of all the videogame industry’s tremendous success stories, <cite>Minecraft</cite> might very well be the most remarkable. [<a title="wired.com" href="http://www.wired.com/gamelife/2011/03/minecraft-documentary/" target="_blank">wired.com</a>]

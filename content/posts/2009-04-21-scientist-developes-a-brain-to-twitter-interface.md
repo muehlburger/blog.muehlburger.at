@@ -1,32 +1,17 @@
----
-title: Scientist developes a Brain-To-Twitter Interface
-author: Herbert Mühlburger
-type: post
-date: 2009-04-21T08:35:08+00:00
-url: /2009/04/scientist-developes-a-brain-to-twitter-interface/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "430775912"
-bitcointips_address:
-  - 12ojVQpNxBgmShcXqabBgEBRNZj1tujHQ5
-categories:
-  - Computer Science
-  - Usability
-tags:
-  - Adam Wilson
-  - Biomedical engineering
-  - Disability
-  - Electroencephalography
-  - Mobile phone
-  - readwriteweb
-  - Text messaging
-  - twitter
-  - University of Wisconsin-Madison
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["12ojVQpNxBgmShcXqabBgEBRNZj1tujHQ5"]
+categories = ["Computer Science", "Usability"]
+date = "2009-04-21T08:35:08+00:00"
+dsq_thread_id = ["430775912"]
+tags = ["Adam Wilson", "Biomedical engineering", "Disability", "Electroencephalography", "Mobile phone", "readwriteweb", "Text messaging", "twitter", "University of Wisconsin-Madison"]
+title = "Scientist developes a Brain-To-Twitter Interface"
+type = "post"
+url = "/2009/04/scientist-developes-a-brain-to-twitter-interface/"
 
----
++++
 <div class="zemanta-img zemanta-action-dragged">
   <div>
     <dl class="wp-caption alignright">

@@ -1,31 +1,17 @@
----
-title: HowTo set up the Android SDK on Ubuntu for HTC Phones
-author: Herbert Mühlburger
-type: post
-date: 2011-03-12T18:19:18+00:00
-url: /2011/03/howto-set-up-the-android-sdk-on-ubuntu-for-htc-phones/
-aktt_notify_twitter:
-  - 'yes'
-dsq_thread_id:
-  - "252252883"
-aktt_tweeted:
-  - "1"
-bitcointips_address:
-  - 14tB5SAv5ztRNhNoLNVhCAoMmznq3Zm7TY
-categories:
-  - Android
-  - Computer Science
-  - Programming
-tags:
-  - Android
-  - Android SDK
-  - Eclipse
-  - htc
-  - HTC Corporation
-  - Operating system
-  - Ubuntu
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["14tB5SAv5ztRNhNoLNVhCAoMmznq3Zm7TY"]
+categories = ["Android", "Computer Science", "Programming"]
+date = "2011-03-12T18:19:18+00:00"
+dsq_thread_id = ["252252883"]
+tags = ["Android", "Android SDK", "Eclipse", "htc", "HTC Corporation", "Operating system", "Ubuntu"]
+title = "HowTo set up the Android SDK on Ubuntu for HTC Phones"
+type = "post"
+url = "/2011/03/howto-set-up-the-android-sdk-on-ubuntu-for-htc-phones/"
 
----
++++
 <div class="zemanta-img">
   <figure style="width: 122px" class="wp-caption alignright"><a href="http://www.crunchbase.com/company/htc"><img title="Image representing HTC as depicted in CrunchBase" src="http://www.crunchbase.com/assets/images/resized/0001/9198/19198v2-max-450x450.png" alt="Image representing HTC as depicted in CrunchBase" width="122" height="71" /></a><figcaption class="wp-caption-text">Image via CrunchBase</figcaption></figure>
 </div>

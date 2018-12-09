@@ -1,35 +1,17 @@
----
-title: SEAmail – Semantic Delivery of Emails
-author: Herbert Mühlburger
-type: post
-date: 2009-01-23T09:38:25+00:00
-url: /2009/01/seamail-semantic-delivery-of-emails/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "247102809"
-bitcointips_address:
-  - 1Pz8UJtSfnBdYGBzGXZnH9Cvi7NfDQfpM1
-categories:
-  - Computer Science
-  - Semantic Web
-tags:
-  - Computer Science
-  - Computers
-  - E-mail address
-  - Massachusetts Institute of Technology
-  - Michael Genesereth
-  - MIT
-  - Research
-  - Semantic Delivery
-  - Semantic Web
-  - Stanford University
-  - Technology Review
-  - Web of Data
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1Pz8UJtSfnBdYGBzGXZnH9Cvi7NfDQfpM1"]
+categories = ["Computer Science", "Semantic Web"]
+date = "2009-01-23T09:38:25+00:00"
+dsq_thread_id = ["247102809"]
+tags = ["Computer Science", "Computers", "E-mail address", "Massachusetts Institute of Technology", "Michael Genesereth", "MIT", "Research", "Semantic Delivery", "Semantic Web", "Stanford University", "Technology Review", "Web of Data"]
+title = "SEAmail – Semantic Delivery of Emails"
+type = "post"
+url = "/2009/01/seamail-semantic-delivery-of-emails/"
 
----
++++
 <p style="text-align: center;">
   <img class="size-full wp-image-333 aligncenter" title="Credits: Michael Genesereth/Stanford Logic Group" src="http://178.79.139.40/wp-content/uploads/2009/01/seamail-semantic-email-addressing.png" alt="SEAmail - Semantic Email Addressing" width="430" height="301" />
 </p>

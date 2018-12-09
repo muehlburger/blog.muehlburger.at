@@ -1,38 +1,17 @@
----
-title: First BarCamp in Graz, Austria
-author: Herbert Mühlburger
-type: post
-date: 2008-11-23T08:35:38+00:00
-url: /2008/11/first-barcamp-in-graz-austria/
-aktt_tweeted:
-  - "1"
-aktt_notify_twitter:
-  - 'yes'
-dsq_thread_id:
-  - "438147752"
-bitcointips_address:
-  - 1GyiDGkfA4TUBbgsAGFd2TgQ7VE9t7zwRV
-categories:
-  - Computer Science
-  - Videos
-  - Web2.0
-tags:
-  - barcamp
-  - barcamp graz
-  - bcg08
-  - blogger
-  - Blogging
-  - graz
-  - information technology
-  - november
-  - photo sharing
-  - social bookmarking
-  - twitter
-  - unconference
-  - Web2.0
-  - wiki
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1GyiDGkfA4TUBbgsAGFd2TgQ7VE9t7zwRV"]
+categories = ["Computer Science", "Videos", "Web2.0"]
+date = "2008-11-23T08:35:38+00:00"
+dsq_thread_id = ["438147752"]
+tags = ["barcamp", "barcamp graz", "bcg08", "blogger", "Blogging", "graz", "information technology", "november", "photo sharing", "social bookmarking", "twitter", "unconference", "Web2.0", "wiki"]
+title = "First BarCamp in Graz, Austria"
+type = "post"
+url = "/2008/11/first-barcamp-in-graz-austria/"
 
----
++++
 <figure id="attachment_215" style="width: 440px" class="wp-caption alignnone">[<img class="size-full wp-image-215" title="BarCamp Graz November 2008 Logo" src="http://178.79.139.40/wp-content/uploads/2008/11/barcamp-graz-november-2008-logo.png" alt="BarCamp Graz November 2008 Logo" width="440" height="150" />][1]<figcaption class="wp-caption-text">First BarCamp in Graz November 2008 </figcaption></figure> 
 
 This weekend the first <a title="BarCamp Graz" href="http://www.barcamp.at/BarCamp_Graz_November_2008" target="_blank">BarCamp of Graz</a>, Austria is going on. Location is the <a title="BarCamp Location" href="http://maps.google.com/maps?f=q&hl=en&q=Universit%C3%A4tsstra%C3%9Fe+15,+Graz,03.Bez.:Geidorf+8010+Graz,+Graz,+Steiermark,+Austria&sll=47.071057,15.438774&sspn=109.988474,207.246094&ie=UTF8&cd=1&geocode=FXlczgIdisPrAA&ll=47.078569,15.450726&spn=0.026507,0.06609&z=15&g=Universit%C3%A4tsstra%C3%9Fe+15,+Graz,03.Bez.:Geidorf+8010+Graz,+Graz,+Steiermark,+Austria" target="_blank">Karl-Franzens University</a> and today it is going to start at 10.00 o&#8217;clock am. BarCamps are a growing type of events. A BarCamp is a so called unconference. On <a title="BarCamp on Wikipedia" href="http://en.wikipedia.org/wiki/BarCamp" target="_blank">wikipedia </a>you can read:

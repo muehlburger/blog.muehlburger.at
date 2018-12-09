@@ -1,34 +1,16 @@
----
-title: Soziale Netzwerke im CafePodcast
-author: Herbert Mühlburger
-type: post
-date: 2007-04-05T21:18:32+00:00
-url: /2007/04/soziale-netzwerke-im-cafepodcast/
-aktt_notify_twitter:
-  - 'no'
-dsq_thread_id:
-  - "656499556"
-bitcointips_address:
-  - 1MtGxRRTAGx2jJ495sFCaXMSwq44x3MqsB
-categories:
-  - Web2.0
-tags:
-  - Bank
-  - Bonn
-  - CafePodcast
-  - East Germany
-  - Germany
-  - Infogesellschaft
-  - Lawyer
-  - Money
-  - Podcast
-  - Robin Hood
-  - Social Networks
-  - Soziale Netzwerke
-  - United States
-  - Webwelt
++++
+aktt_notify_twitter = ["no"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1MtGxRRTAGx2jJ495sFCaXMSwq44x3MqsB"]
+categories = ["Web2.0"]
+date = "2007-04-05T21:18:32+00:00"
+dsq_thread_id = ["656499556"]
+tags = ["Bank", "Bonn", "CafePodcast", "East Germany", "Germany", "Infogesellschaft", "Lawyer", "Money", "Podcast", "Robin Hood", "Social Networks", "Soziale Netzwerke", "United States", "Webwelt"]
+title = "Soziale Netzwerke im CafePodcast"
+type = "post"
+url = "/2007/04/soziale-netzwerke-im-cafepodcast/"
 
----
++++
 “Netzwerke sind so alt wie die Menschheit”, zumindest seit dem Hype den soziale Netzwerke zur Zeit erfahren sollte das wohl jedem von uns bewusst sein. Dieses Thema ist Inhalt <a title="diesem Podcast" href="http://de.sevenload.com/videos/eyrsFfN-TBwF/TechCrowd-Video-Podcast-12-Soziale-Vernetzung" target="_blank">dieses Podcast</a>s aus dem bekannten <a title="CafePodcast" href="http://www.cafe-podcast.de/" target="_blank">CafePodcast </a>in <a title="CafePodcast in Bonn" href="http://maps.google.com/maps?f=q&hl=de&q=friedrichstra%C3%9Fe+33,+bonn,+germany&sll=37.0625,-95.677068&sspn=34.587666,82.265625&layer=&ie=UTF8&z=17&ll=50.737148,7.10088&spn=0.003375,0.010042&t=h&om=1" target="_blank">Bonn</a>:
 
 Unter den Teilnehmern:

@@ -1,17 +1,11 @@
----
-title: About me
-author: Herbert Mühlburger
-type: page
-date: 2008-10-31T16:59:51+00:00
-aktt_notify_twitter:
-  - 'yes'
-dsq_thread_id:
-  - "509191254"
-bitcointips_address:
-  - 1MoH8qraZA9saqT71hNpoZSeQyXv9Xx6Xz
-menu: main
----
-Hi, I&#8217;m Herbert Mühlburger a Software Developer from Austria.
++++
+date = "2008-10-31"
+dsq_thread_id = ["509191254"]
+title = "About me"
+type = "page"
+
++++
+Hi, I&#8217;m Herbert M&uuml;hlburger a Software Developer from Austria.
 
 <pre>Imprint:
 

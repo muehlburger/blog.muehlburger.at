@@ -1,28 +1,17 @@
----
-title: What is PupSubHubUp?
-author: Herbert Mühlburger
-type: post
-date: 2010-01-28T21:03:06+00:00
-url: /2010/01/what-is-pupsubhubup/
-dsq_thread_id:
-  - "246421192"
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-bitcointips_address:
-  - 18K7s4sA96fEUxJmpvc71G6UPcr2zmVKD9
-categories:
-  - Computer Science
-  - Programming
-tags:
-  - articles
-  - Open source
-  - Programming
-  - Protocol
-  - Pubsubhubbub
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["18K7s4sA96fEUxJmpvc71G6UPcr2zmVKD9"]
+categories = ["Computer Science", "Programming"]
+date = "2010-01-28T21:03:06+00:00"
+dsq_thread_id = ["246421192"]
+tags = ["articles", "Open source", "Programming", "Protocol", "Pubsubhubbub"]
+title = "What is PupSubHubUp?"
+type = "post"
+url = "/2010/01/what-is-pupsubhubup/"
 
----
++++
 [Pubsubhubbub][1] is &#8220;**A simple, open, web-hook-based pubsub protocol & <a class="zem_slink" title="Open source" rel="wikipedia" href="http://en.wikipedia.org/wiki/Open_source">open source</a> reference implementation**&#8220;. But what does this mean? The following video explains it very well:
 
 [youtube B5kHx0rGkec]

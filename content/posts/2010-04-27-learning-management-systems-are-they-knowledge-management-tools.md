@@ -1,31 +1,17 @@
----
-title: '[paper] – Learning Management Systems: Are They Knowledge Management Tools?'
-author: Herbert Mühlburger
-type: post
-date: 2010-04-27T09:51:09+00:00
-url: /2010/04/learning-management-systems-are-they-knowledge-management-tools/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "246421285"
-bitcointips_address:
-  - 1AJeMvEkthMgMEJJrBJu4aL6KZW6p2YEq1
-categories:
-  - Computer Science
-tags:
-  - Colleges and Universities
-  - E-learning
-  - Education
-  - Jordan
-  - Learning management system
-  - LMS
-  - Middle East
-  - Open University
-  - TEL
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1AJeMvEkthMgMEJJrBJu4aL6KZW6p2YEq1"]
+categories = ["Computer Science"]
+date = "2010-04-27T09:51:09+00:00"
+dsq_thread_id = ["246421285"]
+tags = ["Colleges and Universities", "E-learning", "Education", "Jordan", "Learning management system", "LMS", "Middle East", "Open University", "TEL"]
+title = "[paper] – Learning Management Systems: Are They Knowledge Management Tools?"
+type = "post"
+url = "/2010/04/learning-management-systems-are-they-knowledge-management-tools/"
 
----
++++
 Im Zuge der Lehrveranstaltung &#8220;<a title="Technology Enhanced Learning" href="http://tugll.tugraz.at/tel/weblog/" target="_blank">Technology Enhanced Learning</a>&#8221; an der TU Graz , abgehalten von <a title="Martin Ebner" href="http://elearningblog.tugraz.at" target="_blank">Dr. Martin Ebner</a> (@<a title="mebner" href="http://www.twitter.com/mebner" target="_blank">mebner</a>) habe ich den Artikel &#8220;<a title="Learning Management Systems: Are They Knowledge Management Tools?" href="http://online-journals.org/i-jet/article/view/887" target="_blank">Learning Management Systems: Are They Knowledge Management Tools?</a>&#8221; als Leitartikel zum Thema Lern-Management-Systeme (<a class="zem_slink" title="Learning management system" rel="wikipedia" href="http://en.wikipedia.org/wiki/Learning_management_system">LMS</a>) ausgewählt.
 
 Dieser Artikel beschäftigt sich mit der Frage, ob Lern-Management-Systeme (LMS) zu Wissensmanagement Werkzeugen gezählt werden sollten. Die Autoren definieren zunächst Wissensmanagement und Lernen auf Grundlage vorhandener Literatur, bevor auf eLearning und dort im speziellen auf LMS eingegangen wird. Die Autoren beschreiben ein an der Arab Open University (AOU), auf Moodle basierendes und um spezielle Funktionalitäten erweitertes LMS (AOL-LMS). Dieses System bietet die Grundlage für die beantwortung der oben erwähnten Fragestellung. Hervorzuheben sind vor allem die folgenden beiden Stellen:

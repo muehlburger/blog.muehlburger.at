@@ -1,37 +1,17 @@
----
-title: Google Wave API combined with the Wookie engine and integrated in a Moodle platform
-author: Herbert Mühlburger
-type: post
-date: 2009-06-13T09:32:31+00:00
-url: /2009/06/google-wave-api-combined-with-the-wookie-engine-and-integrated-in-a-moodle-platform/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "246421125"
-bitcointips_address:
-  - 1F6EnEqAqGntse86CpZRDUvj4TzL3EwiJ8
-categories:
-  - Computer Science
-tags:
-  - google
-  - Google Wave
-  - Google Wave API
-  - HTML
-  - JavaScript
-  - Moodle
-  - Personal Learning Environment
-  - PHP
-  - PLEs
-  - Scott Wilson
-  - Search
-  - search engines
-  - Virtual Learning Environment
-  - VLEs
-  - Wooke engine
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1F6EnEqAqGntse86CpZRDUvj4TzL3EwiJ8"]
+categories = ["Computer Science"]
+date = "2009-06-13T09:32:31+00:00"
+dsq_thread_id = ["246421125"]
+tags = ["google", "Google Wave", "Google Wave API", "HTML", "JavaScript", "Moodle", "Personal Learning Environment", "PHP", "PLEs", "Scott Wilson", "Search", "search engines", "Virtual Learning Environment", "VLEs", "Wooke engine"]
+title = "Google Wave API combined with the Wookie engine and integrated in a Moodle platform"
+type = "post"
+url = "/2009/06/google-wave-api-combined-with-the-wookie-engine-and-integrated-in-a-moodle-platform/"
 
----
++++
 <p style="text-align: center;">
   <div class="mceTemp mceIEcenter">
     <dl id="attachment_423" class="wp-caption aligncenter" style="width: 440px;">

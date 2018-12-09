@@ -1,25 +1,14 @@
----
-title: Eight elementary Skills every Entrepreneur should have
-author: Herbert Mühlburger
-type: post
-date: 2014-12-14T14:45:39+00:00
-url: /2014/12/eight-elementary-skills-every-entrepreneur-should-have/
-bitcointips_address:
-  - 137f8qNe19ZJLSkxRrQAzebPbGeyWB6w3C
-categories:
-  - Entrepreneurship
-  - Technology
-tags:
-  - entrepreneurship
-  - skills
-  - start-ups
-  - startup
-  - startups
-  - Technology
-  - technology ventures
-  - ventures
++++
+author = "Herbert Mühlburger"
+bitcointips_address = ["137f8qNe19ZJLSkxRrQAzebPbGeyWB6w3C"]
+categories = ["Entrepreneurship", "Technology"]
+date = "2014-12-14T14:45:39+00:00"
+tags = ["entrepreneurship", "skills", "start-ups", "startup", "startups", "Technology", "technology ventures", "ventures"]
+title = "Eight elementary Skills every Entrepreneur should have"
+type = "post"
+url = "/2014/12/eight-elementary-skills-every-entrepreneur-should-have/"
 
----
++++
 Do you think about starting your own company? Then you should think carefully about the elementary skills you need to do so. What are the eight elementary skills every entrepreneur needs? Thomas H. Byers et. al. compiled the following list in his book on &#8220;Technology Ventures &#8211; From Idea to Enterprise&#8221;:
 
   * Entrepreneurs initiate and operate a purposeful enterprise.

@@ -1,35 +1,17 @@
----
-title: Google’s SEO Starter Guide – How to improve your website
-author: Herbert Mühlburger
-type: post
-date: 2008-11-13T19:40:45+00:00
-url: /2008/11/googles-seo-starter-guide-how-to-improve-your-site/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "422754134"
-bitcointips_address:
-  - 1EqPJ3MXn3TJa9ctRJqiy23RvLtFeKs2FG
-categories:
-  - Computer Science
-tags:
-  - google
-  - guide
-  - Internet
-  - netzlogbuch
-  - paper
-  - quality
-  - search engines
-  - seo
-  - thenextweb
-  - tips
-  - tutorial
-  - webdesign
-  - writing
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1EqPJ3MXn3TJa9ctRJqiy23RvLtFeKs2FG"]
+categories = ["Computer Science"]
+date = "2008-11-13T19:40:45+00:00"
+dsq_thread_id = ["422754134"]
+tags = ["google", "guide", "Internet", "netzlogbuch", "paper", "quality", "search engines", "seo", "thenextweb", "tips", "tutorial", "webdesign", "writing"]
+title = "Google’s SEO Starter Guide – How to improve your website"
+type = "post"
+url = "/2008/11/googles-seo-starter-guide-how-to-improve-your-site/"
 
----
++++
 <div class="mceTemp">
   <dl id="attachment_111" class="wp-caption alignnone" style="width: 450px;">
     <dt class="wp-caption-dt">

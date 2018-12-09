@@ -1,33 +1,17 @@
----
-title: '[video] – The Filter Bubble – From Human to Algorithmic Gatekeepers'
-author: Herbert Mühlburger
-type: post
-date: 2011-05-06T17:36:10+00:00
-url: /2011/05/video-the-filter-bubble-from-human-to-algorithmic-gatekeepers/
-dsq_thread_id:
-  - "297100589"
-aktt_tweeted:
-  - "1"
-aktt_notify_twitter:
-  - 'yes'
-bitcointips_address:
-  - 1MAsgseqdtVVJtQxvYs8m1e1jefMBmNYjw
-categories:
-  - Clustering
-  - Computer Science
-  - Machine Learning
-  - Personalization
-tags:
-  - Eli Pariser
-  - Facebook
-  - Gatekeeper
-  - google
-  - Netflix
-  - new york times
-  - TED
-  - twitter
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1MAsgseqdtVVJtQxvYs8m1e1jefMBmNYjw"]
+categories = ["Clustering", "Computer Science", "Machine Learning", "Personalization"]
+date = "2011-05-06T17:36:10+00:00"
+dsq_thread_id = ["297100589"]
+tags = ["Eli Pariser", "Facebook", "Gatekeeper", "google", "Netflix", "new york times", "TED", "twitter"]
+title = "[video] – The Filter Bubble – From Human to Algorithmic Gatekeepers"
+type = "post"
+url = "/2011/05/video-the-filter-bubble-from-human-to-algorithmic-gatekeepers/"
 
----
++++
 <span class="zem_slink">Web personalization</span> and personalized recommendations are recently gaining more and more interest. Companies like <a class="zem_slink" title="Amazon" rel="homepage" href="http://amazon.com/">Amazon</a>, <a class="zem_slink" title="Google" rel="homepage" href="http://google.com">Google</a>, <a class="zem_slink" title="Netflix" rel="homepage" href="http://www.netflix.com/">Netflix</a>, <a class="zem_slink" title="New York Times" rel="homepage" href="http://www.newyorktimes.com">The New York Times</a>, <a class="zem_slink" title="Facebook" rel="wikipedia" href="http://en.wikipedia.org/wiki/Facebook">Facebook</a>, <a class="zem_slink" title="Twitter" rel="homepage" href="http://twitter.com">Twitter</a>, &#8230; already personalize their products in different ways. If you take Google&#8217;s search results as an example. Have you ever noticed that a friend of you gets different search results as you do for the same search query? If you never have noticed just try it out it&#8217;s really worth noting. Another example are Amazon&#8217;s product recommendations which are for example based on your purchases, your product ratings and so on.
 
 <a title="Eli Pariser" href="http://elipariser.com/" target="_blank">Eli Pariser</a> explains in the following <a class="zem_slink" title="TED (conference)" rel="wikipedia" href="http://en.wikipedia.org/wiki/TED_%28conference%29">TED Talk</a> how &#8220;human information filters&#8221; get substituted by algorithmic ones, which means how recommendation engines filter information for you. Have a look at the video is is really worth watching:

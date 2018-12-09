@@ -1,34 +1,16 @@
----
-title: Die neue Informationsgesellschaft
-author: Herbert Mühlburger
-type: post
-date: 2007-03-18T18:01:26+00:00
-url: /2007/03/die-neue-informationsgesellschaft/
-aktt_notify_twitter:
-  - 'no'
-dsq_thread_id:
-  - "344176435"
-bitcointips_address:
-  - 12g6C1WzwToYFwLzjGYemR5yugspCNvfuU
-categories:
-  - Computer Science
-  - Web2.0
-tags:
-  - digg
-  - Facebook
-  - Flickr
-  - google
-  - Herbert Mühlburger
-  - Infogesellschaft
-  - Mondlandung
-  - MySpace
-  - technorati
-  - Verschwörungstheorien
-  - Webwelt
-  - Wikipedia
-  - YouTube
++++
+aktt_notify_twitter = ["no"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["12g6C1WzwToYFwLzjGYemR5yugspCNvfuU"]
+categories = ["Computer Science", "Web2.0"]
+date = "2007-03-18T18:01:26+00:00"
+dsq_thread_id = ["344176435"]
+tags = ["digg", "Facebook", "Flickr", "google", "Herbert Mühlburger", "Infogesellschaft", "Mondlandung", "MySpace", "technorati", "Verschwörungstheorien", "Webwelt", "Wikipedia", "YouTube"]
+title = "Die neue Informationsgesellschaft"
+type = "post"
+url = "/2007/03/die-neue-informationsgesellschaft/"
 
----
++++
 Die neue Informationsgesellschaft, wie sie sich in Zeiten von <a title="Web2.0" href="http://twozero.uni-koeln.de/content/e14/index_ger.html" target="_blank">Web2.0</a> zeigt, ist eines der spannenden Themen mit dem man sich zur Zeit auseinandersetzen kann.
   
 Wo <a title="YouTube" href="http://www.youtube.com/" target="_blank">YouTube</a>, <a title="Flickr" href="http://www.flickr.com/" target="_blank">Flickr</a>, <a title="Last.fm" href="http://www.last.fm/" target="_blank">last.fm</a>, <a title="Wikipedia" href="http://www.wikipedia.org/" target="_blank">Wikipedia</a>, <a title="StudiVZ" href="http://www.studivz.net/" target="_blank">StudiVZ</a>, <a title="SchülerVZ" href="http://www.schuelervz.net/" target="_blank">SchuelerVZ</a>, <a title="Faceboook" href="http://www.facebook.com/" target="_blank">Facebook</a>, … Benutzern die Möglichkeit selbst aktiv das neue Web in einer noch nie dagewesenen Weise zu gestalten, lässt sich erkennen wie groß der Bedarf ist, sich mit anderen Benutzern zu vernetzen. Nicht nur, dass Netzwerke, wie sie sich im <a title="StudiVZ" href="http://www.studivz.net/" target="_blank">StudiVZ</a> bzw. <a title="Facebook" href="http://www.facebook.com/" target="_blank">Facebook</a> oder auf <a title="MySpace" href="http://www.myspace.com/" target="_blank">MySpace</a> bilden, Leuten helfen eine neue vernetzte Informationsgesellschaft zu schaffen, als dass auch eine neue Form der Informationsübertragung stattfindet. Wer recherchiert heute nicht im Internet wenn er zu irgendeinem Thema Informationen such? <a title="Wikipedia" href="http://www.wikipedia.org/" target="_blank">Wikipedia</a> ist oft ein guter Start um einen gewissen Überblick zu bekommen.

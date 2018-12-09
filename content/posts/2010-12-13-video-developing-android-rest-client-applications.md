@@ -1,31 +1,17 @@
----
-title: '[video] – Developing Android REST Client Applications'
-author: Herbert Mühlburger
-type: post
-date: 2010-12-13T15:45:53+00:00
-url: /2010/12/video-developing-android-rest-client-applications/
-aktt_tweeted:
-  - "1"
-aktt_notify_twitter:
-  - 'yes'
-dsq_thread_id:
-  - "247369333"
-bitcointips_address:
-  - 1JoKCtjvrmQvtFhnUezrmTnsBxZZgxuYNr
-categories:
-  - Android
-  - Computer Science
-  - Videos
-tags:
-  - Android
-  - google
-  - Google I/O
-  - Java
-  - Mobile
-  - RESSTful
-  - REST
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1JoKCtjvrmQvtFhnUezrmTnsBxZZgxuYNr"]
+categories = ["Android", "Computer Science", "Videos"]
+date = "2010-12-13T15:45:53+00:00"
+dsq_thread_id = ["247369333"]
+tags = ["Android", "google", "Google I/O", "Java", "Mobile", "RESSTful", "REST"]
+title = "[video] – Developing Android REST Client Applications"
+type = "post"
+url = "/2010/12/video-developing-android-rest-client-applications/"
 
----
++++
 Virgil Dobjanschi demonstrates in this Google I/O session patterns for developing RESTful applications on the Android platform.
 
 [youtube xHXn3Kg2IQE]

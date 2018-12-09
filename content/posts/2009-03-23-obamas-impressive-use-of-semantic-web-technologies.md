@@ -1,33 +1,17 @@
----
-title: Obama’s impressive use of Semantic Web Technologies
-author: Herbert Mühlburger
-type: post
-date: 2009-03-23T19:47:27+00:00
-url: /2009/03/obamas-impressive-use-of-semantic-web-technologies/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "246421096"
-bitcointips_address:
-  - 13xwxytfuYhKvc3E9wzFbaDXRVjXYQYdca
-categories:
-  - Computer Science
-  - Semantic Web
-tags:
-  - David Peterson
-  - Knowledge Representation
-  - Linked Data
-  - Linking Open Data
-  - RDFa
-  - Representational State Transfer
-  - RSS
-  - Semantic Web
-  - sioc
-  - SPARQL
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["13xwxytfuYhKvc3E9wzFbaDXRVjXYQYdca"]
+categories = ["Computer Science", "Semantic Web"]
+date = "2009-03-23T19:47:27+00:00"
+dsq_thread_id = ["246421096"]
+tags = ["David Peterson", "Knowledge Representation", "Linked Data", "Linking Open Data", "RDFa", "Representational State Transfer", "RSS", "Semantic Web", "sioc", "SPARQL"]
+title = "Obama’s impressive use of Semantic Web Technologies"
+type = "post"
+url = "/2009/03/obamas-impressive-use-of-semantic-web-technologies/"
 
----
++++
 US President Obama enforces the use of Semantic Web Technologies. David Peterson posted on <a title="SitePoint" href="http://www.sitepoint.com/blogs/2009/03/19/obama-groundbreaking-use-semantic-web/" target="_blank">SitePoint</a> the follwing:
 
 > In a revolutionary move, Obama’s administration is set to utilise next generation web technologies to bring an unprecedented level of transparency to government. In this case it will shed light on how the roughly US $800 billion dollar economic stimulus will be spent. The recently launched [recovery.gov][1] website (powered by nothing other then Drupal) brought with it the promise that citizens would be able to view where the money was going and how it was going to be spent.

@@ -1,35 +1,17 @@
----
-title: Google Flu Trends – Google Uses Searches to Track Flu’s Spread
-author: Herbert Mühlburger
-type: post
-date: 2008-11-12T09:21:46+00:00
-url: /2008/11/google-flu-trends-google-uses-searches-to-track-flu-spread/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "438559266"
-bitcointips_address:
-  - 1JaKNG793jYEzTZMhS9ZuyJe3whBT5F3ED
-categories:
-  - Computer Science
-  - Web2.0
-tags:
-  - austria
-  - flu
-  - google
-  - google flu trends
-  - google trends
-  - health
-  - influenza
-  - new york times
-  - readwriteweb
-  - reports
-  - trends
-  - websearch
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1JaKNG793jYEzTZMhS9ZuyJe3whBT5F3ED"]
+categories = ["Computer Science", "Web2.0"]
+date = "2008-11-12T09:21:46+00:00"
+dsq_thread_id = ["438559266"]
+tags = ["austria", "flu", "google", "google flu trends", "google trends", "health", "influenza", "new york times", "readwriteweb", "reports", "trends", "websearch"]
+title = "Google Flu Trends – Google Uses Searches to Track Flu’s Spread"
+type = "post"
+url = "/2008/11/google-flu-trends-google-uses-searches-to-track-flu-spread/"
 
----
++++
 <div class="mceTemp">
   <dl id="attachment_93" class="wp-caption alignnone" style="width: 166px;">
     <dt class="wp-caption-dt">

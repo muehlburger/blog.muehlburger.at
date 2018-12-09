@@ -1,28 +1,17 @@
----
-title: Problems with WordPress Automatic Upgrade solved
-author: Herbert Mühlburger
-type: post
-date: 2010-01-08T16:32:13+00:00
-url: /2010/01/problems-with-wordpress-automatic-upgrade-solved/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "250190751"
-bitcointips_address:
-  - 17jewy7eKRSas6gPJMGo45USKVhx5YspgQ
-categories:
-  - Computer Science
-tags:
-  - Blog
-  - Failure
-  - google
-  - weblog
-  - Website
-  - wordpress
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["17jewy7eKRSas6gPJMGo45USKVhx5YspgQ"]
+categories = ["Computer Science"]
+date = "2010-01-08T16:32:13+00:00"
+dsq_thread_id = ["250190751"]
+tags = ["Blog", "Failure", "google", "weblog", "Website", "wordpress"]
+title = "Problems with WordPress Automatic Upgrade solved"
+type = "post"
+url = "/2010/01/problems-with-wordpress-automatic-upgrade-solved/"
 
----
++++
 <div class="zemanta-img">
   <div>
     <dl class="wp-caption alignright">

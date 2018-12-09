@@ -1,30 +1,16 @@
----
-title: '[video] – Matrix for Windows'
-author: Herbert Mühlburger
-type: post
-date: 2008-11-17T21:24:43+00:00
-url: /2008/11/video-matrix-for-windows/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-bitcointips_address:
-  - 1DQf4zZp7bSmLsvUfcq4TmSPeVDgbfytsb
-categories:
-  - Computer Science
-  - Videos
-tags:
-  - errors
-  - failures
-  - faults
-  - film
-  - Fun
-  - matrix
-  - microsoft
-  - windows
-  - YouTube
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1DQf4zZp7bSmLsvUfcq4TmSPeVDgbfytsb"]
+categories = ["Computer Science", "Videos"]
+date = "2008-11-17T21:24:43+00:00"
+tags = ["errors", "failures", "faults", "film", "Fun", "matrix", "microsoft", "windows", "YouTube"]
+title = "[video] – Matrix for Windows"
+type = "post"
+url = "/2008/11/video-matrix-for-windows/"
 
----
++++
 Just watch and enjoy:
 
 

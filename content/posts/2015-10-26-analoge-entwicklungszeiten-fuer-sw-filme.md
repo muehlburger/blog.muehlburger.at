@@ -1,20 +1,15 @@
----
-title: Analoge Entwicklungszeiten für SW-Filme
-author: Herbert Mühlburger
-type: post
-date: -001-11-30T00:00:00+00:00
-draft: true
-url: /?p=2103
-bitcointips_address:
-  - 1FWPukfeB2A5LM8m38kFoqQcJzpzEu52j2
-categories:
-  - Photography
-tags:
-  - analog
-  - develop film
-  - film
++++
+author = "Herbert Mühlburger"
+bitcointips_address = ["1FWPukfeB2A5LM8m38kFoqQcJzpzEu52j2"]
+categories = ["Photography"]
+date = "-001-11-30T00:00:00+00:00"
+draft = true
+tags = ["analog", "develop film", "film"]
+title = "Analoge Entwicklungszeiten für SW-Filme"
+type = "post"
+url = "/?p=2103"
 
----
++++
 ## FP4 Plus 125/22
 
 Verdünnung: 1+9

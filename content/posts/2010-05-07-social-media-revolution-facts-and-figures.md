@@ -1,29 +1,17 @@
----
-title: 'The Social Media Revolution – Facts and Figures – [video]'
-author: Herbert Mühlburger
-type: post
-date: 2010-05-07T19:09:03+00:00
-url: /2010/05/social-media-revolution-facts-and-figures/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "248275354"
-bitcointips_address:
-  - 1BrHH5tuWHZXmjiYWwrJm4m5JmTSvSHozM
-categories:
-  - Videos
-  - Web2.0
-tags:
-  - Facebook
-  - Social media
-  - Social network
-  - Statistics
-  - TEL
-  - video
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1BrHH5tuWHZXmjiYWwrJm4m5JmTSvSHozM"]
+categories = ["Videos", "Web2.0"]
+date = "2010-05-07T19:09:03+00:00"
+dsq_thread_id = ["248275354"]
+tags = ["Facebook", "Social media", "Social network", "Statistics", "TEL", "video"]
+title = "The Social Media Revolution – Facts and Figures – [video]"
+type = "post"
+url = "/2010/05/social-media-revolution-facts-and-figures/"
 
----
++++
 The following video visualizes some recent social media statistics interestingly. Quite impressing how social media has developed over the last year. <a class="zem_slink" title="Facebook" href="http://facebook.com" rel="homepage">Facebook</a> for example has gained 200 million users in just one year. That&#8217;s incredible &#8230;
 
 http://www.youtube.com/watch?v=_oarMXGq3gIlFZ0z5Fm-Ng

@@ -1,37 +1,17 @@
----
-title: Linking Open Data – Anwendungen für Endanwender
-author: Herbert Mühlburger
-type: post
-date: 2009-01-16T21:11:02+00:00
-url: /2009/01/linking-open-data-anwendungen-fur-endanwender/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "246421045"
-bitcointips_address:
-  - 12Jmne7662zY25YD2NLhBYBuY9XEhiTrha
-categories:
-  - Computer Science
-  - Semantic Web
-tags:
-  - Germany
-  - Linked Data
-  - Linked Open Data
-  - Linking Open Data
-  - LOD
-  - Massachusetts Institute of Technology
-  - Metadata
-  - Metaweb
-  - Open Data
-  - Semantic Web
-  - States
-  - tim berners-lee
-  - web3.0
-  - World Wide Web Consortium
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["12Jmne7662zY25YD2NLhBYBuY9XEhiTrha"]
+categories = ["Computer Science", "Semantic Web"]
+date = "2009-01-16T21:11:02+00:00"
+dsq_thread_id = ["246421045"]
+tags = ["Germany", "Linked Data", "Linked Open Data", "Linking Open Data", "LOD", "Massachusetts Institute of Technology", "Metadata", "Metaweb", "Open Data", "Semantic Web", "States", "tim berners-lee", "web3.0", "World Wide Web Consortium"]
+title = "Linking Open Data – Anwendungen für Endanwender"
+type = "post"
+url = "/2009/01/linking-open-data-anwendungen-fur-endanwender/"
 
----
++++
 Für die Lehrveranstaltung &#8220;<a title="Einführung ni das wissenschaftliche Arbeiten" href="http://www.kmi.tugraz.at/vu-ewm/" target="_blank">Einführung in das wissenschaftliche Arbeiten</a>&#8221; bei <a title="Prof. Dr. Klaus Tochtermann" href="https://online.tu-graz.ac.at/tug_online/visitenkarte.show_vcard?pPersonenId=680E25889AE8C121&pPersonenGruppe=3" target="_blank">Prof. Dr. Klaus Tochtermann</a> habe ich einen Artikel zum Thema &#8220;**Linking Open Data &#8211; Anwendungen für Endanwender**&#8221; geschrieben.
 
 **Auszug aus dem Abstract:**

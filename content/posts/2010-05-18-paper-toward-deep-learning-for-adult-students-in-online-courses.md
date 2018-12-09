@@ -1,29 +1,16 @@
----
-title: '[paper] – Toward deep learning for adult students in online courses'
-author: Herbert Mühlburger
-type: post
-date: 2010-05-18T09:47:59+00:00
-url: /2010/05/paper-toward-deep-learning-for-adult-students-in-online-courses/
-aktt_notify_twitter:
-  - 'no'
-dsq_thread_id:
-  - "246421226"
-bitcointips_address:
-  - 19XQDUf1mAYYLM4jqprwmfAbA8Wz86ozRv
-categories:
-  - Computer Science
-tags:
-  - Colleges and Universities
-  - Distance Learning
-  - Education
-  - Graz University of Technology
-  - Higher education
-  - Methods and Theories
-  - Online Teaching and Learning
-  - Technology
-  - TEL
++++
+aktt_notify_twitter = ["no"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["19XQDUf1mAYYLM4jqprwmfAbA8Wz86ozRv"]
+categories = ["Computer Science"]
+date = "2010-05-18T09:47:59+00:00"
+dsq_thread_id = ["246421226"]
+tags = ["Colleges and Universities", "Distance Learning", "Education", "Graz University of Technology", "Higher education", "Methods and Theories", "Online Teaching and Learning", "Technology", "TEL"]
+title = "[paper] – Toward deep learning for adult students in online courses"
+type = "post"
+url = "/2010/05/paper-toward-deep-learning-for-adult-students-in-online-courses/"
 
----
++++
 Diese Woche habe ich mich im Zuge der Lehrveranstaltung &#8220;<a title="Technology Enhanced Learning" href="http://tugll.tugraz.at/tel/weblog/" target="_blank">Technology Enhanced Learning</a>&#8220;, abgehalten an der <a title="Technische Universität Graz" href="http://www.tugraz.at" target="_blank">Technischen Universität Graz</a> (<a title="Graz University of Technology" rel="geolocation" href="http://maps.google.com/maps?ll=47.0688888889,15.45&spn=0.01,0.01&q=47.0688888889,15.45 (Graz%20University%20of%20Technology)&t=h">TU Graz</a>), mit dem Artikel &#8220;<a href="http://www.sciencedirect.com/science/article/B6W4X-4X1YCMJ-1/2/bdb0b4dc972f407f9beea00315e5477b" target="_blank">Toward deep learning for adult students in online courses</a>&#8221; [1] beschäftigt. Der Artikel beschäftigt sich mit Methoden, die speziell im e-Learning für den Erwachsenenbereich angewendet werden können. Die steigende Bedeutung der Erwachsenenbildung soll durch verschiedenen, in der Publikation behandelten Strategien, unterstützt werden. Die Ergebnisse der empirischen Studie können für die Entwicklung von adaptiven e-Learning Systemen eingesetzt werden.
 
 **Autoren:

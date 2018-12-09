@@ -1,32 +1,17 @@
----
-title: How to install Broadcom Wireless Device on HP Mini 5101 running Ubuntu Jaunty
-author: Herbert Mühlburger
-type: post
-date: 2009-09-25T17:31:37+00:00
-url: /2009/09/howto-install-broadcom-wireless-device-on-hp-mini-5101-running-ubuntu-jaunty/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "246421102"
-bitcointips_address:
-  - 1QKg7vMB1WRdsSsxtsG8SSL6ztZ9K5nrsb
-categories:
-  - Computer Science
-tags:
-  - Distributions
-  - Hewlett-Packard
-  - HP Mini 5101
-  - Installation
-  - Linux
-  - Netbook
-  - Operating system
-  - SUSE Linux
-  - SUSE Linux Enterprise Desktop
-  - Ubuntu
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1QKg7vMB1WRdsSsxtsG8SSL6ztZ9K5nrsb"]
+categories = ["Computer Science"]
+date = "2009-09-25T17:31:37+00:00"
+dsq_thread_id = ["246421102"]
+tags = ["Distributions", "Hewlett-Packard", "HP Mini 5101", "Installation", "Linux", "Netbook", "Operating system", "SUSE Linux", "SUSE Linux Enterprise Desktop", "Ubuntu"]
+title = "How to install Broadcom Wireless Device on HP Mini 5101 running Ubuntu Jaunty"
+type = "post"
+url = "/2009/09/howto-install-broadcom-wireless-device-on-hp-mini-5101-running-ubuntu-jaunty/"
 
----
++++
 <div class="mceTemp mceIEcenter">
   <dl id="attachment_538" class="wp-caption aligncenter" style="width: 440px;">
     <dt class="wp-caption-dt">

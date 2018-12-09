@@ -1,23 +1,14 @@
----
-title: Javapocalypse
-author: Herbert Mühlburger
-type: post
-date: 2013-06-14T17:00:47+00:00
-url: /2013/06/javapocalypse/
-bitcointips_address:
-  - 16i1xuzyBHNoStpXktj6iut4oFyc5gMxXM
-categories:
-  - Computer Science
-  - Programming
-  - Videos
-tags:
-  - Conference
-  - Java
-  - Javacopalypse
-  - JavaZone
-  - Trailer
++++
+author = "Herbert Mühlburger"
+bitcointips_address = ["16i1xuzyBHNoStpXktj6iut4oFyc5gMxXM"]
+categories = ["Computer Science", "Programming", "Videos"]
+date = "2013-06-14T17:00:47+00:00"
+tags = ["Conference", "Java", "Javacopalypse", "JavaZone", "Trailer"]
+title = "Javapocalypse"
+type = "post"
+url = "/2013/06/javapocalypse/"
 
----
++++
 I need to share the following video on &#8220;Javapocalypse&#8221; from [JavaZone][1]. Pushing the &#8220;Undo Java&#8221; button will have huge impact. Have a look at these consequences. The following trailer highlights the importance of <a title="Java" href="http://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank">Java</a>.
 
 

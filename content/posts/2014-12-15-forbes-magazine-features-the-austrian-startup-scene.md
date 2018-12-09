@@ -1,17 +1,13 @@
----
-title: Forbes Magazine features the Austrian Startup Scene
-author: Herbert Mühlburger
-type: post
-date: 2014-12-15T17:33:02+00:00
-url: /2014/12/forbes-magazine-features-the-austrian-startup-scene/
-bitcointips_address:
-  - 15MuQXPTdrNsPV4dwck129LqN1E9caPa9V
-categories:
-  - Entrepreneurship
-  - Startups
-  - Technology
++++
+author = "Herbert Mühlburger"
+bitcointips_address = ["15MuQXPTdrNsPV4dwck129LqN1E9caPa9V"]
+categories = ["Entrepreneurship", "Startups", "Technology"]
+date = "2014-12-15T17:33:02+00:00"
+title = "Forbes Magazine features the Austrian Startup Scene"
+type = "post"
+url = "/2014/12/forbes-magazine-features-the-austrian-startup-scene/"
 
----
++++
 <a title="http://www.forbes.com" href="http://www.forbes.com" target="_blank">Forbes</a> is one of the top magazines on business related topics. It published an interesting article called &#8220;<a title="Scaling Alpine Heights: Austria's Startup Scene" href="http://www.forbes.com/sites/alisoncoleman/2014/12/10/austrias-start-up-scene-scaling-alpine-heights/" target="_blank">Scaling Alpine Heights: Austria&#8217;s Startup Scene</a>&#8220;on the Austrian Startup Scene. The following statement attracted my attention:
 
 > &#8220;The country is enjoying something of an entrepreneurial renaissance, driven largely by the return of some highly successful founders whose presence has awoken its capital Vienna from a start-up winter sleep.&#8221; [by Forbes]

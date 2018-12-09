@@ -1,34 +1,17 @@
----
-title: '[video] – Google Latitude'
-author: Herbert Mühlburger
-type: post
-date: 2009-02-05T09:59:01+00:00
-url: /2009/02/video-google-latitude/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "548952437"
-bitcointips_address:
-  - 14LTtrSuL8VSZ7KY5f3oChoHuozhPCYnGo
-categories:
-  - Computer Science
-  - Web2.0
-tags:
-  - google
-  - Google Latitude
-  - Google Maps
-  - Google Talk
-  - Google Video
-  - Mobile phone
-  - search engines
-  - Searching
-  - Warner Music Group
-  - Yahoo
-  - YouTube
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["14LTtrSuL8VSZ7KY5f3oChoHuozhPCYnGo"]
+categories = ["Computer Science", "Web2.0"]
+date = "2009-02-05T09:59:01+00:00"
+dsq_thread_id = ["548952437"]
+tags = ["google", "Google Latitude", "Google Maps", "Google Talk", "Google Video", "Mobile phone", "search engines", "Searching", "Warner Music Group", "Yahoo", "YouTube"]
+title = "[video] – Google Latitude"
+type = "post"
+url = "/2009/02/video-google-latitude/"
 
----
++++
 <div class="zemanta-img">
   <div class="mceTemp mceIEcenter">
     <dl class="wp-caption aligncenter" style="width: 260px;">

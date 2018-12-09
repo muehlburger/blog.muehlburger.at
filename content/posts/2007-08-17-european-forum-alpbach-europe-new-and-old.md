@@ -1,40 +1,16 @@
----
-title: European Forum Alpbach – Europe New and Old?
-author: Herbert Mühlburger
-type: post
-date: 2007-08-17T08:48:53+00:00
-url: /2007/08/european-forum-alpbach-europe-new-and-old/
-aktt_notify_twitter:
-  - 'no'
-dsq_thread_id:
-  - "299580915"
-bitcointips_address:
-  - 1GaKXrcrARHnso1Gs2PsPjaNSpLqcS6iJf
-categories:
-  - Computer Science
-tags:
-  - Alpbach
-  - austria
-  - Brussels
-  - Europa
-  - Europäische Union
-  - Europäisches Forum Alpbach
-  - Europe
-  - European Forum Alpbach
-  - European Union
-  - Government
-  - Herbert Mühlburger
-  - Lisbon Treaty
-  - Menschen
-  - Multilateral
-  - Österreich
-  - Seminar
-  - Seminars
-  - Studenten
-  - Tirol
-  - Universität
++++
+aktt_notify_twitter = ["no"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1GaKXrcrARHnso1Gs2PsPjaNSpLqcS6iJf"]
+categories = ["Computer Science"]
+date = "2007-08-17T08:48:53+00:00"
+dsq_thread_id = ["299580915"]
+tags = ["Alpbach", "austria", "Brussels", "Europa", "Europäische Union", "Europäisches Forum Alpbach", "Europe", "European Forum Alpbach", "European Union", "Government", "Herbert Mühlburger", "Lisbon Treaty", "Menschen", "Multilateral", "Österreich", "Seminar", "Seminars", "Studenten", "Tirol", "Universität"]
+title = "European Forum Alpbach – Europe New and Old?"
+type = "post"
+url = "/2007/08/european-forum-alpbach-europe-new-and-old/"
 
----
++++
 **Europe Union New and Old?**
 
 [<img class="aligncenter size-large wp-image-775" title="Europe Old and New?" src="http://178.79.139.40/wp-content/uploads/2010/01/image-upload-104-7643461-430x322.jpg" alt="Europe Old and New?" width="430" height="322" />][1]

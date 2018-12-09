@@ -1,32 +1,16 @@
----
-title: Google-Tochter YouTube testet digitale Videoerkennung
-author: Herbert Mühlburger
-type: post
-date: 2007-06-15T17:42:48+00:00
-url: /2007/06/google-tochter-youtube-testet-digitale-videoerkennung/
-aktt_notify_twitter:
-  - 'no'
-dsq_thread_id:
-  - "246729812"
-bitcointips_address:
-  - 1HNkbcqGAcUAkeZPUuQ37jDtRkM6xkzQne
-categories:
-  - Web2.0
-tags:
-  - GADI
-  - google
-  - Neue Technologien
-  - Nexus One
-  - Search
-  - search engines
-  - Tools
-  - twitter
-  - Web APIs
-  - Web2.0
-  - WELT ONLINE
-  - YouTube
++++
+aktt_notify_twitter = ["no"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1HNkbcqGAcUAkeZPUuQ37jDtRkM6xkzQne"]
+categories = ["Web2.0"]
+date = "2007-06-15T17:42:48+00:00"
+dsq_thread_id = ["246729812"]
+tags = ["GADI", "google", "Neue Technologien", "Nexus One", "Search", "search engines", "Tools", "twitter", "Web APIs", "Web2.0", "WELT ONLINE", "YouTube"]
+title = "Google-Tochter YouTube testet digitale Videoerkennung"
+type = "post"
+url = "/2007/06/google-tochter-youtube-testet-digitale-videoerkennung/"
 
----
++++
 <div class="zemanta-img">
   <figure style="width: 194px" class="wp-caption aligncenter"><a href="http://www.crunchbase.com/company/youtube"><img title="Image representing YouTube as depicted in Crun..." src="http://www.crunchbase.com/assets/images/resized/0001/0724/10724v1-max-250x250.png" alt="Image representing YouTube as depicted in Crun..." width="194" height="71" /></a><figcaption class="wp-caption-text">Image via CrunchBase</figcaption></figure>
 </div>

@@ -1,31 +1,17 @@
----
-title: Great View sitting on my Balcony
-author: Herbert Mühlburger
-type: post
-date: 2009-12-31T10:48:31+00:00
-url: /2009/12/great-view-sitting-on-my-balcony/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "248374678"
-bitcointips_address:
-  - 12qfaUYnZWetjGrM4887THL1F5A6caDqEL
-categories:
-  - Computer Science
-tags:
-  - eastern tyrol
-  - holiday
-  - mountains
-  - oberleibnig
-  - osttirol
-  - snow
-  - st. johann im walde
-  - weihnachten
-  - xmas
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["12qfaUYnZWetjGrM4887THL1F5A6caDqEL"]
+categories = ["Computer Science"]
+date = "2009-12-31T10:48:31+00:00"
+dsq_thread_id = ["248374678"]
+tags = ["eastern tyrol", "holiday", "mountains", "oberleibnig", "osttirol", "snow", "st. johann im walde", "weihnachten", "xmas"]
+title = "Great View sitting on my Balcony"
+type = "post"
+url = "/2009/12/great-view-sitting-on-my-balcony/"
 
----
++++
 This shot made two days ago while I was enjoying the sun on my balcony at home.
 
 <p style="text-align: center;">

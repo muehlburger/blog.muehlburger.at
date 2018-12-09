@@ -1,33 +1,16 @@
----
-title: Meebo – Messenger Mashup
-author: Herbert Mühlburger
-type: post
-date: 2007-06-11T07:50:03+00:00
-url: /2007/06/meebo-messenger-mashup/
-aktt_notify_twitter:
-  - 'no'
-dsq_thread_id:
-  - "250912520"
-bitcointips_address:
-  - 14kc84DqFS2qnvCrGtRzqt7415PehtTCft
-categories:
-  - Computer Science
-  - Web2.0
-tags:
-  - Brandenburg
-  - Computer
-  - GADI
-  - Germany
-  - meebo
-  - Meshup
-  - Schleswig-Holstein
-  - Social network
-  - States
-  - twitter
-  - United States
-  - Web2.0
++++
+aktt_notify_twitter = ["no"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["14kc84DqFS2qnvCrGtRzqt7415PehtTCft"]
+categories = ["Computer Science", "Web2.0"]
+date = "2007-06-11T07:50:03+00:00"
+dsq_thread_id = ["250912520"]
+tags = ["Brandenburg", "Computer", "GADI", "Germany", "meebo", "Meshup", "Schleswig-Holstein", "Social network", "States", "twitter", "United States", "Web2.0"]
+title = "Meebo – Messenger Mashup"
+type = "post"
+url = "/2007/06/meebo-messenger-mashup/"
 
----
++++
 Wer hat nicht schon verschiedenste IM Messenger auf seinem Computer installiert? Bei jedem Verbindungsaufbau zum Internet versuchen diese auch einen Teil des Internets für sich zu beanspruchen. Wem das zu stressig ist, bzw. wer möchte, dass all diese IM Dienste irgendwo zentral verwaltet werden können, der sollte sich einmal <a title="meboo" href="http://wwwm.meebo.com/" target="_blank">meebo </a>genauer anschauen. Bei meebo ist es möglich jegliche IM Dienste über eine Website zu verwalten und über diese mittels seiner IM Accounts zu kommunizieren. Sehr interessante Sache! <img src="file:///C:/Users/Herbert/Desktop/blogupdate/export-Dateien/icon_smile.gif" border="0" alt="-)" />
 
 <div class="zemanta-pixie">

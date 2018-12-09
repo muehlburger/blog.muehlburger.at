@@ -1,16 +1,14 @@
----
-title: Analog Photography using my Leica M6
-author: Herbert Mühlburger
-type: post
-date: -001-11-30T00:00:00+00:00
-draft: true
-url: /?p=2046
-bitcointips_address:
-  - 1HL59chdkYN18hsUrVx6qPZn1EZK6KKcdT
-categories:
-  - Uncategorized
++++
+author = "Herbert Mühlburger"
+bitcointips_address = ["1HL59chdkYN18hsUrVx6qPZn1EZK6KKcdT"]
+categories = ["Uncategorized"]
+date = "-001-11-30T00:00:00+00:00"
+draft = true
+title = "Analog Photography using my Leica M6"
+type = "post"
+url = "/?p=2046"
 
----
++++
 In the last years I get more and more fascinated by analog photography. Leica built the <a href="http://www.kenrockwell.com/leica/m6.htm" target="_blank">Leica M6</a> one of the best cameras I have ever used. I take photos since nearly 20 years now.
 
   1. Leica M6 TTL

@@ -1,37 +1,17 @@
----
-title: '[video] – The Sixth Sense demonstrates the great abilities of User Interfaces'
-author: Herbert Mühlburger
-type: post
-date: 2009-07-22T09:07:27+00:00
-url: /2009/07/ted-talks-pattie-maes-demos-the-sixth-sense/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "246421123"
-bitcointips_address:
-  - 1KjMhvX52J6XZgq23g6rPn7ApKzDmDm5CV
-categories:
-  - Computer Science
-  - Semantic Web
-  - Usability
-  - Videos
-tags:
-  - Augmented reality
-  - Fluid Interfaces group
-  - Massachusetts Institute of Technology
-  - Media Lab
-  - MIT Media Lab
-  - Mobile phone
-  - Pattie Maes
-  - TED
-  - Wearable computer
-  - Wearables
-  - Wired News
-  - Wired.com
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1KjMhvX52J6XZgq23g6rPn7ApKzDmDm5CV"]
+categories = ["Computer Science", "Semantic Web", "Usability", "Videos"]
+date = "2009-07-22T09:07:27+00:00"
+dsq_thread_id = ["246421123"]
+tags = ["Augmented reality", "Fluid Interfaces group", "Massachusetts Institute of Technology", "Media Lab", "MIT Media Lab", "Mobile phone", "Pattie Maes", "TED", "Wearable computer", "Wearables", "Wired News", "Wired.com"]
+title = "[video] – The Sixth Sense demonstrates the great abilities of User Interfaces"
+type = "post"
+url = "/2009/07/ted-talks-pattie-maes-demos-the-sixth-sense/"
 
----
++++
 <div class="zemanta-img zemanta-action-dragged">
   <div>
     <dl class="wp-caption alignright">

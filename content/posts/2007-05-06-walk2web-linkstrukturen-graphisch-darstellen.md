@@ -1,36 +1,16 @@
----
-title: 'walk2Web: Linkstrukturen graphisch darstellen'
-author: Herbert Mühlburger
-type: post
-date: 2007-05-06T13:44:41+00:00
-url: /2007/05/walk2web-linkstrukturen-graphisch-darstellen/
-aktt_notify_twitter:
-  - 'yes'
-dsq_thread_id:
-  - "304446116"
-bitcointips_address:
-  - 1CY2hopdbPKH7Fn9NDU36sQJSjc4jiL4SY
-categories:
-  - Computer Science
-  - Web2.0
-tags:
-  - bewerten
-  - bookmark
-  - Combinatorics
-  - Events
-  - graph
-  - Graph Drawing
-  - Graph Theory
-  - kommentieren
-  - Link
-  - linkstrukturen
-  - Math
-  - Past Conferences
-  - People
-  - walk2web
-  - Web
++++
+aktt_notify_twitter = ["yes"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1CY2hopdbPKH7Fn9NDU36sQJSjc4jiL4SY"]
+categories = ["Computer Science", "Web2.0"]
+date = "2007-05-06T13:44:41+00:00"
+dsq_thread_id = ["304446116"]
+tags = ["bewerten", "bookmark", "Combinatorics", "Events", "graph", "Graph Drawing", "Graph Theory", "kommentieren", "Link", "linkstrukturen", "Math", "Past Conferences", "People", "walk2web", "Web"]
+title = "walk2Web: Linkstrukturen graphisch darstellen"
+type = "post"
+url = "/2007/05/walk2web-linkstrukturen-graphisch-darstellen/"
 
----
++++
 **Linkstrukturen graphisch darstellen**
 
 Mit Web2Walk kann man sich visuell darstellen lassen, wie Webseiten miteinander verbunden sind. Man gibt einfach eine beliebige Startadresse ein und erhält die Verlinkung dieser Seite als Graph. Jede weitere Seite in diesem Graph lässt sich bewerten, bookmarken und kommentieen.

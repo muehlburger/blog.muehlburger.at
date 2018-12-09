@@ -1,18 +1,13 @@
----
-title: Apache Kafka Streams
-author: Herbert Mühlburger
-type: post
-date: 2017-01-17T16:17:01+00:00
-url: /2017/01/apache-kafka-streams/
-categories:
-  - Computer Science
-  - Programming
-tags:
-  - Java
-  - kafka
-  - streams
++++
+author = "Herbert Mühlburger"
+categories = ["Computer Science", "Programming"]
+date = "2017-01-17T16:17:01+00:00"
+tags = ["Java", "kafka", "streams"]
+title = "Apache Kafka Streams"
+type = "post"
+url = "/2017/01/apache-kafka-streams/"
 
----
++++
 I&#8217;m interested in <a href="http://docs.confluent.io/3.0.0/streams/" target="_blank">Apache Kafka Streams</a> and would like share some information on this topic with you. There is a great talk about Stream Processing from <a href="https://nehanarkhede.com/" target="_blank">Neha Narkhede</a> who co-authored <a href="https://kafka.apache.org/" target="_blank">Apache Kafka</a> and is currently a co-founder and Head of Engineering of Confluent.
 
 <blockquote class="twitter-tweet" data-width="550">

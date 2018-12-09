@@ -1,30 +1,16 @@
----
-title: Pivot – Great Visualization Tool developed by Microsoft Live Labs
-author: Herbert Mühlburger
-type: post
-date: 2009-11-23T06:37:06+00:00
-url: /2009/11/pivot-developed-by-microsoft-live-labs/
-aktt_notify_twitter:
-  - 'no'
-dsq_thread_id:
-  - "258685481"
-bitcointips_address:
-  - 1Gu5Vpd1yLw9b6fje6bbTEXqbWwbcvokmG
-categories:
-  - Computer Science
-tags:
-  - Bing
-  - Business
-  - Economic
-  - Information Visualization
-  - microsoft
-  - Microsoft Live Labs
-  - Monopolies and Oligopolies
-  - MSN
-  - Pivot
-  - Windows Live
++++
+aktt_notify_twitter = ["no"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1Gu5Vpd1yLw9b6fje6bbTEXqbWwbcvokmG"]
+categories = ["Computer Science"]
+date = "2009-11-23T06:37:06+00:00"
+dsq_thread_id = ["258685481"]
+tags = ["Bing", "Business", "Economic", "Information Visualization", "microsoft", "Microsoft Live Labs", "Monopolies and Oligopolies", "MSN", "Pivot", "Windows Live"]
+title = "Pivot – Great Visualization Tool developed by Microsoft Live Labs"
+type = "post"
+url = "/2009/11/pivot-developed-by-microsoft-live-labs/"
 
----
++++
 This time I discovered a great application developed by <a title="Microsoft Live Labs" href="http://en.wikipedia.org/wiki/Windows_Live#Microsoft_Live_Labs" target="_blank">Microsoft <span class="zem_slink">Live Lab</span><span class="zem_slink">s</span></a> called <a title="Pivot" href="http://www.getpivot.com/" target="_blank">Pivot</a>. Pivot enables users to discover huge information spaces by different visual filtering options. You are able to look at hundred thousands of information space entities such as pictures, &#8230; and filter these in different ways (zoom in/out, create links between different information items, &#8230;). The following video describes Pivot in more detail:
 
 [youtube BZuFUZpEZ-A]

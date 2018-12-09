@@ -1,31 +1,17 @@
----
-title: Nobody Can Stop Facebook Because Nobody Understands Facebook
-author: Herbert Mühlburger
-type: post
-date: 2010-04-27T08:28:25+00:00
-url: /2010/04/nobody-can-stop-facebook-because-nobody-understands-facebook/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "246421312"
-bitcointips_address:
-  - 1CzYr5ykv9ufCtEBDkJrCzuuu14it4xNBL
-categories:
-  - Computer Science
-  - Web2.0
-tags:
-  - Facebook
-  - google
-  - Internet privacy
-  - Mark Zuckerberg
-  - Privacy
-  - Protocols
-  - Security
-  - Social network
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1CzYr5ykv9ufCtEBDkJrCzuuu14it4xNBL"]
+categories = ["Computer Science", "Web2.0"]
+date = "2010-04-27T08:28:25+00:00"
+dsq_thread_id = ["246421312"]
+tags = ["Facebook", "google", "Internet privacy", "Mark Zuckerberg", "Privacy", "Protocols", "Security", "Social network"]
+title = "Nobody Can Stop Facebook Because Nobody Understands Facebook"
+type = "post"
+url = "/2010/04/nobody-can-stop-facebook-because-nobody-understands-facebook/"
 
----
++++
 <div class="zemanta-img">
   <figure style="width: 266px" class="wp-caption aligncenter"><a href="http://commons.wikipedia.org/wiki/Image:Facebook.svg"><img title="Facebook, Inc." src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Facebook.svg/266px-Facebook.svg.png" alt="Facebook, Inc." width="266" height="100" /></a><figcaption class="wp-caption-text">Image via Wikipedia</figcaption></figure>
 </div>

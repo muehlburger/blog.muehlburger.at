@@ -1,43 +1,18 @@
----
-title: '[video] – Thoughts on Google Instant'
-author: Herbert Mühlburger
-type: post
-date: 2010-09-09T17:00:14+00:00
-url: /2010/09/video-thoughts-on-google-instant/
-dsq_thread_id:
-  - "246421269"
-tweetbackscheck:
-  - "1299521081"
-  - "1299521081"
-  - "1299521081"
-  - "1299521081"
-  - "1299521081"
-  - "1299521081"
-  - "1299521081"
-  - "1299521081"
-  - "1299521081"
-  - "1299521081"
-shorturls:
-  - 'a:3:{s:9:"permalink";s:71:"http://blog.muehlburger.at/2010/09/09/video-thoughts-on-google-instant/";s:7:"tinyurl";s:26:"http://tinyurl.com/6bzhk39";s:4:"isgd";s:19:"http://is.gd/a8hQ0U";}'
-twittercomments:
-  - 'a:0:{}'
-bitcointips_address:
-  - 1Fd8VDu8u5wYhTcWu6NsrecpXncNy3CAFz
-categories:
-  - Computer Science
-  - Videos
-tags:
-  - google
-  - instant-search
-  - real-time
-  - Real-time computing
-  - Search
-  - search engine
-  - Search engine optimization
-  - video
-  - Web search engine
++++
+author = "Herbert Mühlburger"
+bitcointips_address = ["1Fd8VDu8u5wYhTcWu6NsrecpXncNy3CAFz"]
+categories = ["Computer Science", "Videos"]
+date = "2010-09-09T17:00:14+00:00"
+dsq_thread_id = ["246421269"]
+shorturls = ["a:3:{s:9:\"permalink\";s:71:\"http://blog.muehlburger.at/2010/09/09/video-thoughts-on-google-instant/\";s:7:\"tinyurl\";s:26:\"http://tinyurl.com/6bzhk39\";s:4:\"isgd\";s:19:\"http://is.gd/a8hQ0U\";}"]
+tags = ["google", "instant-search", "real-time", "Real-time computing", "Search", "search engine", "Search engine optimization", "video", "Web search engine"]
+title = "[video] – Thoughts on Google Instant"
+tweetbackscheck = ["1299521081", "1299521081", "1299521081", "1299521081", "1299521081", "1299521081", "1299521081", "1299521081", "1299521081", "1299521081"]
+twittercomments = ["a:0:{}"]
+type = "post"
+url = "/2010/09/video-thoughts-on-google-instant/"
 
----
++++
 <div class="zemanta-img">
   <div>
     <dl class="wp-caption alignright">

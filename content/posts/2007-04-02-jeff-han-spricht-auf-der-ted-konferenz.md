@@ -1,32 +1,16 @@
----
-title: Jeff Han spricht auf der TED Konferenz
-author: Herbert Mühlburger
-type: post
-date: 2007-04-02T21:47:36+00:00
-url: /2007/04/jeff-han-spricht-auf-der-ted-konferenz/
-aktt_notify_twitter:
-  - 'no'
-dsq_thread_id:
-  - "252910846"
-bitcointips_address:
-  - 1BAh8iQ9v4yx6LHTXPvo4d8LQPQhjkNSjK
-categories:
-  - Computer Science
-  - Videos
-  - Web2.0
-tags:
-  - Arts
-  - Business
-  - Companies and Consultants
-  - Games
-  - Human-computer interaction
-  - Infogesellschaft
-  - Jeff Han
-  - Jefferson Han
-  - User Interfaces
-  - Video Games
++++
+aktt_notify_twitter = ["no"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1BAh8iQ9v4yx6LHTXPvo4d8LQPQhjkNSjK"]
+categories = ["Computer Science", "Videos", "Web2.0"]
+date = "2007-04-02T21:47:36+00:00"
+dsq_thread_id = ["252910846"]
+tags = ["Arts", "Business", "Companies and Consultants", "Games", "Human-computer interaction", "Infogesellschaft", "Jeff Han", "Jefferson Han", "User Interfaces", "Video Games"]
+title = "Jeff Han spricht auf der TED Konferenz"
+type = "post"
+url = "/2007/04/jeff-han-spricht-auf-der-ted-konferenz/"
 
----
++++
 Jeff Han spricht auf der TED Konferenz über ein neues User Interface. Dieses Video ist sehr sehenswert!
 
 {{< youtube zwGAKUForhM >}}

@@ -1,31 +1,17 @@
----
-title: JavaFX Links of the Week 1, February 2010
-author: Herbert Mühlburger
-type: post
-date: 2010-02-01T08:20:00+00:00
-url: /2010/02/javafx-links-of-the-week-1-february-2010/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "246421195"
-bitcointips_address:
-  - 1Hs1Yrp7D75LE9KAh9h8ofhk9Fga3qVYgy
-categories:
-  - Computer Science
-tags:
-  - Eclipse
-  - Java
-  - JavaFX
-  - Languages
-  - Links of the Week
-  - Oracle Corporation
-  - Physics
-  - Platform game
-  - Programming
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1Hs1Yrp7D75LE9KAh9h8ofhk9Fga3qVYgy"]
+categories = ["Computer Science"]
+date = "2010-02-01T08:20:00+00:00"
+dsq_thread_id = ["246421195"]
+tags = ["Eclipse", "Java", "JavaFX", "Languages", "Links of the Week", "Oracle Corporation", "Physics", "Platform game", "Programming"]
+title = "JavaFX Links of the Week 1, February 2010"
+type = "post"
+url = "/2010/02/javafx-links-of-the-week-1-february-2010/"
 
----
++++
 Today I decided to post regularly interesting JavaFX links of the past week. Thanks to <a title="Jonathan Gile's Blog" href="http://jonathangiles.net/blog/" target="_blank">Jonathan Giles</a> for his great posts on &#8220;Java Desktop Links of the Week&#8221;. The JavaFX links are just taken from Jonathan&#8217;s posts in order to build a little JavaFX news archieve on my own blog and to inform my subscribers on interesting JavaFX news.
 
 Here are the **JavaFX Links of the Week 1, February 2010:**

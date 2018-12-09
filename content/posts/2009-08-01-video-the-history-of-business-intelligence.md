@@ -1,32 +1,17 @@
----
-title: '[video] – The History of Business Intelligence'
-author: Herbert Mühlburger
-type: post
-date: 2009-08-01T09:17:53+00:00
-url: /2009/08/video-the-history-of-business-intelligence/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "282041301"
-bitcointips_address:
-  - 1Hu8wywbWrZHgM3Lp7my7Ha2rEo4U9NeC5
-categories:
-  - Business Intelligence
-tags:
-  - Business
-  - Business Administration
-  - Business and Economy
-  - Business Intelligence
-  - Data mining
-  - Data Warehousing
-  - Databases
-  - Lightstreamer
-  - microsoft
-  - Valemobi
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1Hu8wywbWrZHgM3Lp7my7Ha2rEo4U9NeC5"]
+categories = ["Business Intelligence"]
+date = "2009-08-01T09:17:53+00:00"
+dsq_thread_id = ["282041301"]
+tags = ["Business", "Business Administration", "Business and Economy", "Business Intelligence", "Data mining", "Data Warehousing", "Databases", "Lightstreamer", "microsoft", "Valemobi"]
+title = "[video] – The History of Business Intelligence"
+type = "post"
+url = "/2009/08/video-the-history-of-business-intelligence/"
 
----
++++
 I have found a really nice video explaining <a title="Business Ingelligence" href="http://de.wikipedia.org/wiki/Business-Intelligence" mce\_href="http://de.wikipedia.org/wiki/Business-Intelligence" target="\_blank">Business Intelligence</a> as a concept and highlighting the development phases of Business Intelligence through the history.
 
 [youtube _1y5jBESLPE]

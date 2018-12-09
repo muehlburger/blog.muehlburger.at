@@ -1,30 +1,16 @@
----
-title: Videos of Google IO 2011 – Android Tracks of Day Two
-author: Herbert Mühlburger
-type: post
-date: 2011-05-12T11:20:59+00:00
-url: /2011/05/videos-of-google-io-2011-android-tracks-of-day-two/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-bitcointips_address:
-  - 1AcAU1dnh5kExpBLJB7b4ntyNJxFjSsxF3
-categories:
-  - Android
-  - Computer Science
-  - Programming
-  - Videos
-tags:
-  - Android
-  - Android Market
-  - google
-  - Google I/O
-  - Google TV
-  - User interface
-  - YouTube
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1AcAU1dnh5kExpBLJB7b4ntyNJxFjSsxF3"]
+categories = ["Android", "Computer Science", "Programming", "Videos"]
+date = "2011-05-12T11:20:59+00:00"
+tags = ["Android", "Android Market", "google", "Google I/O", "Google TV", "User interface", "YouTube"]
+title = "Videos of Google IO 2011 – Android Tracks of Day Two"
+type = "post"
+url = "/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/"
 
----
++++
 <p id="watch-headline-title">
   In the next few videos you can seen the recorded tracks of Google&#8217;s IO 2011 Developer Conference covering Android development. Sit back and enjoy!
 </p>

@@ -1,19 +1,13 @@
----
-title: What means Serverless?
-author: Herbert Mühlburger
-type: post
-date: 2018-01-29T15:34:05+00:00
-url: /2018/01/what-are-serverless-architectures/
-categories:
-  - Serverless
-  - Technology
-tags:
-  - BaaS
-  - FaaS
-  - PaaS
-  - Serverless
++++
+categories = ["Serverless", "Technology"]
+date_old = "2018-01-29T15:34:05+00:00"
+date = "2018-01-29T15:34:05+00:00"
+tags = ["BaaS", "FaaS", "PaaS", "Serverless"]
+title = "What means Serverless?"
 
----
+url = "/2018/01/what-are-serverless-architectures/"
+
++++
 For those who want to understand &#8220;Serverless architectures&#8221;, I recommend reading <a href="https://martinfowler.com/articles/serverless.html" target="_blank" rel="noopener">this post</a> by <a href="https://twitter.com/mikebroberts" target="_blank" rel="noopener">Mike Roberts</a>. The term Serverless was already used <a href="https://readwrite.com/2012/10/15/why-the-future-of-software-and-apps-is-serverless/" target="_blank" rel="noopener">in 2012</a>. Mike defines the following characteristics of serverless architectures:
 
 ### Mike Roberts&#8217; Definition of Serverless

@@ -1,19 +1,15 @@
----
-title: 5 Nützliche Tips für eine bessere Commit Message
-author: Herbert Mühlburger
-type: post
-date: -001-11-30T00:00:00+00:00
-draft: true
-url: /?p=1783
-bitcointips_address:
-  - 1DXXtP327gENAHaH7pMA1VpWk4Y9bFNU4y
-categories:
-  - Uncategorized
-tags:
-  - Git
-  - Qualität
++++
+author = "Herbert Mühlburger"
+bitcointips_address = ["1DXXtP327gENAHaH7pMA1VpWk4Y9bFNU4y"]
+categories = ["Uncategorized"]
+date = "-001-11-30T00:00:00+00:00"
+draft = true
+tags = ["Git", "Qualität"]
+title = "5 Nützliche Tips für eine bessere Commit Message"
+type = "post"
+url = "/?p=1783"
 
----
++++
 Jeder, der mit einem Quellcode-Versionierungssystem wie <a title="Git" href="http://git-scm.com/" target="_blank">Git</a> arbeitet, sollte sich die folgenden fünf Tips zu Herzen nehmen um die Commit Messages zu verbessern. Durch bessere Commit Messages wird auch die Dokumentation des Projekts implizit verbessert. Frei nach dem Motto: &#8220;Der Code ist die beste Dokumentation&#8221; hier nun die fünf Tips:
 
   * Die erste Zeile sollte sollte nicht mehr als 50 Zeichen beinhalten.

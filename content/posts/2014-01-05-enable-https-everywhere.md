@@ -1,26 +1,14 @@
----
-title: Enable HTTPS everywhere
-author: Herbert Mühlburger
-type: post
-date: 2014-01-05T15:35:26+00:00
-url: /2014/01/enable-https-everywhere/
-bitcointips_address:
-  - 1MvtCTpySxfJWUm4KATMH6ELFC8ryMPgux
-categories:
-  - Computer Science
-  - HowTo
-  - Technology
-tags:
-  - 30C3
-  - Crypto
-  - Encryption
-  - How To
-  - HTTPS
-  - SSL
-  - TLS
-  - video
++++
+author = "Herbert Mühlburger"
+bitcointips_address = ["1MvtCTpySxfJWUm4KATMH6ELFC8ryMPgux"]
+categories = ["Computer Science", "HowTo", "Technology"]
+date = "2014-01-05T15:35:26+00:00"
+tags = ["30C3", "Crypto", "Encryption", "How To", "HTTPS", "SSL", "TLS", "video"]
+title = "Enable HTTPS everywhere"
+type = "post"
+url = "/2014/01/enable-https-everywhere/"
 
----
++++
 <figure id="attachment_1847" style="width: 928px" class="wp-caption aligncenter">[<img class="size-full wp-image-1847" alt="SSL-Report for blog.muehlburger.at" src="https://blog.muehlburger.at/wp-content/uploads/2014/01/SSL-Report.png" width="928" height="505" srcset="https://blog.muehlburger.at/wp-content/uploads/2014/01/SSL-Report.png 928w, https://blog.muehlburger.at/wp-content/uploads/2014/01/SSL-Report-300x163.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" />][1]<figcaption class="wp-caption-text">SSL-Report for blog.muehlburger.at</figcaption></figure> 
 
 Finally I finished to configure my <a title="Hypertext Transfer Protocol Secure" href="https://en.wikipedia.org/wiki/HTTP_Secure" target="_blank">HTTPS</a> protocol support for <a title="https://blog.muehlburger.at" href="https://blog.muehlburger.at" target="_blank">blog.muehlburger.at</a>. Supporting encrypted communication is an important part of the internet today. Everybody should support encrypted communication on the web. A good resource on how to select strong cypher suites and to configure your web server to support encryption properly is <a title="https://bettercrypto.org" href="https://bettercrypto.org" target="_blank">bettercrypto.org</a>.

@@ -1,31 +1,17 @@
----
-title: Web Design Interfaces
-author: Herbert Mühlburger
-type: post
-date: 2009-02-23T08:47:52+00:00
-url: /2009/02/web-design-interfaces/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "276990299"
-bitcointips_address:
-  - 14mKgWCerDce5BKytoNeiLekCRfrC6Nifk
-categories:
-  - Computer Science
-  - Usability
-tags:
-  - Business and Economy
-  - Computers and Internet
-  - Design
-  - Human-computer interaction
-  - User interface
-  - User interface design
-  - Web design
-  - Web Design and Development
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["14mKgWCerDce5BKytoNeiLekCRfrC6Nifk"]
+categories = ["Computer Science", "Usability"]
+date = "2009-02-23T08:47:52+00:00"
+dsq_thread_id = ["276990299"]
+tags = ["Business and Economy", "Computers and Internet", "Design", "Human-computer interaction", "User interface", "User interface design", "Web design", "Web Design and Development"]
+title = "Web Design Interfaces"
+type = "post"
+url = "/2009/02/web-design-interfaces/"
 
----
++++
 I have found two great posts on <a class="zem_slink" title="Web design" rel="wikipedia" href="http://en.wikipedia.org/wiki/Web_design">web design</a> <a class="zem_slink" title="User interface" rel="wikipedia" href="http://en.wikipedia.org/wiki/User_interface">interfaces</a>. The first one deales with <a title="30 essential controls" href="http://designingwebinterfaces.com/essential_controls" target="_blank">30 essential controls</a> used in web interfaces. The second one descirbes <a title="15 common components" href="http://designingwebinterfaces.com/15-common-components" target="_blank">15 common components</a> used in web <a class="zem_slink" title="User interface design" rel="wikipedia" href="http://en.wikipedia.org/wiki/User_interface_design">user interface design</a>.
 
 On <a title="designwebinterfaces.com" href="http://designingwebinterfaces.com/posts" target="_blank">designwebinterfaces.com</a> you can find many more useful posts dealing with web design interfaces.

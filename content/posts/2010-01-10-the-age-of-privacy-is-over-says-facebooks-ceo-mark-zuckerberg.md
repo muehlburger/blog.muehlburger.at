@@ -1,31 +1,17 @@
----
-title: “The Age of Privacy is Over” says Facebook’s CEO Mark Zuckerberg
-author: Herbert Mühlburger
-type: post
-date: 2010-01-10T15:26:51+00:00
-url: /2010/01/the-age-of-privacy-is-over-says-facebooks-ceo-mark-zuckerberg/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "246858904"
-bitcointips_address:
-  - 1FSUQMkKmV2h2maeS2fipWNTtckNqr1tm6
-categories:
-  - Computer Science
-  - Web2.0
-tags:
-  - Facebook
-  - Mark Zuckerberg
-  - Online Communities
-  - Privacy
-  - privacy settings
-  - Security
-  - Social network
-  - TechCrunch
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1FSUQMkKmV2h2maeS2fipWNTtckNqr1tm6"]
+categories = ["Computer Science", "Web2.0"]
+date = "2010-01-10T15:26:51+00:00"
+dsq_thread_id = ["246858904"]
+tags = ["Facebook", "Mark Zuckerberg", "Online Communities", "Privacy", "privacy settings", "Security", "Social network", "TechCrunch"]
+title = "“The Age of Privacy is Over” says Facebook’s CEO Mark Zuckerberg"
+type = "post"
+url = "/2010/01/the-age-of-privacy-is-over-says-facebooks-ceo-mark-zuckerberg/"
 
----
++++
 On [a six-minute interview on stage with TechCrunch founder Michael Arrington][1] Facebook CEO Mark Zuckerberg states that if he&#8217;d start facebook again all privacy settings by DEFAULT would be PUBLIC. A very interesting approach which leads to the question if people want if all of their data is available publicly? I personally do not.
 
 Here is the interview of Zuckerberg:

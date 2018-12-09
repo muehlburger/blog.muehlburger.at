@@ -1,41 +1,18 @@
----
-title: '[video] – Drive: The surprising truth about what motivates us'
-author: Herbert Mühlburger
-type: post
-date: 2010-09-11T17:53:51+00:00
-url: /2010/09/video-drive-the-surprising-truth-about-what-motivates-us/
-tweetbackscheck:
-  - "1299738546"
-  - "1299738546"
-  - "1299738546"
-  - "1299738546"
-  - "1299738546"
-  - "1299738546"
-  - "1299738546"
-  - "1299738546"
-  - "1299738546"
-  - "1299738546"
-shorturls:
-  - 'a:3:{s:9:"permalink";s:95:"http://blog.muehlburger.at/2010/09/11/video-drive-the-surprising-truth-about-what-motivates-us/";s:7:"tinyurl";s:26:"http://tinyurl.com/5uqlbj4";s:4:"isgd";s:19:"http://is.gd/2UsUor";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "423953140"
-bitcointips_address:
-  - 1KkYvxnmqnw3RFqM6J4KHUq6ChwmFjqKfj
-categories:
-  - Videos
-tags:
-  - Arts
-  - Facebook
-  - health
-  - Hierarchy of Needs
-  - "Maslow's hierarchy of needs"
-  - Mental health
-  - Motivation
-  - Self-Help
++++
+author = "Herbert Mühlburger"
+bitcointips_address = ["1KkYvxnmqnw3RFqM6J4KHUq6ChwmFjqKfj"]
+categories = ["Videos"]
+date = "2010-09-11T17:53:51+00:00"
+dsq_thread_id = ["423953140"]
+shorturls = ["a:3:{s:9:\"permalink\";s:95:\"http://blog.muehlburger.at/2010/09/11/video-drive-the-surprising-truth-about-what-motivates-us/\";s:7:\"tinyurl\";s:26:\"http://tinyurl.com/5uqlbj4\";s:4:\"isgd\";s:19:\"http://is.gd/2UsUor\";}"]
+tags = ["Arts", "Facebook", "health", "Hierarchy of Needs", "Maslow's hierarchy of needs", "Mental health", "Motivation", "Self-Help"]
+title = "[video] – Drive: The surprising truth about what motivates us"
+tweetbackscheck = ["1299738546", "1299738546", "1299738546", "1299738546", "1299738546", "1299738546", "1299738546", "1299738546", "1299738546", "1299738546"]
+twittercomments = ["a:0:{}"]
+type = "post"
+url = "/2010/09/video-drive-the-surprising-truth-about-what-motivates-us/"
 
----
++++
 <div class="zemanta-img">
   <figure style="width: 300px" class="wp-caption aligncenter"><a href="http://commons.wikipedia.org/wiki/File:Maslow%27s_Hierarchy_of_Needs.svg"><img title="Maslow's Hierarchy of Needs." src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Maslow%27s_Hierarchy_of_Needs.svg/300px-Maslow%27s_Hierarchy_of_Needs.svg.png" alt="Maslow's Hierarchy of Needs." width="300" height="225" /></a><figcaption class="wp-caption-text">Image via Wikipedia</figcaption></figure>
 </div>

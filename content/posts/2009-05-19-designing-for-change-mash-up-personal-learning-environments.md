@@ -1,30 +1,17 @@
----
-title: 'Designing for Change: Mash-Up Personal Learning Environments'
-author: Herbert Mühlburger
-type: post
-date: 2009-05-19T08:36:48+00:00
-url: /2009/05/designing-for-change-mash-up-personal-learning-environments/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "342927896"
-bitcointips_address:
-  - 18X8dDEbFrbfKq6pLJRuNPXg9rj4hAhNCT
-categories:
-  - Computer Science
-tags:
-  - Distance Learning
-  - Education
-  - History of personal learning environments
-  - Learning
-  - Link
-  - Online Teaching and Learning
-  - Website
-  - Wikipedia
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["18X8dDEbFrbfKq6pLJRuNPXg9rj4hAhNCT"]
+categories = ["Computer Science"]
+date = "2009-05-19T08:36:48+00:00"
+dsq_thread_id = ["342927896"]
+tags = ["Distance Learning", "Education", "History of personal learning environments", "Learning", "Link", "Online Teaching and Learning", "Website", "Wikipedia"]
+title = "Designing for Change: Mash-Up Personal Learning Environments"
+type = "post"
+url = "/2009/05/designing-for-change-mash-up-personal-learning-environments/"
 
----
++++
 In order to describe what this article is about I cite Fridolin Wild, Felix Mödritscher and Stein E. Sigurdarson:
 
 > In this article we first clarify key concepts and assumptions for personalised <a class="zem_slink" title="Learning" rel="wikipedia" href="http://en.wikipedia.org/wiki/Learning">learning</a> environments. Afterwards, we summarise our critique on the contemporary models for personalised adaptive learning. Subsequently, we propose our alternative, i.e. the concept of a mash-up personal learning environment that provides adaptation mechanisms for learning environment construction and maintenance. The <a class="zem_slink" title="Web application" rel="wikipedia" href="http://en.wikipedia.org/wiki/Web_application">web application</a> mash-up solution allows learners to reuse existing (web-based) tools plus services.

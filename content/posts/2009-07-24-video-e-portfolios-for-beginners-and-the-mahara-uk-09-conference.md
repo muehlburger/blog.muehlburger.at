@@ -1,36 +1,17 @@
----
-title: '[video] – E-Portfolios for Beginners and the Mahara UK 09 Conference'
-author: Herbert Mühlburger
-type: post
-date: 2009-07-24T09:01:44+00:00
-url: /2009/07/video-e-portfolios-for-beginners-and-the-mahara-uk-09-conference/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "271060986"
-bitcointips_address:
-  - 1Hb9LizL7oJmX535ha3zx7Q6hcjLiF4gjH
-categories:
-  - Computer Science
-  - Videos
-  - Web2.0
-tags:
-  - Advocacy
-  - articles
-  - Business
-  - Directories
-  - e-portfolio
-  - Education
-  - Institute of Education
-  - mahara
-  - Mahara-UK-09
-  - Open source
-  - University of London
-  - video
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1Hb9LizL7oJmX535ha3zx7Q6hcjLiF4gjH"]
+categories = ["Computer Science", "Videos", "Web2.0"]
+date = "2009-07-24T09:01:44+00:00"
+dsq_thread_id = ["271060986"]
+tags = ["Advocacy", "articles", "Business", "Directories", "e-portfolio", "Education", "Institute of Education", "mahara", "Mahara-UK-09", "Open source", "University of London", "video"]
+title = "[video] – E-Portfolios for Beginners and the Mahara UK 09 Conference"
+type = "post"
+url = "/2009/07/video-e-portfolios-for-beginners-and-the-mahara-uk-09-conference/"
 
----
++++
 Since few time I am coding an extension to the <a class="zem_slink" title="Open source" href="http://en.wikipedia.org/wiki/Open_source" rel="wikipedia">open-source</a> e-porfolio software <a title="Mahara" href="http://mahara.org/" target="_blank">Mahara</a>. Therefore I have searched for a video explaining what an e-porfolio stands for and how it can be used:
 
 Here is a video that explains it:

@@ -1,20 +1,14 @@
----
-title: Nine Building Blocks of Business Models
-author: Herbert Mühlburger
-type: post
-date: 2014-04-14T15:48:20+00:00
-url: /2014/04/nine-building-blocks-of-business-models/
-bitcointips_address:
-  - 1A5UQ6QUSuAzHMUHxJcYX7C8v3HLecpGoX
-categories:
-  - Business Models
-tags:
-  - 8 Blocks of Business Model
-  - Building Blocks
-  - Business model
-  - Business Models
++++
+author = "Herbert Mühlburger"
+bitcointips_address = ["1A5UQ6QUSuAzHMUHxJcYX7C8v3HLecpGoX"]
+categories = ["Business Models"]
+date = "2014-04-14T15:48:20+00:00"
+tags = ["8 Blocks of Business Model", "Building Blocks", "Business model", "Business Models"]
+title = "Nine Building Blocks of Business Models"
+type = "post"
+url = "/2014/04/nine-building-blocks-of-business-models/"
 
----
++++
 In Alexander Osterwalder&#8217;s [business model generation canvas][1] every organization&#8217;s business model can be described using 9 building blocks:
 
 ## Customer Segments

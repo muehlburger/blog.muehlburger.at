@@ -1,25 +1,15 @@
----
-title: '[lecture] – Introduction to scientific working'
-author: Herbert Mühlburger
-type: post
-date: 2008-11-03T17:00:20+00:00
-url: /2008/11/lecture-introduction-to-scientific-working/
-dsq_thread_id:
-  - "318149875"
-bitcointips_address:
-  - 131NDSoropaf5fKLivNHwRRKoLT14Zysan
-categories:
-  - Computer Science
-tags:
-  - powerpoint
-  - presentation
-  - presentation technique
-  - scientific working
-  - scientific writing
-  - slideshare
-  - writing
++++
+author = "Herbert Mühlburger"
+bitcointips_address = ["131NDSoropaf5fKLivNHwRRKoLT14Zysan"]
+categories = ["Computer Science"]
+date = "2008-11-03T17:00:20+00:00"
+dsq_thread_id = ["318149875"]
+tags = ["powerpoint", "presentation", "presentation technique", "scientific working", "scientific writing", "slideshare", "writing"]
+title = "[lecture] – Introduction to scientific working"
+type = "post"
+url = "/2008/11/lecture-introduction-to-scientific-working/"
 
----
++++
 <p id="__ss_85551" style="width: 425px; text-align: left;">
   Presenting the right things in the right way is very difficult. This winter term I attend a lecture called: &#8220;<a title="Introduction to scientific writing" href="http://www.iaik.tugraz.at/content/teaching/bachelor_courses/einfuehrung_in_das_wissenschaftliche_arbeiten/" target="_blank"><strong>Introduction to scientific working</strong></a>&#8220;.
 </p>

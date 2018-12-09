@@ -1,37 +1,17 @@
----
-title: 'NoSQL Databases: Why, what and when – An Overview on NoSQL Datastores'
-author: Herbert Mühlburger
-type: post
-date: 2011-03-06T19:31:59+00:00
-url: /2011/03/nosql-databases-why-what-and-when-an-overview-on-nosql-datastores/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "247014891"
-bitcointips_address:
-  - 1KF56hp2k1rJfDox6JZf6Joicb1MsYkL3n
-categories:
-  - Computer Science
-tags:
-  - Apache
-  - Apache Cassandra
-  - CouchDB
-  - Database
-  - GraphDB
-  - Hadoop
-  - Hive
-  - MongoDB
-  - NoSQL
-  - Pig
-  - presentation
-  - Redis
-  - Riak
-  - slideshare
-  - SQL
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1KF56hp2k1rJfDox6JZf6Joicb1MsYkL3n"]
+categories = ["Computer Science"]
+date = "2011-03-06T19:31:59+00:00"
+dsq_thread_id = ["247014891"]
+tags = ["Apache", "Apache Cassandra", "CouchDB", "Database", "GraphDB", "Hadoop", "Hive", "MongoDB", "NoSQL", "Pig", "presentation", "Redis", "Riak", "slideshare", "SQL"]
+title = "NoSQL Databases: Why, what and when – An Overview on NoSQL Datastores"
+type = "post"
+url = "/2011/03/nosql-databases-why-what-and-when-an-overview-on-nosql-datastores/"
 
----
++++
 <div id="__ss_7080449" style="width: 425px;">
   For everybody interested in NoSQL datastores the following presentation by <a title="Lorenzo Alberton" href="http://www.alberton.info/" target="_blank">Lorenzo Alberton</a> is worth reading. It gives a good overview of the currently used technologies in the area of NoSQL and discusses the ground filling basics every NoSQL enthusiast should know.
 </div>

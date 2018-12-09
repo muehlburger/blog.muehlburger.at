@@ -1,34 +1,16 @@
----
-title: '[paper] – Information and communication technologies in the life of university freshmen: An analysis of change'
-author: Herbert Mühlburger
-type: post
-date: 2010-05-18T10:17:20+00:00
-url: /2010/05/paper-information-and-communication-technologies-in-the-life-of-university-freshmen-an-analysis-of-change/
-aktt_notify_twitter:
-  - 'no'
-dsq_thread_id:
-  - "247417938"
-bitcointips_address:
-  - 1B2Dbh3m6W9UzigwqsTTDW5vTWpucKtd2S
-categories:
-  - Computer Science
-tags:
-  - BibSonomy
-  - Business
-  - Distance Learning
-  - Education
-  - Graz University of Technology
-  - Higher education
-  - ICT
-  - Information and communication technologies
-  - information technology
-  - Management
-  - Social Sciences
-  - Student
-  - Technology
-  - TEL
++++
+aktt_notify_twitter = ["no"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1B2Dbh3m6W9UzigwqsTTDW5vTWpucKtd2S"]
+categories = ["Computer Science"]
+date = "2010-05-18T10:17:20+00:00"
+dsq_thread_id = ["247417938"]
+tags = ["BibSonomy", "Business", "Distance Learning", "Education", "Graz University of Technology", "Higher education", "ICT", "Information and communication technologies", "information technology", "Management", "Social Sciences", "Student", "Technology", "TEL"]
+title = "[paper] – Information and communication technologies in the life of university freshmen: An analysis of change"
+type = "post"
+url = "/2010/05/paper-information-and-communication-technologies-in-the-life-of-university-freshmen-an-analysis-of-change/"
 
----
++++
 Ein weiterer Artikel mit dem ich mich im Zuge der Lehrveranstaltung &#8220;<a title="Technology Enhanced Learning" href="http://tugll.tugraz.at/tel/weblog/" target="_blank">Technology Enhanced Learning</a>&#8220;, abgehalten an der <a title="Technische Universität Graz" href="http://www.tugraz.at" target="_blank">Technischen Universität Graz</a> (<a title="Graz University of Technology" rel="geolocation" href="http://maps.google.com/maps?ll=47.0688888889,15.45&spn=0.01,0.01&q=47.0688888889,15.45 (Graz%20University%20of%20Technology)&t=h">TU Graz</a>), beschäftigt habe, ist: &#8220;<a title="Information and communication technologies in the life of university freshmen: An analysis of change" href="http://www.sciencedirect.com/science/article/B6VCJ-4Y1NV1M-1/2/f41b8ae60cc28d48faeed82548ebd574" target="_blank">Information and communication technologies in the life of university freshmen: An analysis of change</a>&#8221; [1]. Die Studie versucht Antworten auf die folgenden Fragen zu finden:
 
 >   * What is the self-perception of ICT competences among freshmen and is there a change in this self-perception 6 months after entering the university?

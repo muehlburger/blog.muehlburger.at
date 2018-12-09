@@ -1,33 +1,17 @@
----
-title: JavaFX Links of the Week 2, February 2010
-author: Herbert Mühlburger
-type: post
-date: 2010-02-08T21:41:35+00:00
-url: /2010/02/javafx-links-of-the-week-2-february-2010/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "257942204"
-bitcointips_address:
-  - 1G62h1gWmsB9hixGKxYs73afSib5EPKMvT
-categories:
-  - Computer Science
-tags:
-  - Add new tag
-  - Downloads
-  - Free
-  - game
-  - JavaFX
-  - LinksOfTheWeek
-  - Physics
-  - Puzzle
-  - Tetris
-  - Tetris-like
-  - Video game
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1G62h1gWmsB9hixGKxYs73afSib5EPKMvT"]
+categories = ["Computer Science"]
+date = "2010-02-08T21:41:35+00:00"
+dsq_thread_id = ["257942204"]
+tags = ["Add new tag", "Downloads", "Free", "game", "JavaFX", "LinksOfTheWeek", "Physics", "Puzzle", "Tetris", "Tetris-like", "Video game"]
+title = "JavaFX Links of the Week 2, February 2010"
+type = "post"
+url = "/2010/02/javafx-links-of-the-week-2-february-2010/"
 
----
++++
 Another week has passed and as I promised last week, I am going to post interesting <a class="zem_slink" title="JavaFX" rel="homepage" href="http://javafx.com/">JavaFX</a> Links here again. I specially want to thank **<a title="Jonathan Giles" href="http://jonathangiles.net/blog/" target="_blank">Jonathan Giles</a>**, **<a title="Richard Bair" href="http://www.java.net/blogs/rbair/" target="_blank">Richard Bair</a>** and **<a title="Jasper Potts" href="http://www.jasperpotts.com/blog/" target="_blank">Jasper Potts</a>** for their work in collecting the JavaFX Links of the week. Yet I cannot contribute much to the links of the week but hopefully in the future this will change.
 
 Here are the **JavaFX Links of the Week 2, February 2010:**

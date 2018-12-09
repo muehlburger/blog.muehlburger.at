@@ -1,32 +1,15 @@
----
-title: HTML 4.01 bis XHTML 2.0 im Vergleich
-author: Herbert Mühlburger
-type: post
-date: 2007-07-05T12:02:29+00:00
-url: /2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/
-aktt_notify_twitter:
-  - 'no'
-bitcointips_address:
-  - 16LXjkHTrR5qVWFqvW9ttAPvUGPLiEPjie
-categories:
-  - Computer Science
-  - Programming
-  - Web2.0
-tags:
-  - Data Formats
-  - FAQs Help and Tutorials
-  - HTML
-  - HTML 5
-  - Markup Languages
-  - Neue Technologien
-  - Tools
-  - Web
-  - Web2.0
-  - webdesign
-  - XHTML
-  - XML
++++
+aktt_notify_twitter = ["no"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["16LXjkHTrR5qVWFqvW9ttAPvUGPLiEPjie"]
+categories = ["Computer Science", "Programming", "Web2.0"]
+date = "2007-07-05T12:02:29+00:00"
+tags = ["Data Formats", "FAQs Help and Tutorials", "HTML", "HTML 5", "Markup Languages", "Neue Technologien", "Tools", "Web", "Web2.0", "webdesign", "XHTML", "XML"]
+title = "HTML 4.01 bis XHTML 2.0 im Vergleich"
+type = "post"
+url = "/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/"
 
----
++++
 Jens Meiert bietet auf seinem Blog eine tabellarische Übersicht über alle Elemente, die in HTML 4.01, XHTML 1.0 Strict, XHTML 1.1, HTML 5, und XHTML 2.0 spezifitiert werden.
 
 <a title="Jens Meierts Weblog" href="http://meiert.com/de/publications/articles/20070630/" target="_blank">Hier der Link direkt zu Jens Meierts Weblog.</a>

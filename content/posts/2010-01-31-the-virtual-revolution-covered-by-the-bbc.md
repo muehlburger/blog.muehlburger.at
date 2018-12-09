@@ -1,35 +1,17 @@
----
-title: The Virtual Revolution covered by the BBC
-author: Herbert Mühlburger
-type: post
-date: 2010-01-31T20:43:46+00:00
-url: /2010/01/the-virtual-revolution-covered-by-the-bbc/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "246421163"
-bitcointips_address:
-  - 1CSFCkodFDvz2JfHA2rJdYPFXCHjYZwWVG
-categories:
-  - Computer Science
-  - Videos
-tags:
-  - BBC
-  - Broadband Internet access
-  - Digital Revolution
-  - Future of Internet
-  - History
-  - Internet
-  - Invention
-  - Population
-  - tim berners-lee
-  - video
-  - Virtual Revolution
-  - Web
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1CSFCkodFDvz2JfHA2rJdYPFXCHjYZwWVG"]
+categories = ["Computer Science", "Videos"]
+date = "2010-01-31T20:43:46+00:00"
+dsq_thread_id = ["246421163"]
+tags = ["BBC", "Broadband Internet access", "Digital Revolution", "Future of Internet", "History", "Internet", "Invention", "Population", "tim berners-lee", "video", "Virtual Revolution", "Web"]
+title = "The Virtual Revolution covered by the BBC"
+type = "post"
+url = "/2010/01/the-virtual-revolution-covered-by-the-bbc/"
 
----
++++
 The Virtual Revolution refers to the fact that 20-25% of the word&#8217;s <a class="zem_slink" title="Population" href="http://en.wikipedia.org/wiki/Population" rel="wikipedia">population</a> is using the web by now, while other 80% are yet either not connected to broadband connections or are just not using it, as <a title="Sir Tim Berners-Lee" href="http://www.w3.org/People/Berners-Lee/" target="_blank">Sir Tim Berners-Lee</a>, the inventor of the web, states. In Afrika for example, people are now getting connected to <a class="zem_slink" title="Broadband Internet access" href="http://en.wikipedia.org/wiki/Broadband_Internet_access" rel="wikipedia">broadband internet</a> in a wide variety of areas. This means that the <a class="zem_slink" title="Digital Revolution" href="http://en.wikipedia.org/wiki/Digital_Revolution" rel="wikipedia">digital revolution</a> that has shaped our world as we know it now, will happen in these areas too.
 
 The BBC has started a series called &#8220;<a title="The Virtual Revolution" href="http://www.bbc.co.uk/virtualrevolution/" target="_blank">The Virtual Revolution &#8211; How 20 years of the web has reshaped our lives</a>&#8220;. The following video represents a great intro to this series:

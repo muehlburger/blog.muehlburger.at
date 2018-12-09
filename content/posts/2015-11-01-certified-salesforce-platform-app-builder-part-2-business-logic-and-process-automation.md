@@ -1,22 +1,15 @@
----
-title: 'Certified Salesforce Platform App Builder – Part 2: Business Logic and Process Automation'
-author: Herbert Mühlburger
-type: post
-date: 2015-11-01T11:29:12+00:00
-draft: true
-url: /?p=2113
-bitcointips_address:
-  - 1DGHB1RwBMebHaUdNBpLXxqr8qTEFTiy1B
-categories:
-  - Consulting
-  - HowTo
-  - Salesforce
-tags:
-  - Business Logic and Process Automation
-  - Salesforce
-  - Salesforce Certified Platform App Builder Exam
++++
+author = "Herbert Mühlburger"
+bitcointips_address = ["1DGHB1RwBMebHaUdNBpLXxqr8qTEFTiy1B"]
+categories = ["Consulting", "HowTo", "Salesforce"]
+date = "2015-11-01T11:29:12+00:00"
+draft = true
+tags = ["Business Logic and Process Automation", "Salesforce", "Salesforce Certified Platform App Builder Exam"]
+title = "Certified Salesforce Platform App Builder – Part 2: Business Logic and Process Automation"
+type = "post"
+url = "/?p=2113"
 
----
++++
 ## Business Logic and Process Automation (27 %)
 
 This topic is the most important one in the &#8220;Certified Salesforce Platform App Builder&#8221; exam. You can expect to get around 17 questions on topics such as Record Types, Formula Fields, Roll-Up Summary Fields, Validaton Rules, Approval Processes, &#8230;

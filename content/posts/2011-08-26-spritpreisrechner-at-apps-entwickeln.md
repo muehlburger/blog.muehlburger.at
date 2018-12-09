@@ -1,34 +1,19 @@
----
-title: '[spritpreisrechner.at] – Apps entwickeln'
-author: Herbert Mühlburger
-type: post
-date: 2011-08-26T09:17:35+00:00
-url: /2011/08/spritpreisrechner-at-apps-entwickeln/
-dsq_thread_id:
-  - "396398593"
-aktt_tweeted:
-  - "1"
-aktt_notify_twitter:
-  - 'yes'
-seo_follow:
-  - 'false'
-seo_noindex:
-  - 'false'
-bitcointips_address:
-  - 16t3sVBxEVqyanTbfbvymr7WfAKJMwYerr
-categories:
-  - Android
-  - Computer Science
-  - Programming
-tags:
-  - Android Market
-  - HTTP
-  - JSON
-  - Latitude
-  - spritpreise
-  - spritpreisrechner.at
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["16t3sVBxEVqyanTbfbvymr7WfAKJMwYerr"]
+categories = ["Android", "Computer Science", "Programming"]
+date = "2011-08-26T09:17:35+00:00"
+dsq_thread_id = ["396398593"]
+seo_follow = ["false"]
+seo_noindex = ["false"]
+tags = ["Android Market", "HTTP", "JSON", "Latitude", "spritpreise", "spritpreisrechner.at"]
+title = "[spritpreisrechner.at] – Apps entwickeln"
+type = "post"
+url = "/2011/08/spritpreisrechner-at-apps-entwickeln/"
 
----
++++
 Vor kurzem wurde in Österreich der <a title="E-Control Spritpreisrechner" href="http://spritpreisrechner.at/" target="_blank">Spritpreisrechner der E-Control</a> offiziell der Öffentlichkeit vorgestellt. Es hat nicht lange gedauert, bis auch die ersten Android App Entwickler die Seite zu nutzen versuchten. So finden sich derzeit im Android Market schon einige <a title="Android Market Spritpreisrechner Apps" href="https://market.android.com/search?q=spritpreisrechner&so=1&c=apps" target="_blank">Spritpreisrechner Apps</a>.
 
 Ich habe mir einmal das Datenformat angesehen, welches die Website spritpreisrechner.at für die Abfrage der Spritdaten benutzt. Es ist eigentlich ganz einfach:

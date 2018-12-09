@@ -1,25 +1,17 @@
----
-title: Relaunch of Herbert Mühlburger’s Weblog
-author: Herbert Mühlburger
-type: post
-date: 2008-11-01T09:24:22+00:00
-url: /2008/11/relaunch-of-herbert-muehlburgers-weblog/
-breakingnews:
-  - http://blog.muehlburger.at/logo.png
-aktt_notify_twitter:
-  - 'yes'
-dsq_thread_id:
-  - "467668268"
-bitcointips_address:
-  - 1C3W1nDAveRgT5FXxVib1riipS6qZH89kq
-categories:
-  - Computer Science
-tags:
-  - problem
-  - relaunch
-  - weblog
++++
+aktt_notify_twitter = ["yes"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1C3W1nDAveRgT5FXxVib1riipS6qZH89kq"]
+breakingnews = ["http://blog.muehlburger.at/logo.png"]
+categories = ["Computer Science"]
+date = "2008-11-01T09:24:22+00:00"
+dsq_thread_id = ["467668268"]
+tags = ["problem", "relaunch", "weblog"]
+title = "Relaunch of Herbert Mühlburger’s Weblog"
+type = "post"
+url = "/2008/11/relaunch-of-herbert-muehlburgers-weblog/"
 
----
++++
 <div class="mceTemp">
   <dl id="attachment_37" class="wp-caption alignnone" style="width: 450px;">
     <dt class="wp-caption-dt">

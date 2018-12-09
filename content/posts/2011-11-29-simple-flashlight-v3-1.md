@@ -1,30 +1,17 @@
----
-title: Simple Flashlight v3.1
-author: Herbert Mühlburger
-type: post
-date: 2011-11-29T09:00:07+00:00
-url: /2011/11/simple-flashlight-v3-1/
-aktt_notify_twitter:
-  - 'yes'
-dsq_thread_id:
-  - "487205936"
-aktt_tweeted:
-  - "1"
-bitcointips_address:
-  - 1ExoTe1YhgjtM8YQojCn7ZyhyWURA22b5X
-categories:
-  - Android
-  - Apps
-  - Programming
-tags:
-  - Android
-  - App
-  - Flashlight
-  - Simple
-  - SimpleFlashlight
-  - Taschenlampe
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1ExoTe1YhgjtM8YQojCn7ZyhyWURA22b5X"]
+categories = ["Android", "Apps", "Programming"]
+date = "2011-11-29T09:00:07+00:00"
+dsq_thread_id = ["487205936"]
+tags = ["Android", "App", "Flashlight", "Simple", "SimpleFlashlight", "Taschenlampe"]
+title = "Simple Flashlight v3.1"
+type = "post"
+url = "/2011/11/simple-flashlight-v3-1/"
 
----
++++
 <p style="text-align: center;">
   <a href="https://market.android.com/details?id=at.muehlburger.android.simple.flashlight"><img class="aligncenter" title="Simple Flashlight for Android" alt="Simple Flashlight for Android" src="https://blog.muehlburger.at/wp-content/uploads/2011/11/promotion_image.png" width="180" height="120" /></a>
 </p>

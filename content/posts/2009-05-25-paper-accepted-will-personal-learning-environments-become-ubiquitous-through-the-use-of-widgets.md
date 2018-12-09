@@ -1,33 +1,17 @@
----
-title: '[paper accepted] – Will Personal Learning Environments become ubiquitous through the use of Widgets?'
-author: Herbert Mühlburger
-type: post
-date: 2009-05-25T18:37:11+00:00
-url: /2009/05/paper-accepted-will-personal-learning-environments-become-ubiquitous-through-the-use-of-widgets/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "246816644"
-bitcointips_address:
-  - 1PqHmPr1RrADq79YNS5nMzdWw8Ab43Scji
-categories:
-  - Computer Science
-  - Publications
-tags:
-  - austria
-  - eLearning
-  - graz
-  - Knowledge Management
-  - Management Information Systems
-  - Management Science
-  - mLearning
-  - Personal Learning Environment
-  - uLearning
-  - Widgets
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1PqHmPr1RrADq79YNS5nMzdWw8Ab43Scji"]
+categories = ["Computer Science", "Publications"]
+date = "2009-05-25T18:37:11+00:00"
+dsq_thread_id = ["246816644"]
+tags = ["austria", "eLearning", "graz", "Knowledge Management", "Management Information Systems", "Management Science", "mLearning", "Personal Learning Environment", "uLearning", "Widgets"]
+title = "[paper accepted] – Will Personal Learning Environments become ubiquitous through the use of Widgets?"
+type = "post"
+url = "/2009/05/paper-accepted-will-personal-learning-environments-become-ubiquitous-through-the-use-of-widgets/"
 
----
++++
 Few time ago we got the review on our paper submitted to the <a title="I-KNOW '09" href="http://i-know.tugraz.at/" target="_blank">9th International Conference on Knowledge Management and Knowledge Technologies (I-KNOW &#8217;09)</a>. The paper is titled **&#8220;Will Personal Learning Environments become ubiquitous <a title="I-KNOW '09" href="http://i-know.tugraz.at/" target="_blank"></a>through the use of Widgets?&#8221;** and was accepted as follows:
 
 > We are pleased to inform you that your paper

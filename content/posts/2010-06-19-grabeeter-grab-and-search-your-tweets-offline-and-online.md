@@ -1,36 +1,20 @@
----
-title: Grabeeter – Grab and Search your Tweets offline and online
-author: Herbert Mühlburger
-type: post
-date: 2010-06-19T06:51:24+00:00
-url: /2010/06/grabeeter-grab-and-search-your-tweets-offline-and-online/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-tweetbackscheck:
-  - "1294578908"
-  - "1294578908"
-shorturls:
-  - 'a:4:{s:9:"permalink";s:95:"http://blog.muehlburger.at/2010/06/19/grabeeter-grab-and-search-your-tweets-offline-and-online/";s:7:"tinyurl";s:26:"http://tinyurl.com/32no6gl";s:4:"isgd";s:18:"http://is.gd/kj3oI";s:5:"bitly";s:20:"http://bit.ly/dfVQqF";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "251317472"
-bitcointips_address:
-  - 18btaysefUUoZw754vomTdaSc2NWuXYVqo
-categories:
-  - Computer Science
-tags:
-  - Grabeeter
-  - JSON
-  - Online Communities
-  - Social Networking
-  - twitter
-  - XML
++++
+aktt_notify_twitter = ["yes", "yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["18btaysefUUoZw754vomTdaSc2NWuXYVqo"]
+categories = ["Computer Science"]
+date = "2010-06-19T06:51:24+00:00"
+dsq_thread_id = ["251317472"]
+shorturls = ["a:4:{s:9:\"permalink\";s:95:\"http://blog.muehlburger.at/2010/06/19/grabeeter-grab-and-search-your-tweets-offline-and-online/\";s:7:\"tinyurl\";s:26:\"http://tinyurl.com/32no6gl\";s:4:\"isgd\";s:18:\"http://is.gd/kj3oI\";s:5:\"bitly\";s:20:\"http://bit.ly/dfVQqF\";}"]
+tags = ["Grabeeter", "JSON", "Online Communities", "Social Networking", "twitter", "XML"]
+title = "Grabeeter – Grab and Search your Tweets offline and online"
+tweetbackscheck = ["1294578908", "1294578908"]
+twittercomments = ["a:0:{}"]
+type = "post"
+url = "/2010/06/grabeeter-grab-and-search-your-tweets-offline-and-online/"
 
----
++++
 <div style="text-align: auto;">
   <a href="http://grabeeter.tugraz.at" target="_blank"><img class="size-full wp-image-948 aligncenter" title="Grabeeter - Grab and Search your Tweets" alt="Grabeeter - Grab and Search your Tweets" src="http://178.79.139.40/wp-content/uploads/2010/06/Grabeeter_logo_128x128.png" width="128" height="128" /></a>
 </div>

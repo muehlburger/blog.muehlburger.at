@@ -1,35 +1,17 @@
----
-title: Videos of Google IO 2011 – Android Tracks of Day One
-author: Herbert Mühlburger
-type: post
-date: 2011-05-11T17:09:56+00:00
-url: /2011/05/videos-of-google-io-2011-android-tracks-of-day-one/
-aktt_notify_twitter:
-  - 'yes'
-dsq_thread_id:
-  - "301160682"
-aktt_tweeted:
-  - "1"
-bitcointips_address:
-  - 1DvZqF9p3eG6L5hRtQJntapTAiyLfe22pe
-categories:
-  - Android
-  - Computer Science
-  - Programming
-  - Videos
-tags:
-  - Android
-  - Android Developers
-  - Business model
-  - Conference
-  - google
-  - Google I/O
-  - Innovations
-  - Keynote
-  - San Francisco
-  - YouTube
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1DvZqF9p3eG6L5hRtQJntapTAiyLfe22pe"]
+categories = ["Android", "Computer Science", "Programming", "Videos"]
+date = "2011-05-11T17:09:56+00:00"
+dsq_thread_id = ["301160682"]
+tags = ["Android", "Android Developers", "Business model", "Conference", "google", "Google I/O", "Innovations", "Keynote", "San Francisco", "YouTube"]
+title = "Videos of Google IO 2011 – Android Tracks of Day One"
+type = "post"
+url = "/2011/05/videos-of-google-io-2011-android-tracks-of-day-one/"
 
----
++++
 <p id="watch-headline-title">
   &nbsp;
 </p>

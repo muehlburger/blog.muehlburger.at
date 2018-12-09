@@ -1,29 +1,15 @@
----
-title: Second Life and more …
-author: Herbert Mühlburger
-type: post
-date: 2007-03-18T12:18:06+00:00
-url: /2007/03/second-life-and-more/
-aktt_notify_twitter:
-  - 'no'
-bitcointips_address:
-  - 1H8ZnUEpoYjvDNdzoT9iz3cTF53vGWN3r8
-categories:
-  - Computer Science
-tags:
-  - Baden-Württemberg
-  - Brandenburg
-  - Die Welt
-  - die zeit
-  - Germany
-  - Government
-  - Infogesellschaft
-  - Newspaper
-  - Second Life
-  - States
-  - Webwelt
++++
+aktt_notify_twitter = ["no"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1H8ZnUEpoYjvDNdzoT9iz3cTF53vGWN3r8"]
+categories = ["Computer Science"]
+date = "2007-03-18T12:18:06+00:00"
+tags = ["Baden-Württemberg", "Brandenburg", "Die Welt", "die zeit", "Germany", "Government", "Infogesellschaft", "Newspaper", "Second Life", "States", "Webwelt"]
+title = "Second Life and more …"
+type = "post"
+url = "/2007/03/second-life-and-more/"
 
----
++++
 <a title="Second Life" href="http://secondlife.com/?v=1.1" target="_blank">Second Life</a> wer kenn das nicht, oder besser gefragt, wer hat nicht schon davon gehört? Interessanterweise haben bei der letzten Vorlesung in einem Hörsaal von ca. 300 &#8211; 400 Studierenden nur 3 &#8211; 4 Studierende angegeben, Second Life zu spielen. Spielen? Second Life spielt man nicht, man lebt in der virtuellen Welt und versucht sich dort in irgendeiner Weise zu verwirklichen. Ob das gelingt ist verschieden. Interessant ist auch, dass die Studierenden von denen hier dei Rede ist nicht einem Studium nachgehen, welches überhaupt nichts mit Informationstechnologie zu tun hat. Es sind Studenten der <a title="Telematik" href="https://online.tu-graz.ac.at/tug_online/semesterplaene.uebersicht?corg_nr=&csr_nr=116&csprache_nr=1&csj_nr=1027&pStpStpNr=370" target="_blank">Telematik</a>, <a title="Softwareentwicklung - Wirtschaft" href="https://online.tu-graz.ac.at/tug_online/semesterplaene.uebersicht?corg_nr=&csr_nr=144&csprache_nr=1&csj_nr=1027&pStpStpNr=382" target="_blank">Softwareentwicklung &#8211; Wirtschaft</a> oder <a title="Softwareentwicklung und Wissensmanagement" href="https://online.tu-graz.ac.at/tug_online/semesterplaene.uebersicht?corg_nr=&csr_nr=123&csprache_nr=1&csj_nr=1027&pStpStpNr=322" target="_blank">Softwareentwicklung und Wissensmanagement</a>, <a title="Informatik" href="https://online.tu-graz.ac.at/tug_online/semesterplaene.uebersicht?corg_nr=&csr_nr=140&csprache_nr=1&csj_nr=1027&pStpStpNr=372" target="_blank">Informatik</a>, <a title="Unterrichtsfach Informatikmanagement" href="https://online.tu-graz.ac.at/tug_online/semesterplaene.uebersicht?corg_nr=&csr_nr=141&csprache_nr=1&csj_nr=1027&pStpStpNr=373" target="_blank">UF Informatik und Informatikmanagement.</a>
 
 Wo doch überall die Rede von Second Life ist. Die Medien greifen das Phänomen sein Wochen auf und richten eigene Bereiche dafür ein. Die Zeitung “<a title="Die Welt Online" href="http://www.welt.de/" target="_blank">Die Welt</a>” hat in ihrer Onlineausgabe einige sehr <a title="Lesenswerte Artikel" href="http://www.welt.de/archiv/%3Fse%26search.execute%3Dtrue%26lucyStemmed%3D1%26lucyField%3D6%26lucySection%3D349%26lucyFromDateOn%3Dtrue%26lucyFromDay%3D18%26lucyFromMonth%3D2%26lucyFromYear%3D2002%26lucyToDateOn%3Dtrue%26lucyToDay%3D18%26lucyToMonth%3D2%26lucyToYear%3D2007%26lucySort%3D0%26lucyOptimized%3Dfalse%26lucyExpr%3DSecond+Life" target="_blank">lesenswerte Artikel</a> zum Thema Second Life, die ich nur weiterempfehlen kann!

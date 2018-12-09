@@ -1,31 +1,17 @@
----
-title: SMOB – A Prototype for Semantic Microblogging
-author: Herbert Mühlburger
-type: post
-date: 2008-11-17T08:28:52+00:00
-url: /2008/11/smob-a-prototype-for-semantic-microblogging/
-aktt_tweeted:
-  - "1"
-aktt_notify_twitter:
-  - 'yes'
-dsq_thread_id:
-  - "246421038"
-bitcointips_address:
-  - 158i2WDP7c4sTWp5r4NnBquaFeJ1q567F5
-categories:
-  - Computer Science
-  - Semantic Web
-tags:
-  - foaf
-  - prototype
-  - semantic microblogging
-  - Semantic Web
-  - sioc
-  - slideshare
-  - smob
-  - twitter
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["158i2WDP7c4sTWp5r4NnBquaFeJ1q567F5"]
+categories = ["Computer Science", "Semantic Web"]
+date = "2008-11-17T08:28:52+00:00"
+dsq_thread_id = ["246421038"]
+tags = ["foaf", "prototype", "semantic microblogging", "Semantic Web", "sioc", "slideshare", "smob", "twitter"]
+title = "SMOB – A Prototype for Semantic Microblogging"
+type = "post"
+url = "/2008/11/smob-a-prototype-for-semantic-microblogging/"
 
----
++++
 <a title="SMOB Project Website" href="http://smob.sioc-project.org/" target="_blank">SMOB</a> is a prototype developed to enable semantic microblogging. It can be seen as <a title="Twitter" href="http://www.twitter.com" target="_blank">Twitter </a>enriched with semantic data.
 
 [slideshare id=472659&doc=sfsw-1213739228503754-8&w=425]

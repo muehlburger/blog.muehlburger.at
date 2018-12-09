@@ -1,30 +1,17 @@
----
-title: '[video] – TEDxNYED – Dan Meyer presents Impressive Ways to Teach Mathematics'
-author: Herbert Mühlburger
-type: post
-date: 2010-04-27T12:06:26+00:00
-url: /2010/04/video-tedxnyed-dan-meyer-presents-impressive-ways-to-teach-mathematics/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "246421240"
-bitcointips_address:
-  - 1AbfyF6Ru9axGv58UMpMaagzhGcUvWbZ6t
-categories:
-  - Computer Science
-  - Videos
-tags:
-  - Academic Departments
-  - Coffee
-  - Dan Meyer
-  - E-learning
-  - Education
-  - Math
-  - mathematics
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1AbfyF6Ru9axGv58UMpMaagzhGcUvWbZ6t"]
+categories = ["Computer Science", "Videos"]
+date = "2010-04-27T12:06:26+00:00"
+dsq_thread_id = ["246421240"]
+tags = ["Academic Departments", "Coffee", "Dan Meyer", "E-learning", "Education", "Math", "mathematics"]
+title = "[video] – TEDxNYED – Dan Meyer presents Impressive Ways to Teach Mathematics"
+type = "post"
+url = "/2010/04/video-tedxnyed-dan-meyer-presents-impressive-ways-to-teach-mathematics/"
 
----
++++
 In the following video [Dan Meyer][1] (@[ddmeyer][2]) presents an impressive way to teach applied mathematics. I hope that some of our professors will watch this video and keep some of the ideas in mind.
 
 [youtube BlvKWEvKSi8]

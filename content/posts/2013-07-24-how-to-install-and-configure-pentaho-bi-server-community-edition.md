@@ -1,20 +1,14 @@
----
-title: How to install and configure Pentaho BI Server Community Edition
-author: Herbert Mühlburger
-type: post
-date: -001-11-30T00:00:00+00:00
-draft: true
-url: /?p=1705
-categories:
-  - Business Intelligence
-  - Computer Science
-  - Pentaho
-tags:
-  - BI
-  - Business Intelligence
-  - Pentaho
++++
+author = "Herbert Mühlburger"
+categories = ["Business Intelligence", "Computer Science", "Pentaho"]
+date = "-001-11-30T00:00:00+00:00"
+draft = true
+tags = ["BI", "Business Intelligence", "Pentaho"]
+title = "How to install and configure Pentaho BI Server Community Edition"
+type = "post"
+url = "/?p=1705"
 
----
++++
 The following steps are some notes that I took on installing and configuring Pentaho BI Server Community Edition (Pentaho BI Suite 4.8) on CentOS using MySQL as Database backend.
 
 Download Pentaho BI Server:

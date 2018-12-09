@@ -1,21 +1,16 @@
----
-title: WordPress Upgrade worked great
-author: Herbert Mühlburger
-type: post
-date: 2009-12-28T22:30:35+00:00
-url: /2009/12/wordpress-upgrade-worked-great/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-bitcointips_address:
-  - 1CWVWtRSfTRSCn8m4Hev7yWakEPW4c894b
-categories:
-  - Computer Science
-tags:
-  - wordpress upgrade
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1CWVWtRSfTRSCn8m4Hev7yWakEPW4c894b"]
+categories = ["Computer Science"]
+date = "2009-12-28T22:30:35+00:00"
+tags = ["wordpress upgrade"]
+title = "WordPress Upgrade worked great"
+type = "post"
+url = "/2009/12/wordpress-upgrade-worked-great/"
 
----
++++
 <div class="zemanta-img">
   <div>
     <dl class="wp-caption alignright">

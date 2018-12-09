@@ -1,33 +1,17 @@
----
-title: Do you need a problem to solve?
-author: Herbert Mühlburger
-type: post
-date: 2008-11-11T21:11:42+00:00
-url: /2008/11/do-you-need-a-problem-to-solve/
-aktt_tweeted:
-  - "1"
-aktt_notify_twitter:
-  - 'yes'
-dsq_thread_id:
-  - "252972961"
-bitcointips_address:
-  - 1ADSsthqwB4p1tGa8dz3H3mMVkobmjYksK
-categories:
-  - Computer Science
-tags:
-  - boredom
-  - die zeit
-  - film
-  - Fun
-  - Internet
-  - need a problem
-  - problems
-  - solutions
-  - switzerland
-  - the game
-  - zeit online
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1ADSsthqwB4p1tGa8dz3H3mMVkobmjYksK"]
+categories = ["Computer Science"]
+date = "2008-11-11T21:11:42+00:00"
+dsq_thread_id = ["252972961"]
+tags = ["boredom", "die zeit", "film", "Fun", "Internet", "need a problem", "problems", "solutions", "switzerland", "the game", "zeit online"]
+title = "Do you need a problem to solve?"
+type = "post"
+url = "/2008/11/do-you-need-a-problem-to-solve/"
 
----
++++
 <figure id="attachment_86" style="width: 440px" class="wp-caption alignnone"><a rel="attachment wp-att-86" href="http://blog.muehlburger.at/2008/11/do-you-need-a-problem-to-solve/need-a-problem/"><img class="size-full wp-image-86" title="Need a Problem?" src="http://178.79.139.40/wp-content/uploads/2008/11/need-a-problem.png" alt="Need a Problem?" width="440" height="150" /></a><figcaption class="wp-caption-text">Need a Problem?</figcaption></figure> 
 
 Three guys from Switzerland have found a new business model: They create problems for their customers. You might know the film called &#8220;<a title="The Game" href="http://en.wikipedia.org/wiki/The_Game_(film)" target="_blank">The Game</a>&#8221; where Michael Douglas as a bored but rich investment banker gets involved in a kind of game.

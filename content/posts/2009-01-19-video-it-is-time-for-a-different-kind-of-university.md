@@ -1,36 +1,17 @@
----
-title: '[video] – It is time for a different kind of university'
-author: Herbert Mühlburger
-type: post
-date: 2009-01-19T07:45:57+00:00
-url: /2009/01/video-it-is-time-for-a-different-kind-of-university/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "660104960"
-bitcointips_address:
-  - 1gZeUZSK1fNPoXSDdN5dWweWZk7rzyegp
-categories:
-  - Computer Science
-  - Semantic Web
-  - Videos
-tags:
-  - Distance Learning
-  - Education
-  - Electronic learning
-  - George Siemens
-  - Instructional Technology
-  - Kaplan University
-  - Learning-Educational Technologies
-  - Media Literacy
-  - Methods and Theories
-  - Online Teaching and Learning
-  - Social network
-  - YouTube
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1gZeUZSK1fNPoXSDdN5dWweWZk7rzyegp"]
+categories = ["Computer Science", "Semantic Web", "Videos"]
+date = "2009-01-19T07:45:57+00:00"
+dsq_thread_id = ["660104960"]
+tags = ["Distance Learning", "Education", "Electronic learning", "George Siemens", "Instructional Technology", "Kaplan University", "Learning-Educational Technologies", "Media Literacy", "Methods and Theories", "Online Teaching and Learning", "Social network", "YouTube"]
+title = "[video] – It is time for a different kind of university"
+type = "post"
+url = "/2009/01/video-it-is-time-for-a-different-kind-of-university/"
 
----
++++
 <a class="zem_slink" title="Kaplan University" rel="homepage" href="http://www.kaplanuniversity.edu">Kaplan University</a> has produced two interesting and inspiring videos on how <a class="zem_slink" title="Electronic learning" rel="wikipedia" href="http://en.wikipedia.org/wiki/Electronic_learning">e-Learning</a> can be performed in near future.
 
 > It&#8217;s time to use <span class="zem_slink">technology</span> to <span class="zem_slink"><span class="zem_slink">rewrite</span></span> the rules of <a class="zem_slink" title="Education" rel="wikipedia" href="http://en.wikipedia.org/wiki/Education">education</a> &#8230;

@@ -1,24 +1,17 @@
----
-title: Fiverr – Offer or buy a micro services for $5
-author: Herbert Mühlburger
-type: post
-date: 2010-05-02T17:08:38+00:00
-url: /2010/05/fiverr-offer-or-buy-a-micro-services-for-5/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "512433658"
-bitcointips_address:
-  - 1YYNrDprcGCUo5akhEcRovzUmQkAWCovp
-categories:
-  - Web2.0
-tags:
-  - fiverr
-  - micro-services
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1YYNrDprcGCUo5akhEcRovzUmQkAWCovp"]
+categories = ["Web2.0"]
+date = "2010-05-02T17:08:38+00:00"
+dsq_thread_id = ["512433658"]
+tags = ["fiverr", "micro-services"]
+title = "Fiverr – Offer or buy a micro services for $5"
+type = "post"
+url = "/2010/05/fiverr-offer-or-buy-a-micro-services-for-5/"
 
----
++++
 Recently I have read about <a title="Fiverr" href="http://www.fiverr.com/" target="_blank">Fiverr</a>, a service which enables users to offer or buy micro-services for $5 Dollars.
 
 Here are some sample offers:

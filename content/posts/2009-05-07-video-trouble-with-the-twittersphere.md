@@ -1,31 +1,16 @@
----
-title: '[video] – Trouble with the Twittersphere'
-author: Herbert Mühlburger
-type: post
-date: 2009-05-07T09:28:12+00:00
-url: /2009/05/video-trouble-with-the-twittersphere/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-bitcointips_address:
-  - 1pMRuioQeuHwBXrxJVS7JKqn3ut6JaRHU
-categories:
-  - Web2.0
-tags:
-  - Arts
-  - Business
-  - Facebook
-  - On the Web
-  - Online Communities
-  - problems
-  - Social Networking
-  - Trouble
-  - twitter
-  - twittersphere
-  - Web2.0
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1pMRuioQeuHwBXrxJVS7JKqn3ut6JaRHU"]
+categories = ["Web2.0"]
+date = "2009-05-07T09:28:12+00:00"
+tags = ["Arts", "Business", "Facebook", "On the Web", "Online Communities", "problems", "Social Networking", "Trouble", "twitter", "twittersphere", "Web2.0"]
+title = "[video] – Trouble with the Twittersphere"
+type = "post"
+url = "/2009/05/video-trouble-with-the-twittersphere/"
 
----
++++
 Just found a nice video about twitter and it&#8217;s users called the <span class="zem_slink">Twittersphere</span>.
 
 [youtube PN2HAroA12w]

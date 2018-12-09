@@ -1,25 +1,14 @@
----
-title: 'Interesting Creative Digital & Internet Agencies'
-author: Herbert Mühlburger
-type: post
-date: 2015-09-06T09:40:16+00:00
-url: /2015/09/interesting-creative-digital-and-internet-agencies/
-bitcointips_address:
-  - 1MDUpqw2r7tk4VeoXXAUm9oRrvSEhHBiXy
-categories:
-  - Marketing
-  - Technology
-  - Work
-tags:
-  - agencies
-  - agency
-  - digital
-  - Internet
-  - list of agencies
-  - marketing
-  - Technology
++++
+author = "Herbert Mühlburger"
+bitcointips_address = ["1MDUpqw2r7tk4VeoXXAUm9oRrvSEhHBiXy"]
+categories = ["Marketing", "Technology", "Work"]
+date = "2015-09-06T09:40:16+00:00"
+tags = ["agencies", "agency", "digital", "Internet", "list of agencies", "marketing", "Technology"]
+title = "Interesting Creative Digital & Internet Agencies"
+type = "post"
+url = "/2015/09/interesting-creative-digital-and-internet-agencies/"
 
----
++++
 Since several months I work as a Full Stack Software Engineer for <a href="http://www.scoopandspoon.com" target="_blank">Scoop & Spoon</a>, a creative digital & internet agency based in London (UK), Vienna and Graz (Austria). I was wondering which other digital & internet agencies are out there and luckily found an interesting article in the <a href="http://www.brandeins.de" target="_blank">brand eins</a> magazine regarding this topic. The following list is a compilation of interesting agencies out there:
 
   * **Scoop & Spoon **(<a href="http://www.scoopandspoon.com/" target="_blank">www.scoopandspoon.com</a>)

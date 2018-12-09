@@ -1,48 +1,20 @@
----
-title: '[video] – HBase and Pig: The Hadoop Ecosystem at Twitter'
-author: Herbert Mühlburger
-type: post
-date: 2010-06-25T06:17:16+00:00
-url: /2010/06/video-hbase-and-pig-the-hadoop-ecosystem-at-twitter/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-tweetbackscheck:
-  - "1294692065"
-  - "1294692065"
-  - "1294692065"
-  - "1294692065"
-  - "1294692065"
-  - "1294692065"
-  - "1294692065"
-  - "1294692065"
-  - "1294692065"
-  - "1294692065"
-  - "1294692065"
-  - "1294692065"
-shorturls:
-  - 'a:4:{s:9:"permalink";s:90:"http://blog.muehlburger.at/2010/06/25/video-hbase-and-pig-the-hadoop-ecosystem-at-twitter/";s:7:"tinyurl";s:26:"http://tinyurl.com/2vea68o";s:4:"isgd";s:18:"http://is.gd/kqgsH";s:5:"bitly";s:20:"http://bit.ly/90HOo6";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "246421259"
-bitcointips_address:
-  - 1PhnqWxMxUbhJDRrDvpPpNSY23ymWftviZ
-categories:
-  - Business Intelligence
-  - Computer Science
-tags:
-  - Hadoop
-  - HBase
-  - MapReduce
-  - Pig
-  - Social Networking
-  - Trending and Popularity
-  - twitter
++++
+aktt_notify_twitter = ["yes", "yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1PhnqWxMxUbhJDRrDvpPpNSY23ymWftviZ"]
+categories = ["Business Intelligence", "Computer Science"]
+date = "2010-06-25T06:17:16+00:00"
+dsq_thread_id = ["246421259"]
+shorturls = ["a:4:{s:9:\"permalink\";s:90:\"http://blog.muehlburger.at/2010/06/25/video-hbase-and-pig-the-hadoop-ecosystem-at-twitter/\";s:7:\"tinyurl\";s:26:\"http://tinyurl.com/2vea68o\";s:4:\"isgd\";s:18:\"http://is.gd/kqgsH\";s:5:\"bitly\";s:20:\"http://bit.ly/90HOo6\";}"]
+tags = ["Hadoop", "HBase", "MapReduce", "Pig", "Social Networking", "Trending and Popularity", "twitter"]
+title = "[video] – HBase and Pig: The Hadoop Ecosystem at Twitter"
+tweetbackscheck = ["1294692065", "1294692065", "1294692065", "1294692065", "1294692065", "1294692065", "1294692065", "1294692065", "1294692065", "1294692065", "1294692065", "1294692065"]
+twittercomments = ["a:0:{}"]
+type = "post"
+url = "/2010/06/video-hbase-and-pig-the-hadoop-ecosystem-at-twitter/"
 
----
++++
 I have just found this very interesting video dealing with the implementation of <a title="HBase" href="http://hbase.apache.org/" target="_blank">HBase</a> and <a title="Pig" href="http://hadoop.apache.org/pig/" target="_blank">Pig</a> in combination with <a title="Hadoop" href="http://hadoop.apache.org/" target="_blank">Hadoop</a> at <a title="Twitter" href="http://twitter.com" target="_blank">Twitter</a>:
 
 

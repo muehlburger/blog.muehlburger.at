@@ -1,31 +1,17 @@
----
-title: Google Grippe-Trends jetzt auch für Österreich verfügbar
-author: Herbert Mühlburger
-type: post
-date: 2009-10-09T06:22:51+00:00
-url: /2009/10/google-grippe-trends-fur-oesterreich-verfuegbar/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "249991362"
-bitcointips_address:
-  - 1EUA3A4kCefjjuEwfTx8zvhNJgeA4nMLcE
-categories:
-  - Computer Science
-tags:
-  - Companies
-  - Facebook
-  - google
-  - Grippe
-  - Homepage
-  - Search
-  - search engines
-  - Social network
-  - Tools
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1EUA3A4kCefjjuEwfTx8zvhNJgeA4nMLcE"]
+categories = ["Computer Science"]
+date = "2009-10-09T06:22:51+00:00"
+dsq_thread_id = ["249991362"]
+tags = ["Companies", "Facebook", "google", "Grippe", "Homepage", "Search", "search engines", "Social network", "Tools"]
+title = "Google Grippe-Trends jetzt auch für Österreich verfügbar"
+type = "post"
+url = "/2009/10/google-grippe-trends-fur-oesterreich-verfuegbar/"
 
----
++++
 <img class="aligncenter size-full wp-image-563" title="Google Grippe-Trends Österreich" src="http://178.79.139.40/wp-content/uploads/2009/10/google-flue-trends-austria1.png" alt="Google Grippe-Trends Österreich" width="430" height="244" />
 
 Google Grippe-Trends (<a title="Google Flue Trends" href="http://www.google.org/flutrends/" target="_blank">Google Flu Trends</a>) ist nun auch in Österreich verfügbar. Auf der extra dafür eingerichteten <a title="Google Grippe-Trends Österreich" href="http://www.google.org/flutrends/at/" target="_blank">Website</a> kann man den derzeitigen Verlauf der Grippewelle in Österreich, sowie in viele anderen Staaten verfolgen.

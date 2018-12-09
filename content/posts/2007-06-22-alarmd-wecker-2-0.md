@@ -1,34 +1,16 @@
----
-title: ALARMD – Wecker 2.0
-author: Herbert Mühlburger
-type: post
-date: 2007-06-22T10:47:17+00:00
-url: /2007/06/alarmd-wecker-2-0/
-dsq_thread_id:
-  - "541830287"
-aktt_notify_twitter:
-  - 'no'
-bitcointips_address:
-  - 137tcKuUMzrXqDJZUYNwBNtGLp8PkzDxhC
-categories:
-  - Web2.0
-tags:
-  - Apple
-  - Facebook
-  - google
-  - IPhone
-  - Last.fm
-  - Menschen
-  - Meshup
-  - Musik
-  - Muziic
-  - Neue Technologien
-  - Pandora
-  - Soziale Netzwerke
-  - Web2.0
-  - YouTube
++++
+aktt_notify_twitter = ["no"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["137tcKuUMzrXqDJZUYNwBNtGLp8PkzDxhC"]
+categories = ["Web2.0"]
+date = "2007-06-22T10:47:17+00:00"
+dsq_thread_id = ["541830287"]
+tags = ["Apple", "Facebook", "google", "IPhone", "Last.fm", "Menschen", "Meshup", "Musik", "Muziic", "Neue Technologien", "Pandora", "Soziale Netzwerke", "Web2.0", "YouTube"]
+title = "ALARMD – Wecker 2.0"
+type = "post"
+url = "/2007/06/alarmd-wecker-2-0/"
 
----
++++
 Wer schon immer mal von <a title="YouTube" href="http://www.youtube.com/" target="_blank">YouTube</a> Videos bzw. von last.fm Playlists geweckt werden wollte, der sollte sich unbedingt <a title="Wecker 2.0" href="http://www.zachleat.com/Projects/alarmd/" target="_blank">ALARMD</a> anschaun!  <img src="file:///C:/Users/Herbert/Desktop/blogupdate/export-Dateien/icon_smile.gif" border="0" alt="-)" />Hier kann man sich seinen Wecker online stellen. Dieser holt sich dann von YouTube bzw. über last.fm und andere Services seine Videos und Musikstreams und spielt diese zur gewünschten Zeit ab! Ich finde die Idee einfach toll und bin komplett begeistert! <img src="file:///C:/Users/Herbert/Desktop/blogupdate/export-Dateien/icon_smile.gif" border="0" alt="-)" />
 
 Sehr coole Sache!

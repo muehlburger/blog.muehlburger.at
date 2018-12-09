@@ -1,31 +1,17 @@
----
-title: '[Tutorial] – Java Online Programming Course'
-author: Herbert Mühlburger
-type: post
-date: 2009-10-08T19:35:10+00:00
-url: /2009/10/tutorial-java-online-programming-course/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "246421119"
-bitcointips_address:
-  - 1JU7V5AZRQYeskxQRyxkzueE8wbkc1peNm
-categories:
-  - Computer Science
-  - Programming
-tags:
-  - Electronic learning
-  - FAQs Help and Tutorials
-  - Java
-  - JavaFX
-  - Languages
-  - Programming
-  - Programming language
-  - Tutorials
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1JU7V5AZRQYeskxQRyxkzueE8wbkc1peNm"]
+categories = ["Computer Science", "Programming"]
+date = "2009-10-08T19:35:10+00:00"
+dsq_thread_id = ["246421119"]
+tags = ["Electronic learning", "FAQs Help and Tutorials", "Java", "JavaFX", "Languages", "Programming", "Programming language", "Tutorials"]
+title = "[Tutorial] – Java Online Programming Course"
+type = "post"
+url = "/2009/10/tutorial-java-online-programming-course/"
 
----
++++
 <div class="zemanta-img zemanta-action-dragged">
   <div>
     <dl class="wp-caption alignright" style="width: 157px;">

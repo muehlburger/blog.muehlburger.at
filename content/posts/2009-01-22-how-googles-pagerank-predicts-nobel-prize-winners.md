@@ -1,31 +1,17 @@
----
-title: How Google’s PageRank predicts Nobel Prize winners
-author: Herbert Mühlburger
-type: post
-date: 2009-01-22T11:46:16+00:00
-url: /2009/01/how-googles-pagerank-predicts-nobel-prize-winners/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "246421065"
-bitcointips_address:
-  - 1HMAbT1mXQST6y8CXEdjwgrd3spHMowBca
-categories:
-  - Computer Science
-  - Semantic Web
-tags:
-  - Makoto Kobayashi
-  - Nicola Cabibbo
-  - Nobel Prize
-  - Nobel Prize in Physics
-  - PageRank
-  - Sidney Redner
-  - Toshihide Maskawa
-  - Yoichiro Nambu
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1HMAbT1mXQST6y8CXEdjwgrd3spHMowBca"]
+categories = ["Computer Science", "Semantic Web"]
+date = "2009-01-22T11:46:16+00:00"
+dsq_thread_id = ["246421065"]
+tags = ["Makoto Kobayashi", "Nicola Cabibbo", "Nobel Prize", "Nobel Prize in Physics", "PageRank", "Sidney Redner", "Toshihide Maskawa", "Yoichiro Nambu"]
+title = "How Google’s PageRank predicts Nobel Prize winners"
+type = "post"
+url = "/2009/01/how-googles-pagerank-predicts-nobel-prize-winners/"
 
----
++++
 <div class="zemanta-img">
   <div class="mceTemp mceIEcenter">
     <dl class="wp-caption aligncenter" style="width: 212px;">

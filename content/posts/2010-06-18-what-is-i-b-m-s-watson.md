@@ -1,28 +1,16 @@
----
-title: What Is I.B.M.’s Watson?
-author: Herbert Mühlburger
-type: post
-date: 2010-06-18T11:29:44+00:00
-url: /2010/06/what-is-i-b-m-s-watson/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-bitcointips_address:
-  - 1HXyfpDAJuNjExZMHdasaPvZGKoKWPUpHi
-categories:
-  - Computer Science
-tags:
-  - Artificial intelligence
-  - Computing
-  - IBM
-  - Jeopardy!
-  - Natural language
-  - The New York Times
-  - Watson
++++
+aktt_notify_twitter = ["yes", "yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1HXyfpDAJuNjExZMHdasaPvZGKoKWPUpHi"]
+categories = ["Computer Science"]
+date = "2010-06-18T11:29:44+00:00"
+tags = ["Artificial intelligence", "Computing", "IBM", "Jeopardy!", "Natural language", "The New York Times", "Watson"]
+title = "What Is I.B.M.’s Watson?"
+type = "post"
+url = "/2010/06/what-is-i-b-m-s-watson/"
 
----
++++
 A very short answer is the following:
 
 > &#8220;IBM is working to build a computing system that can understand and answer complex questions with enough precision and speed to compete against some of the best _Jeopardy!_ contestants out there.&#8221; [<a title="IBM" href="http://www.research.ibm.com/deepqa/index2.shtml" target="_blank">IBM</a>]

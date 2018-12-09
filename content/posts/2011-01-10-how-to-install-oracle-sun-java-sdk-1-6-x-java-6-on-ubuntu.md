@@ -1,33 +1,17 @@
----
-title: How to install (Oracle) Sun Java SDK 1.6.x (Java 6) on Ubuntu
-author: Herbert Mühlburger
-type: post
-date: 2011-01-10T20:45:32+00:00
-url: /2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "246432719"
-bitcointips_address:
-  - 1KAwt4N8CTr2abW72Zbs21ux85jXtX2CHh
-categories:
-  - Computer Science
-  - Programming
-tags:
-  - How To
-  - Installation
-  - Instruction
-  - Java
-  - Java Development Kit
-  - Oracle
-  - Programming
-  - Sun
-  - tutorial
-  - Ubuntu
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1KAwt4N8CTr2abW72Zbs21ux85jXtX2CHh"]
+categories = ["Computer Science", "Programming"]
+date = "2011-01-10T20:45:32+00:00"
+dsq_thread_id = ["246432719"]
+tags = ["How To", "Installation", "Instruction", "Java", "Java Development Kit", "Oracle", "Programming", "Sun", "tutorial", "Ubuntu"]
+title = "How to install (Oracle) Sun Java SDK 1.6.x (Java 6) on Ubuntu"
+type = "post"
+url = "/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/"
 
----
++++
 Dieser Beitrag beschreibt die Installation des Sun Java SDK 1.6.x on Ubuntu (Maverick). The English explanation on how to install Sun Java SDK 1.6.x can be found <a title="http://www.michael-noll.com/tutorials/running-hadoop-on-ubuntu-linux-single-node-cluster/#sun-java-6" href="http://www.michael-noll.com/tutorials/running-hadoop-on-ubuntu-linux-single-node-cluster/#sun-java-6" target="_blank">here</a>.
 
 ### Canonical-Partner Repositories aktivieren:

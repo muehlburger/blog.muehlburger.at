@@ -1,30 +1,17 @@
----
-title: '[video] – User Interface Fundamentals for Programmers'
-author: Herbert Mühlburger
-type: post
-date: 2009-10-08T08:20:17+00:00
-url: /2009/10/video-user-interface-fundamentals-for-programmers/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "340271809"
-bitcointips_address:
-  - 1FZUH8V6mQtEtxrpHSDhC4KmkAK3wJhCEz
-categories:
-  - Computer Science
-  - Usability
-tags:
-  - Business
-  - Companies and Consultants
-  - Human-computer interaction
-  - Programming
-  - User interface
-  - User interface design
-  - vimeo
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1FZUH8V6mQtEtxrpHSDhC4KmkAK3wJhCEz"]
+categories = ["Computer Science", "Usability"]
+date = "2009-10-08T08:20:17+00:00"
+dsq_thread_id = ["340271809"]
+tags = ["Business", "Companies and Consultants", "Human-computer interaction", "Programming", "User interface", "User interface design", "vimeo"]
+title = "[video] – User Interface Fundamentals for Programmers"
+type = "post"
+url = "/2009/10/video-user-interface-fundamentals-for-programmers/"
 
----
++++
 Recently I have found a great video demonstrating the user interface design fundamentals every programmer should know. Check out the video, it is really interesting!
 
 

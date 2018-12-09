@@ -1,34 +1,20 @@
----
-title: I deleted my Facebook account
-author: Herbert Mühlburger
-type: post
-date: 2013-06-10T17:00:18+00:00
-draft: true
-url: /?p=1447
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "509460888"
-seo_noindex:
-  - 'false'
-seo_follow:
-  - 'false'
-image:
-  - http://blog.muehlburger.at/wp-content/uploads/2011/12/facebook-account-deleted-430x327.png
-categories:
-  - Web2.0
-tags:
-  - Facebook
-  - Facebook Timeline
-  - google
-  - Machine Learning
-  - Privacy
-  - Social media
-  - Social network
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+categories = ["Web2.0"]
+date = "2013-06-10T17:00:18+00:00"
+draft = true
+dsq_thread_id = ["509460888"]
+image = ["http://blog.muehlburger.at/wp-content/uploads/2011/12/facebook-account-deleted-430x327.png"]
+seo_follow = ["false"]
+seo_noindex = ["false"]
+tags = ["Facebook", "Facebook Timeline", "google", "Machine Learning", "Privacy", "Social media", "Social network"]
+title = "I deleted my Facebook account"
+type = "post"
+url = "/?p=1447"
 
----
++++
 <p style="text-align: center;">
   <a href="http://blog.muehlburger.at/wp-content/uploads/2011/12/facebook-account-deleted.png"><img class=" wp-image-1473  aligncenter" alt="Facebook account deleted" src="https://blog.muehlburger.at/wp-content/uploads/2011/12/facebook-account-deleted.png" width="572" height="435" /></a>
 </p>

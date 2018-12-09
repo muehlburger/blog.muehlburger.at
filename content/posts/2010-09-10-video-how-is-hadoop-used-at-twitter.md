@@ -1,40 +1,18 @@
----
-title: '[video] – How is Hadoop used at Twitter?'
-author: Herbert Mühlburger
-type: post
-date: 2010-09-10T13:02:24+00:00
-url: /2010/09/video-how-is-hadoop-used-at-twitter/
-tweetbackscheck:
-  - "1299576374"
-  - "1299576374"
-  - "1299576374"
-  - "1299576374"
-  - "1299576374"
-  - "1299576374"
-shorturls:
-  - 'a:3:{s:9:"permalink";s:74:"http://blog.muehlburger.at/2010/09/10/video-how-is-hadoop-used-at-twitter/";s:7:"tinyurl";s:26:"http://tinyurl.com/5wh5dtf";s:4:"isgd";s:19:"http://is.gd/ht6NOn";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "247610665"
-bitcointips_address:
-  - 1JjUR1Xxau3UbfkkcnSAoVtNq8LzEJSsC8
-categories:
-  - Business Intelligence
-  - Computer Science
-  - Machine Learning
-  - Videos
-tags:
-  - Cloudera
-  - Hadoop
-  - Online Communities
-  - Open source
-  - Social Networking
-  - Trending and Popularity
-  - twitter
-  - Yahoo
++++
+author = "Herbert Mühlburger"
+bitcointips_address = ["1JjUR1Xxau3UbfkkcnSAoVtNq8LzEJSsC8"]
+categories = ["Business Intelligence", "Computer Science", "Machine Learning", "Videos"]
+date = "2010-09-10T13:02:24+00:00"
+dsq_thread_id = ["247610665"]
+shorturls = ["a:3:{s:9:\"permalink\";s:74:\"http://blog.muehlburger.at/2010/09/10/video-how-is-hadoop-used-at-twitter/\";s:7:\"tinyurl\";s:26:\"http://tinyurl.com/5wh5dtf\";s:4:\"isgd\";s:19:\"http://is.gd/ht6NOn\";}"]
+tags = ["Cloudera", "Hadoop", "Online Communities", "Open source", "Social Networking", "Trending and Popularity", "twitter", "Yahoo"]
+title = "[video] – How is Hadoop used at Twitter?"
+tweetbackscheck = ["1299576374", "1299576374", "1299576374", "1299576374", "1299576374", "1299576374"]
+twittercomments = ["a:0:{}"]
+type = "post"
+url = "/2010/09/video-how-is-hadoop-used-at-twitter/"
 
----
++++
 <div class="zemanta-img">
   <figure style="width: 335px" class="wp-caption aligncenter"><a href="http://www.crunchbase.com/product/hadoop"><img title="Image representing Hadoop as depicted in Crunc..." src="http://www.crunchbase.com/assets/images/resized/0001/3073/13073v1-max-450x450.png" alt="Image representing Hadoop as depicted in Crunc..." width="335" height="93" /></a><figcaption class="wp-caption-text">Image via CrunchBase</figcaption></figure>
 </div>

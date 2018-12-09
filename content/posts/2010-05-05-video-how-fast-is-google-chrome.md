@@ -1,27 +1,17 @@
----
-title: '[video] – How fast is Google Chrome?'
-author: Herbert Mühlburger
-type: post
-date: 2010-05-05T18:12:51+00:00
-url: /2010/05/video-how-fast-is-google-chrome/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "246421216"
-bitcointips_address:
-  - 1PdpDbUtfzecHsLjXSim5TEpdxTGEt8zoR
-categories:
-  - Videos
-tags:
-  - google
-  - Google Chrome
-  - search engines
-  - Searching
-  - video
++++
+aktt_notify_twitter = ["yes"]
+aktt_tweeted = ["1"]
+author = "Herbert Mühlburger"
+bitcointips_address = ["1PdpDbUtfzecHsLjXSim5TEpdxTGEt8zoR"]
+categories = ["Videos"]
+date = "2010-05-05T18:12:51+00:00"
+dsq_thread_id = ["246421216"]
+tags = ["google", "Google Chrome", "search engines", "Searching", "video"]
+title = "[video] – How fast is Google Chrome?"
+type = "post"
+url = "/2010/05/video-how-fast-is-google-chrome/"
 
----
++++
 These days <a title="Google" href="http://www.google.com" target="_blank">Google</a> has <a title="released a video" href="http://chrome.blogspot.com/2010/05/pedal-to-chrome-metal-our-fastest-beta.html" target="_blank">released a video</a> demonstrating the speed of their new <a class="zem_slink" title="Software release life cycle" href="http://en.wikipedia.org/wiki/Software_release_life_cycle" rel="wikipedia">beta</a> <a title="Google Chrome" href="http://www.google.com/intl/en/landing/chrome/beta/" target="_blank">Google Chrome</a> browser. The video is made up in a very creative way. I am impressed how Google always finds really interesting ways to promote their products. Specially this one is of really interest:
 
 
