@@ -4,7 +4,6 @@ date_old = "2018-01-29T15:34:05+00:00"
 date = "2018-01-29T15:34:05+00:00"
 tags = ["BaaS", "FaaS", "PaaS", "Serverless"]
 title = "What means Serverless?"
-
 url = "/2018/01/what-are-serverless-architectures/"
 
 +++
