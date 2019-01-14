@@ -1,11 +1,8 @@
 +++
-author = "Herbert Mühlburger"
-bitcointips_address = ["1HH93yp8ma514cUTobBcgr3ziinUMnd6W6"]
 categories = ["HowTo", "Programming"]
 date = "2015-04-16T13:10:16+00:00"
 tags = ["APIs", "Development", "How To", "Software Development", "Versioning"]
 title = "How to choose a versioning scheme for your software"
-type = "post"
 url = "/2015/04/how-to-choose-a-versioning-scheme-for-your-software/"
 
 +++

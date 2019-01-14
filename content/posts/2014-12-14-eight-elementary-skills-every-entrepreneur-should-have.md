@@ -1,11 +1,8 @@
 +++
-author = "Herbert Mühlburger"
-bitcointips_address = ["137f8qNe19ZJLSkxRrQAzebPbGeyWB6w3C"]
 categories = ["Entrepreneurship", "Technology"]
 date = "2014-12-14T14:45:39+00:00"
 tags = ["entrepreneurship", "skills", "start-ups", "startup", "startups", "Technology", "technology ventures", "ventures"]
 title = "Eight elementary Skills every Entrepreneur should have"
-type = "post"
 url = "/2014/12/eight-elementary-skills-every-entrepreneur-should-have/"
 
 +++

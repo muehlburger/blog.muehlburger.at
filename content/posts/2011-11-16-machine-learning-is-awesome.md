@@ -1,14 +1,8 @@
 +++
-aktt_notify_twitter = ["yes"]
-aktt_tweeted = ["1"]
-author = "Herbert Mühlburger"
-bitcointips_address = ["1AVBk4PRbAKyammx412aunLVhbkAgVm4Gr"]
 categories = ["Computer Science", "Machine Learning"]
 date = "2011-11-16T11:04:20+00:00"
-dsq_thread_id = ["473739476"]
 tags = ["Artificial intelligence", "Contests", "Kaggle", "Linear Regression", "Logistic Regression", "Machine Learning", "Neural Networks", "Tuned IT"]
 title = "Machine Learning is awesome"
-type = "post"
 url = "/2011/11/machine-learning-is-awesome/"
 
 +++

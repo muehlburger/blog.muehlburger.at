@@ -1,11 +1,8 @@
 +++
-author = "Herbert Mühlburger"
-bitcointips_address = ["1HL59chdkYN18hsUrVx6qPZn1EZK6KKcdT"]
 categories = ["Uncategorized"]
 date = "-001-11-30T00:00:00+00:00"
 draft = true
 title = "Analog Photography using my Leica M6"
-type = "post"
 url = "/?p=2046"
 
 +++

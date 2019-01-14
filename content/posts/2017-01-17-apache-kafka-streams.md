@@ -4,7 +4,6 @@ categories = ["Computer Science", "Programming"]
 date = "2017-01-17T16:17:01+00:00"
 tags = ["Java", "kafka", "streams"]
 title = "Apache Kafka Streams"
-type = "post"
 url = "/2017/01/apache-kafka-streams/"
 
 +++

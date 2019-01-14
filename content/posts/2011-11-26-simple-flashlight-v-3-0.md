@@ -1,14 +1,8 @@
 +++
-aktt_notify_twitter = ["yes"]
-aktt_tweeted = ["1"]
-author = "Herbert Mühlburger"
-bitcointips_address = ["1FGcbJieVFB8yqP56Syc1Sw1EpgcQHjJDn"]
 categories = ["Android", "Apps", "Programming"]
 date = "2011-11-26T21:49:24+00:00"
-dsq_thread_id = ["484803043"]
 tags = ["Android", "Android Market", "Flashlight", "Simple", "Simple Flashlight", "SimpleFlashlight", "Taschenlampe"]
 title = "Simple Flashlight v3.0"
-type = "post"
 url = "/2011/11/simple-flashlight-v-3-0/"
 
 +++

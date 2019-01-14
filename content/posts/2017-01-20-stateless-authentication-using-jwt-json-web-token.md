@@ -1,10 +1,10 @@
 +++
 author = "Herbert Mühlburger"
 categories = ["Computer Science", "Programming", "Software Engineering"]
-date = "2017-01-20T12:54:40+00:00"
+date_old = "2017-01-20T12:54:40+00:00"
+date = "2017-01-20"
 tags = ["Authentication", "Authorization", "JWT", "Security", "Spring Boot", "Spring Security", "Spring Security OAuth", "Stateless Authentication"]
 title = "Stateless Authentication using JWT (JSON Web Token)"
-type = "post"
 url = "/2017/01/stateless-authentication-using-jwt-json-web-token/"
 
 +++
@@ -12,16 +12,14 @@ Currently I work on an implementation for authentication and authorization using
 
 &#8220;**100% Stateless with JWT (JSON Web Token)**&#8221; by <a href="http://hsablonniere.com/" target="_blank">Hubert Sablonnière</a>. I found it very useful to get a better understanding on using JWTs to create a really stateless authentication architecture.
 
+{{< youtube 67mezK3NzpU >}}
 
+(via [youtube.com](https://www.youtube.com/watch?v=67mezK3NzpU))
 
-(via <a href="https://www.youtube.com/watch?v=67mezK3NzpU" target="_blank">YouTube.com</a>)
+There is another interesting talk on **Stateless authentication with OAuth 2 and JWT** by [Alvaro Sanchez-Mariscal](https://twitter.com/alvaro_sanchez)</a>.
 
-There is another interesting talk on **Stateless authentication with OAuth 2 and JWT** by <a href="https://twitter.com/alvaro_sanchez" target="_blank">Alvaro Sanchez-Mariscal</a>.
+{{< vimeo 138774235 >}}
 
-
-
-(via [vimeo.com][1])
+(via [vimeo.com](https://vimeo.com/138774235))
 
 This post will be updated as I find new resources.
-
- [1]: https://vimeo.com/138774235

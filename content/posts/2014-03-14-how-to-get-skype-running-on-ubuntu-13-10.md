@@ -1,10 +1,7 @@
 +++
-author = "Herbert Mühlburger"
-bitcointips_address = ["1FVkv1YbDFsSCfAAGsZULyYbDFytdjCkSP"]
 categories = ["HowTo"]
 date = "2014-03-14T10:30:08+00:00"
 title = "How to get Skype running on Ubuntu 13.10"
-type = "post"
 url = "/2014/03/how-to-get-skype-running-on-ubuntu-13-10/"
 
 +++

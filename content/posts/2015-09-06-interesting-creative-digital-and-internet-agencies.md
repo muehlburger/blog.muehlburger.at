@@ -1,11 +1,8 @@
 +++
-author = "Herbert Mühlburger"
-bitcointips_address = ["1MDUpqw2r7tk4VeoXXAUm9oRrvSEhHBiXy"]
 categories = ["Marketing", "Technology", "Work"]
 date = "2015-09-06T09:40:16+00:00"
 tags = ["agencies", "agency", "digital", "Internet", "list of agencies", "marketing", "Technology"]
 title = "Interesting Creative Digital & Internet Agencies"
-type = "post"
 url = "/2015/09/interesting-creative-digital-and-internet-agencies/"
 
 +++

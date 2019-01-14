@@ -1,11 +1,8 @@
 +++
-author = "Herbert Mühlburger"
-bitcointips_address = ["19NpYWYxxBGcYU4KwffxFj3Ltv4yZe97q5"]
 categories = ["Business Intelligence", "Computer Science", "HowTo", "Kettle", "Pentaho"]
 date = "2013-07-23T07:48:40+00:00"
 tags = ["BI", "Business Intelligence", "Data Integration", "Kettle", "PDI", "Pentaho"]
 title = "How to fix error on Pentaho Data Integration (Kettle) startup"
-type = "post"
 url = "/2013/07/how-to-fix-error-on-pentaho-data-integration-kettle-startup/"
 
 +++

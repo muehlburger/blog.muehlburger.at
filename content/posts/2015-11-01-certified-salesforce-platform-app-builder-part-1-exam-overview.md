@@ -1,11 +1,8 @@
 +++
-author = "Herbert Mühlburger"
-bitcointips_address = ["1AWYPwsPKuhTz8LFvLQd31oP3zyXKpyzTV"]
 categories = ["Consulting", "HowTo", "Salesforce"]
 date = "2015-11-01T11:59:44+00:00"
 tags = ["Certification", "exam", "Platform App Builder", "Preperation", "Salesforce", "Salesforce Certified Platform App Builder Exam", "Study Guide"]
 title = "Certified Salesforce Platform App Builder – Part 1: Exam Overview"
-type = "post"
 url = "/2015/11/certified-salesforce-platform-app-builder-part-1-exam-overview/"
 
 +++

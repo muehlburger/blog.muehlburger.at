@@ -1,12 +1,9 @@
 +++
-author = "Herbert Mühlburger"
-bitcointips_address = ["1LGYbk1PWgruaaNyh8mcptVzwza4Kb4wwp"]
 categories = ["Computer Science", "Realtime", "Video"]
 date = "2014-09-06T07:35:27+00:00"
 featured_image = "/wp-content/uploads/2014/09/loggly-672x372.png"
 tags = ["Apache", "infrastructure", "kafka", "loggly", "processing", "realtime", "storm", "talk", "video"]
 title = "Talk on Infrastructure at Scale: Apache Kafka, Storm and Elastic Search"
-type = "post"
 url = "/2014/09/talk-on-infrastructure-at-scale-apache-kafka-storm-and-elastic-search/"
 
 +++

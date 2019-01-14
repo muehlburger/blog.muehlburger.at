@@ -1,11 +1,9 @@
 +++
-author = "Herbert Mühlburger"
 categories = ["Business Intelligence", "Computer Science", "Pentaho"]
 date = "-001-11-30T00:00:00+00:00"
 draft = true
 tags = ["BI", "Business Intelligence", "Pentaho"]
 title = "How to install and configure Pentaho BI Server Community Edition"
-type = "post"
 url = "/?p=1705"
 
 +++

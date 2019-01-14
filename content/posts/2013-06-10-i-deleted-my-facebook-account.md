@@ -1,17 +1,11 @@
 +++
-aktt_notify_twitter = ["yes"]
-aktt_tweeted = ["1"]
-author = "Herbert Mühlburger"
 categories = ["Web2.0"]
 date = "2013-06-10T17:00:18+00:00"
 draft = true
 dsq_thread_id = ["509460888"]
 image = ["http://blog.muehlburger.at/wp-content/uploads/2011/12/facebook-account-deleted-430x327.png"]
-seo_follow = ["false"]
-seo_noindex = ["false"]
 tags = ["Facebook", "Facebook Timeline", "google", "Machine Learning", "Privacy", "Social media", "Social network"]
 title = "I deleted my Facebook account"
-type = "post"
 url = "/?p=1447"
 
 +++

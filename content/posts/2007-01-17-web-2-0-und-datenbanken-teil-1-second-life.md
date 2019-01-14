@@ -1,12 +1,8 @@
 +++
-aktt_notify_twitter = ["no"]
-author = "Herbert Mühlburger"
-bitcointips_address = ["1LcSY7pskfkyJuNShw63FrYKMwS1Sg5BX3"]
 categories = ["Computer Science", "Web2.0"]
 date = "2007-01-17T19:29:41+00:00"
 tags = ["Business", "Companies", "Cory Ondrejka", "GADI", "Linden Lab", "Multi-User Systems", "Second Life", "United States", "Virtual reality", "Web2.0"]
 title = "Web 2.0 und Datenbanken Teil 1: Second Life"
-type = "post"
 url = "/2007/01/web-2-0-und-datenbanken-teil-1-second-life/"
 
 +++

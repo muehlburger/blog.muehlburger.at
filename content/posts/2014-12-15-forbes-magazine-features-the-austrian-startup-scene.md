@@ -1,10 +1,7 @@
 +++
-author = "Herbert Mühlburger"
-bitcointips_address = ["15MuQXPTdrNsPV4dwck129LqN1E9caPa9V"]
 categories = ["Entrepreneurship", "Startups", "Technology"]
 date = "2014-12-15T17:33:02+00:00"
 title = "Forbes Magazine features the Austrian Startup Scene"
-type = "post"
 url = "/2014/12/forbes-magazine-features-the-austrian-startup-scene/"
 
 +++

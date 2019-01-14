@@ -1,11 +1,8 @@
 +++
-author = "Herbert Mühlburger"
-bitcointips_address = ["1gD5tdbfzAjhgkDAQRuvCffR3YJmKkfto"]
 categories = ["Technology", "Work"]
 date = "2013-12-19T19:32:40+00:00"
 tags = ["Internet", "Technology", "Work", "Working Remote"]
 title = "Making Location completely unimportant"
-type = "post"
 url = "/2013/12/making-location-completely-unimportant/"
 
 +++

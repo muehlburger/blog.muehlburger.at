@@ -1,11 +1,8 @@
 +++
-author = "Herbert Mühlburger"
-bitcointips_address = ["18Uv52LYyGWRdh2MTJbP5ML8PQUDPfx78V"]
 categories = ["Computer Science", "Programming"]
 date = "2013-03-04T10:27:24+00:00"
 tags = ["Freiheit", "Grundrechte", "Programmierung", "Programming", "Quellcode", "Software Development"]
 title = "What Most Schools Don’t Teach – Programming"
-type = "post"
 url = "/2013/03/what-most-schools-dont-teach-programming/"
 
 +++

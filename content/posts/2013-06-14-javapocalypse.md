@@ -1,11 +1,8 @@
 +++
-author = "Herbert Mühlburger"
-bitcointips_address = ["16i1xuzyBHNoStpXktj6iut4oFyc5gMxXM"]
 categories = ["Computer Science", "Programming", "Videos"]
 date = "2013-06-14T17:00:47+00:00"
 tags = ["Conference", "Java", "Javacopalypse", "JavaZone", "Trailer"]
 title = "Javapocalypse"
-type = "post"
 url = "/2013/06/javapocalypse/"
 
 +++

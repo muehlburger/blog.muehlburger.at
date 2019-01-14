@@ -7,9 +7,11 @@ title = "What means Serverless?"
 url = "/2018/01/what-are-serverless-architectures/"
 
 +++
-For those who want to understand &#8220;Serverless architectures&#8221;, I recommend reading <a href="https://martinfowler.com/articles/serverless.html" target="_blank" rel="noopener">this post</a> by <a href="https://twitter.com/mikebroberts" target="_blank" rel="noopener">Mike Roberts</a>. The term Serverless was already used <a href="https://readwrite.com/2012/10/15/why-the-future-of-software-and-apps-is-serverless/" target="_blank" rel="noopener">in 2012</a>. Mike defines the following characteristics of serverless architectures:
+For those who want to understand **Serverless architectures**, I recommend reading [this post](https://martinfowler.com/articles/serverless.html) by [Mike Roberts](https://twitter.com/mikebroberts). The term Serverless was already used [in 2012](https://readwrite.com/2012/10/15/why-the-future-of-software-and-apps-is-serverless/). Mike defines the following characteristics of serverless architectures:
 
-### Mike Roberts&#8217; Definition of Serverless
+### Mike Roberts - Definition of Serverless
+
+{{< youtube i_U_S5Eboy0 >}}
 
 #### No management of server hosts or server processes
 

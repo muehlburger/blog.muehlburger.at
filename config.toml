@@ -1,5 +1,5 @@
-baseURL = "https://muehlburger.github.io"
-title = "muehlburger"
+baseURL = "https://blog.muehlburger.at"
+title = "muehlburger.at"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -10,6 +10,7 @@ canonifyurls = true
 pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+googleAnalytics = "UA-131790127-1"
 
 #disqusShortname = "muehlburger"
 

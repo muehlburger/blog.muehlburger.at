@@ -1,6 +1,4 @@
 +++
-author = "Herbert Mühlburger"
-bitcointips_address = ["1DXXtP327gENAHaH7pMA1VpWk4Y9bFNU4y"]
 categories = ["Uncategorized"]
 date = "-001-11-30T00:00:00+00:00"
 draft = true

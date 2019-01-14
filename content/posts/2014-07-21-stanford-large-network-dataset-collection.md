@@ -1,11 +1,8 @@
 +++
-author = "Herbert Mühlburger"
-bitcointips_address = ["15koLLHEJBKq1NbukmUYeQy72VkCHiQpwD"]
 categories = ["Computer Science", "Networks"]
 date = "2014-07-21T11:23:47+00:00"
 tags = ["collection", "dataset", "Networks", "SNAP", "Stanford"]
 title = "Stanford Large Network Dataset Collection"
-type = "post"
 url = "/2014/07/stanford-large-network-dataset-collection/"
 
 +++

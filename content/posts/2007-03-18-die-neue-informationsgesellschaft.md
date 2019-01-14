@@ -1,13 +1,9 @@
 +++
-aktt_notify_twitter = ["no"]
-author = "Herbert Mühlburger"
-bitcointips_address = ["12g6C1WzwToYFwLzjGYemR5yugspCNvfuU"]
 categories = ["Computer Science", "Web2.0"]
 date = "2007-03-18T18:01:26+00:00"
 dsq_thread_id = ["344176435"]
 tags = ["digg", "Facebook", "Flickr", "google", "Herbert Mühlburger", "Infogesellschaft", "Mondlandung", "MySpace", "technorati", "Verschwörungstheorien", "Webwelt", "Wikipedia", "YouTube"]
 title = "Die neue Informationsgesellschaft"
-type = "post"
 url = "/2007/03/die-neue-informationsgesellschaft/"
 
 +++

@@ -1,11 +1,8 @@
 +++
-author = "Herbert Mühlburger"
-bitcointips_address = ["1MvtCTpySxfJWUm4KATMH6ELFC8ryMPgux"]
 categories = ["Computer Science", "HowTo", "Technology"]
 date = "2014-01-05T15:35:26+00:00"
 tags = ["30C3", "Crypto", "Encryption", "How To", "HTTPS", "SSL", "TLS", "video"]
 title = "Enable HTTPS everywhere"
-type = "post"
 url = "/2014/01/enable-https-everywhere/"
 
 +++

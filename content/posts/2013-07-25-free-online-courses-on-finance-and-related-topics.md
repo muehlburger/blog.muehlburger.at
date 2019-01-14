@@ -1,11 +1,8 @@
 +++
-author = "Herbert Mühlburger"
-bitcointips_address = ["12YB1ouyMfDRbXkTeBEW1n3UN1JMvZtEoM"]
 categories = ["Finance", "Videos"]
 date = "2013-07-25T13:56:24+00:00"
 tags = ["Coursera", "Finance", "Financial Engineering", "Online Courses", "Online Lectures", "Stanford", "Yale"]
 title = "Free Online Courses on Finance and Related Topics"
-type = "post"
 url = "/2013/07/free-online-courses-on-finance-and-related-topics/"
 
 +++
