@@ -1,7 +1,8 @@
 +++
 date = 2018-12-26T16:32:23+01:00
 title = "Micro Frotendends"
-slug = "micro-frontends" 
+slug = "micro frontends"
+url = "/2018/12/micro-frontends"
 tags = ["development", "micro-frontends", "architecture", "programming", "frontend-dev", "dev"]
 categories = ["programming", "software architecture"]
 
