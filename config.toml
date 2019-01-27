@@ -1,5 +1,4 @@
 baseURL = "https://blog.muehlburger.at"
-title = "muehlburger.at"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -15,10 +14,6 @@ googleAnalytics = "UA-131790127-1"
 #disqusShortname = "muehlburger"
 
 [params]
-    author = "Herbert Mühlburger"
-    info = "Solution Architect and Senior Software Engineer"
-    description = "Herbert Mühlburger's personal website"
-    keywords = "blog,developer,personal"
     avatarurl = "images/avatar.jpg"
 
     favicon_32 = "/img/favicon-32x32.png"
@@ -59,13 +54,49 @@ googleAnalytics = "UA-131790127-1"
     weight = 4
     url = "/index.xml"
 
-# Menu links
-[[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "/posts"
+[languages]
+    [languages.en]
+        languagename = "English" # The language name to be displayed in the selector.
+        title = "muehlburger.at"
 
-[[menu.main]]
-    name = "About me"
-    weight = 2
-    url = "/about/"
+        # You can configure the theme parameter for each language.
+        [languages.en.params]
+            author = "Herbert Muehlburger"
+            info = "Solution Architect and Senior Software Engineer"
+            description = "Herbert Muehlburger's personal website"
+            keywords = "blog, developer"
+
+        [languages.en.menu] # It is possible to change the menu too.
+
+        [[languages.en.menu.main]]
+        name = "About"
+        weight = 1
+        url = "/about/"
+
+        [[languages.en.menu.main]]
+        name = "Blog"
+        weight = 2
+        url = "/posts/"
+
+    [languages.de]
+        languagename = "Deutsch"
+        title = "muehlburger.at"
+
+        [languages.de.params]
+            author = "Herbert Mühlburger"
+            info = "Solution Architect und Senior Software Engineer"
+            description = "Herbert Mühlburgers Website"
+            keywords = "blog, developer"
+
+        [languages.de.menu]
+
+            [[languages.de.menu.main]]
+            name = "Über mich"
+            weight = 1
+            url = "/de/about/"
+
+            [[languages.de.menu.main]]
+            name = "Blog"
+            weight = 2
+            url = "/de/posts/"
+

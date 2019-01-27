@@ -9,9 +9,9 @@ Hi, I&#8217;m Herbert M&uuml;hlburger a Software Developer from Austria.
 
 <pre>Imprint:
 
-DI Herbert Mühlburger, BSc
+DI Herbert M&uuml;hlburger, BSc
 Am Quellenhof 2/3
-8301 Laßnitzhöhe
+8301 Laßnitzh&ouml;he
 mail (at) muehlburger.at
 
 GPG: <a href="http://pgp.mit.edu:11371/pks/lookup?search=0x83AEBB7D&op=index">0x83AEBB7D</a>
