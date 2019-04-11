@@ -9,7 +9,6 @@ canonifyurls = true
 pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-googleAnalytics = "UA-131790127-1"
 
 #disqusShortname = "muehlburger"
 
