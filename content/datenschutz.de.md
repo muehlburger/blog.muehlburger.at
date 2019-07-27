@@ -32,4 +32,4 @@ mail (at) muehlburger.at
 GPG: <a href="http://pgp.mit.edu:11371/pks/lookup?search=0x83AEBB7D&op=index">0x83AEBB7D</a>
 </pre>
 
-Unseren Datenschutzkoordinator erreichen Sie unter: datenschutz (at) muehlburger.at
+Unseren Datenschutzkoordinator erreichen Sie unter: mail (at) muehlburger.at
