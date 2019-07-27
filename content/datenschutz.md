@@ -1,3 +1,9 @@
++++
+date = "2008-10-31"
+title = "Datenschutzerklärung & Impressum"
+type = "page"
+
++++
 # Datenschutzerklärung & Impressum
 
 Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003). In diesen Datenschutzinformationen informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website.
