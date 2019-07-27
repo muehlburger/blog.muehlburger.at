@@ -20,7 +20,7 @@ Die Datenverarbeitung erfolgt auf Basis der gesetzlichen Bestimmungen des § 96 
 Da uns die Privatsphäre unserer Nutzer wichtig ist, werden die Nutzerdaten nicht gespeichert. Die Nutzerdaten werden nicht aufbewahrt.
 
 # Ihre Rechte
-Ihnen stehen bezüglich Ihrer bei uns gespeicherten Daten grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerspruch zu. Wenn Sie glauben dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, können Sie sich bei uns datenschutz@muehlburger.at oder der Datenschutzbehörde beschweren.
+Ihnen stehen bezüglich Ihrer bei uns gespeicherten Daten grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerspruch zu. Wenn Sie glauben dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, können Sie sich bei uns mail@muehlburger.at oder der Datenschutzbehörde beschweren.
 
 Sie erreichen uns unter folgenden Kontaktdaten:
 
