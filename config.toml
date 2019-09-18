@@ -1,5 +1,5 @@
 baseURL = "https://blog.muehlburger.at"
-title = "Herbert Mühlburger"
+title = "DI Herbert Mühlburger"
 
 theme = "hugo-coder"
 
@@ -16,7 +16,7 @@ pygmentscodefencesguesssyntax = true
 #disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Herbert Mühlburger"
+    author = "DI Herbert Mühlburger"
     description = "Experienced Technology Architect and Senior Software Engineer."
     keywords = "Herbert Mühlburger, Herbert Muehlburger, Technology Architect, Senior Software Engineer"
     info = "Technology Architect // Senior Software Engineer"
@@ -40,27 +40,31 @@ pygmentscodefencesguesssyntax = true
     maxSeeAlsoItems = 5
 
     # Custom CSS
-    custom_css = ["css/custom.css"]
+    custom_css = []
+
+    # Custom JS
+    custom_js = []
 
 [taxonomies]
+  category = "categories"
   series = "series"
+  tag = "tags"
 
-# Social links
 [[params.social]]
     name = "Github"
-    icon = "fab fa-github fa-2x"
+    icon = "fab fa-github"
     weight = 1
     url = "https://github.com/muehlburger/"
 
 [[params.social]]
     name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
+    icon = "fab fa-twitter"
     weight = 3
     url = "https://twitter.com/hmuehlburger/"
 
 [[params.social]]
     name = "LinkedIn"
-    icon = "fab fa-linkedin fa-2x"
+    icon = "fab fa-linkedin"
     weight = 3
     url = "https://www.linkedin.com/in/herbert-muehlburger/"
 
@@ -72,22 +76,21 @@ pygmentscodefencesguesssyntax = true
 
 [languages]
     [languages.en]
-        languagename = "English" # The language name to be displayed in the selector.
+        languagename = "English"
 
-        # You can configure the theme parameter for each language.
         [languages.en.params]
 
-        [languages.en.menu] # It is possible to change the menu too.
+        [languages.en.menu]
 
         [[languages.en.menu.main]]
         name = "About"
         weight = 2
-        url = "/about/"
+        url = "about/"
 
         [[languages.en.menu.main]]
         name = "Blog"
         weight = 1
-        url = "/posts/"
+        url = "posts/"
 
     [languages.de]
         languagename = "Deutsch"
