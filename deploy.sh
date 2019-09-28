@@ -10,7 +10,7 @@ cd public
 git add .
 
 # Commit changes.
-msg="rebuilding site `date`"
+msg="Rebuilding site at `date`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
