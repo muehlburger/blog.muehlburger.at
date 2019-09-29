@@ -1,4 +1,4 @@
-baseURL = "https://blog.muehlburger.at"
+baseurl = "https://blog.muehlburger.at"
 title = "DI Herbert Mühlburger"
 
 theme = "hugo-coder"
@@ -6,14 +6,14 @@ theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
-paginate = 10
+paginate = 20
 canonifyurls = true
 
 pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-#disqusShortname = "yourdiscussshortname"
+disqusShortname = "yourdiscussshortname"
 #googleAnalytics = "UA-131790127-1"
 
 [params]
@@ -73,7 +73,7 @@ pygmentscodefencesguesssyntax = true
     name = "RSS"
     icon = "fas fa-rss-square"
     weight = 4
-    url = "/index.xml"
+    url = "index.xml"
 
 [languages]
     [languages.en]
@@ -83,30 +83,52 @@ pygmentscodefencesguesssyntax = true
 
         [languages.en.menu]
 
-        [[languages.en.menu.main]]
-        name = "About"
-        weight = 2
-        url = "about/"
+            [[languages.en.menu.main]]
+            name = "About"
+            weight = 2
+            url = "about/"
 
-        [[languages.en.menu.main]]
-        name = "Blog"
-        weight = 1
-        url = "posts/"
+            [[languages.en.menu.main]]
+            name = "Blog"
+            weight = 1
+            url = "posts/"
 
     [languages.de]
         languagename = "Deutsch"
+        title = "DI Herbert Mühlburger"
 
         [languages.de.params]
-            keywords = "blog, developer"
+            keywords = "Mühlburger, Softwareentwicklung - Wirtschaft, DSGVO, Datenschutz, Datenschutzzertifizierung, Zertifikat, IT, Informatik, Herbert Mühlburger, Technology Architekt, Senior Software Entwickler, Software Architekt"
 
         [languages.de.menu]
 
             [[languages.de.menu.main]]
             name = "Blog"
             weight = 1
-            url = "/de/posts/"
+            url = "posts/"
 
             [[languages.de.menu.main]]
             name = "About"
             weight = 2
-            url = "/de/about/"
+            url = "about/"
+[privacy]
+  [privacy.disqus]
+    disable = false
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.instagram]
+    disable = true
+    simple = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.vimeo]
+    disable = false
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = false
