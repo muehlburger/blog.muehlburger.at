@@ -1,5 +1,5 @@
 baseURL = "https://blog.muehlburger.at"
-title = "DI Herbert Muehlburger"
+title = "DI Herbert Mühlburger"
 
 theme = "hugo-coder"
 
@@ -17,12 +17,12 @@ pygmentscodefencesguesssyntax = true
 #googleAnalytics = "UA-131790127-1"
 
 [params]
-    author = "DI Herbert Muehlburger"
+    author = "DI Herbert Mühlburger"
     description = "Experienced Technology Architect and Senior Software Engineer."
-    keywords = "Herbert Mühlburger, Herbert Muehlburger, Technology Architect, Senior Software Engineer"
+    keywords = "Mühlburger, Muehlburger, Information Technology, IT, Herbert Mühlburger, Herbert Muehlburger, Technology Architect, Senior Software Engineer"
     info = "Technology Architect // Senior Software Engineer"
     avatarurl = "images/avatar.jpg"
-#    footercontent = "Enter a text here."
+    footercontent = "🔥for tech"
 
     dateformat = "January 2, 2006"
 
@@ -30,7 +30,7 @@ pygmentscodefencesguesssyntax = true
     hideCopyright = false
 
     # Git Commit in Footer, uncomment the line below to enable it.
-    # commit = "https://github.com/muehlburger/muehlburger.github.io.git/"
+    #commit = "https://github.com/muehlburger/muehlburger.github.io.git/"
 
     rtl = false
 
