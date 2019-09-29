@@ -14,7 +14,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 disqusShortname = "yourdiscussshortname"
-#googleAnalytics = "UA-131790127-1"
+googleAnalytics = "UA-131790127-1"
 
 [params]
     author = "DI Herbert Mühlburger"
