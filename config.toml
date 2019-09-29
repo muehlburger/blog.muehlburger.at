@@ -113,10 +113,10 @@ googleAnalytics = "UA-131790127-1"
             url = "about/"
 [privacy]
   [privacy.disqus]
-    disable = false
+    disable = true
   [privacy.googleAnalytics]
     anonymizeIP = true
-    disable = true
+    disable = false
     respectDoNotTrack = true
     useSessionStorage = true
   [privacy.instagram]
