@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>life residents on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/life-residents/</link>
+    <description>Recent content in life residents on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 May 2007 13:55:24 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/life-residents/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sloog – Bookmarking Tool für Second Life</title>
+      <link>https://blog.muehlburger.at/2007/05/sloog-bookmarking-tool-fur-second-life/</link>
+      <pubDate>Sun, 06 May 2007 13:55:24 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/05/sloog-bookmarking-tool-fur-second-life/</guid>
+      <description>Sloog ist ein Bookmarking Service der Spanischen Agentur Mosi-Mosi für Second Life Bürger. Man kann beliebige Orte und Avatare speichern um sie später wiederzufinden. Dies funktioniert nicht nur im Spiel (via plugin) sondern auch im Webbrowser via www.sloog.org.Sicher ein nützliches Tool, das so manchem beim Wiederfinden von Orten und Bekanntschaften nützlich sein kann.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

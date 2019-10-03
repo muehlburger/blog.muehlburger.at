@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trending and Popularity on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/trending-and-popularity/</link>
+    <description>Recent content in Trending and Popularity on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 Sep 2010 13:02:24 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/trending-and-popularity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[video] – How is Hadoop used at Twitter?</title>
+      <link>https://blog.muehlburger.at/2010/09/video-how-is-hadoop-used-at-twitter/</link>
+      <pubDate>Fri, 10 Sep 2010 13:02:24 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/09/video-how-is-hadoop-used-at-twitter/</guid>
+      <description>Image via CrunchBase  In the following video Dmitriy Ryaboy, a Twitter Analytics Engineer and a former Cloudera Intern, explains how Twitter uses Hadoop and Pig. Enjoy the video and have a good weekend!
+[vimeo 11110059]
+Related articles {.zemanta-related-title} How GE uses Hadoop to analyze big data (news.cnet.com)  How GE uses Hadoop to analyze big data (news.cnet.com)  Hadoop There it Was&amp;#8211;Hadoop Summit June 2010 (developer.yahoo.net)  Whooping it up for Hadoop (ycorpblog.</description>
+    </item>
+    
+    <item>
+      <title>[video] – HBase and Pig: The Hadoop Ecosystem at Twitter</title>
+      <link>https://blog.muehlburger.at/2010/06/video-hbase-and-pig-the-hadoop-ecosystem-at-twitter/</link>
+      <pubDate>Fri, 25 Jun 2010 06:17:16 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/06/video-hbase-and-pig-the-hadoop-ecosystem-at-twitter/</guid>
+      <description>            Related articles by Zemanta {.zemanta-related-title}        I have just found this very interesting video dealing with the implementation of HBase and Pig in combination with Hadoop at Twitter:
+Related articles by Zemanta {.zemanta-related-title} HBase Digest, March 2010 (sematext.com)  Cassandra+Hadoop (slideshare.net)  Hadoop, Hbase and Hive- Bay area Hadoop User Group (slideshare.net)   </description>
+    </item>
+    
+  </channel>
+</rss>

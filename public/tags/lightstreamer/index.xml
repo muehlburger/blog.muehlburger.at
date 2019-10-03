@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lightstreamer on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/lightstreamer/</link>
+    <description>Recent content in Lightstreamer on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Aug 2009 09:17:53 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/lightstreamer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[video] – The History of Business Intelligence</title>
+      <link>https://blog.muehlburger.at/2009/08/video-the-history-of-business-intelligence/</link>
+      <pubDate>Sat, 01 Aug 2009 09:17:53 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/08/video-the-history-of-business-intelligence/</guid>
+      <description>I have found a really nice video explaining Business Intelligence as a concept and highlighting the development phases of Business Intelligence through the history.
+[youtube _1y5jBESLPE]
+  </description>
+    </item>
+    
+  </channel>
+</rss>

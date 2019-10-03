@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/website/</link>
+    <description>Recent content in Website on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 Jan 2010 16:32:13 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Problems with WordPress Automatic Upgrade solved</title>
+      <link>https://blog.muehlburger.at/2010/01/problems-with-wordpress-automatic-upgrade-solved/</link>
+      <pubDate>Fri, 08 Jan 2010 16:32:13 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/01/problems-with-wordpress-automatic-upgrade-solved/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}           Image via CrunchBase     While trying to upgrade my WordPress installation from version 2.9 to version 2.9.1 I always got the following error:
+ Downloading update from http://wordpress.org/wordpress-2.9.1.zip.
+Download failed.: Operation timed out with 1201840 out of -1 bytes received</description>
+    </item>
+    
+    <item>
+      <title>Designing for Change: Mash-Up Personal Learning Environments</title>
+      <link>https://blog.muehlburger.at/2009/05/designing-for-change-mash-up-personal-learning-environments/</link>
+      <pubDate>Tue, 19 May 2009 08:36:48 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/05/designing-for-change-mash-up-personal-learning-environments/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}        In order to describe what this article is about I cite Fridolin Wild, Felix Mödritscher and Stein E. Sigurdarson:
+ In this article we first clarify key concepts and assumptions for personalised learning environments. Afterwards, we summarise our critique on the contemporary models for personalised adaptive learning.</description>
+    </item>
+    
+  </channel>
+</rss>

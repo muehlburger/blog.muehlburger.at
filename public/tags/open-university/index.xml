@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open University on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/open-university/</link>
+    <description>Recent content in Open University on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 27 Apr 2010 09:51:09 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/open-university/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[paper] – Learning Management Systems: Are They Knowledge Management Tools?</title>
+      <link>https://blog.muehlburger.at/2010/04/learning-management-systems-are-they-knowledge-management-tools/</link>
+      <pubDate>Tue, 27 Apr 2010 09:51:09 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/04/learning-management-systems-are-they-knowledge-management-tools/</guid>
+      <description>Im Zuge der Lehrveranstaltung &amp;#8220;Technology Enhanced Learning&amp;#8221; an der TU Graz , abgehalten von Dr. Martin Ebner (@mebner) habe ich den Artikel &amp;#8220;Learning Management Systems: Are They Knowledge Management Tools?&amp;#8221; als Leitartikel zum Thema Lern-Management-Systeme (LMS) ausgewählt.
+Dieser Artikel beschäftigt sich mit der Frage, ob Lern-Management-Systeme (LMS) zu Wissensmanagement Werkzeugen gezählt werden sollten. Die Autoren definieren zunächst Wissensmanagement und Lernen auf Grundlage vorhandener Literatur, bevor auf eLearning und dort im speziellen auf LMS eingegangen wird.</description>
+    </item>
+    
+  </channel>
+</rss>

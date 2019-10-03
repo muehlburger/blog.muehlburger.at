@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natural language on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/natural-language/</link>
+    <description>Recent content in Natural language on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 18 Jun 2010 11:29:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/natural-language/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What Is I.B.M.’s Watson?</title>
+      <link>https://blog.muehlburger.at/2010/06/what-is-i-b-m-s-watson/</link>
+      <pubDate>Fri, 18 Jun 2010 11:29:44 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/06/what-is-i-b-m-s-watson/</guid>
+      <description>A very short answer is the following:
+ &amp;#8220;IBM is working to build a computing system that can understand and answer complex questions with enough precision and speed to compete against some of the best Jeopardy! contestants out there.&amp;#8221; [IBM]
+ A longer answer to this question is the following video explaining what I.B.M. Watson is in detail:
+[youtube FC3IryWr4c8]
+(via New York Times Technology)
+Related articles This supercomputer plans to beat humans on Jeopardy!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NoSQL on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/nosql/</link>
+    <description>Recent content in NoSQL on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Mar 2011 19:31:59 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/nosql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NoSQL Databases: Why, what and when – An Overview on NoSQL Datastores</title>
+      <link>https://blog.muehlburger.at/2011/03/nosql-databases-why-what-and-when-an-overview-on-nosql-datastores/</link>
+      <pubDate>Sun, 06 Mar 2011 19:31:59 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/03/nosql-databases-why-what-and-when-an-overview-on-nosql-datastores/</guid>
+      <description>For everybody interested in NoSQL datastores the following presentation by Lorenzo Alberton is worth reading. It gives a good overview of the currently used technologies in the area of NoSQL and discusses the ground filling basics every NoSQL enthusiast should know.  NoSQL Databases: Why, what and when (via quipo)  &amp;nbsp;
+Related Articles NoSQL: Node.js + NoSQL Database = Real Time Chat Applications (themindstorms.blogspot.com)  NoSQL: The NoSQL Gene in SQL Azure Federations (themindstorms.</description>
+    </item>
+    
+    <item>
+      <title>NOSQL Summer in Graz Kick-Off Meeting</title>
+      <link>https://blog.muehlburger.at/2010/07/nosql-summer-in-graz-kick-off-meeting/</link>
+      <pubDate>Wed, 21 Jul 2010 19:27:07 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/07/nosql-summer-in-graz-kick-off-meeting/</guid>
+      <description>Today was the kick-off meeting of NOSQL Summer here in Graz, Austria.
+ A NOSQL Summer is a network of local reading groups, that will decipher &amp;amp; discuss NOSQL-related articles, from late June to early September 2010. Each group sets its own meeting pace (usually once a week or once every two weeks) and select which papers are up for discussion.
+At every cycle, members read the selected paper at home and then meet up for an hour or so to discuss, debate and answer their own questions.</description>
+    </item>
+    
+  </channel>
+</rss>

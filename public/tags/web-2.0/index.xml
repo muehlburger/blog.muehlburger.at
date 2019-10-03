@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web 2.0 on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/web-2.0/</link>
+    <description>Recent content in Web 2.0 on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 11 Jan 2009 19:23:56 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/web-2.0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>10 Interesting Semantic Apps</title>
+      <link>https://blog.muehlburger.at/2009/01/10-interesting-semantic-apps/</link>
+      <pubDate>Sun, 11 Jan 2009 19:23:56 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/10-interesting-semantic-apps/</guid>
+      <description>One of the highlights of October&amp;#8217;s Web 2.0 Summit in San Francisco was the emergence of &amp;#8216;Semantic Apps&amp;#8217; as a force. Note that we&amp;#8217;re not necessarily talking about the Semantic Web, which is the Tim Berners-Lee W3C led initiative that touts technologies like RDF, OWL and other standards for metadata. Semantic Apps may use those technologies, but not necessarily [ReadWriteWeb 2007].  ReadWriteWeb has published a great list of 10 interesting semantic apps at the end of 2007.</description>
+    </item>
+    
+    <item>
+      <title>If you don’t ask, you don’t get!</title>
+      <link>https://blog.muehlburger.at/2007/03/if-you-dont-ask-you-dont-get/</link>
+      <pubDate>Sun, 25 Mar 2007 19:21:11 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/03/if-you-dont-ask-you-dont-get/</guid>
+      <description>In unserer heutigen von Informationen überfluteten Informationsgesellschaft wird ein Aspekt immmer wichtiger. Dies ist das altbewährte seit Jahrhunderten praktizierte und immer wieder so hilfreiche “FRAGEN”. Auch das Web2.0 bzw. die gesamte Internet Community hat sich dies zu nutze gemacht und Aplikationen wie askeet! oder Yahoo! Answers bzw. Google Answers entwickelt. Ein interessantes Werbevideo von ask.com kann hier bewundert werden.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

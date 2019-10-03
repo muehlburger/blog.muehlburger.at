@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/business/</link>
+    <description>Recent content in Business on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 18 May 2010 10:17:20 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[paper] – Information and communication technologies in the life of university freshmen: An analysis of change</title>
+      <link>https://blog.muehlburger.at/2010/05/paper-information-and-communication-technologies-in-the-life-of-university-freshmen-an-analysis-of-change/</link>
+      <pubDate>Tue, 18 May 2010 10:17:20 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/05/paper-information-and-communication-technologies-in-the-life-of-university-freshmen-an-analysis-of-change/</guid>
+      <description>Ein weiterer Artikel mit dem ich mich im Zuge der Lehrveranstaltung &amp;#8220;Technology Enhanced Learning&amp;#8220;, abgehalten an der Technischen Universität Graz (TU Graz), beschäftigt habe, ist: &amp;#8220;Information and communication technologies in the life of university freshmen: An analysis of change&amp;#8221; 1. Die Studie versucht Antworten auf die folgenden Fragen zu finden:
+  What is the self-perception of ICT competences among freshmen and is there a change in this self-perception 6 months after entering the university?</description>
+    </item>
+    
+    <item>
+      <title>A Video Introduction to Web3.0 (The Semantic Web?)</title>
+      <link>https://blog.muehlburger.at/2010/05/a-video-introduction-to-web3-0-the-semantic-web/</link>
+      <pubDate>Mon, 10 May 2010 20:14:44 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/05/a-video-introduction-to-web3-0-the-semantic-web/</guid>
+      <description>Today I found a very interesting video discussing the term of the Semantic Web, not only in a technical way. Have a look at the following video:
+[vimeo 11529540]
+What do you think? Do you think the Semantic Web is going to happen as many people think?
+Related articles by Zemanta Web 3.0, The Movie [Video] (techcrunch.com)  Semantics, tagging and Twitter: Web 2.0 Eureka or not? (ml.sun.ac.za)  Semantium.</description>
+    </item>
+    
+    <item>
+      <title>Twitter’s use of Cassandra, Hadoop, Pig and HBase for highly distributed Data Processing and Analysis</title>
+      <link>https://blog.muehlburger.at/2010/05/twitters-use-of-cassandra-pig-and-hbase-for-highly-distributed-data-processing-and-analysis/</link>
+      <pubDate>Thu, 06 May 2010 19:43:45 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/05/twitters-use-of-cassandra-pig-and-hbase-for-highly-distributed-data-processing-and-analysis/</guid>
+      <description>Kevin Weil, Analytics Lead at Twitter recently gave a presentation on Twitter’s use of Cassandra, Pig and HBase. Specially interesting is how Twitter uses Hadoop and Pig in their data analysis process.
+[slideshare id=3806196&amp;amp;doc=nosqlattwitter-nosqleu2010-100421124212-phpapp02]
+(via @kevinweil)
+Another great presentation from Tobias Ivarsson gives an overview on NoSQL:
+[slideshare id=3735857&amp;amp;doc=nosqlfordummies-100415085745-phpapp01]
+(via @thobe)
+  </description>
+    </item>
+    
+    <item>
+      <title>Pivot – Great Visualization Tool developed by Microsoft Live Labs</title>
+      <link>https://blog.muehlburger.at/2009/11/pivot-developed-by-microsoft-live-labs/</link>
+      <pubDate>Mon, 23 Nov 2009 06:37:06 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/pivot-developed-by-microsoft-live-labs/</guid>
+      <description>This time I discovered a great application developed by Microsoft Live Labs called Pivot. Pivot enables users to discover huge information spaces by different visual filtering options. You are able to look at hundred thousands of information space entities such as pictures, &amp;#8230; and filter these in different ways (zoom in/out, create links between different information items, &amp;#8230;). The following video describes Pivot in more detail:
+[youtube BZuFUZpEZ-A]
+For the fasted nine users I will share my installation code:</description>
+    </item>
+    
+    <item>
+      <title>[video] – User Interface Fundamentals for Programmers</title>
+      <link>https://blog.muehlburger.at/2009/10/video-user-interface-fundamentals-for-programmers/</link>
+      <pubDate>Thu, 08 Oct 2009 08:20:17 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/10/video-user-interface-fundamentals-for-programmers/</guid>
+      <description>Recently I have found a great video demonstrating the user interface design fundamentals every programmer should know. Check out the video, it is really interesting!
+UI Fundamentals for Programmers by Ryan Singer from ChicagoRuby on Vimeo.
+(via Smashing Magazine)
+Related articles by Zemanta {.zemanta-related-title} GUI Design by schematic visualization (slideshare.net)  Advances in mouse interface design video (core77.com)  Speaking at EdUI Conference 2009 (xaprb.com)  Visual Decision Making (alistapart.</description>
+    </item>
+    
+    <item>
+      <title>A Touchable Holography</title>
+      <link>https://blog.muehlburger.at/2009/08/touchable-holography/</link>
+      <pubDate>Thu, 06 Aug 2009 16:18:06 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/08/touchable-holography/</guid>
+      <description>At this years International Conference and Exhibition on Computer Graphics and Interactive Techniques (SIGGRAPH2009) a touchable holography was presented by the University of Tokio. It is a kind of holography that you are able to feel and interact with. Great development that you can see in the following video:
+[youtube Y-P1zZAcPuw]
+The first page of the presented scientific paper called &amp;#8220;Touchable Holography&amp;#8221; can be downloaded here.
+ [via Shinodalab]   </description>
+    </item>
+    
+    <item>
+      <title>[video] – The History of Business Intelligence</title>
+      <link>https://blog.muehlburger.at/2009/08/video-the-history-of-business-intelligence/</link>
+      <pubDate>Sat, 01 Aug 2009 09:17:53 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/08/video-the-history-of-business-intelligence/</guid>
+      <description>I have found a really nice video explaining Business Intelligence as a concept and highlighting the development phases of Business Intelligence through the history.
+[youtube _1y5jBESLPE]
+  </description>
+    </item>
+    
+    <item>
+      <title>[video] – E-Portfolios for Beginners and the Mahara UK 09 Conference</title>
+      <link>https://blog.muehlburger.at/2009/07/video-e-portfolios-for-beginners-and-the-mahara-uk-09-conference/</link>
+      <pubDate>Fri, 24 Jul 2009 09:01:44 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/07/video-e-portfolios-for-beginners-and-the-mahara-uk-09-conference/</guid>
+      <description>Since few time I am coding an extension to the open-source e-porfolio software Mahara. Therefore I have searched for a video explaining what an e-porfolio stands for and how it can be used:
+Here is a video that explains it:
+Few time ago Mahara UK 09, the very first conference covering the e-portfolio system Mahara, took place in the United Kingdom. It was organised by the University of London Computer Centre (ULCC) and the University of London Institute of Education (IOE).</description>
+    </item>
+    
+    <item>
+      <title>[video] – Trouble with the Twittersphere</title>
+      <link>https://blog.muehlburger.at/2009/05/video-trouble-with-the-twittersphere/</link>
+      <pubDate>Thu, 07 May 2009 09:28:12 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/05/video-trouble-with-the-twittersphere/</guid>
+      <description>            Related articles by Zemanta {.zemanta-related-title}        Just found a nice video about twitter and it&amp;#8217;s users called the Twittersphere.
+[youtube PN2HAroA12w]
+(via blogdrauf.de)
+Related articles by Zemanta {.zemanta-related-title} Immorality and Twitter  (scientificamerican.com)  Getting sucked into Twittersphere&amp;#8230; (localglobe.blogspot.com)     </description>
+    </item>
+    
+    <item>
+      <title>[video] – Internet of Services makes live of young parents easier</title>
+      <link>https://blog.muehlburger.at/2009/01/video/</link>
+      <pubDate>Fri, 16 Jan 2009 11:05:55 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/video/</guid>
+      <description>Internet of Services makes live of young parents easier  Once a baby is born the organization marathon is just starting for it&amp;#8217;s parents: register the birth, register with the health insurance, apply for parents allowances and arrange a lot of other appointments. SAP Research is developing an internet platform aimed at helping youg parents. Automated Services will connect authorities and service providers with each other by the internet. This saves time and lakework in the future.</description>
+    </item>
+    
+    <item>
+      <title>100 eLearning Articles and White Papers</title>
+      <link>https://blog.muehlburger.at/2009/01/100-elearning-articles-and-white-papers/</link>
+      <pubDate>Thu, 08 Jan 2009 11:48:37 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/100-elearning-articles-and-white-papers/</guid>
+      <description>I have found a great collection of 100 eLearning articles and white papers through dontwasteyourtime. The full list of articles can be found at Dr. Tony Karrer&amp;#8217;s weblog called elearningtech.
+(via cristinacost&amp;#8217;s tweet)
+  </description>
+    </item>
+    
+    <item>
+      <title>“Paper Four” – Papier der nächsten Generation</title>
+      <link>https://blog.muehlburger.at/2007/06/paper-four-papier-der-nachsten-generation/</link>
+      <pubDate>Mon, 11 Jun 2007 07:39:41 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/06/paper-four-papier-der-nachsten-generation/</guid>
+      <description>Mit “Paper Four” wird die eine neue Ära von Papier eingeläutet. “Paper Four”, entwickelt von Forschen der Mid Sweden University soll die vierte Generation von Papierprodukten einläuten. Paper Four ist ein Interaktives Multimediales Papierformat welches auf Berührung reagiert und digital abgespeicherte Audiodateien wiedergibt.
+  </description>
+    </item>
+    
+    <item>
+      <title>Sloog – Bookmarking Tool für Second Life</title>
+      <link>https://blog.muehlburger.at/2007/05/sloog-bookmarking-tool-fur-second-life/</link>
+      <pubDate>Sun, 06 May 2007 13:55:24 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/05/sloog-bookmarking-tool-fur-second-life/</guid>
+      <description>Sloog ist ein Bookmarking Service der Spanischen Agentur Mosi-Mosi für Second Life Bürger. Man kann beliebige Orte und Avatare speichern um sie später wiederzufinden. Dies funktioniert nicht nur im Spiel (via plugin) sondern auch im Webbrowser via www.sloog.org.Sicher ein nützliches Tool, das so manchem beim Wiederfinden von Orten und Bekanntschaften nützlich sein kann.
+  </description>
+    </item>
+    
+    <item>
+      <title>Jeff Han spricht auf der TED Konferenz</title>
+      <link>https://blog.muehlburger.at/2007/04/jeff-han-spricht-auf-der-ted-konferenz/</link>
+      <pubDate>Mon, 02 Apr 2007 21:47:36 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/04/jeff-han-spricht-auf-der-ted-konferenz/</guid>
+      <description>Jeff Han spricht auf der TED Konferenz über ein neues User Interface. Dieses Video ist sehr sehenswert!
+    </description>
+    </item>
+    
+    <item>
+      <title>Web 2.0 und Datenbanken Teil 1: Second Life</title>
+      <link>https://blog.muehlburger.at/2007/01/web-2-0-und-datenbanken-teil-1-second-life/</link>
+      <pubDate>Wed, 17 Jan 2007 19:29:41 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/01/web-2-0-und-datenbanken-teil-1-second-life/</guid>
+      <description>Dieser interessante Artikel von Tim O’Reilly beschäftigt sich mit der Datenbank von Second Life und deren Problemen! Cory Ondrejka and Ian Wilkes von Linden Labs wurden zu diesem Thema befragt!
+  </description>
+    </item>
+    
+  </channel>
+</rss>

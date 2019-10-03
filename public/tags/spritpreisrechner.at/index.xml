@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spritpreisrechner.at on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/spritpreisrechner.at/</link>
+    <description>Recent content in spritpreisrechner.at on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 26 Aug 2011 09:17:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/spritpreisrechner.at/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[spritpreisrechner.at] – Apps entwickeln</title>
+      <link>https://blog.muehlburger.at/2011/08/spritpreisrechner-at-apps-entwickeln/</link>
+      <pubDate>Fri, 26 Aug 2011 09:17:35 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/08/spritpreisrechner-at-apps-entwickeln/</guid>
+      <description>Vor kurzem wurde in Österreich der Spritpreisrechner der E-Control offiziell der Öffentlichkeit vorgestellt. Es hat nicht lange gedauert, bis auch die ersten Android App Entwickler die Seite zu nutzen versuchten. So finden sich derzeit im Android Market schon einige Spritpreisrechner Apps.
+Ich habe mir einmal das Datenformat angesehen, welches die Website spritpreisrechner.at für die Abfrage der Spritdaten benutzt. Es ist eigentlich ganz einfach:
+Es werden per HTTP POST Request Anfragen an http://www.</description>
+    </item>
+    
+  </channel>
+</rss>

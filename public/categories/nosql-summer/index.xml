@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NOSQL Summer on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/categories/nosql-summer/</link>
+    <description>Recent content in NOSQL Summer on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Jul 2010 19:27:07 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/categories/nosql-summer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NOSQL Summer in Graz Kick-Off Meeting</title>
+      <link>https://blog.muehlburger.at/2010/07/nosql-summer-in-graz-kick-off-meeting/</link>
+      <pubDate>Wed, 21 Jul 2010 19:27:07 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/07/nosql-summer-in-graz-kick-off-meeting/</guid>
+      <description>Today was the kick-off meeting of NOSQL Summer here in Graz, Austria.
+ A NOSQL Summer is a network of local reading groups, that will decipher &amp;amp; discuss NOSQL-related articles, from late June to early September 2010. Each group sets its own meeting pace (usually once a week or once every two weeks) and select which papers are up for discussion.
+At every cycle, members read the selected paper at home and then meet up for an hour or so to discuss, debate and answer their own questions.</description>
+    </item>
+    
+  </channel>
+</rss>

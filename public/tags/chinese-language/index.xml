@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chinese language on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/chinese-language/</link>
+    <description>Recent content in Chinese language on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Nov 2009 18:49:06 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/chinese-language/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What will the web look like in five years?</title>
+      <link>https://blog.muehlburger.at/2009/11/what-will-the-web-look-like-in-five-years/</link>
+      <pubDate>Sun, 01 Nov 2009 18:49:06 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/what-will-the-web-look-like-in-five-years/</guid>
+      <description>Eric Schmidt, CEO of Google was answering this question in an interesting interview at Gartner Symposium/ITxpo Orlando 2009. ReadWriteWeb has summarized the highlights of Eric&amp;#8217;s interview as follows:
+  Five years from now the internet will be dominated by Chinese-language content. Today&amp;#8217;s teenagers are the model of how the web will work in five years &amp;#8211; they jump from app to app to app seamlessly. Five years is a factor of ten in Moore&amp;#8217;s Law, meaning that computers will be capable of far more by that time than they are today.</description>
+    </item>
+    
+  </channel>
+</rss>

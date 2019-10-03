@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videos on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/categories/videos/</link>
+    <description>Recent content in Videos on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 25 Jan 2019 21:10:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/categories/videos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Istio</title>
+      <link>https://blog.muehlburger.at/2019/01/istio/</link>
+      <pubDate>Fri, 25 Jan 2019 21:10:00 +0100</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2019/01/istio/</guid>
+      <description>Istio has gained lots of traction in the Kubernetes space. Here is a compiled list of interesting talks on Istio.
+Kudos to Lachlan Evenson for creating this content:
+Setting Sail with Istio   Istio - up and running by Lachlan Evenson   Istio - adding services to the mesh by Lachlan Evenson   Istio - Working with Ingress   Istio - Working with Egress   Istio - Request Routing   Istio - Fault Injection Testing   I hope you find something useful in these resources.</description>
+    </item>
+    
+    <item>
+      <title>Free Online Courses on Finance and Related Topics</title>
+      <link>https://blog.muehlburger.at/2013/07/free-online-courses-on-finance-and-related-topics/</link>
+      <pubDate>Thu, 25 Jul 2013 13:56:24 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2013/07/free-online-courses-on-finance-and-related-topics/</guid>
+      <description>Are you interested in finance and financial topics? Here are some links on interesting free online courses on finance and financial topics:
+Open Yale Courses Yale provides two courses (ECON 252, ECON 251):
+ ECON 252: Financial Markets (2008) ECON 252: Financial Markets (2011) ECON 251: Financial Theory, (Recommended Books)  Stanford Courses Stanford University provides a course on
+ Finance.  Coursera.org Courses On Coursera there are lots of online courses.</description>
+    </item>
+    
+    <item>
+      <title>Javapocalypse</title>
+      <link>https://blog.muehlburger.at/2013/06/javapocalypse/</link>
+      <pubDate>Fri, 14 Jun 2013 17:00:47 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2013/06/javapocalypse/</guid>
+      <description>I need to share the following video on &amp;#8220;Javapocalypse&amp;#8221; from JavaZone. Pushing the &amp;#8220;Undo Java&amp;#8221; button will have huge impact. Have a look at these consequences. The following trailer highlights the importance of Java.
+JavaZone 2013 takes places in Oslo at the 10th and 11th of September 2013.
+ JavaZone is an important meeting place for software developers in Scandinavia, and is the biggest community driven conference of its kind. JavaZone has been described as a high quality, independent conference – a leading forum for knowledge exchange for IT- professionals.</description>
+    </item>
+    
+    <item>
+      <title>Videos of Google IO 2011 – Android Tracks of Day Two</title>
+      <link>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/</link>
+      <pubDate>Thu, 12 May 2011 11:20:59 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/</guid>
+      <description>In the next few videos you can seen the recorded tracks of Google&amp;#8217;s IO 2011 Developer Conference covering Android development. Sit back and enjoy! Google I/O 2011: Keynote Day 2 Android Market for Developers Designing and Implementing Android UIs for Phones and Tablets Building Android Apps for Google TV Android Development Tools Taking Android to Work Related articles {.zemanta-related-title} Google TV Gets Android Market And Android 3.1 Honeycomb (slashgear.com)  Google TV will get Android 3.</description>
+    </item>
+    
+    <item>
+      <title>Videos of Google IO 2011 – Android Tracks of Day One</title>
+      <link>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-one/</link>
+      <pubDate>Wed, 11 May 2011 17:09:56 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-one/</guid>
+      <description>&amp;nbsp; Google IO is currently taking place in San Francisco and for everybody who could not attend Google live streamed quite some sessions. In the following you can see the videos which are currently published:
+Google I/O 2011: Android Keynote Day One  [youtube OxzucwjFEEs]
+As an Android developer I am very interested in the Android sessions as you can imagine. So the following the next video first covers advaced topics of android development.</description>
+    </item>
+    
+    <item>
+      <title>Our Choice – The Next Generation of Digital Books</title>
+      <link>https://blog.muehlburger.at/2011/05/video-our-choice-the-next-generation-of-digital-books/</link>
+      <pubDate>Mon, 02 May 2011 17:49:38 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/05/video-our-choice-the-next-generation-of-digital-books/</guid>
+      <description>Mike Matas (@mike_matas) and his team from Push Pop Press developed a great iPad and iPhone application called &amp;#8220;Our Choice&amp;#8220;. They claim it to be the next generation of digital books. In the following you see the TED Talk given by Mike Matas demonstrating &amp;#8220;Our Choice&amp;#8221;.
+What I find really interesting there are the interactive data visualizations. If you like this video drop me a comment! </description>
+    </item>
+    
+    <item>
+      <title>Introducing Robotium – A Testing Framework for Android</title>
+      <link>https://blog.muehlburger.at/2011/04/introducing-robotium-a-testing-framework-for-android/</link>
+      <pubDate>Tue, 19 Apr 2011 12:55:52 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/04/introducing-robotium-a-testing-framework-for-android/</guid>
+      <description>Image via Wikipedia  Robotium is an open source testing framework for Android applications. It makes it easy to write complex black-box test cases. Test driven development is a methology where tests are written before the actual application.
+ Write a testcase
+ Watch it failing
+ Write the actual source code in you application which enables the test to pass
+ Watch the test passing
+ Go back to step 1</description>
+    </item>
+    
+    <item>
+      <title>[video] – Bis an die Grenzen des Universums</title>
+      <link>https://blog.muehlburger.at/2011/03/video-bis-an-die-grenzen-des-universums/</link>
+      <pubDate>Tue, 08 Mar 2011 10:00:54 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/03/video-bis-an-die-grenzen-des-universums/</guid>
+      <description>&amp;#8220;Bis an die Grenzen des Universums&amp;#8221; ist der Titel einer Dokumentation, die versucht die ewigen weiten unseres Universums zu beschreiben. Meiner Meinung nach ausgesprochen sehenswert!
+http://www.youtube.com/watch?v=_oarMXGq3gIAKXNGZQShd8</description>
+    </item>
+    
+    <item>
+      <title>Minecraft Documentary Explores Indie Game’s Impact</title>
+      <link>https://blog.muehlburger.at/2011/03/minecraft-documentary-explores-indie-games-impact/</link>
+      <pubDate>Mon, 07 Mar 2011 18:06:30 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/03/minecraft-documentary-explores-indie-games-impact/</guid>
+      <description>The impact of indie games given Minecraft as an example is the topic of the following 20 minutes documentary. Wired.com states:
+ Of all the videogame industry’s tremendous success stories, Minecraft might very well be the most remarkable. [wired.com]
+ Have fun watching the interesting video:
+[youtube Ax9kmoyzl1Y]
+(via wired.com)
+{.zemanta-related-title} Related articles {.zemanta-related-title} Minecraft Documentary Explores Indie Game&amp;#8217;s Impact (wired.com)  Watch 20 Minutes of the Minecraft Documentary (escapistmagazine.</description>
+    </item>
+    
+    <item>
+      <title>[video] – Developing Android REST Client Applications</title>
+      <link>https://blog.muehlburger.at/2010/12/video-developing-android-rest-client-applications/</link>
+      <pubDate>Mon, 13 Dec 2010 15:45:53 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/12/video-developing-android-rest-client-applications/</guid>
+      <description> Virgil Dobjanschi demonstrates in this Google I/O session patterns for developing RESTful applications on the Android platform.
+[youtube xHXn3Kg2IQE]
+(via Google I/O 2010)
+Related articles Android Market gets an update &amp;#8211; Christmas come early? (geek.com)  Developing Android Applications with Adobe AIR: Rough Cuts Version (oreilly.com)  Video: Google releases YouTube 2.1 for Android 2.2 and later devices [Watch the demo on a Nexus S] (intomobile.com)     </description>
+    </item>
+    
+    <item>
+      <title>[video] – Drive: The surprising truth about what motivates us</title>
+      <link>https://blog.muehlburger.at/2010/09/video-drive-the-surprising-truth-about-what-motivates-us/</link>
+      <pubDate>Sat, 11 Sep 2010 17:53:51 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/09/video-drive-the-surprising-truth-about-what-motivates-us/</guid>
+      <description>Image via Wikipedia  Have you ever asked yourself if why your employer is not really able to motivate you to love your work? One of the reasons why people are motivated doing what they do is because they see a purpose in their work. This fact you already see in &amp;#8220;Maslov&amp;#8217;s Hierarchy of Needs&amp;#8220;. The following video demonstrates the surprising truth about what drives our motivation.
+[youtube u6XAPnuFjJc]</description>
+    </item>
+    
+    <item>
+      <title>[video] – How is Hadoop used at Twitter?</title>
+      <link>https://blog.muehlburger.at/2010/09/video-how-is-hadoop-used-at-twitter/</link>
+      <pubDate>Fri, 10 Sep 2010 13:02:24 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/09/video-how-is-hadoop-used-at-twitter/</guid>
+      <description>Image via CrunchBase  In the following video Dmitriy Ryaboy, a Twitter Analytics Engineer and a former Cloudera Intern, explains how Twitter uses Hadoop and Pig. Enjoy the video and have a good weekend!
+[vimeo 11110059]
+Related articles {.zemanta-related-title} How GE uses Hadoop to analyze big data (news.cnet.com)  How GE uses Hadoop to analyze big data (news.cnet.com)  Hadoop There it Was&amp;#8211;Hadoop Summit June 2010 (developer.yahoo.net)  Whooping it up for Hadoop (ycorpblog.</description>
+    </item>
+    
+    <item>
+      <title>[video] – Thoughts on Google Instant</title>
+      <link>https://blog.muehlburger.at/2010/09/video-thoughts-on-google-instant/</link>
+      <pubDate>Thu, 09 Sep 2010 17:00:14 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/09/video-thoughts-on-google-instant/</guid>
+      <description>Image via CrunchBase     Here is an introductory video to Google Instant the new search feature that Google provides for its search engine.
+http://www.youtube.com/watch?v=_oarMXGq3gIElubRNRIUg4
+I personally do really like the new feature searching while you type. What do you think about it? Do you prefer the traditional &amp;#8220;push-the-button&amp;#8221; search approach?
+RWW asks how will this change affect your companie&amp;#8217;s search engine optimization?  tries to answer the similar question on if SEO will still be required in 5 years.</description>
+    </item>
+    
+    <item>
+      <title>Car Manufacturers work on Android Integration for their Vehicles – [videos]</title>
+      <link>https://blog.muehlburger.at/2010/05/car-manufacturers-work-on-android-integration-for-their-vehicles-videos/</link>
+      <pubDate>Wed, 19 May 2010 06:08:49 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/05/car-manufacturers-work-on-android-integration-for-their-vehicles-videos/</guid>
+      <description>GM and OnStar are working on the integration of mobile Android application into one of their cars (Chevrolet Volt). A demonstration of a first working prototype can be seen in the video below.
+[youtube KFj3OdXxszk]
+Ford was also working on integrating mobile applications into their cars as the following two videos demonstrate:
+SYNC AppLink and the New 2011 Ford Fiesta [youtube 3xSOON3hxPg]
+Ford SYNC and Pandora Pandora is a free internet radio which currently sadly cannot be accesed in Austria.</description>
+    </item>
+    
+    <item>
+      <title>A Video Introduction to Web3.0 (The Semantic Web?)</title>
+      <link>https://blog.muehlburger.at/2010/05/a-video-introduction-to-web3-0-the-semantic-web/</link>
+      <pubDate>Mon, 10 May 2010 20:14:44 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/05/a-video-introduction-to-web3-0-the-semantic-web/</guid>
+      <description>Today I found a very interesting video discussing the term of the Semantic Web, not only in a technical way. Have a look at the following video:
+[vimeo 11529540]
+What do you think? Do you think the Semantic Web is going to happen as many people think?
+Related articles by Zemanta Web 3.0, The Movie [Video] (techcrunch.com)  Semantics, tagging and Twitter: Web 2.0 Eureka or not? (ml.sun.ac.za)  Semantium.</description>
+    </item>
+    
+    <item>
+      <title>The Social Media Revolution – Facts and Figures – [video]</title>
+      <link>https://blog.muehlburger.at/2010/05/social-media-revolution-facts-and-figures/</link>
+      <pubDate>Fri, 07 May 2010 19:09:03 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/05/social-media-revolution-facts-and-figures/</guid>
+      <description>Related articles {.zemanta-related-title}        The following video visualizes some recent social media statistics interestingly. Quite impressing how social media has developed over the last year. Facebook for example has gained 200 million users in just one year. That&amp;#8217;s incredible &amp;#8230;
+http://www.youtube.com/watch?v=_oarMXGq3gIlFZ0z5Fm-Ng
+(via crowdspring and mashable)
+Related articles {.zemanta-related-title}  Socialnomics Revisits &amp;#8216;Social Media Revolution&amp;#8217; (socialtimes.</description>
+    </item>
+    
+    <item>
+      <title>[video] – How fast is Google Chrome?</title>
+      <link>https://blog.muehlburger.at/2010/05/video-how-fast-is-google-chrome/</link>
+      <pubDate>Wed, 05 May 2010 18:12:51 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/05/video-how-fast-is-google-chrome/</guid>
+      <description>These days Google has released a video demonstrating the speed of their new beta Google Chrome browser. The video is made up in a very creative way. I am impressed how Google always finds really interesting ways to promote their products. Specially this one is of really interest:
+For everybody who is interested in the making of this video will like the following one too:
+(via ReadWriteWeb and Mashable)</description>
+    </item>
+    
+    <item>
+      <title>[video] – TEDxNYED – Dan Meyer presents Impressive Ways to Teach Mathematics</title>
+      <link>https://blog.muehlburger.at/2010/04/video-tedxnyed-dan-meyer-presents-impressive-ways-to-teach-mathematics/</link>
+      <pubDate>Tue, 27 Apr 2010 12:06:26 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/04/video-tedxnyed-dan-meyer-presents-impressive-ways-to-teach-mathematics/</guid>
+      <description>In the following video Dan Meyer (@ddmeyer) presents an impressive way to teach applied mathematics. I hope that some of our professors will watch this video and keep some of the ideas in mind.
+[youtube BlvKWEvKSi8]
+(via e-Learning Blog)
+  </description>
+    </item>
+    
+    <item>
+      <title>What does investing money really mean?</title>
+      <link>https://blog.muehlburger.at/2010/04/what-does-investing-money-really-mean/</link>
+      <pubDate>Mon, 26 Apr 2010 09:46:13 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/04/what-does-investing-money-really-mean/</guid>
+      <description>Due to my studies (Software Development and Business Management) I also have a strong interest in financial topics. The following video explains what investing money really means for everybody to understand. Enjoy the video it is worth watching.
+http://www.youtube.com/watch?v=8QvW1XETz2g
+(via commoncraft.com)</description>
+    </item>
+    
+    <item>
+      <title>The Virtual Revolution covered by the BBC</title>
+      <link>https://blog.muehlburger.at/2010/01/the-virtual-revolution-covered-by-the-bbc/</link>
+      <pubDate>Sun, 31 Jan 2010 20:43:46 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/01/the-virtual-revolution-covered-by-the-bbc/</guid>
+      <description>The Virtual Revolution refers to the fact that 20-25% of the word&amp;#8217;s population is using the web by now, while other 80% are yet either not connected to broadband connections or are just not using it, as Sir Tim Berners-Lee, the inventor of the web, states. In Afrika for example, people are now getting connected to broadband internet in a wide variety of areas. This means that the digital revolution that has shaped our world as we know it now, will happen in these areas too.</description>
+    </item>
+    
+    <item>
+      <title>[video] – The Evolution of Google</title>
+      <link>https://blog.muehlburger.at/2009/11/video-the-evolution-of-google/</link>
+      <pubDate>Fri, 13 Nov 2009 07:44:35 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/video-the-evolution-of-google/</guid>
+      <description>Through @mebner I have found the following video demonstrating the evolution of Google:</description>
+    </item>
+    
+    <item>
+      <title>How will The Future of Interface Design look like?</title>
+      <link>https://blog.muehlburger.at/2009/11/the-future-of-interface-design-how-will-it-look-like/</link>
+      <pubDate>Thu, 05 Nov 2009 08:16:31 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/the-future-of-interface-design-how-will-it-look-like/</guid>
+      <description>David Leggett tried to answer this question in a blogpost written for uxBOOTH. He writes:
+ The future of how we interact with computers is exciting to say the least. What once seemed like nonsense outside of Hollywood and Science Fiction is now starting to find it’s way into reality, and some of the technology is a bit overwhelming. Have a taste of what the future of interface design has to offer:</description>
+    </item>
+    
+    <item>
+      <title>What will the web look like in five years?</title>
+      <link>https://blog.muehlburger.at/2009/11/what-will-the-web-look-like-in-five-years/</link>
+      <pubDate>Sun, 01 Nov 2009 18:49:06 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/what-will-the-web-look-like-in-five-years/</guid>
+      <description>Eric Schmidt, CEO of Google was answering this question in an interesting interview at Gartner Symposium/ITxpo Orlando 2009. ReadWriteWeb has summarized the highlights of Eric&amp;#8217;s interview as follows:
+  Five years from now the internet will be dominated by Chinese-language content. Today&amp;#8217;s teenagers are the model of how the web will work in five years &amp;#8211; they jump from app to app to app seamlessly. Five years is a factor of ten in Moore&amp;#8217;s Law, meaning that computers will be capable of far more by that time than they are today.</description>
+    </item>
+    
+    <item>
+      <title>[video] – E-Portfolios for Beginners and the Mahara UK 09 Conference</title>
+      <link>https://blog.muehlburger.at/2009/07/video-e-portfolios-for-beginners-and-the-mahara-uk-09-conference/</link>
+      <pubDate>Fri, 24 Jul 2009 09:01:44 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/07/video-e-portfolios-for-beginners-and-the-mahara-uk-09-conference/</guid>
+      <description>Since few time I am coding an extension to the open-source e-porfolio software Mahara. Therefore I have searched for a video explaining what an e-porfolio stands for and how it can be used:
+Here is a video that explains it:
+Few time ago Mahara UK 09, the very first conference covering the e-portfolio system Mahara, took place in the United Kingdom. It was organised by the University of London Computer Centre (ULCC) and the University of London Institute of Education (IOE).</description>
+    </item>
+    
+    <item>
+      <title>[video] – The Sixth Sense demonstrates the great abilities of User Interfaces</title>
+      <link>https://blog.muehlburger.at/2009/07/ted-talks-pattie-maes-demos-the-sixth-sense/</link>
+      <pubDate>Wed, 22 Jul 2009 09:07:27 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/07/ted-talks-pattie-maes-demos-the-sixth-sense/</guid>
+      <description>Image by Larry Johnson via Flickr     Wired.com states in an article (found by ReadWriteWeb) as follows:
+ LONG BEACH, California — Students at the MIT Media Lab have developed a wearable computing system that turns any surface into an interactive display screen. The wearer can summon virtual gadgets and internet data at will, then dispel them like smoke when they’re done.
+Pattie Maes of the lab’s Fluid Interfaces group said the research is aimed at creating a new digital</description>
+    </item>
+    
+    <item>
+      <title>[video] – It is time for a different kind of university</title>
+      <link>https://blog.muehlburger.at/2009/01/video-it-is-time-for-a-different-kind-of-university/</link>
+      <pubDate>Mon, 19 Jan 2009 07:45:57 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/video-it-is-time-for-a-different-kind-of-university/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}        Kaplan University has produced two interesting and inspiring videos on how e-Learning can be performed in near future.
+ It&amp;#8217;s time to use technology to rewrite the rules of education &amp;#8230;
+ [youtube e50YBu14j3U]
+Here is another one.
+[youtube F3nHvkJSNFg]
+Besides I have found an interesting article written by George Siemens on How MIT is going to get large lectures off the blackboard.</description>
+    </item>
+    
+    <item>
+      <title>First BarCamp in Graz, Austria</title>
+      <link>https://blog.muehlburger.at/2008/11/first-barcamp-in-graz-austria/</link>
+      <pubDate>Sun, 23 Nov 2008 08:35:38 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/first-barcamp-in-graz-austria/</guid>
+      <description>[][1]First BarCamp in Graz November 2008  This weekend the first BarCamp of Graz, Austria is going on. Location is the Karl-Franzens University and today it is going to start at 10.00 o&amp;#8217;clock am. BarCamps are a growing type of events. A BarCamp is a so called unconference. On wikipedia you can read:
+ BarCamps are organized and evangelized largely through the web, harnessing what might be called a Web 2.</description>
+    </item>
+    
+    <item>
+      <title>[video] – Matrix for Windows</title>
+      <link>https://blog.muehlburger.at/2008/11/video-matrix-for-windows/</link>
+      <pubDate>Mon, 17 Nov 2008 21:24:43 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/video-matrix-for-windows/</guid>
+      <description>Just watch and enjoy:
+Matrix for Windows
+Check out Matrix XP as well.
+(via Basic Thinking Blog)</description>
+    </item>
+    
+    <item>
+      <title>[university] – Mathematical Analysis T1 Exam</title>
+      <link>https://blog.muehlburger.at/2008/11/university-mathematical-analysis-t1-exam/</link>
+      <pubDate>Mon, 10 Nov 2008 20:53:30 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/university-mathematical-analysis-t1-exam/</guid>
+      <description>Tomorrow I will write the first mathematical analyis exam for this term. By now I solved all the exercise sheets and I think that I am well prepared. Need to pass this lecture this year since it is the last term of my undergraduate studies. Professor Grabner presented us this video about the mathematical analyis:
+What do you think about this video? I think it&amp;#8217;s weird. Well wish me luck for tomorrow.</description>
+    </item>
+    
+    <item>
+      <title>[video] – CNN for Holodeck</title>
+      <link>https://blog.muehlburger.at/2008/11/video-cnn-for-holodeck/</link>
+      <pubDate>Wed, 05 Nov 2008 11:11:56 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/video-cnn-for-holodeck/</guid>
+      <description>CNN yesterday used holograms for interviews in their broadcast on the presedential election 2008. The journalist Jessica Yellin was beamed from Chicago to the CNN studio, New York where Wolf Blitzer was speaking with her virtual hologram. Very interesting technique which shows where new media is moving.
+http://www.youtube.com/watch?v=x2bRNA2wpYk
+(via webstandard.at)</description>
+    </item>
+    
+    <item>
+      <title>Acapella Session</title>
+      <link>https://blog.muehlburger.at/2008/11/video-acapella-session/</link>
+      <pubDate>Tue, 04 Nov 2008 17:18:51 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/video-acapella-session/</guid>
+      <description>Check out this amazing video wich I have found on Basic Thinking Blog. Don&amp;#8217;t froget to close your mouth after you have seen it.
+(via Basic Thinking Blog)</description>
+    </item>
+    
+    <item>
+      <title>We think</title>
+      <link>https://blog.muehlburger.at/2008/11/video-we-think/</link>
+      <pubDate>Mon, 03 Nov 2008 11:50:23 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/video-we-think/</guid>
+      <description>The following video I have found on e-Learning Blog. Just watch and enjoy, &amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>User Interface der Zukunft! Unglaublich …</title>
+      <link>https://blog.muehlburger.at/2007/04/user-interface-der-zukunft-unglaublich/</link>
+      <pubDate>Tue, 24 Apr 2007 05:52:50 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/04/user-interface-der-zukunft-unglaublich/</guid>
+      <description>Hier ein User Interface der Zukunft! Das ist wirklich unglaublich, was uns das zukünftig für greznenlose Möglichkeiten bieten wird! Viel Spaß damit!</description>
+    </item>
+    
+    <item>
+      <title>Apple iPhone</title>
+      <link>https://blog.muehlburger.at/2007/04/apple-iphone/</link>
+      <pubDate>Wed, 11 Apr 2007 13:42:32 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/04/apple-iphone/</guid>
+      <description>Hier ein sehr interessantes Video über das neue iPhone von Apple! Viel Spaß damit! Google Maps on iPhone:
+http://www.youtube.com/watch?v=YRNugqEQYS4</description>
+    </item>
+    
+    <item>
+      <title>Gabelstaplerfahrer Klaus – Der erste Arbeitstag</title>
+      <link>https://blog.muehlburger.at/2007/04/gabelstaplerfahrer-klaus-der-erste-arbeitstag/</link>
+      <pubDate>Sat, 07 Apr 2007 05:52:13 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/04/gabelstaplerfahrer-klaus-der-erste-arbeitstag/</guid>
+      <description>Hier mal ein kleiner Film zum Thema Arbeitsschutz!
+Der bekannte deutschsprachige Film “Gabelstaplerfahrer Klaus” sollte jeder der einen Gabelstaplerführerschein macht gesehen haben! Natürlich wollte ich Euch diesen Film nicht vorenthalten! Viel Spaß damit!
+  </description>
+    </item>
+    
+    <item>
+      <title>Jeff Han spricht auf der TED Konferenz</title>
+      <link>https://blog.muehlburger.at/2007/04/jeff-han-spricht-auf-der-ted-konferenz/</link>
+      <pubDate>Mon, 02 Apr 2007 21:47:36 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/04/jeff-han-spricht-auf-der-ted-konferenz/</guid>
+      <description>Jeff Han spricht auf der TED Konferenz über ein neues User Interface. Dieses Video ist sehr sehenswert!
+    </description>
+    </item>
+    
+  </channel>
+</rss>

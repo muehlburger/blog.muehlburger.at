@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Revision control on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/revision-control/</link>
+    <description>Recent content in Revision control on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Jan 2012 08:17:48 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/revision-control/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Video Introduction to GIT Version Control by Scott Chacon of GitHub</title>
+      <link>https://blog.muehlburger.at/2012/01/video-introduction-to-git-version-control-by-scott-chacon-of-github/</link>
+      <pubDate>Thu, 26 Jan 2012 08:17:48 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2012/01/video-introduction-to-git-version-control-by-scott-chacon-of-github/</guid>
+      <description>The following talk, given by Scott Chacon of GitHub, gives a very good introduction to the version control system GIT and its usage. This is by far the best introduction that I have found so far.
+(via Marakana)</description>
+    </item>
+    
+  </channel>
+</rss>

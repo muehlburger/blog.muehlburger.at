@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kettle on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/categories/kettle/</link>
+    <description>Recent content in Kettle on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jul 2013 07:48:40 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/categories/kettle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to fix error on Pentaho Data Integration (Kettle) startup</title>
+      <link>https://blog.muehlburger.at/2013/07/how-to-fix-error-on-pentaho-data-integration-kettle-startup/</link>
+      <pubDate>Tue, 23 Jul 2013 07:48:40 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2013/07/how-to-fix-error-on-pentaho-data-integration-kettle-startup/</guid>
+      <description>Howto fix startup error of Pentaho Data Integration (Kettle) on CentOS 6? You just need to modify the spoon.sh startup script after downloading and unzipping Pentaho Data Integration. The modification updates the Java runtime options for Kettle to startup properly. Therefore open
+[code language=&amp;#8221;bash&amp;#8221;]spoon.sh[/code]
+and change the end of the file in the following way:
+[code language=&amp;#8221;bash&amp;#8221;]
+# **********************
+# ** Set java runtime options **
+# ** Change 512m to higher values in case you run out of memory **</description>
+    </item>
+    
+  </channel>
+</rss>

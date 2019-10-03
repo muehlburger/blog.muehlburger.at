@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>infrastructure on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/infrastructure/</link>
+    <description>Recent content in infrastructure on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 06 Sep 2014 07:35:27 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Talk on Infrastructure at Scale: Apache Kafka, Storm and Elastic Search</title>
+      <link>https://blog.muehlburger.at/2014/09/talk-on-infrastructure-at-scale-apache-kafka-storm-and-elastic-search/</link>
+      <pubDate>Sat, 06 Sep 2014 07:35:27 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2014/09/talk-on-infrastructure-at-scale-apache-kafka-storm-and-elastic-search/</guid>
+      <description>The following talk gives a good overview on the technologies used by Loggly.com to build their scalable real-time-search log-processing infrastructure.
+The slides of the talk can be found here:
+Infrastructure at Scale: Apache Kafka, Twitter Storm &amp;amp; Elastic Search (ARC303) | AWS re:Invent 2013 from Amazon Web Services
+(via loggly.com)  </description>
+    </item>
+    
+  </channel>
+</rss>

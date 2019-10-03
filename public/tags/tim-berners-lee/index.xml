@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tim berners-lee on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/tim-berners-lee/</link>
+    <description>Recent content in tim berners-lee on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 May 2010 20:14:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/tim-berners-lee/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Video Introduction to Web3.0 (The Semantic Web?)</title>
+      <link>https://blog.muehlburger.at/2010/05/a-video-introduction-to-web3-0-the-semantic-web/</link>
+      <pubDate>Mon, 10 May 2010 20:14:44 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/05/a-video-introduction-to-web3-0-the-semantic-web/</guid>
+      <description>Today I found a very interesting video discussing the term of the Semantic Web, not only in a technical way. Have a look at the following video:
+[vimeo 11529540]
+What do you think? Do you think the Semantic Web is going to happen as many people think?
+Related articles by Zemanta Web 3.0, The Movie [Video] (techcrunch.com)  Semantics, tagging and Twitter: Web 2.0 Eureka or not? (ml.sun.ac.za)  Semantium.</description>
+    </item>
+    
+    <item>
+      <title>The Virtual Revolution covered by the BBC</title>
+      <link>https://blog.muehlburger.at/2010/01/the-virtual-revolution-covered-by-the-bbc/</link>
+      <pubDate>Sun, 31 Jan 2010 20:43:46 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/01/the-virtual-revolution-covered-by-the-bbc/</guid>
+      <description>The Virtual Revolution refers to the fact that 20-25% of the word&amp;#8217;s population is using the web by now, while other 80% are yet either not connected to broadband connections or are just not using it, as Sir Tim Berners-Lee, the inventor of the web, states. In Afrika for example, people are now getting connected to broadband internet in a wide variety of areas. This means that the digital revolution that has shaped our world as we know it now, will happen in these areas too.</description>
+    </item>
+    
+    <item>
+      <title>TED Talks – Tim Berners-Lee: The next Web of open, linked data</title>
+      <link>https://blog.muehlburger.at/2009/03/ted-talks-tim-berners-lee-the-next-web-of-open-linked-data/</link>
+      <pubDate>Wed, 18 Mar 2009 10:24:44 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/03/ted-talks-tim-berners-lee-the-next-web-of-open-linked-data/</guid>
+      <description>For everybody who is asking: &amp;#8220;What&amp;#8217;s the next step in internet evolution?&amp;#8221; This presentation of Tim Berners-Lee could give you the anser. Linking Data is one of the most exciting initiatives going on right now. Enjoy the presentation!
+(via TED)</description>
+    </item>
+    
+    <item>
+      <title>Linking Open Data – Anwendungen für Endanwender</title>
+      <link>https://blog.muehlburger.at/2009/01/linking-open-data-anwendungen-fur-endanwender/</link>
+      <pubDate>Fri, 16 Jan 2009 21:11:02 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/linking-open-data-anwendungen-fur-endanwender/</guid>
+      <description>Für die Lehrveranstaltung &amp;#8220;Einführung in das wissenschaftliche Arbeiten&amp;#8221; bei Prof. Dr. Klaus Tochtermann habe ich einen Artikel zum Thema &amp;#8220;Linking Open Data &amp;#8211; Anwendungen für Endanwender&amp;#8221; geschrieben.
+Auszug aus dem Abstract:
+ Dieser Artikel beschäftigt sich mit Anwendungen, die das Linking Open Data Konzept verwenden. Zuerst wird auf das Open Data Movement eingegangen und anschließend auf das W3C SWEO Linking Open Data Community Project. Es sind zahlreiche Anwendungen entstanden, die Linked Open Data verwenden und daraus einen Mehrwert für Benutzer erzielen.</description>
+    </item>
+    
+    <item>
+      <title>10 Interesting Semantic Apps</title>
+      <link>https://blog.muehlburger.at/2009/01/10-interesting-semantic-apps/</link>
+      <pubDate>Sun, 11 Jan 2009 19:23:56 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/10-interesting-semantic-apps/</guid>
+      <description>One of the highlights of October&amp;#8217;s Web 2.0 Summit in San Francisco was the emergence of &amp;#8216;Semantic Apps&amp;#8217; as a force. Note that we&amp;#8217;re not necessarily talking about the Semantic Web, which is the Tim Berners-Lee W3C led initiative that touts technologies like RDF, OWL and other standards for metadata. Semantic Apps may use those technologies, but not necessarily [ReadWriteWeb 2007].  ReadWriteWeb has published a great list of 10 interesting semantic apps at the end of 2007.</description>
+    </item>
+    
+  </channel>
+</rss>

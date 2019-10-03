@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Semantic Apps on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/semantic-apps/</link>
+    <description>Recent content in Semantic Apps on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 11 Jan 2009 19:23:56 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/semantic-apps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>10 Interesting Semantic Apps</title>
+      <link>https://blog.muehlburger.at/2009/01/10-interesting-semantic-apps/</link>
+      <pubDate>Sun, 11 Jan 2009 19:23:56 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/10-interesting-semantic-apps/</guid>
+      <description>One of the highlights of October&amp;#8217;s Web 2.0 Summit in San Francisco was the emergence of &amp;#8216;Semantic Apps&amp;#8217; as a force. Note that we&amp;#8217;re not necessarily talking about the Semantic Web, which is the Tim Berners-Lee W3C led initiative that touts technologies like RDF, OWL and other standards for metadata. Semantic Apps may use those technologies, but not necessarily [ReadWriteWeb 2007].  ReadWriteWeb has published a great list of 10 interesting semantic apps at the end of 2007.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Happy New Year on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/happy-new-year/</link>
+    <description>Recent content in Happy New Year on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 31 Dec 2009 11:34:22 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/happy-new-year/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Happy New Year 2010!!</title>
+      <link>https://blog.muehlburger.at/2009/12/happy-new-year-2010/</link>
+      <pubDate>Thu, 31 Dec 2009 11:34:22 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/12/happy-new-year-2010/</guid>
+      <description>Dear subscribers and readers of my blog. I thank all of you for your interest in my posts and hope you will stay with me also the next year.
+I wish all of you a Happy New Year and a great party today!
+Cheers,
+Herbert</description>
+    </item>
+    
+  </channel>
+</rss>

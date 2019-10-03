@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Usability on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/categories/usability/</link>
+    <description>Recent content in Usability on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Nov 2009 08:16:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/categories/usability/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How will The Future of Interface Design look like?</title>
+      <link>https://blog.muehlburger.at/2009/11/the-future-of-interface-design-how-will-it-look-like/</link>
+      <pubDate>Thu, 05 Nov 2009 08:16:31 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/the-future-of-interface-design-how-will-it-look-like/</guid>
+      <description>David Leggett tried to answer this question in a blogpost written for uxBOOTH. He writes:
+ The future of how we interact with computers is exciting to say the least. What once seemed like nonsense outside of Hollywood and Science Fiction is now starting to find it’s way into reality, and some of the technology is a bit overwhelming. Have a taste of what the future of interface design has to offer:</description>
+    </item>
+    
+    <item>
+      <title>[video] – User Interface Fundamentals for Programmers</title>
+      <link>https://blog.muehlburger.at/2009/10/video-user-interface-fundamentals-for-programmers/</link>
+      <pubDate>Thu, 08 Oct 2009 08:20:17 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/10/video-user-interface-fundamentals-for-programmers/</guid>
+      <description>Recently I have found a great video demonstrating the user interface design fundamentals every programmer should know. Check out the video, it is really interesting!
+UI Fundamentals for Programmers by Ryan Singer from ChicagoRuby on Vimeo.
+(via Smashing Magazine)
+Related articles by Zemanta {.zemanta-related-title} GUI Design by schematic visualization (slideshare.net)  Advances in mouse interface design video (core77.com)  Speaking at EdUI Conference 2009 (xaprb.com)  Visual Decision Making (alistapart.</description>
+    </item>
+    
+    <item>
+      <title>[video] – The Sixth Sense demonstrates the great abilities of User Interfaces</title>
+      <link>https://blog.muehlburger.at/2009/07/ted-talks-pattie-maes-demos-the-sixth-sense/</link>
+      <pubDate>Wed, 22 Jul 2009 09:07:27 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/07/ted-talks-pattie-maes-demos-the-sixth-sense/</guid>
+      <description>Image by Larry Johnson via Flickr     Wired.com states in an article (found by ReadWriteWeb) as follows:
+ LONG BEACH, California — Students at the MIT Media Lab have developed a wearable computing system that turns any surface into an interactive display screen. The wearer can summon virtual gadgets and internet data at will, then dispel them like smoke when they’re done.
+Pattie Maes of the lab’s Fluid Interfaces group said the research is aimed at creating a new digital</description>
+    </item>
+    
+    <item>
+      <title>Scientist developes a Brain-To-Twitter Interface</title>
+      <link>https://blog.muehlburger.at/2009/04/scientist-developes-a-brain-to-twitter-interface/</link>
+      <pubDate>Tue, 21 Apr 2009 08:35:08 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/04/scientist-developes-a-brain-to-twitter-interface/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}           Image via CrunchBase     Adam Wilson, biomedical engineering doctoral student at University of Wisconsin-Madison has developed a brain to computer interface which makes it possible to directly write tweets through thoughts. ReadWriteWeb writes:
+ Technically, what Wilson did was come up with an interface combining an Electroencephalogram, or brain wave monitor, with an on screen keyboard for selecting letters.</description>
+    </item>
+    
+    <item>
+      <title>Web Design Interfaces</title>
+      <link>https://blog.muehlburger.at/2009/02/web-design-interfaces/</link>
+      <pubDate>Mon, 23 Feb 2009 08:47:52 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/02/web-design-interfaces/</guid>
+      <description>I have found two great posts on web design interfaces. The first one deales with 30 essential controls used in web interfaces. The second one descirbes 15 common components used in web user interface design.
+On designwebinterfaces.com you can find many more useful posts dealing with web design interfaces.
+Related articles by Zemanta {.zemanta-related-title} 10 Useful Techniques To Improve Your User Interface Designs (web2list.com)  What Do Designer&amp;#8217;s Do? They Code (bleikamp.</description>
+    </item>
+    
+    <item>
+      <title>User Interface der Zukunft! Unglaublich …</title>
+      <link>https://blog.muehlburger.at/2007/04/user-interface-der-zukunft-unglaublich/</link>
+      <pubDate>Tue, 24 Apr 2007 05:52:50 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/04/user-interface-der-zukunft-unglaublich/</guid>
+      <description>Hier ein User Interface der Zukunft! Das ist wirklich unglaublich, was uns das zukünftig für greznenlose Möglichkeiten bieten wird! Viel Spaß damit!</description>
+    </item>
+    
+  </channel>
+</rss>

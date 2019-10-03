@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android Developers on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/android-developers/</link>
+    <description>Recent content in Android Developers on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 11 May 2011 17:09:56 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/android-developers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Videos of Google IO 2011 – Android Tracks of Day One</title>
+      <link>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-one/</link>
+      <pubDate>Wed, 11 May 2011 17:09:56 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-one/</guid>
+      <description>&amp;nbsp; Google IO is currently taking place in San Francisco and for everybody who could not attend Google live streamed quite some sessions. In the following you can see the videos which are currently published:
+Google I/O 2011: Android Keynote Day One  [youtube OxzucwjFEEs]
+As an Android developer I am very interested in the Android sessions as you can imagine. So the following the next video first covers advaced topics of android development.</description>
+    </item>
+    
+    <item>
+      <title>Google launched In-app Billing on Android Market</title>
+      <link>https://blog.muehlburger.at/2011/03/google-launched-in-app-billing-on-android-market/</link>
+      <pubDate>Wed, 30 Mar 2011 10:07:20 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/03/google-launched-in-app-billing-on-android-market/</guid>
+      <description>[][1]Google Android In-App Billing Google yesterday launched In-app Billing on the Android Market. This feature enables developers to publish apps that use in-app Billing and users can make purchages from within the Android apps.
+Google writes:
+ Android Market In-app Billing is an Android Market service that lets you sell digital content in your applications. You can use the service to sell a wide range of content, including downloadable content such as media files or photos, and virtual content such as game levels or potions.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Engineering on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/categories/software-engineering/</link>
+    <description>Recent content in Software Engineering on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/categories/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Evolution of Microservices</title>
+      <link>https://blog.muehlburger.at/2018/02/the-evolution-of-microservices/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2018/02/the-evolution-of-microservices/</guid>
+      <description>Have you ever wondered on how the concept of Microservices developed? The following video by Adrian Cockcroft gives a quite good overview on the evolution of microservices.
+  (via Scalable Microservices with Kubernetes)</description>
+    </item>
+    
+    <item>
+      <title>JavaScript Rising Stars 2017</title>
+      <link>https://blog.muehlburger.at/2018/01/javascript-rising-stars-2017/</link>
+      <pubDate>Fri, 19 Jan 2018 10:26:44 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2018/01/javascript-rising-stars-2017/</guid>
+      <description>I found an intersting article on the rising stars in the JavaScript world in 2017. There are the most important sections taken from the report. Most Popular Projects Overall  Vue.js strikes again   Once again, Vue.js is the trendiest project of the year, with more than 40,000 stars added on GitHub during the year.  Front-end Frameworks  The Big-3: Vue, React and Angular   Without surprise, the 3 most popular UI frameworks are Vue.</description>
+    </item>
+    
+    <item>
+      <title>A Channel Compendium by John Graham-Cumming</title>
+      <link>https://blog.muehlburger.at/2017/12/a-channel-compendium-by-john-graham-cumming/</link>
+      <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2017/12/a-channel-compendium-by-john-graham-cumming/</guid>
+      <description>This video explains the concept of channels in the Go programming language very well. Channels are really useful to synchronize Goroutines.
+  </description>
+    </item>
+    
+    <item>
+      <title>Security by Design</title>
+      <link>https://blog.muehlburger.at/2017/02/security-by-design/</link>
+      <pubDate>Mon, 06 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2017/02/security-by-design/</guid>
+      <description>This interesting talk by Eoin Woods focusses on Security by Design. Eoin is the CTO of Endava.
+  </description>
+    </item>
+    
+    <item>
+      <title>Stateless Authentication using JWT (JSON Web Token)</title>
+      <link>https://blog.muehlburger.at/2017/01/stateless-authentication-using-jwt-json-web-token/</link>
+      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2017/01/stateless-authentication-using-jwt-json-web-token/</guid>
+      <description>Currently I work on an implementation for authentication and authorization using Spring Boot, Spring Security, OAuth 2.0 and JSON Web Tokens (JWT). In order to get a good understanding on these topics I found several talks that I&amp;#8217;m going to list here.
+&amp;#8220;100% Stateless with JWT (JSON Web Token)&amp;#8221; by Hubert Sablonnière. I found it very useful to get a better understanding on using JWTs to create a really stateless authentication architecture.</description>
+    </item>
+    
+    <item>
+      <title>[video] – Docker for Java Developers</title>
+      <link>https://blog.muehlburger.at/2016/12/video-docker-for-java-developers/</link>
+      <pubDate>Mon, 05 Dec 2016 21:41:17 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2016/12/video-docker-for-java-developers/</guid>
+      <description>Here is a good introductory video on Docker for Java Developers:</description>
+    </item>
+    
+    <item>
+      <title>[video] – Knowledge is Power: Getting out of Trouble by Understanding Git</title>
+      <link>https://blog.muehlburger.at/2016/11/video-knowledge-is-power-getting-out-of-trouble-by-understanding-git/</link>
+      <pubDate>Thu, 17 Nov 2016 10:25:34 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2016/11/video-knowledge-is-power-getting-out-of-trouble-by-understanding-git/</guid>
+      <description>Have you ever wondered how git works internally or why git does certain things in a certain way? Recently I found an interesting talk about git&amp;rsquo;s internals on https://gotocon.com. It explains all the building blocks that you need to understand to better understand git.
+  Knowledge is Power: Getting out of Trouble by Understanding Git</description>
+    </item>
+    
+  </channel>
+</rss>

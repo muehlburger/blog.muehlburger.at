@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>barcamp on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/barcamp/</link>
+    <description>Recent content in barcamp on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Nov 2008 08:35:38 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/barcamp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First BarCamp in Graz, Austria</title>
+      <link>https://blog.muehlburger.at/2008/11/first-barcamp-in-graz-austria/</link>
+      <pubDate>Sun, 23 Nov 2008 08:35:38 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/first-barcamp-in-graz-austria/</guid>
+      <description>[][1]First BarCamp in Graz November 2008  This weekend the first BarCamp of Graz, Austria is going on. Location is the Karl-Franzens University and today it is going to start at 10.00 o&amp;#8217;clock am. BarCamps are a growing type of events. A BarCamp is a so called unconference. On wikipedia you can read:
+ BarCamps are organized and evangelized largely through the web, harnessing what might be called a Web 2.</description>
+    </item>
+    
+  </channel>
+</rss>

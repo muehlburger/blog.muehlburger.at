@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FinTec on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/categories/fintec/</link>
+    <description>Recent content in FinTec on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Feb 2017 09:00:36 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/categories/fintec/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blockchain 101</title>
+      <link>https://blog.muehlburger.at/2017/02/blockchain-101/</link>
+      <pubDate>Tue, 07 Feb 2017 09:00:36 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2017/02/blockchain-101/</guid>
+      <description>Have you ever wondered how the Blockchain works? I found an interesting visual illustration about Blockchains by Anders Brownworth. Anders is a coder at Circle, a FinTech company based in the US.
+  (via anders.com and anders.com/blockchain)</description>
+    </item>
+    
+  </channel>
+</rss>

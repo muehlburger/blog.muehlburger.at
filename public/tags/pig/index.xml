@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pig on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/pig/</link>
+    <description>Recent content in Pig on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Mar 2011 19:31:59 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/pig/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NoSQL Databases: Why, what and when – An Overview on NoSQL Datastores</title>
+      <link>https://blog.muehlburger.at/2011/03/nosql-databases-why-what-and-when-an-overview-on-nosql-datastores/</link>
+      <pubDate>Sun, 06 Mar 2011 19:31:59 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/03/nosql-databases-why-what-and-when-an-overview-on-nosql-datastores/</guid>
+      <description>For everybody interested in NoSQL datastores the following presentation by Lorenzo Alberton is worth reading. It gives a good overview of the currently used technologies in the area of NoSQL and discusses the ground filling basics every NoSQL enthusiast should know.  NoSQL Databases: Why, what and when (via quipo)  &amp;nbsp;
+Related Articles NoSQL: Node.js + NoSQL Database = Real Time Chat Applications (themindstorms.blogspot.com)  NoSQL: The NoSQL Gene in SQL Azure Federations (themindstorms.</description>
+    </item>
+    
+    <item>
+      <title>[video] – HBase and Pig: The Hadoop Ecosystem at Twitter</title>
+      <link>https://blog.muehlburger.at/2010/06/video-hbase-and-pig-the-hadoop-ecosystem-at-twitter/</link>
+      <pubDate>Fri, 25 Jun 2010 06:17:16 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/06/video-hbase-and-pig-the-hadoop-ecosystem-at-twitter/</guid>
+      <description>            Related articles by Zemanta {.zemanta-related-title}        I have just found this very interesting video dealing with the implementation of HBase and Pig in combination with Hadoop at Twitter:
+Related articles by Zemanta {.zemanta-related-title} HBase Digest, March 2010 (sematext.com)  Cassandra+Hadoop (slideshare.net)  Hadoop, Hbase and Hive- Bay area Hadoop User Group (slideshare.net)   </description>
+    </item>
+    
+    <item>
+      <title>Twitter’s use of Cassandra, Hadoop, Pig and HBase for highly distributed Data Processing and Analysis</title>
+      <link>https://blog.muehlburger.at/2010/05/twitters-use-of-cassandra-pig-and-hbase-for-highly-distributed-data-processing-and-analysis/</link>
+      <pubDate>Thu, 06 May 2010 19:43:45 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/05/twitters-use-of-cassandra-pig-and-hbase-for-highly-distributed-data-processing-and-analysis/</guid>
+      <description>Kevin Weil, Analytics Lead at Twitter recently gave a presentation on Twitter’s use of Cassandra, Pig and HBase. Specially interesting is how Twitter uses Hadoop and Pig in their data analysis process.
+[slideshare id=3806196&amp;amp;doc=nosqlattwitter-nosqleu2010-100421124212-phpapp02]
+(via @kevinweil)
+Another great presentation from Tobias Ivarsson gives an overview on NoSQL:
+[slideshare id=3735857&amp;amp;doc=nosqlfordummies-100415085745-phpapp01]
+(via @thobe)
+  </description>
+    </item>
+    
+  </channel>
+</rss>

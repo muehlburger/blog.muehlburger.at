@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>e-portfolio on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/e-portfolio/</link>
+    <description>Recent content in e-portfolio on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 24 Jul 2009 09:01:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/e-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[video] – E-Portfolios for Beginners and the Mahara UK 09 Conference</title>
+      <link>https://blog.muehlburger.at/2009/07/video-e-portfolios-for-beginners-and-the-mahara-uk-09-conference/</link>
+      <pubDate>Fri, 24 Jul 2009 09:01:44 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/07/video-e-portfolios-for-beginners-and-the-mahara-uk-09-conference/</guid>
+      <description>Since few time I am coding an extension to the open-source e-porfolio software Mahara. Therefore I have searched for a video explaining what an e-porfolio stands for and how it can be used:
+Here is a video that explains it:
+Few time ago Mahara UK 09, the very first conference covering the e-portfolio system Mahara, took place in the United Kingdom. It was organised by the University of London Computer Centre (ULCC) and the University of London Institute of Education (IOE).</description>
+    </item>
+    
+  </channel>
+</rss>

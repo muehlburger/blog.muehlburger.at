@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/learning/</link>
+    <description>Recent content in Learning on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 25 Jan 2019 21:10:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Istio</title>
+      <link>https://blog.muehlburger.at/2019/01/istio/</link>
+      <pubDate>Fri, 25 Jan 2019 21:10:00 +0100</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2019/01/istio/</guid>
+      <description>Istio has gained lots of traction in the Kubernetes space. Here is a compiled list of interesting talks on Istio.
+Kudos to Lachlan Evenson for creating this content:
+Setting Sail with Istio   Istio - up and running by Lachlan Evenson   Istio - adding services to the mesh by Lachlan Evenson   Istio - Working with Ingress   Istio - Working with Egress   Istio - Request Routing   Istio - Fault Injection Testing   I hope you find something useful in these resources.</description>
+    </item>
+    
+    <item>
+      <title>Designing for Change: Mash-Up Personal Learning Environments</title>
+      <link>https://blog.muehlburger.at/2009/05/designing-for-change-mash-up-personal-learning-environments/</link>
+      <pubDate>Tue, 19 May 2009 08:36:48 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/05/designing-for-change-mash-up-personal-learning-environments/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}        In order to describe what this article is about I cite Fridolin Wild, Felix Mödritscher and Stein E. Sigurdarson:
+ In this article we first clarify key concepts and assumptions for personalised learning environments. Afterwards, we summarise our critique on the contemporary models for personalised adaptive learning.</description>
+    </item>
+    
+  </channel>
+</rss>

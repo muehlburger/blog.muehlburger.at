@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grippe on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/grippe/</link>
+    <description>Recent content in Grippe on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Oct 2009 06:22:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/grippe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Grippe-Trends jetzt auch für Österreich verfügbar</title>
+      <link>https://blog.muehlburger.at/2009/10/google-grippe-trends-fur-oesterreich-verfuegbar/</link>
+      <pubDate>Fri, 09 Oct 2009 06:22:51 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/10/google-grippe-trends-fur-oesterreich-verfuegbar/</guid>
+      <description>Google Grippe-Trends (Google Flu Trends) ist nun auch in Österreich verfügbar. Auf der extra dafür eingerichteten Website kann man den derzeitigen Verlauf der Grippewelle in Österreich, sowie in viele anderen Staaten verfolgen.
+Google bietet auch die Möglichkeit, die zugrunde liegenden Daten für eigene Zwecke herunterzuladen. Für jeden, der sich dafür interessiert, wie das Prinzip dahinter genau funktioniert verweise ich hier auf einen Artikel von Google (Detecting influenza epidemics using search engine query data), der in der Zeitschrift &amp;#8220;Nature&amp;#8221; veröffentlicht wurde.</description>
+    </item>
+    
+  </channel>
+</rss>

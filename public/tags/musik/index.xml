@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Musik on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/musik/</link>
+    <description>Recent content in Musik on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 22 Jun 2007 14:14:48 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/musik/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>lasttv.net – Personal Music Channel</title>
+      <link>https://blog.muehlburger.at/2007/06/lasttv-net-personal-music-channel/</link>
+      <pubDate>Fri, 22 Jun 2007 14:14:48 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/06/lasttv-net-personal-music-channel/</guid>
+      <description>Die Kombination von Last.fm und YouTube nennt sich Last.tv. Last.tv ist ein peronalisierter Musik Channel, der über das Benutzerprofil (Benutzernamen) von last.fm eine Musik Playlist erstellt und auf YouTube nach passenden Videos sucht und diese abspielt! Sehr interessantes Musik-Video Meshup. Last.fm und YouTube ist eine sehr interessante Kombination!
+Auf jeden Fall einen Klick wert!</description>
+    </item>
+    
+    <item>
+      <title>ALARMD – Wecker 2.0</title>
+      <link>https://blog.muehlburger.at/2007/06/alarmd-wecker-2-0/</link>
+      <pubDate>Fri, 22 Jun 2007 10:47:17 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/06/alarmd-wecker-2-0/</guid>
+      <description>Wer schon immer mal von YouTube Videos bzw. von last.fm Playlists geweckt werden wollte, der sollte sich unbedingt ALARMD anschaun! Hier kann man sich seinen Wecker online stellen. Dieser holt sich dann von YouTube bzw. über last.fm und andere Services seine Videos und Musikstreams und spielt diese zur gewünschten Zeit ab! Ich finde die Idee einfach toll und bin komplett begeistert! Sehr coole Sache!
+[via Webware]
+  </description>
+    </item>
+    
+    <item>
+      <title>“Paper Four” – Papier der nächsten Generation</title>
+      <link>https://blog.muehlburger.at/2007/06/paper-four-papier-der-nachsten-generation/</link>
+      <pubDate>Mon, 11 Jun 2007 07:39:41 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/06/paper-four-papier-der-nachsten-generation/</guid>
+      <description>Mit “Paper Four” wird die eine neue Ära von Papier eingeläutet. “Paper Four”, entwickelt von Forschen der Mid Sweden University soll die vierte Generation von Papierprodukten einläuten. Paper Four ist ein Interaktives Multimediales Papierformat welches auf Berührung reagiert und digital abgespeicherte Audiodateien wiedergibt.
+  </description>
+    </item>
+    
+    <item>
+      <title>musicmesh – Cooles Mediameshup</title>
+      <link>https://blog.muehlburger.at/2007/05/musicmesh-cooles-mediameshup/</link>
+      <pubDate>Wed, 09 May 2007 15:15:16 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/05/musicmesh-cooles-mediameshup/</guid>
+      <description>Für jeden der schon immer mal das Video zu einem Audiotrack sehen wollte sollte sich einmal www.musicmesh.net ansehen. Dort kann man nach beliebigen Musikern suchen und sich danach ihre Songs anhören. Das coole dabei, es wird automatisch ein Musikvideo auf youtube gesucht und abgespielt! Sehr coole Sache!
+Metadaten über Musiker, Tracks, Alben, etc… werden per Audioscrobbler Web Services API von www.last.fm bezogen, passende Videos werden wie gesagt über die API von YouTube gesucht und eingebunden!</description>
+    </item>
+    
+  </channel>
+</rss>

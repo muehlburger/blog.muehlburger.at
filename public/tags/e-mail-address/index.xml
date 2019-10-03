@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E-mail address on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/e-mail-address/</link>
+    <description>Recent content in E-mail address on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 23 Jan 2009 09:38:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/e-mail-address/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SEAmail – Semantic Delivery of Emails</title>
+      <link>https://blog.muehlburger.at/2009/01/seamail-semantic-delivery-of-emails/</link>
+      <pubDate>Fri, 23 Jan 2009 09:38:25 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/seamail-semantic-delivery-of-emails/</guid>
+      <description>SEAmail is a prototype e-mail system implemented by Stanford University Logic Group lead by Michael Genesereth, an associate professor of computer science at Stanford University. The interesting and innovative part of this e-mail system is the use of semantic technologies in order to determine the recipient of an e-mail message. Users don&amp;#8217;t have to bother on keeping track of e-mail addresses, they just type in the real name of the recipient letting the system searching the right recipient address.</description>
+    </item>
+    
+  </channel>
+</rss>

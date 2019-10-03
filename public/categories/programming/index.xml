@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/categories/programming/</link>
+    <description>Recent content in Programming on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 26 Dec 2018 16:32:23 +0100</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Micro Frotendends</title>
+      <link>https://blog.muehlburger.at/2018/12/micro-frontends/</link>
+      <pubDate>Wed, 26 Dec 2018 16:32:23 +0100</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2018/12/micro-frontends/</guid>
+      <description>This is an interesting talk from Michael Geers on Micro Frontends. He gave the talk at Web Rebells 2018.
+   Michael Geers: Micro Frontends - Think Smaller, Avoid the Monolith, ❤️ the Backend | Web Rebels 2018</description>
+    </item>
+    
+    <item>
+      <title>A Channel Compendium by John Graham-Cumming</title>
+      <link>https://blog.muehlburger.at/2017/12/a-channel-compendium-by-john-graham-cumming/</link>
+      <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2017/12/a-channel-compendium-by-john-graham-cumming/</guid>
+      <description>This video explains the concept of channels in the Go programming language very well. Channels are really useful to synchronize Goroutines.
+  </description>
+    </item>
+    
+    <item>
+      <title>Stateless Authentication using JWT (JSON Web Token)</title>
+      <link>https://blog.muehlburger.at/2017/01/stateless-authentication-using-jwt-json-web-token/</link>
+      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2017/01/stateless-authentication-using-jwt-json-web-token/</guid>
+      <description>Currently I work on an implementation for authentication and authorization using Spring Boot, Spring Security, OAuth 2.0 and JSON Web Tokens (JWT). In order to get a good understanding on these topics I found several talks that I&amp;#8217;m going to list here.
+&amp;#8220;100% Stateless with JWT (JSON Web Token)&amp;#8221; by Hubert Sablonnière. I found it very useful to get a better understanding on using JWTs to create a really stateless authentication architecture.</description>
+    </item>
+    
+    <item>
+      <title>Apache Kafka Streams</title>
+      <link>https://blog.muehlburger.at/2017/01/apache-kafka-streams/</link>
+      <pubDate>Tue, 17 Jan 2017 16:17:01 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2017/01/apache-kafka-streams/</guid>
+      <description>I&amp;#8217;m interested in Apache Kafka Streams and would like share some information on this topic with you. There is a great talk about Stream Processing from Neha Narkhede who co-authored Apache Kafka and is currently a co-founder and Head of Engineering of Confluent.
+Great talk about stream processing! https://t.co/Yn9eHLNZag #kafka #kafkastreams  &amp;mdash; Manuel Stößel (@Manuel_Stoessel) October 15, 2016  There is also a good article on Apache Kafka Streams with lots of background information.</description>
+    </item>
+    
+    <item>
+      <title>Programming as Performance</title>
+      <link>https://blog.muehlburger.at/2016/05/programming-as-performance/</link>
+      <pubDate>Sun, 01 May 2016 09:10:11 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2016/05/programming-as-performance/</guid>
+      <description>Programming as Performance? This sounds interesting and indeed it is, as you can see in this video by Sam Aaron (a Post-Doc Researcher at the Cambridge University):
+  He wrote Sonic Pi, a program to enable children and others interested in coding and music to create their very individual sounds using a simple keyboard and a Raspberry Pi.</description>
+    </item>
+    
+    <item>
+      <title>How to choose a versioning scheme for your software</title>
+      <link>https://blog.muehlburger.at/2015/04/how-to-choose-a-versioning-scheme-for-your-software/</link>
+      <pubDate>Thu, 16 Apr 2015 13:10:16 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2015/04/how-to-choose-a-versioning-scheme-for-your-software/</guid>
+      <description>As a developer, there comes the time were you think about how to version your software. One approach is &amp;#8220;Semantic Versioning&amp;#8221; which leverages the level of change on your public API. Depending on what you changed in your code, Semantic Versioning proposes different version numbers:
+ Given a version number MAJOR.MINOR.PATCH, increment the:
+ MAJOR version when you make incompatible API changes, MINOR version when you add functionality in a backwards-compatible manner, and PATCH version when you make backwards-compatible bug fixes.</description>
+    </item>
+    
+    <item>
+      <title>Javapocalypse</title>
+      <link>https://blog.muehlburger.at/2013/06/javapocalypse/</link>
+      <pubDate>Fri, 14 Jun 2013 17:00:47 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2013/06/javapocalypse/</guid>
+      <description>I need to share the following video on &amp;#8220;Javapocalypse&amp;#8221; from JavaZone. Pushing the &amp;#8220;Undo Java&amp;#8221; button will have huge impact. Have a look at these consequences. The following trailer highlights the importance of Java.
+JavaZone 2013 takes places in Oslo at the 10th and 11th of September 2013.
+ JavaZone is an important meeting place for software developers in Scandinavia, and is the biggest community driven conference of its kind. JavaZone has been described as a high quality, independent conference – a leading forum for knowledge exchange for IT- professionals.</description>
+    </item>
+    
+    <item>
+      <title>What Most Schools Don’t Teach – Programming</title>
+      <link>https://blog.muehlburger.at/2013/03/what-most-schools-dont-teach-programming/</link>
+      <pubDate>Mon, 04 Mar 2013 10:27:24 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2013/03/what-most-schools-dont-teach-programming/</guid>
+      <description>&amp;#8220;The programmers of tomorrow are the wizards of the future. You are going to look like you have magic power, compared to everybody else.&amp;#8221; Diese Aussage beschreibt den Wert, den &amp;#8220;Coding Skills&amp;#8221; heute und in Zukunft haben. Die Fähigkeit Software nach eigenen Vorstellungen zu entwickeln stellt für jeden Bürger eine wichtige Möglichkeit dar das Grundrecht der Freiheit auszuleben.
+Das folgende Video beschreibt was &amp;#8220;die meisten Schulen (noch) nicht lehren&amp;#8221; nämlich Software zu entwickeln und Quellcode lesen zu können.</description>
+    </item>
+    
+    <item>
+      <title>Video Introduction to GIT Version Control by Scott Chacon of GitHub</title>
+      <link>https://blog.muehlburger.at/2012/01/video-introduction-to-git-version-control-by-scott-chacon-of-github/</link>
+      <pubDate>Thu, 26 Jan 2012 08:17:48 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2012/01/video-introduction-to-git-version-control-by-scott-chacon-of-github/</guid>
+      <description>The following talk, given by Scott Chacon of GitHub, gives a very good introduction to the version control system GIT and its usage. This is by far the best introduction that I have found so far.
+(via Marakana)</description>
+    </item>
+    
+    <item>
+      <title>Simple Flashlight v3.1</title>
+      <link>https://blog.muehlburger.at/2011/11/simple-flashlight-v3-1/</link>
+      <pubDate>Tue, 29 Nov 2011 09:00:07 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/11/simple-flashlight-v3-1/</guid>
+      <description>Die &amp;#8220;Simple Flashlight&amp;#8221; App für Android ist nun in der Version 3.1 im Market verfügbar. Simple Flashlight ist eine einfache Taschenlampe für dein Mobiltelefon oder deinen Tablet. Es wurde die transparente Displaybeleuchtung entfernt. Zudem gibt es jetzt die Möglichkeit, durch &amp;#8220;Wischen&amp;#8221; nach rechts bzw. links die Farbe des Bildschirms auf rot oder blau zu ändern.
+Recent Changes (v3.1)  Displaybeleuchtung verbessert (Transparenz entfernt) Swipe nach rechts =&amp;gt; Bildschirm blau färben Swipe nach links =&amp;gt; Bildschirm rot färben Swipe verbessert  Recent Changes (v3.</description>
+    </item>
+    
+    <item>
+      <title>Simple Flashlight v3.0</title>
+      <link>https://blog.muehlburger.at/2011/11/simple-flashlight-v-3-0/</link>
+      <pubDate>Sat, 26 Nov 2011 21:49:24 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/11/simple-flashlight-v-3-0/</guid>
+      <description>  Die &amp;#8220;Simple Flashlight&amp;#8221; App für Android ist nun in der Version 3.0 im Market verfügbar. Simple Flashlight ist eine einfache Taschenlampe für dein Mobiltelefon oder deinen Tablet.
+Recent Changes (v3.0)   Möglichkeit die App zu starten indem man die Suchtaste gedrückt hält  Bildschirmbeleuchtung ist nun transparent  Swipe-up und Swipe-Down zum dimmen der Bildschirmhelligkeit   Downloaden und ausprobieren: https://market.android.com/details?id=at.muehlburger.android.simple.flashlight
+  </description>
+    </item>
+    
+    <item>
+      <title>[spritpreisrechner.at] – Apps entwickeln</title>
+      <link>https://blog.muehlburger.at/2011/08/spritpreisrechner-at-apps-entwickeln/</link>
+      <pubDate>Fri, 26 Aug 2011 09:17:35 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/08/spritpreisrechner-at-apps-entwickeln/</guid>
+      <description>Vor kurzem wurde in Österreich der Spritpreisrechner der E-Control offiziell der Öffentlichkeit vorgestellt. Es hat nicht lange gedauert, bis auch die ersten Android App Entwickler die Seite zu nutzen versuchten. So finden sich derzeit im Android Market schon einige Spritpreisrechner Apps.
+Ich habe mir einmal das Datenformat angesehen, welches die Website spritpreisrechner.at für die Abfrage der Spritdaten benutzt. Es ist eigentlich ganz einfach:
+Es werden per HTTP POST Request Anfragen an http://www.</description>
+    </item>
+    
+    <item>
+      <title>Videos of Google IO 2011 – Android Tracks of Day Two</title>
+      <link>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/</link>
+      <pubDate>Thu, 12 May 2011 11:20:59 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/</guid>
+      <description>In the next few videos you can seen the recorded tracks of Google&amp;#8217;s IO 2011 Developer Conference covering Android development. Sit back and enjoy! Google I/O 2011: Keynote Day 2 Android Market for Developers Designing and Implementing Android UIs for Phones and Tablets Building Android Apps for Google TV Android Development Tools Taking Android to Work Related articles {.zemanta-related-title} Google TV Gets Android Market And Android 3.1 Honeycomb (slashgear.com)  Google TV will get Android 3.</description>
+    </item>
+    
+    <item>
+      <title>Videos of Google IO 2011 – Android Tracks of Day One</title>
+      <link>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-one/</link>
+      <pubDate>Wed, 11 May 2011 17:09:56 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-one/</guid>
+      <description>&amp;nbsp; Google IO is currently taking place in San Francisco and for everybody who could not attend Google live streamed quite some sessions. In the following you can see the videos which are currently published:
+Google I/O 2011: Android Keynote Day One  [youtube OxzucwjFEEs]
+As an Android developer I am very interested in the Android sessions as you can imagine. So the following the next video first covers advaced topics of android development.</description>
+    </item>
+    
+    <item>
+      <title>HowTo set up the Android SDK on Ubuntu for HTC Phones</title>
+      <link>https://blog.muehlburger.at/2011/03/howto-set-up-the-android-sdk-on-ubuntu-for-htc-phones/</link>
+      <pubDate>Sat, 12 Mar 2011 18:19:18 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/03/howto-set-up-the-android-sdk-on-ubuntu-for-htc-phones/</guid>
+      <description>Image via CrunchBase  In this post I will explain how I set up the Android SDK on Ubuntu for my HTC Desire.
+I first followed the steps for Ubuntu as described in Setting up a Device for Development:
+ With an Android-powered device, you can develop and debug your Android applications just as you would on the emulator. Before you can start, there are just a few things to do:</description>
+    </item>
+    
+    <item>
+      <title>How to install (Oracle) Sun Java SDK 1.6.x (Java 6) on Ubuntu</title>
+      <link>https://blog.muehlburger.at/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</link>
+      <pubDate>Mon, 10 Jan 2011 20:45:32 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</guid>
+      <description>Dieser Beitrag beschreibt die Installation des Sun Java SDK 1.6.x on Ubuntu (Maverick). The English explanation on how to install Sun Java SDK 1.6.x can be found here.
+Canonical-Partner Repositories aktivieren: Dies geschieht unter &amp;#8220;System&amp;#8221; -&amp;gt; &amp;#8220;Systemverwaltung&amp;#8221; -&amp;gt; &amp;#8220;Synaptic Paketverwalung&amp;#8221;. In der Paketverwaltung finden sich die Paketquellen unter dem Menüpunkt &amp;#8220;Einstellungen&amp;#8221;. In den Einstellungen wechselt man auf den Reiter &amp;#8220;Andere Software&amp;#8221; und aktiviert dort &amp;#8220;Canonical-Partner&amp;#8221; bzw. &amp;#8220;Canonical-Partner (Quelltext)&amp;#8221;. Nach dem Klick auf &amp;#8220;Schließen&amp;#8221; werden die Paketlisten neu geladen.</description>
+    </item>
+    
+    <item>
+      <title>Public Key Infrastructure (PKI) – Secure Key Exchange – [video]</title>
+      <link>https://blog.muehlburger.at/2010/05/problem-of-public-key-infrastructure-pki-secure-key-exchange-video/</link>
+      <pubDate>Mon, 10 May 2010 06:11:17 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/05/problem-of-public-key-infrastructure-pki-secure-key-exchange-video/</guid>
+      <description>In public key infrastructures a common problem is that both communication partners have to have the same key in order communicate in a secure way (to encrypt and decrypt messages properly). The question is how is it practically possible to share a secret key over an untrusted channel like the internet for example. The solution is the use of asynchronous methods (public and private keys) in order to exchange the secret key in a secure way.</description>
+    </item>
+    
+    <item>
+      <title>[video] – Understanding Gradients in CSS3</title>
+      <link>https://blog.muehlburger.at/2010/03/video-understanding-gradients-in-css3/</link>
+      <pubDate>Wed, 24 Mar 2010 07:35:31 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/03/video-understanding-gradients-in-css3/</guid>
+      <description>I&amp;#8217;ve found an interesting video explaining gradients in CSS3. Have a look at the following:
+(via nettuts)</description>
+    </item>
+    
+    <item>
+      <title>What is PupSubHubUp?</title>
+      <link>https://blog.muehlburger.at/2010/01/what-is-pupsubhubup/</link>
+      <pubDate>Thu, 28 Jan 2010 21:03:06 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/01/what-is-pupsubhubup/</guid>
+      <description>Pubsubhubbub is &amp;#8220;A simple, open, web-hook-based pubsub protocol &amp;amp; open source reference implementation&amp;#8220;. But what does this mean? The following video explains it very well:
+[youtube B5kHx0rGkec]
+  </description>
+    </item>
+    
+    <item>
+      <title>[Tutorial] – Java Online Programming Course</title>
+      <link>https://blog.muehlburger.at/2009/10/tutorial-java-online-programming-course/</link>
+      <pubDate>Thu, 08 Oct 2009 19:35:10 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/10/tutorial-java-online-programming-course/</guid>
+      <description>For everybody who likes to learn the Java programming language or who is forced to learn Java I have found a great online tutorial teaching you the essence of Java programming. Specially students should pay attention to this course as it gives a really good introduction to the Java programming language.
+The online course can be found here.
+Enjoy learning Java and afterwards take a look at JavaFX.</description>
+    </item>
+    
+    <item>
+      <title>HTML 4.01 bis XHTML 2.0 im Vergleich</title>
+      <link>https://blog.muehlburger.at/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/</link>
+      <pubDate>Thu, 05 Jul 2007 12:02:29 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}        Jens Meiert bietet auf seinem Blog eine tabellarische Übersicht über alle Elemente, die in HTML 4.01, XHTML 1.0 Strict, XHTML 1.1, HTML 5, und XHTML 2.0 spezifitiert werden.
+Hier der Link direkt zu Jens Meierts Weblog.
+[via pixelgraphix]
+Related articles by Zemanta {.zemanta-related-title} Html5 (slideshare.net)  HTML+RDFa First Draft Published (w3.</description>
+    </item>
+    
+  </channel>
+</rss>

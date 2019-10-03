@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/web/</link>
+    <description>Recent content in Web on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Mar 2010 07:35:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[video] – Understanding Gradients in CSS3</title>
+      <link>https://blog.muehlburger.at/2010/03/video-understanding-gradients-in-css3/</link>
+      <pubDate>Wed, 24 Mar 2010 07:35:31 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/03/video-understanding-gradients-in-css3/</guid>
+      <description>I&amp;#8217;ve found an interesting video explaining gradients in CSS3. Have a look at the following:
+(via nettuts)</description>
+    </item>
+    
+    <item>
+      <title>The Virtual Revolution covered by the BBC</title>
+      <link>https://blog.muehlburger.at/2010/01/the-virtual-revolution-covered-by-the-bbc/</link>
+      <pubDate>Sun, 31 Jan 2010 20:43:46 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/01/the-virtual-revolution-covered-by-the-bbc/</guid>
+      <description>The Virtual Revolution refers to the fact that 20-25% of the word&amp;#8217;s population is using the web by now, while other 80% are yet either not connected to broadband connections or are just not using it, as Sir Tim Berners-Lee, the inventor of the web, states. In Afrika for example, people are now getting connected to broadband internet in a wide variety of areas. This means that the digital revolution that has shaped our world as we know it now, will happen in these areas too.</description>
+    </item>
+    
+    <item>
+      <title>What will the web look like in five years?</title>
+      <link>https://blog.muehlburger.at/2009/11/what-will-the-web-look-like-in-five-years/</link>
+      <pubDate>Sun, 01 Nov 2009 18:49:06 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/what-will-the-web-look-like-in-five-years/</guid>
+      <description>Eric Schmidt, CEO of Google was answering this question in an interesting interview at Gartner Symposium/ITxpo Orlando 2009. ReadWriteWeb has summarized the highlights of Eric&amp;#8217;s interview as follows:
+  Five years from now the internet will be dominated by Chinese-language content. Today&amp;#8217;s teenagers are the model of how the web will work in five years &amp;#8211; they jump from app to app to app seamlessly. Five years is a factor of ten in Moore&amp;#8217;s Law, meaning that computers will be capable of far more by that time than they are today.</description>
+    </item>
+    
+    <item>
+      <title>HTML 4.01 bis XHTML 2.0 im Vergleich</title>
+      <link>https://blog.muehlburger.at/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/</link>
+      <pubDate>Thu, 05 Jul 2007 12:02:29 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}        Jens Meiert bietet auf seinem Blog eine tabellarische Übersicht über alle Elemente, die in HTML 4.01, XHTML 1.0 Strict, XHTML 1.1, HTML 5, und XHTML 2.0 spezifitiert werden.
+Hier der Link direkt zu Jens Meierts Weblog.
+[via pixelgraphix]
+Related articles by Zemanta {.zemanta-related-title} Html5 (slideshare.net)  HTML+RDFa First Draft Published (w3.</description>
+    </item>
+    
+    <item>
+      <title>Die 6 Milliarden anderen – www.6billionothers.org</title>
+      <link>https://blog.muehlburger.at/2007/06/die-6-milliarden-anderen-www-6billionothers-org/</link>
+      <pubDate>Mon, 11 Jun 2007 08:06:42 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/06/die-6-milliarden-anderen-www-6billionothers-org/</guid>
+      <description>6billionothers so lautet der Titel eines Projektes, welches sich das zum Ziel gesetzt hat bis 2008 tausende vo Menschenweltweit zu interviewen und ihre Aussagen zu bestimmten Themen wie Liebe, Hass, Zorn, Glücklichsein, etc. auf der Projektwebsite zu publizieren. Zur Zeit sind einige sehr interessante Beiträge zu lesen!
+  </description>
+    </item>
+    
+    <item>
+      <title>musicmesh – Cooles Mediameshup</title>
+      <link>https://blog.muehlburger.at/2007/05/musicmesh-cooles-mediameshup/</link>
+      <pubDate>Wed, 09 May 2007 15:15:16 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/05/musicmesh-cooles-mediameshup/</guid>
+      <description>Für jeden der schon immer mal das Video zu einem Audiotrack sehen wollte sollte sich einmal www.musicmesh.net ansehen. Dort kann man nach beliebigen Musikern suchen und sich danach ihre Songs anhören. Das coole dabei, es wird automatisch ein Musikvideo auf youtube gesucht und abgespielt! Sehr coole Sache!
+Metadaten über Musiker, Tracks, Alben, etc… werden per Audioscrobbler Web Services API von www.last.fm bezogen, passende Videos werden wie gesagt über die API von YouTube gesucht und eingebunden!</description>
+    </item>
+    
+    <item>
+      <title>walk2Web: Linkstrukturen graphisch darstellen</title>
+      <link>https://blog.muehlburger.at/2007/05/walk2web-linkstrukturen-graphisch-darstellen/</link>
+      <pubDate>Sun, 06 May 2007 13:44:41 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/05/walk2web-linkstrukturen-graphisch-darstellen/</guid>
+      <description>Linkstrukturen graphisch darstellen
+Mit Web2Walk kann man sich visuell darstellen lassen, wie Webseiten miteinander verbunden sind. Man gibt einfach eine beliebige Startadresse ein und erhält die Verlinkung dieser Seite als Graph. Jede weitere Seite in diesem Graph lässt sich bewerten, bookmarken und kommentieen.
+Link: walk2web.com
+  </description>
+    </item>
+    
+  </channel>
+</rss>

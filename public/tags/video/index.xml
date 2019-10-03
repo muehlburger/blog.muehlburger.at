@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>video on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/video/</link>
+    <description>Recent content in video on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 26 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Channel Compendium by John Graham-Cumming</title>
+      <link>https://blog.muehlburger.at/2017/12/a-channel-compendium-by-john-graham-cumming/</link>
+      <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2017/12/a-channel-compendium-by-john-graham-cumming/</guid>
+      <description>This video explains the concept of channels in the Go programming language very well. Channels are really useful to synchronize Goroutines.
+  </description>
+    </item>
+    
+    <item>
+      <title>Blockchain 101</title>
+      <link>https://blog.muehlburger.at/2017/02/blockchain-101/</link>
+      <pubDate>Tue, 07 Feb 2017 09:00:36 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2017/02/blockchain-101/</guid>
+      <description>Have you ever wondered how the Blockchain works? I found an interesting visual illustration about Blockchains by Anders Brownworth. Anders is a coder at Circle, a FinTech company based in the US.
+  (via anders.com and anders.com/blockchain)</description>
+    </item>
+    
+    <item>
+      <title>Security by Design</title>
+      <link>https://blog.muehlburger.at/2017/02/security-by-design/</link>
+      <pubDate>Mon, 06 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2017/02/security-by-design/</guid>
+      <description>This interesting talk by Eoin Woods focusses on Security by Design. Eoin is the CTO of Endava.
+  </description>
+    </item>
+    
+    <item>
+      <title>[video] – Knowledge is Power: Getting out of Trouble by Understanding Git</title>
+      <link>https://blog.muehlburger.at/2016/11/video-knowledge-is-power-getting-out-of-trouble-by-understanding-git/</link>
+      <pubDate>Thu, 17 Nov 2016 10:25:34 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2016/11/video-knowledge-is-power-getting-out-of-trouble-by-understanding-git/</guid>
+      <description>Have you ever wondered how git works internally or why git does certain things in a certain way? Recently I found an interesting talk about git&amp;rsquo;s internals on https://gotocon.com. It explains all the building blocks that you need to understand to better understand git.
+  Knowledge is Power: Getting out of Trouble by Understanding Git</description>
+    </item>
+    
+    <item>
+      <title>Talk on Infrastructure at Scale: Apache Kafka, Storm and Elastic Search</title>
+      <link>https://blog.muehlburger.at/2014/09/talk-on-infrastructure-at-scale-apache-kafka-storm-and-elastic-search/</link>
+      <pubDate>Sat, 06 Sep 2014 07:35:27 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2014/09/talk-on-infrastructure-at-scale-apache-kafka-storm-and-elastic-search/</guid>
+      <description>The following talk gives a good overview on the technologies used by Loggly.com to build their scalable real-time-search log-processing infrastructure.
+The slides of the talk can be found here:
+Infrastructure at Scale: Apache Kafka, Twitter Storm &amp;amp; Elastic Search (ARC303) | AWS re:Invent 2013 from Amazon Web Services
+(via loggly.com)  </description>
+    </item>
+    
+    <item>
+      <title>Enable HTTPS everywhere</title>
+      <link>https://blog.muehlburger.at/2014/01/enable-https-everywhere/</link>
+      <pubDate>Sun, 05 Jan 2014 15:35:26 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2014/01/enable-https-everywhere/</guid>
+      <description>[][1]SSL-Report for blog.muehlburger.at Finally I finished to configure my HTTPS protocol support for blog.muehlburger.at. Supporting encrypted communication is an important part of the internet today. Everybody should support encrypted communication on the web. A good resource on how to select strong cypher suites and to configure your web server to support encryption properly is bettercrypto.org.
+There is also a great video covering the current state of the art in crypto held by security researchers at 30C3:</description>
+    </item>
+    
+    <item>
+      <title>Our Choice – The Next Generation of Digital Books</title>
+      <link>https://blog.muehlburger.at/2011/05/video-our-choice-the-next-generation-of-digital-books/</link>
+      <pubDate>Mon, 02 May 2011 17:49:38 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/05/video-our-choice-the-next-generation-of-digital-books/</guid>
+      <description>Mike Matas (@mike_matas) and his team from Push Pop Press developed a great iPad and iPhone application called &amp;#8220;Our Choice&amp;#8220;. They claim it to be the next generation of digital books. In the following you see the TED Talk given by Mike Matas demonstrating &amp;#8220;Our Choice&amp;#8221;.
+What I find really interesting there are the interactive data visualizations. If you like this video drop me a comment! </description>
+    </item>
+    
+    <item>
+      <title>[video] – Bis an die Grenzen des Universums</title>
+      <link>https://blog.muehlburger.at/2011/03/video-bis-an-die-grenzen-des-universums/</link>
+      <pubDate>Tue, 08 Mar 2011 10:00:54 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/03/video-bis-an-die-grenzen-des-universums/</guid>
+      <description>&amp;#8220;Bis an die Grenzen des Universums&amp;#8221; ist der Titel einer Dokumentation, die versucht die ewigen weiten unseres Universums zu beschreiben. Meiner Meinung nach ausgesprochen sehenswert!
+http://www.youtube.com/watch?v=_oarMXGq3gIAKXNGZQShd8</description>
+    </item>
+    
+    <item>
+      <title>[video] – Thoughts on Google Instant</title>
+      <link>https://blog.muehlburger.at/2010/09/video-thoughts-on-google-instant/</link>
+      <pubDate>Thu, 09 Sep 2010 17:00:14 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/09/video-thoughts-on-google-instant/</guid>
+      <description>Image via CrunchBase     Here is an introductory video to Google Instant the new search feature that Google provides for its search engine.
+http://www.youtube.com/watch?v=_oarMXGq3gIElubRNRIUg4
+I personally do really like the new feature searching while you type. What do you think about it? Do you prefer the traditional &amp;#8220;push-the-button&amp;#8221; search approach?
+RWW asks how will this change affect your companie&amp;#8217;s search engine optimization?  tries to answer the similar question on if SEO will still be required in 5 years.</description>
+    </item>
+    
+    <item>
+      <title>The Social Media Revolution – Facts and Figures – [video]</title>
+      <link>https://blog.muehlburger.at/2010/05/social-media-revolution-facts-and-figures/</link>
+      <pubDate>Fri, 07 May 2010 19:09:03 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/05/social-media-revolution-facts-and-figures/</guid>
+      <description>Related articles {.zemanta-related-title}        The following video visualizes some recent social media statistics interestingly. Quite impressing how social media has developed over the last year. Facebook for example has gained 200 million users in just one year. That&amp;#8217;s incredible &amp;#8230;
+http://www.youtube.com/watch?v=_oarMXGq3gIlFZ0z5Fm-Ng
+(via crowdspring and mashable)
+Related articles {.zemanta-related-title}  Socialnomics Revisits &amp;#8216;Social Media Revolution&amp;#8217; (socialtimes.</description>
+    </item>
+    
+    <item>
+      <title>[video] – How fast is Google Chrome?</title>
+      <link>https://blog.muehlburger.at/2010/05/video-how-fast-is-google-chrome/</link>
+      <pubDate>Wed, 05 May 2010 18:12:51 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/05/video-how-fast-is-google-chrome/</guid>
+      <description>These days Google has released a video demonstrating the speed of their new beta Google Chrome browser. The video is made up in a very creative way. I am impressed how Google always finds really interesting ways to promote their products. Specially this one is of really interest:
+For everybody who is interested in the making of this video will like the following one too:
+(via ReadWriteWeb and Mashable)</description>
+    </item>
+    
+    <item>
+      <title>What does investing money really mean?</title>
+      <link>https://blog.muehlburger.at/2010/04/what-does-investing-money-really-mean/</link>
+      <pubDate>Mon, 26 Apr 2010 09:46:13 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/04/what-does-investing-money-really-mean/</guid>
+      <description>Due to my studies (Software Development and Business Management) I also have a strong interest in financial topics. The following video explains what investing money really means for everybody to understand. Enjoy the video it is worth watching.
+http://www.youtube.com/watch?v=8QvW1XETz2g
+(via commoncraft.com)</description>
+    </item>
+    
+    <item>
+      <title>The Virtual Revolution covered by the BBC</title>
+      <link>https://blog.muehlburger.at/2010/01/the-virtual-revolution-covered-by-the-bbc/</link>
+      <pubDate>Sun, 31 Jan 2010 20:43:46 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/01/the-virtual-revolution-covered-by-the-bbc/</guid>
+      <description>The Virtual Revolution refers to the fact that 20-25% of the word&amp;#8217;s population is using the web by now, while other 80% are yet either not connected to broadband connections or are just not using it, as Sir Tim Berners-Lee, the inventor of the web, states. In Afrika for example, people are now getting connected to broadband internet in a wide variety of areas. This means that the digital revolution that has shaped our world as we know it now, will happen in these areas too.</description>
+    </item>
+    
+    <item>
+      <title>[video] – Did you Know 4.0</title>
+      <link>https://blog.muehlburger.at/2009/12/video-did-you-know-4-0/</link>
+      <pubDate>Mon, 28 Dec 2009 23:02:10 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/12/video-did-you-know-4-0/</guid>
+      <description>There is a new version of the great &amp;#8220;Did you Know&amp;#8221; series. Here is the new video:</description>
+    </item>
+    
+    <item>
+      <title>[video] – The Evolution of Google</title>
+      <link>https://blog.muehlburger.at/2009/11/video-the-evolution-of-google/</link>
+      <pubDate>Fri, 13 Nov 2009 07:44:35 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/video-the-evolution-of-google/</guid>
+      <description>Through @mebner I have found the following video demonstrating the evolution of Google:</description>
+    </item>
+    
+    <item>
+      <title>[video] – E-Portfolios for Beginners and the Mahara UK 09 Conference</title>
+      <link>https://blog.muehlburger.at/2009/07/video-e-portfolios-for-beginners-and-the-mahara-uk-09-conference/</link>
+      <pubDate>Fri, 24 Jul 2009 09:01:44 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/07/video-e-portfolios-for-beginners-and-the-mahara-uk-09-conference/</guid>
+      <description>Since few time I am coding an extension to the open-source e-porfolio software Mahara. Therefore I have searched for a video explaining what an e-porfolio stands for and how it can be used:
+Here is a video that explains it:
+Few time ago Mahara UK 09, the very first conference covering the e-portfolio system Mahara, took place in the United Kingdom. It was organised by the University of London Computer Centre (ULCC) and the University of London Institute of Education (IOE).</description>
+    </item>
+    
+    <item>
+      <title>[video] – Evan Williams on “How Twitter’s spectacular growth is being driven by unexpected uses”</title>
+      <link>https://blog.muehlburger.at/2009/04/video-evan-williams-on-how-twitters-spectacular-growth-is-being-driven-by-unexpected-uses/</link>
+      <pubDate>Thu, 23 Apr 2009 19:22:11 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/04/video-evan-williams-on-how-twitters-spectacular-growth-is-being-driven-by-unexpected-uses/</guid>
+      <description> The next video is about twitter&amp;#8217;s growth by the unexpected use of the service. Very intersting video!
+This video I found on the gorgeous TED Talks. Enjoy watching.
+(via TED)
+Related articles by Zemanta {.zemanta-related-title} TED Conferences app (textually.org)  Ted 2009 (q-ontech.blogspot.com)  TED conference accepting nominations for TED fellows (boingboing.net)  Curious about Twitter? (nylady.edublogs.org)     </description>
+    </item>
+    
+    <item>
+      <title>TED Talks – Tim Berners-Lee: The next Web of open, linked data</title>
+      <link>https://blog.muehlburger.at/2009/03/ted-talks-tim-berners-lee-the-next-web-of-open-linked-data/</link>
+      <pubDate>Wed, 18 Mar 2009 10:24:44 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/03/ted-talks-tim-berners-lee-the-next-web-of-open-linked-data/</guid>
+      <description>For everybody who is asking: &amp;#8220;What&amp;#8217;s the next step in internet evolution?&amp;#8221; This presentation of Tim Berners-Lee could give you the anser. Linking Data is one of the most exciting initiatives going on right now. Enjoy the presentation!
+(via TED)</description>
+    </item>
+    
+    <item>
+      <title>[university] – Mathematical Analysis T1 Exam</title>
+      <link>https://blog.muehlburger.at/2008/11/university-mathematical-analysis-t1-exam/</link>
+      <pubDate>Mon, 10 Nov 2008 20:53:30 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/university-mathematical-analysis-t1-exam/</guid>
+      <description>Tomorrow I will write the first mathematical analyis exam for this term. By now I solved all the exercise sheets and I think that I am well prepared. Need to pass this lecture this year since it is the last term of my undergraduate studies. Professor Grabner presented us this video about the mathematical analyis:
+What do you think about this video? I think it&amp;#8217;s weird. Well wish me luck for tomorrow.</description>
+    </item>
+    
+    <item>
+      <title>[video] – CNN for Holodeck</title>
+      <link>https://blog.muehlburger.at/2008/11/video-cnn-for-holodeck/</link>
+      <pubDate>Wed, 05 Nov 2008 11:11:56 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/video-cnn-for-holodeck/</guid>
+      <description>CNN yesterday used holograms for interviews in their broadcast on the presedential election 2008. The journalist Jessica Yellin was beamed from Chicago to the CNN studio, New York where Wolf Blitzer was speaking with her virtual hologram. Very interesting technique which shows where new media is moving.
+http://www.youtube.com/watch?v=x2bRNA2wpYk
+(via webstandard.at)</description>
+    </item>
+    
+    <item>
+      <title>Acapella Session</title>
+      <link>https://blog.muehlburger.at/2008/11/video-acapella-session/</link>
+      <pubDate>Tue, 04 Nov 2008 17:18:51 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/video-acapella-session/</guid>
+      <description>Check out this amazing video wich I have found on Basic Thinking Blog. Don&amp;#8217;t froget to close your mouth after you have seen it.
+(via Basic Thinking Blog)</description>
+    </item>
+    
+    <item>
+      <title>We think</title>
+      <link>https://blog.muehlburger.at/2008/11/video-we-think/</link>
+      <pubDate>Mon, 03 Nov 2008 11:50:23 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/video-we-think/</guid>
+      <description>The following video I have found on e-Learning Blog. Just watch and enjoy, &amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>musicmesh – Cooles Mediameshup</title>
+      <link>https://blog.muehlburger.at/2007/05/musicmesh-cooles-mediameshup/</link>
+      <pubDate>Wed, 09 May 2007 15:15:16 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/05/musicmesh-cooles-mediameshup/</guid>
+      <description>Für jeden der schon immer mal das Video zu einem Audiotrack sehen wollte sollte sich einmal www.musicmesh.net ansehen. Dort kann man nach beliebigen Musikern suchen und sich danach ihre Songs anhören. Das coole dabei, es wird automatisch ein Musikvideo auf youtube gesucht und abgespielt! Sehr coole Sache!
+Metadaten über Musiker, Tracks, Alben, etc… werden per Audioscrobbler Web Services API von www.last.fm bezogen, passende Videos werden wie gesagt über die API von YouTube gesucht und eingebunden!</description>
+    </item>
+    
+  </channel>
+</rss>

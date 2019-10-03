@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tutorial on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/tutorial/</link>
+    <description>Recent content in tutorial on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Feb 2017 09:00:36 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blockchain 101</title>
+      <link>https://blog.muehlburger.at/2017/02/blockchain-101/</link>
+      <pubDate>Tue, 07 Feb 2017 09:00:36 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2017/02/blockchain-101/</guid>
+      <description>Have you ever wondered how the Blockchain works? I found an interesting visual illustration about Blockchains by Anders Brownworth. Anders is a coder at Circle, a FinTech company based in the US.
+  (via anders.com and anders.com/blockchain)</description>
+    </item>
+    
+    <item>
+      <title>How to install (Oracle) Sun Java SDK 1.6.x (Java 6) on Ubuntu</title>
+      <link>https://blog.muehlburger.at/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</link>
+      <pubDate>Mon, 10 Jan 2011 20:45:32 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</guid>
+      <description>Dieser Beitrag beschreibt die Installation des Sun Java SDK 1.6.x on Ubuntu (Maverick). The English explanation on how to install Sun Java SDK 1.6.x can be found here.
+Canonical-Partner Repositories aktivieren: Dies geschieht unter &amp;#8220;System&amp;#8221; -&amp;gt; &amp;#8220;Systemverwaltung&amp;#8221; -&amp;gt; &amp;#8220;Synaptic Paketverwalung&amp;#8221;. In der Paketverwaltung finden sich die Paketquellen unter dem Menüpunkt &amp;#8220;Einstellungen&amp;#8221;. In den Einstellungen wechselt man auf den Reiter &amp;#8220;Andere Software&amp;#8221; und aktiviert dort &amp;#8220;Canonical-Partner&amp;#8221; bzw. &amp;#8220;Canonical-Partner (Quelltext)&amp;#8221;. Nach dem Klick auf &amp;#8220;Schließen&amp;#8221; werden die Paketlisten neu geladen.</description>
+    </item>
+    
+    <item>
+      <title>Google’s SEO Starter Guide – How to improve your website</title>
+      <link>https://blog.muehlburger.at/2008/11/googles-seo-starter-guide-how-to-improve-your-site/</link>
+      <pubDate>Thu, 13 Nov 2008 19:40:45 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/googles-seo-starter-guide-how-to-improve-your-site/</guid>
+      <description>Brandon Falls from Google Search Quality Team, wrote on the Official Google Webmaster Central Blog the following lines:
+ Webmasters often ask us at conferences or in the Webmaster Help Group, &amp;#8220;What are some simple ways that I can improve my website&amp;#8217;s performance in Google?&amp;#8221; There are lots of possible answers to this question, and a wealth of search engine optimization information on the web, so much that it can be intimidating for newer webmasters or those unfamiliar with the topic.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML 5 on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/html-5/</link>
+    <description>Recent content in HTML 5 on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Jul 2007 12:02:29 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/html-5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HTML 4.01 bis XHTML 2.0 im Vergleich</title>
+      <link>https://blog.muehlburger.at/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/</link>
+      <pubDate>Thu, 05 Jul 2007 12:02:29 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}        Jens Meiert bietet auf seinem Blog eine tabellarische Übersicht über alle Elemente, die in HTML 4.01, XHTML 1.0 Strict, XHTML 1.1, HTML 5, und XHTML 2.0 spezifitiert werden.
+Hier der Link direkt zu Jens Meierts Weblog.
+[via pixelgraphix]
+Related articles by Zemanta {.zemanta-related-title} Html5 (slideshare.net)  HTML+RDFa First Draft Published (w3.</description>
+    </item>
+    
+  </channel>
+</rss>

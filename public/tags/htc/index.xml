@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>htc on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/htc/</link>
+    <description>Recent content in htc on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 12 Mar 2011 18:19:18 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/htc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HowTo set up the Android SDK on Ubuntu for HTC Phones</title>
+      <link>https://blog.muehlburger.at/2011/03/howto-set-up-the-android-sdk-on-ubuntu-for-htc-phones/</link>
+      <pubDate>Sat, 12 Mar 2011 18:19:18 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/03/howto-set-up-the-android-sdk-on-ubuntu-for-htc-phones/</guid>
+      <description>Image via CrunchBase  In this post I will explain how I set up the Android SDK on Ubuntu for my HTC Desire.
+I first followed the steps for Ubuntu as described in Setting up a Device for Development:
+ With an Android-powered device, you can develop and debug your Android applications just as you would on the emulator. Before you can start, there are just a few things to do:</description>
+    </item>
+    
+    <item>
+      <title>Android 2.2 Froyo Update for HTC Desire</title>
+      <link>https://blog.muehlburger.at/2010/07/android-2-2-froyo-update-for-htc-desire/</link>
+      <pubDate>Sat, 31 Jul 2010 09:28:15 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/07/android-2-2-froyo-update-for-htc-desire/</guid>
+      <description>This weekend i will receive an update to Android 2.2 (Froyo) for my HTC Desire. I am really looking forward to this update.
+Here is the official video of Google introducing Android 2.2 (Froyo):
+[youtube yAZYSVr2Bhc]</description>
+    </item>
+    
+  </channel>
+</rss>

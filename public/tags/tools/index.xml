@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/tools/</link>
+    <description>Recent content in Tools on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Jan 2012 08:17:48 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Video Introduction to GIT Version Control by Scott Chacon of GitHub</title>
+      <link>https://blog.muehlburger.at/2012/01/video-introduction-to-git-version-control-by-scott-chacon-of-github/</link>
+      <pubDate>Thu, 26 Jan 2012 08:17:48 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2012/01/video-introduction-to-git-version-control-by-scott-chacon-of-github/</guid>
+      <description>The following talk, given by Scott Chacon of GitHub, gives a very good introduction to the version control system GIT and its usage. This is by far the best introduction that I have found so far.
+(via Marakana)</description>
+    </item>
+    
+    <item>
+      <title>Google Grippe-Trends jetzt auch für Österreich verfügbar</title>
+      <link>https://blog.muehlburger.at/2009/10/google-grippe-trends-fur-oesterreich-verfuegbar/</link>
+      <pubDate>Fri, 09 Oct 2009 06:22:51 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/10/google-grippe-trends-fur-oesterreich-verfuegbar/</guid>
+      <description>Google Grippe-Trends (Google Flu Trends) ist nun auch in Österreich verfügbar. Auf der extra dafür eingerichteten Website kann man den derzeitigen Verlauf der Grippewelle in Österreich, sowie in viele anderen Staaten verfolgen.
+Google bietet auch die Möglichkeit, die zugrunde liegenden Daten für eigene Zwecke herunterzuladen. Für jeden, der sich dafür interessiert, wie das Prinzip dahinter genau funktioniert verweise ich hier auf einen Artikel von Google (Detecting influenza epidemics using search engine query data), der in der Zeitschrift &amp;#8220;Nature&amp;#8221; veröffentlicht wurde.</description>
+    </item>
+    
+    <item>
+      <title>HTML 4.01 bis XHTML 2.0 im Vergleich</title>
+      <link>https://blog.muehlburger.at/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/</link>
+      <pubDate>Thu, 05 Jul 2007 12:02:29 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}        Jens Meiert bietet auf seinem Blog eine tabellarische Übersicht über alle Elemente, die in HTML 4.01, XHTML 1.0 Strict, XHTML 1.1, HTML 5, und XHTML 2.0 spezifitiert werden.
+Hier der Link direkt zu Jens Meierts Weblog.
+[via pixelgraphix]
+Related articles by Zemanta {.zemanta-related-title} Html5 (slideshare.net)  HTML+RDFa First Draft Published (w3.</description>
+    </item>
+    
+    <item>
+      <title>Google-Tochter YouTube testet digitale Videoerkennung</title>
+      <link>https://blog.muehlburger.at/2007/06/google-tochter-youtube-testet-digitale-videoerkennung/</link>
+      <pubDate>Fri, 15 Jun 2007 17:42:48 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/06/google-tochter-youtube-testet-digitale-videoerkennung/</guid>
+      <description>Image via CrunchBase  Das von Google übernommene Web2.0 Unterenehmen YouTube testet digitale Videoerkennung. Ziel ist es für jedes Video einen quasi Fingerabdruck zu erstellen um somit eindeutig identifizierbar zu sein. Den Originalartikel gibt es hier!
+Einen anderen interessanten Artikel dazu gibt es auf der Website www.digitalnext.de.
+  </description>
+    </item>
+    
+    <item>
+      <title>If you don’t ask, you don’t get!</title>
+      <link>https://blog.muehlburger.at/2007/03/if-you-dont-ask-you-dont-get/</link>
+      <pubDate>Sun, 25 Mar 2007 19:21:11 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/03/if-you-dont-ask-you-dont-get/</guid>
+      <description>In unserer heutigen von Informationen überfluteten Informationsgesellschaft wird ein Aspekt immmer wichtiger. Dies ist das altbewährte seit Jahrhunderten praktizierte und immer wieder so hilfreiche “FRAGEN”. Auch das Web2.0 bzw. die gesamte Internet Community hat sich dies zu nutze gemacht und Aplikationen wie askeet! oder Yahoo! Answers bzw. Google Answers entwickelt. Ein interessantes Werbevideo von ask.com kann hier bewundert werden.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

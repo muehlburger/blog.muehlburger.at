@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Networking on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/social-networking/</link>
+    <description>Recent content in Social Networking on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 Sep 2010 13:02:24 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/social-networking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[video] – How is Hadoop used at Twitter?</title>
+      <link>https://blog.muehlburger.at/2010/09/video-how-is-hadoop-used-at-twitter/</link>
+      <pubDate>Fri, 10 Sep 2010 13:02:24 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/09/video-how-is-hadoop-used-at-twitter/</guid>
+      <description>Image via CrunchBase  In the following video Dmitriy Ryaboy, a Twitter Analytics Engineer and a former Cloudera Intern, explains how Twitter uses Hadoop and Pig. Enjoy the video and have a good weekend!
+[vimeo 11110059]
+Related articles {.zemanta-related-title} How GE uses Hadoop to analyze big data (news.cnet.com)  How GE uses Hadoop to analyze big data (news.cnet.com)  Hadoop There it Was&amp;#8211;Hadoop Summit June 2010 (developer.yahoo.net)  Whooping it up for Hadoop (ycorpblog.</description>
+    </item>
+    
+    <item>
+      <title>[video] – HBase and Pig: The Hadoop Ecosystem at Twitter</title>
+      <link>https://blog.muehlburger.at/2010/06/video-hbase-and-pig-the-hadoop-ecosystem-at-twitter/</link>
+      <pubDate>Fri, 25 Jun 2010 06:17:16 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/06/video-hbase-and-pig-the-hadoop-ecosystem-at-twitter/</guid>
+      <description>            Related articles by Zemanta {.zemanta-related-title}        I have just found this very interesting video dealing with the implementation of HBase and Pig in combination with Hadoop at Twitter:
+Related articles by Zemanta {.zemanta-related-title} HBase Digest, March 2010 (sematext.com)  Cassandra+Hadoop (slideshare.net)  Hadoop, Hbase and Hive- Bay area Hadoop User Group (slideshare.net)   </description>
+    </item>
+    
+    <item>
+      <title>Grabeeter – Grab and Search your Tweets offline and online</title>
+      <link>https://blog.muehlburger.at/2010/06/grabeeter-grab-and-search-your-tweets-offline-and-online/</link>
+      <pubDate>Sat, 19 Jun 2010 06:51:24 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/06/grabeeter-grab-and-search-your-tweets-offline-and-online/</guid>
+      <description>Grabeeter (@grabeeter) has just been launched and I think it is a very useful tool.
+Grabeeter enables you to grab your tweets which means that you are able to store your tweets on your local harddrive in a structured format (xml at the time). Using the Grabeeter Client you are also able to perform searches on your local stored tweets.
+This solves in parts the following problem. Maybe some of you have already noticed that if you have written more than 3200 Tweets you are not able to access your first tweets anymore due to Twitter access restrictions.</description>
+    </item>
+    
+    <item>
+      <title>[video] – Trouble with the Twittersphere</title>
+      <link>https://blog.muehlburger.at/2009/05/video-trouble-with-the-twittersphere/</link>
+      <pubDate>Thu, 07 May 2009 09:28:12 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/05/video-trouble-with-the-twittersphere/</guid>
+      <description>            Related articles by Zemanta {.zemanta-related-title}        Just found a nice video about twitter and it&amp;#8217;s users called the Twittersphere.
+[youtube PN2HAroA12w]
+(via blogdrauf.de)
+Related articles by Zemanta {.zemanta-related-title} Immorality and Twitter  (scientificamerican.com)  Getting sucked into Twittersphere&amp;#8230; (localglobe.blogspot.com)     </description>
+    </item>
+    
+    <item>
+      <title>[video] – Evan Williams on “How Twitter’s spectacular growth is being driven by unexpected uses”</title>
+      <link>https://blog.muehlburger.at/2009/04/video-evan-williams-on-how-twitters-spectacular-growth-is-being-driven-by-unexpected-uses/</link>
+      <pubDate>Thu, 23 Apr 2009 19:22:11 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/04/video-evan-williams-on-how-twitters-spectacular-growth-is-being-driven-by-unexpected-uses/</guid>
+      <description> The next video is about twitter&amp;#8217;s growth by the unexpected use of the service. Very intersting video!
+This video I found on the gorgeous TED Talks. Enjoy watching.
+(via TED)
+Related articles by Zemanta {.zemanta-related-title} TED Conferences app (textually.org)  Ted 2009 (q-ontech.blogspot.com)  TED conference accepting nominations for TED fellows (boingboing.net)  Curious about Twitter? (nylady.edublogs.org)     </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Holography on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/holography/</link>
+    <description>Recent content in Holography on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Aug 2009 16:18:06 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/holography/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Touchable Holography</title>
+      <link>https://blog.muehlburger.at/2009/08/touchable-holography/</link>
+      <pubDate>Thu, 06 Aug 2009 16:18:06 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/08/touchable-holography/</guid>
+      <description>At this years International Conference and Exhibition on Computer Graphics and Interactive Techniques (SIGGRAPH2009) a touchable holography was presented by the University of Tokio. It is a kind of holography that you are able to feel and interact with. Great development that you can see in the following video:
+[youtube Y-P1zZAcPuw]
+The first page of the presented scientific paper called &amp;#8220;Touchable Holography&amp;#8221; can be downloaded here.
+ [via Shinodalab]   </description>
+    </item>
+    
+  </channel>
+</rss>

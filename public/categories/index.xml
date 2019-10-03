@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/categories/</link>
+    <description>Recent content in Categories on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 25 Jan 2019 21:10:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>istio</title>
+      <link>https://blog.muehlburger.at/categories/istio/</link>
+      <pubDate>Fri, 25 Jan 2019 21:10:00 +0100</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/istio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubernetes</title>
+      <link>https://blog.muehlburger.at/categories/kubernetes/</link>
+      <pubDate>Fri, 25 Jan 2019 21:10:00 +0100</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Videos</title>
+      <link>https://blog.muehlburger.at/categories/videos/</link>
+      <pubDate>Fri, 25 Jan 2019 21:10:00 +0100</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/videos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://blog.muehlburger.at/categories/programming/</link>
+      <pubDate>Wed, 26 Dec 2018 16:32:23 +0100</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software architecture</title>
+      <link>https://blog.muehlburger.at/categories/software-architecture/</link>
+      <pubDate>Wed, 26 Dec 2018 16:32:23 +0100</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/software-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Science</title>
+      <link>https://blog.muehlburger.at/categories/computer-science/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/computer-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://blog.muehlburger.at/categories/devops/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservices</title>
+      <link>https://blog.muehlburger.at/categories/microservices/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/microservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Engineering</title>
+      <link>https://blog.muehlburger.at/categories/software-engineering/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/software-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://blog.muehlburger.at/categories/technology/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serverless</title>
+      <link>https://blog.muehlburger.at/categories/serverless/</link>
+      <pubDate>Mon, 29 Jan 2018 15:34:05 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/serverless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finance</title>
+      <link>https://blog.muehlburger.at/categories/finance/</link>
+      <pubDate>Tue, 07 Feb 2017 09:00:36 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FinTec</title>
+      <link>https://blog.muehlburger.at/categories/fintec/</link>
+      <pubDate>Tue, 07 Feb 2017 09:00:36 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/fintec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>https://blog.muehlburger.at/categories/video/</link>
+      <pubDate>Tue, 07 Feb 2017 09:00:36 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>https://blog.muehlburger.at/categories/art/</link>
+      <pubDate>Sun, 01 May 2016 09:10:11 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HowTo</title>
+      <link>https://blog.muehlburger.at/categories/howto/</link>
+      <pubDate>Thu, 31 Mar 2016 08:27:56 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/howto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consulting</title>
+      <link>https://blog.muehlburger.at/categories/consulting/</link>
+      <pubDate>Sun, 01 Nov 2015 11:59:44 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/consulting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salesforce</title>
+      <link>https://blog.muehlburger.at/categories/salesforce/</link>
+      <pubDate>Sun, 01 Nov 2015 11:59:44 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/salesforce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing</title>
+      <link>https://blog.muehlburger.at/categories/marketing/</link>
+      <pubDate>Sun, 06 Sep 2015 09:40:16 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>https://blog.muehlburger.at/categories/work/</link>
+      <pubDate>Sun, 06 Sep 2015 09:40:16 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entrepreneurship</title>
+      <link>https://blog.muehlburger.at/categories/entrepreneurship/</link>
+      <pubDate>Mon, 15 Dec 2014 17:33:02 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/entrepreneurship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Startups</title>
+      <link>https://blog.muehlburger.at/categories/startups/</link>
+      <pubDate>Mon, 15 Dec 2014 17:33:02 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/startups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realtime</title>
+      <link>https://blog.muehlburger.at/categories/realtime/</link>
+      <pubDate>Sat, 06 Sep 2014 07:35:27 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/realtime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networks</title>
+      <link>https://blog.muehlburger.at/categories/networks/</link>
+      <pubDate>Mon, 21 Jul 2014 11:23:47 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business Models</title>
+      <link>https://blog.muehlburger.at/categories/business-models/</link>
+      <pubDate>Mon, 14 Apr 2014 15:48:20 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/business-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business Intelligence</title>
+      <link>https://blog.muehlburger.at/categories/business-intelligence/</link>
+      <pubDate>Tue, 23 Jul 2013 07:48:40 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/business-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kettle</title>
+      <link>https://blog.muehlburger.at/categories/kettle/</link>
+      <pubDate>Tue, 23 Jul 2013 07:48:40 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/kettle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pentaho</title>
+      <link>https://blog.muehlburger.at/categories/pentaho/</link>
+      <pubDate>Tue, 23 Jul 2013 07:48:40 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/pentaho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android</title>
+      <link>https://blog.muehlburger.at/categories/android/</link>
+      <pubDate>Tue, 29 Nov 2011 09:00:07 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apps</title>
+      <link>https://blog.muehlburger.at/categories/apps/</link>
+      <pubDate>Tue, 29 Nov 2011 09:00:07 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://blog.muehlburger.at/categories/machine-learning/</link>
+      <pubDate>Wed, 16 Nov 2011 11:04:20 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering</title>
+      <link>https://blog.muehlburger.at/categories/clustering/</link>
+      <pubDate>Fri, 06 May 2011 17:36:10 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalization</title>
+      <link>https://blog.muehlburger.at/categories/personalization/</link>
+      <pubDate>Fri, 06 May 2011 17:36:10 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/personalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iOS</title>
+      <link>https://blog.muehlburger.at/categories/ios/</link>
+      <pubDate>Mon, 02 May 2011 17:49:38 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>https://blog.muehlburger.at/categories/visualization/</link>
+      <pubDate>Mon, 02 May 2011 17:49:38 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing</title>
+      <link>https://blog.muehlburger.at/categories/testing/</link>
+      <pubDate>Tue, 19 Apr 2011 12:55:52 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NOSQL Summer</title>
+      <link>https://blog.muehlburger.at/categories/nosql-summer/</link>
+      <pubDate>Wed, 21 Jul 2010 19:27:07 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/nosql-summer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web2.0</title>
+      <link>https://blog.muehlburger.at/categories/web2.0/</link>
+      <pubDate>Fri, 07 May 2010 19:09:03 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/web2.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Web</title>
+      <link>https://blog.muehlburger.at/categories/semantic-web/</link>
+      <pubDate>Sun, 15 Nov 2009 19:18:41 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/semantic-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usability</title>
+      <link>https://blog.muehlburger.at/categories/usability/</link>
+      <pubDate>Thu, 05 Nov 2009 08:16:31 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/usability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://blog.muehlburger.at/categories/publications/</link>
+      <pubDate>Mon, 25 May 2009 18:37:11 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/categories/publications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

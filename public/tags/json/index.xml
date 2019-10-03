@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JSON on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/json/</link>
+    <description>Recent content in JSON on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 26 Aug 2011 09:17:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/json/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[spritpreisrechner.at] – Apps entwickeln</title>
+      <link>https://blog.muehlburger.at/2011/08/spritpreisrechner-at-apps-entwickeln/</link>
+      <pubDate>Fri, 26 Aug 2011 09:17:35 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/08/spritpreisrechner-at-apps-entwickeln/</guid>
+      <description>Vor kurzem wurde in Österreich der Spritpreisrechner der E-Control offiziell der Öffentlichkeit vorgestellt. Es hat nicht lange gedauert, bis auch die ersten Android App Entwickler die Seite zu nutzen versuchten. So finden sich derzeit im Android Market schon einige Spritpreisrechner Apps.
+Ich habe mir einmal das Datenformat angesehen, welches die Website spritpreisrechner.at für die Abfrage der Spritdaten benutzt. Es ist eigentlich ganz einfach:
+Es werden per HTTP POST Request Anfragen an http://www.</description>
+    </item>
+    
+    <item>
+      <title>Grabeeter – Grab and Search your Tweets offline and online</title>
+      <link>https://blog.muehlburger.at/2010/06/grabeeter-grab-and-search-your-tweets-offline-and-online/</link>
+      <pubDate>Sat, 19 Jun 2010 06:51:24 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/06/grabeeter-grab-and-search-your-tweets-offline-and-online/</guid>
+      <description>Grabeeter (@grabeeter) has just been launched and I think it is a very useful tool.
+Grabeeter enables you to grab your tweets which means that you are able to store your tweets on your local harddrive in a structured format (xml at the time). Using the Grabeeter Client you are also able to perform searches on your local stored tweets.
+This solves in parts the following problem. Maybe some of you have already noticed that if you have written more than 3200 Tweets you are not able to access your first tweets anymore due to Twitter access restrictions.</description>
+    </item>
+    
+  </channel>
+</rss>

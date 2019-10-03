@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/docker/</link>
+    <description>Recent content in Docker on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Evolution of Microservices</title>
+      <link>https://blog.muehlburger.at/2018/02/the-evolution-of-microservices/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2018/02/the-evolution-of-microservices/</guid>
+      <description>Have you ever wondered on how the concept of Microservices developed? The following video by Adrian Cockcroft gives a quite good overview on the evolution of microservices.
+  (via Scalable Microservices with Kubernetes)</description>
+    </item>
+    
+    <item>
+      <title>[video] – Docker for Java Developers</title>
+      <link>https://blog.muehlburger.at/2016/12/video-docker-for-java-developers/</link>
+      <pubDate>Mon, 05 Dec 2016 21:41:17 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2016/12/video-docker-for-java-developers/</guid>
+      <description>Here is a good introductory video on Docker for Java Developers:</description>
+    </item>
+    
+  </channel>
+</rss>

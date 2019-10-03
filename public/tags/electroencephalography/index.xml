@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electroencephalography on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/electroencephalography/</link>
+    <description>Recent content in Electroencephalography on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 Apr 2009 08:35:08 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/electroencephalography/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scientist developes a Brain-To-Twitter Interface</title>
+      <link>https://blog.muehlburger.at/2009/04/scientist-developes-a-brain-to-twitter-interface/</link>
+      <pubDate>Tue, 21 Apr 2009 08:35:08 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/04/scientist-developes-a-brain-to-twitter-interface/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}           Image via CrunchBase     Adam Wilson, biomedical engineering doctoral student at University of Wisconsin-Madison has developed a brain to computer interface which makes it possible to directly write tweets through thoughts. ReadWriteWeb writes:
+ Technically, what Wilson did was come up with an interface combining an Electroencephalogram, or brain wave monitor, with an on screen keyboard for selecting letters.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>readwriteweb on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/readwriteweb/</link>
+    <description>Recent content in readwriteweb on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 21 Jan 2011 06:44:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/readwriteweb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[video] – Connect Your Mailbox to the Internet</title>
+      <link>https://blog.muehlburger.at/2011/01/video-connect-your-mailbox-to-the-internet/</link>
+      <pubDate>Fri, 21 Jan 2011 06:44:35 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/01/video-connect-your-mailbox-to-the-internet/</guid>
+      <description>Recently I found a video on the web demonstrating a simple system sending push notifications to your iPhone whenever the mailman has delivered your post.
+As a part of their &amp;#8220;Internet of Things&amp;#8221; series ReadWriteWeb came up with an article describing how Make Magazine built the system using an Arduino. This is a nice way of using this technology. In the following you can see the video demonstrating the system.</description>
+    </item>
+    
+    <item>
+      <title>Google released Android 2.3 Gingerbread</title>
+      <link>https://blog.muehlburger.at/2010/12/google-released-android-2-3-gingerbread/</link>
+      <pubDate>Tue, 07 Dec 2010 16:02:19 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/12/google-released-android-2-3-gingerbread/</guid>
+      <description>Yesterday Google released a new version of Android 2.3 called Gingerbread. The following video explains some of the new features:
+[youtube Jx3pdWBlZ34]
+I am looking forward to updating my HTC Desire when it receives the update.
+Update: Apart from this information ReadWriteWeb found some interesting new features as stated on their weblog:
+ Yesterday, Google launched a new version of the Android operating system, Android 2.3, code-named &amp;#8220;Gingerbread.&amp;#8221; Since then, developers have been scouring through the software development kit (SDK) to see what&amp;#8217;s new.</description>
+    </item>
+    
+    <item>
+      <title>Scientist developes a Brain-To-Twitter Interface</title>
+      <link>https://blog.muehlburger.at/2009/04/scientist-developes-a-brain-to-twitter-interface/</link>
+      <pubDate>Tue, 21 Apr 2009 08:35:08 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/04/scientist-developes-a-brain-to-twitter-interface/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}           Image via CrunchBase     Adam Wilson, biomedical engineering doctoral student at University of Wisconsin-Madison has developed a brain to computer interface which makes it possible to directly write tweets through thoughts. ReadWriteWeb writes:
+ Technically, what Wilson did was come up with an interface combining an Electroencephalogram, or brain wave monitor, with an on screen keyboard for selecting letters.</description>
+    </item>
+    
+    <item>
+      <title>Google Flu Trends – Google Uses Searches to Track Flu’s Spread</title>
+      <link>https://blog.muehlburger.at/2008/11/google-flu-trends-google-uses-searches-to-track-flu-spread/</link>
+      <pubDate>Wed, 12 Nov 2008 09:21:46 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/google-flu-trends-google-uses-searches-to-track-flu-spread/</guid>
+      <description>It stands to reason that people who are &amp;#8220;starting to come down with something&amp;#8221; often take the opportunity to search for information on what ails them, even before they discuss their symptoms with a healthcare professional. Who gets more of those searches than anyone? Google, of course. [ReadWriteWeb]
+ Google offers a new service called Google Flu Trends. The service uses an analysis of Google&amp;#8217;s millions of search queries every day to calculate flu trends.</description>
+    </item>
+    
+  </channel>
+</rss>

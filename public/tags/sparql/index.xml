@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SPARQL on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/sparql/</link>
+    <description>Recent content in SPARQL on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Mar 2009 19:47:27 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/sparql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Obama’s impressive use of Semantic Web Technologies</title>
+      <link>https://blog.muehlburger.at/2009/03/obamas-impressive-use-of-semantic-web-technologies/</link>
+      <pubDate>Mon, 23 Mar 2009 19:47:27 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/03/obamas-impressive-use-of-semantic-web-technologies/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}        US President Obama enforces the use of Semantic Web Technologies. David Peterson posted on SitePoint the follwing:
+ In a revolutionary move, Obama’s administration is set to utilise next generation web technologies to bring an unprecedented level of transparency to government. In this case it will shed light on how the roughly US $800 billion dollar economic stimulus will be spent.</description>
+    </item>
+    
+  </channel>
+</rss>

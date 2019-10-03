@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pandora Radio on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/pandora-radio/</link>
+    <description>Recent content in Pandora Radio on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 19 May 2010 06:08:49 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/pandora-radio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Car Manufacturers work on Android Integration for their Vehicles – [videos]</title>
+      <link>https://blog.muehlburger.at/2010/05/car-manufacturers-work-on-android-integration-for-their-vehicles-videos/</link>
+      <pubDate>Wed, 19 May 2010 06:08:49 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/05/car-manufacturers-work-on-android-integration-for-their-vehicles-videos/</guid>
+      <description>GM and OnStar are working on the integration of mobile Android application into one of their cars (Chevrolet Volt). A demonstration of a first working prototype can be seen in the video below.
+[youtube KFj3OdXxszk]
+Ford was also working on integrating mobile applications into their cars as the following two videos demonstrate:
+SYNC AppLink and the New 2011 Ford Fiesta [youtube 3xSOON3hxPg]
+Ford SYNC and Pandora Pandora is a free internet radio which currently sadly cannot be accesed in Austria.</description>
+    </item>
+    
+  </channel>
+</rss>

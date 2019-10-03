@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linear Regression on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/linear-regression/</link>
+    <description>Recent content in Linear Regression on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 16 Nov 2011 11:04:20 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/linear-regression/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Machine Learning is awesome</title>
+      <link>https://blog.muehlburger.at/2011/11/machine-learning-is-awesome/</link>
+      <pubDate>Wed, 16 Nov 2011 11:04:20 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/11/machine-learning-is-awesome/</guid>
+      <description>Machine Learning Class Machine Learning has always been a topic that attracted my interest. Currently I attend the &amp;#8220;Machine Learning&amp;#8221; class (@ml_class) offered by Prof. Andrew Ng from Stanford University. The class is awesome. The video lectures are made of small chunks explaining every topic in detail. A lot of topics were already covered:
+ Linear regression with one variable Linear regression with multiple variable One-vs-all Classification Regularization Backpropagation Algorithm Neural Networks Practical advise for applying learning algorithms How to develop and debug learning algorithms Feature and model design, setting up experiments  Other interesting topics are following.</description>
+    </item>
+    
+  </channel>
+</rss>

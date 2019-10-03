@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>microblogging on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/microblogging/</link>
+    <description>Recent content in microblogging on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 16 Nov 2008 09:15:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/microblogging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Error Message: Twitter is over capacity</title>
+      <link>https://blog.muehlburger.at/2008/11/error-message-twitter-is-over-capacity/</link>
+      <pubDate>Sun, 16 Nov 2008 09:15:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/error-message-twitter-is-over-capacity/</guid>
+      <description>Few minutes ago I saw this message on twitter:
+ Twitter is over capacity
+Did anybody of you encoutner the same message? Interesting that this service went down because too many people tweeted.</description>
+    </item>
+    
+  </channel>
+</rss>

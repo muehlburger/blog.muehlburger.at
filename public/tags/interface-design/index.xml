@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interface Design on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/interface-design/</link>
+    <description>Recent content in Interface Design on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Nov 2009 08:16:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/interface-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How will The Future of Interface Design look like?</title>
+      <link>https://blog.muehlburger.at/2009/11/the-future-of-interface-design-how-will-it-look-like/</link>
+      <pubDate>Thu, 05 Nov 2009 08:16:31 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/the-future-of-interface-design-how-will-it-look-like/</guid>
+      <description>David Leggett tried to answer this question in a blogpost written for uxBOOTH. He writes:
+ The future of how we interact with computers is exciting to say the least. What once seemed like nonsense outside of Hollywood and Science Fiction is now starting to find it’s way into reality, and some of the technology is a bit overwhelming. Have a taste of what the future of interface design has to offer:</description>
+    </item>
+    
+  </channel>
+</rss>

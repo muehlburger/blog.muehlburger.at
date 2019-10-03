@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/categories/computer-science/</link>
+    <description>Recent content in Computer Science on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/categories/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Evolution of Microservices</title>
+      <link>https://blog.muehlburger.at/2018/02/the-evolution-of-microservices/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2018/02/the-evolution-of-microservices/</guid>
+      <description>Have you ever wondered on how the concept of Microservices developed? The following video by Adrian Cockcroft gives a quite good overview on the evolution of microservices.
+  (via Scalable Microservices with Kubernetes)</description>
+    </item>
+    
+    <item>
+      <title>A Channel Compendium by John Graham-Cumming</title>
+      <link>https://blog.muehlburger.at/2017/12/a-channel-compendium-by-john-graham-cumming/</link>
+      <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2017/12/a-channel-compendium-by-john-graham-cumming/</guid>
+      <description>This video explains the concept of channels in the Go programming language very well. Channels are really useful to synchronize Goroutines.
+  </description>
+    </item>
+    
+    <item>
+      <title>Blockchain 101</title>
+      <link>https://blog.muehlburger.at/2017/02/blockchain-101/</link>
+      <pubDate>Tue, 07 Feb 2017 09:00:36 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2017/02/blockchain-101/</guid>
+      <description>Have you ever wondered how the Blockchain works? I found an interesting visual illustration about Blockchains by Anders Brownworth. Anders is a coder at Circle, a FinTech company based in the US.
+  (via anders.com and anders.com/blockchain)</description>
+    </item>
+    
+    <item>
+      <title>Security by Design</title>
+      <link>https://blog.muehlburger.at/2017/02/security-by-design/</link>
+      <pubDate>Mon, 06 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2017/02/security-by-design/</guid>
+      <description>This interesting talk by Eoin Woods focusses on Security by Design. Eoin is the CTO of Endava.
+  </description>
+    </item>
+    
+    <item>
+      <title>Stateless Authentication using JWT (JSON Web Token)</title>
+      <link>https://blog.muehlburger.at/2017/01/stateless-authentication-using-jwt-json-web-token/</link>
+      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2017/01/stateless-authentication-using-jwt-json-web-token/</guid>
+      <description>Currently I work on an implementation for authentication and authorization using Spring Boot, Spring Security, OAuth 2.0 and JSON Web Tokens (JWT). In order to get a good understanding on these topics I found several talks that I&amp;#8217;m going to list here.
+&amp;#8220;100% Stateless with JWT (JSON Web Token)&amp;#8221; by Hubert Sablonnière. I found it very useful to get a better understanding on using JWTs to create a really stateless authentication architecture.</description>
+    </item>
+    
+    <item>
+      <title>Apache Kafka Streams</title>
+      <link>https://blog.muehlburger.at/2017/01/apache-kafka-streams/</link>
+      <pubDate>Tue, 17 Jan 2017 16:17:01 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2017/01/apache-kafka-streams/</guid>
+      <description>I&amp;#8217;m interested in Apache Kafka Streams and would like share some information on this topic with you. There is a great talk about Stream Processing from Neha Narkhede who co-authored Apache Kafka and is currently a co-founder and Head of Engineering of Confluent.
+Great talk about stream processing! https://t.co/Yn9eHLNZag #kafka #kafkastreams  &amp;mdash; Manuel Stößel (@Manuel_Stoessel) October 15, 2016  There is also a good article on Apache Kafka Streams with lots of background information.</description>
+    </item>
+    
+    <item>
+      <title>[video] – Docker for Java Developers</title>
+      <link>https://blog.muehlburger.at/2016/12/video-docker-for-java-developers/</link>
+      <pubDate>Mon, 05 Dec 2016 21:41:17 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2016/12/video-docker-for-java-developers/</guid>
+      <description>Here is a good introductory video on Docker for Java Developers:</description>
+    </item>
+    
+    <item>
+      <title>[video] – Knowledge is Power: Getting out of Trouble by Understanding Git</title>
+      <link>https://blog.muehlburger.at/2016/11/video-knowledge-is-power-getting-out-of-trouble-by-understanding-git/</link>
+      <pubDate>Thu, 17 Nov 2016 10:25:34 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2016/11/video-knowledge-is-power-getting-out-of-trouble-by-understanding-git/</guid>
+      <description>Have you ever wondered how git works internally or why git does certain things in a certain way? Recently I found an interesting talk about git&amp;rsquo;s internals on https://gotocon.com. It explains all the building blocks that you need to understand to better understand git.
+  Knowledge is Power: Getting out of Trouble by Understanding Git</description>
+    </item>
+    
+    <item>
+      <title>Programming as Performance</title>
+      <link>https://blog.muehlburger.at/2016/05/programming-as-performance/</link>
+      <pubDate>Sun, 01 May 2016 09:10:11 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2016/05/programming-as-performance/</guid>
+      <description>Programming as Performance? This sounds interesting and indeed it is, as you can see in this video by Sam Aaron (a Post-Doc Researcher at the Cambridge University):
+  He wrote Sonic Pi, a program to enable children and others interested in coding and music to create their very individual sounds using a simple keyboard and a Raspberry Pi.</description>
+    </item>
+    
+    <item>
+      <title>Talk on Infrastructure at Scale: Apache Kafka, Storm and Elastic Search</title>
+      <link>https://blog.muehlburger.at/2014/09/talk-on-infrastructure-at-scale-apache-kafka-storm-and-elastic-search/</link>
+      <pubDate>Sat, 06 Sep 2014 07:35:27 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2014/09/talk-on-infrastructure-at-scale-apache-kafka-storm-and-elastic-search/</guid>
+      <description>The following talk gives a good overview on the technologies used by Loggly.com to build their scalable real-time-search log-processing infrastructure.
+The slides of the talk can be found here:
+Infrastructure at Scale: Apache Kafka, Twitter Storm &amp;amp; Elastic Search (ARC303) | AWS re:Invent 2013 from Amazon Web Services
+(via loggly.com)  </description>
+    </item>
+    
+    <item>
+      <title>Stanford Large Network Dataset Collection</title>
+      <link>https://blog.muehlburger.at/2014/07/stanford-large-network-dataset-collection/</link>
+      <pubDate>Mon, 21 Jul 2014 11:23:47 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2014/07/stanford-large-network-dataset-collection/</guid>
+      <description>[][1]Stanford Large Network Dataset Collection The Stanford Large Network Dataset Collection was published as part of the Stanford Network Analysis Project (SNAP). It consists of an interesting collection of large networks. The aim of SNAP is provide a general purpose network analysis and graph mining library.
+The SNAP Collection contains datasets from various domains such as:
+ Social networks : online social networks, edges represent interactions between people Networks with ground-truth communities : ground-truth network communities in social and information networks Communication networks : email communication networks with edges representing communication Citation networks : nodes represent papers, edges represent citations Collaboration networks : nodes represent scientists, edges represent collaborations (co-authoring a paper) Web graphs : nodes represent webpages and edges are hyperlinks Amazon networks : nodes represent products and edges link commonly co-purchased products Internet networks : nodes represent computers and edges communication Road networks : nodes represent intersections and edges roads connecting the intersections Autonomous systems : graphs of the internet Signed networks : networks with positive and negative edges (friend/foe, trust/distrust) Location-based online social networks : Social networks with geographic check-ins Wikipedia networks and metadata : Talk, editing and voting data from Wikipedia Twitter and Memetracker : Memetracker phrases, links and 467 million Tweets Online communities : Data from online communities such as Reddit and Flickr Online reviews : Data from online review systems such as BeerAdvocate and Amazon Information cascades : &amp;#8230;  It is definitely worth of having a look at the different datasets.</description>
+    </item>
+    
+    <item>
+      <title>Enable HTTPS everywhere</title>
+      <link>https://blog.muehlburger.at/2014/01/enable-https-everywhere/</link>
+      <pubDate>Sun, 05 Jan 2014 15:35:26 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2014/01/enable-https-everywhere/</guid>
+      <description>[][1]SSL-Report for blog.muehlburger.at Finally I finished to configure my HTTPS protocol support for blog.muehlburger.at. Supporting encrypted communication is an important part of the internet today. Everybody should support encrypted communication on the web. A good resource on how to select strong cypher suites and to configure your web server to support encryption properly is bettercrypto.org.
+There is also a great video covering the current state of the art in crypto held by security researchers at 30C3:</description>
+    </item>
+    
+    <item>
+      <title>How to fix error on Pentaho Data Integration (Kettle) startup</title>
+      <link>https://blog.muehlburger.at/2013/07/how-to-fix-error-on-pentaho-data-integration-kettle-startup/</link>
+      <pubDate>Tue, 23 Jul 2013 07:48:40 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2013/07/how-to-fix-error-on-pentaho-data-integration-kettle-startup/</guid>
+      <description>Howto fix startup error of Pentaho Data Integration (Kettle) on CentOS 6? You just need to modify the spoon.sh startup script after downloading and unzipping Pentaho Data Integration. The modification updates the Java runtime options for Kettle to startup properly. Therefore open
+[code language=&amp;#8221;bash&amp;#8221;]spoon.sh[/code]
+and change the end of the file in the following way:
+[code language=&amp;#8221;bash&amp;#8221;]
+# **********************
+# ** Set java runtime options **
+# ** Change 512m to higher values in case you run out of memory **</description>
+    </item>
+    
+    <item>
+      <title>Javapocalypse</title>
+      <link>https://blog.muehlburger.at/2013/06/javapocalypse/</link>
+      <pubDate>Fri, 14 Jun 2013 17:00:47 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2013/06/javapocalypse/</guid>
+      <description>I need to share the following video on &amp;#8220;Javapocalypse&amp;#8221; from JavaZone. Pushing the &amp;#8220;Undo Java&amp;#8221; button will have huge impact. Have a look at these consequences. The following trailer highlights the importance of Java.
+JavaZone 2013 takes places in Oslo at the 10th and 11th of September 2013.
+ JavaZone is an important meeting place for software developers in Scandinavia, and is the biggest community driven conference of its kind. JavaZone has been described as a high quality, independent conference – a leading forum for knowledge exchange for IT- professionals.</description>
+    </item>
+    
+    <item>
+      <title>What Most Schools Don’t Teach – Programming</title>
+      <link>https://blog.muehlburger.at/2013/03/what-most-schools-dont-teach-programming/</link>
+      <pubDate>Mon, 04 Mar 2013 10:27:24 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2013/03/what-most-schools-dont-teach-programming/</guid>
+      <description>&amp;#8220;The programmers of tomorrow are the wizards of the future. You are going to look like you have magic power, compared to everybody else.&amp;#8221; Diese Aussage beschreibt den Wert, den &amp;#8220;Coding Skills&amp;#8221; heute und in Zukunft haben. Die Fähigkeit Software nach eigenen Vorstellungen zu entwickeln stellt für jeden Bürger eine wichtige Möglichkeit dar das Grundrecht der Freiheit auszuleben.
+Das folgende Video beschreibt was &amp;#8220;die meisten Schulen (noch) nicht lehren&amp;#8221; nämlich Software zu entwickeln und Quellcode lesen zu können.</description>
+    </item>
+    
+    <item>
+      <title>Video Introduction to GIT Version Control by Scott Chacon of GitHub</title>
+      <link>https://blog.muehlburger.at/2012/01/video-introduction-to-git-version-control-by-scott-chacon-of-github/</link>
+      <pubDate>Thu, 26 Jan 2012 08:17:48 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2012/01/video-introduction-to-git-version-control-by-scott-chacon-of-github/</guid>
+      <description>The following talk, given by Scott Chacon of GitHub, gives a very good introduction to the version control system GIT and its usage. This is by far the best introduction that I have found so far.
+(via Marakana)</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning is awesome</title>
+      <link>https://blog.muehlburger.at/2011/11/machine-learning-is-awesome/</link>
+      <pubDate>Wed, 16 Nov 2011 11:04:20 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/11/machine-learning-is-awesome/</guid>
+      <description>Machine Learning Class Machine Learning has always been a topic that attracted my interest. Currently I attend the &amp;#8220;Machine Learning&amp;#8221; class (@ml_class) offered by Prof. Andrew Ng from Stanford University. The class is awesome. The video lectures are made of small chunks explaining every topic in detail. A lot of topics were already covered:
+ Linear regression with one variable Linear regression with multiple variable One-vs-all Classification Regularization Backpropagation Algorithm Neural Networks Practical advise for applying learning algorithms How to develop and debug learning algorithms Feature and model design, setting up experiments  Other interesting topics are following.</description>
+    </item>
+    
+    <item>
+      <title>[spritpreisrechner.at] – Apps entwickeln</title>
+      <link>https://blog.muehlburger.at/2011/08/spritpreisrechner-at-apps-entwickeln/</link>
+      <pubDate>Fri, 26 Aug 2011 09:17:35 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/08/spritpreisrechner-at-apps-entwickeln/</guid>
+      <description>Vor kurzem wurde in Österreich der Spritpreisrechner der E-Control offiziell der Öffentlichkeit vorgestellt. Es hat nicht lange gedauert, bis auch die ersten Android App Entwickler die Seite zu nutzen versuchten. So finden sich derzeit im Android Market schon einige Spritpreisrechner Apps.
+Ich habe mir einmal das Datenformat angesehen, welches die Website spritpreisrechner.at für die Abfrage der Spritdaten benutzt. Es ist eigentlich ganz einfach:
+Es werden per HTTP POST Request Anfragen an http://www.</description>
+    </item>
+    
+    <item>
+      <title>Videos of Google IO 2011 – Android Tracks of Day Two</title>
+      <link>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/</link>
+      <pubDate>Thu, 12 May 2011 11:20:59 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/</guid>
+      <description>In the next few videos you can seen the recorded tracks of Google&amp;#8217;s IO 2011 Developer Conference covering Android development. Sit back and enjoy! Google I/O 2011: Keynote Day 2 Android Market for Developers Designing and Implementing Android UIs for Phones and Tablets Building Android Apps for Google TV Android Development Tools Taking Android to Work Related articles {.zemanta-related-title} Google TV Gets Android Market And Android 3.1 Honeycomb (slashgear.com)  Google TV will get Android 3.</description>
+    </item>
+    
+    <item>
+      <title>Videos of Google IO 2011 – Android Tracks of Day One</title>
+      <link>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-one/</link>
+      <pubDate>Wed, 11 May 2011 17:09:56 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-one/</guid>
+      <description>&amp;nbsp; Google IO is currently taking place in San Francisco and for everybody who could not attend Google live streamed quite some sessions. In the following you can see the videos which are currently published:
+Google I/O 2011: Android Keynote Day One  [youtube OxzucwjFEEs]
+As an Android developer I am very interested in the Android sessions as you can imagine. So the following the next video first covers advaced topics of android development.</description>
+    </item>
+    
+    <item>
+      <title>[video] – The Filter Bubble – From Human to Algorithmic Gatekeepers</title>
+      <link>https://blog.muehlburger.at/2011/05/video-the-filter-bubble-from-human-to-algorithmic-gatekeepers/</link>
+      <pubDate>Fri, 06 May 2011 17:36:10 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/05/video-the-filter-bubble-from-human-to-algorithmic-gatekeepers/</guid>
+      <description>Related articles {.zemanta-related-title}        Web personalization and personalized recommendations are recently gaining more and more interest. Companies like Amazon, Google, Netflix, The New York Times, Facebook, Twitter, &amp;#8230; already personalize their products in different ways. If you take Google&amp;#8217;s search results as an example. Have you ever noticed that a friend of you gets different search results as you do for the same search query?</description>
+    </item>
+    
+    <item>
+      <title>Our Choice – The Next Generation of Digital Books</title>
+      <link>https://blog.muehlburger.at/2011/05/video-our-choice-the-next-generation-of-digital-books/</link>
+      <pubDate>Mon, 02 May 2011 17:49:38 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/05/video-our-choice-the-next-generation-of-digital-books/</guid>
+      <description>Mike Matas (@mike_matas) and his team from Push Pop Press developed a great iPad and iPhone application called &amp;#8220;Our Choice&amp;#8220;. They claim it to be the next generation of digital books. In the following you see the TED Talk given by Mike Matas demonstrating &amp;#8220;Our Choice&amp;#8221;.
+What I find really interesting there are the interactive data visualizations. If you like this video drop me a comment! </description>
+    </item>
+    
+    <item>
+      <title>Introducing Robotium – A Testing Framework for Android</title>
+      <link>https://blog.muehlburger.at/2011/04/introducing-robotium-a-testing-framework-for-android/</link>
+      <pubDate>Tue, 19 Apr 2011 12:55:52 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/04/introducing-robotium-a-testing-framework-for-android/</guid>
+      <description>Image via Wikipedia  Robotium is an open source testing framework for Android applications. It makes it easy to write complex black-box test cases. Test driven development is a methology where tests are written before the actual application.
+ Write a testcase
+ Watch it failing
+ Write the actual source code in you application which enables the test to pass
+ Watch the test passing
+ Go back to step 1</description>
+    </item>
+    
+    <item>
+      <title>Google launched In-app Billing on Android Market</title>
+      <link>https://blog.muehlburger.at/2011/03/google-launched-in-app-billing-on-android-market/</link>
+      <pubDate>Wed, 30 Mar 2011 10:07:20 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/03/google-launched-in-app-billing-on-android-market/</guid>
+      <description>[][1]Google Android In-App Billing Google yesterday launched In-app Billing on the Android Market. This feature enables developers to publish apps that use in-app Billing and users can make purchages from within the Android apps.
+Google writes:
+ Android Market In-app Billing is an Android Market service that lets you sell digital content in your applications. You can use the service to sell a wide range of content, including downloadable content such as media files or photos, and virtual content such as game levels or potions.</description>
+    </item>
+    
+    <item>
+      <title>HowTo set up the Android SDK on Ubuntu for HTC Phones</title>
+      <link>https://blog.muehlburger.at/2011/03/howto-set-up-the-android-sdk-on-ubuntu-for-htc-phones/</link>
+      <pubDate>Sat, 12 Mar 2011 18:19:18 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/03/howto-set-up-the-android-sdk-on-ubuntu-for-htc-phones/</guid>
+      <description>Image via CrunchBase  In this post I will explain how I set up the Android SDK on Ubuntu for my HTC Desire.
+I first followed the steps for Ubuntu as described in Setting up a Device for Development:
+ With an Android-powered device, you can develop and debug your Android applications just as you would on the emulator. Before you can start, there are just a few things to do:</description>
+    </item>
+    
+    <item>
+      <title>Minecraft Documentary Explores Indie Game’s Impact</title>
+      <link>https://blog.muehlburger.at/2011/03/minecraft-documentary-explores-indie-games-impact/</link>
+      <pubDate>Mon, 07 Mar 2011 18:06:30 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/03/minecraft-documentary-explores-indie-games-impact/</guid>
+      <description>The impact of indie games given Minecraft as an example is the topic of the following 20 minutes documentary. Wired.com states:
+ Of all the videogame industry’s tremendous success stories, Minecraft might very well be the most remarkable. [wired.com]
+ Have fun watching the interesting video:
+[youtube Ax9kmoyzl1Y]
+(via wired.com)
+{.zemanta-related-title} Related articles {.zemanta-related-title} Minecraft Documentary Explores Indie Game&amp;#8217;s Impact (wired.com)  Watch 20 Minutes of the Minecraft Documentary (escapistmagazine.</description>
+    </item>
+    
+    <item>
+      <title>NoSQL Databases: Why, what and when – An Overview on NoSQL Datastores</title>
+      <link>https://blog.muehlburger.at/2011/03/nosql-databases-why-what-and-when-an-overview-on-nosql-datastores/</link>
+      <pubDate>Sun, 06 Mar 2011 19:31:59 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/03/nosql-databases-why-what-and-when-an-overview-on-nosql-datastores/</guid>
+      <description>For everybody interested in NoSQL datastores the following presentation by Lorenzo Alberton is worth reading. It gives a good overview of the currently used technologies in the area of NoSQL and discusses the ground filling basics every NoSQL enthusiast should know.  NoSQL Databases: Why, what and when (via quipo)  &amp;nbsp;
+Related Articles NoSQL: Node.js + NoSQL Database = Real Time Chat Applications (themindstorms.blogspot.com)  NoSQL: The NoSQL Gene in SQL Azure Federations (themindstorms.</description>
+    </item>
+    
+    <item>
+      <title>Up and runnig again</title>
+      <link>https://blog.muehlburger.at/2011/03/up-and-runnig-again/</link>
+      <pubDate>Thu, 03 Mar 2011 18:41:36 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/03/up-and-runnig-again/</guid>
+      <description>Due to some dubious actions my blog was taken offline for a short time. Luckily now we are up and running again. 🙂</description>
+    </item>
+    
+    <item>
+      <title>[video] – Connect Your Mailbox to the Internet</title>
+      <link>https://blog.muehlburger.at/2011/01/video-connect-your-mailbox-to-the-internet/</link>
+      <pubDate>Fri, 21 Jan 2011 06:44:35 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/01/video-connect-your-mailbox-to-the-internet/</guid>
+      <description>Recently I found a video on the web demonstrating a simple system sending push notifications to your iPhone whenever the mailman has delivered your post.
+As a part of their &amp;#8220;Internet of Things&amp;#8221; series ReadWriteWeb came up with an article describing how Make Magazine built the system using an Arduino. This is a nice way of using this technology. In the following you can see the video demonstrating the system.</description>
+    </item>
+    
+    <item>
+      <title>How to install (Oracle) Sun Java SDK 1.6.x (Java 6) on Ubuntu</title>
+      <link>https://blog.muehlburger.at/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</link>
+      <pubDate>Mon, 10 Jan 2011 20:45:32 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</guid>
+      <description>Dieser Beitrag beschreibt die Installation des Sun Java SDK 1.6.x on Ubuntu (Maverick). The English explanation on how to install Sun Java SDK 1.6.x can be found here.
+Canonical-Partner Repositories aktivieren: Dies geschieht unter &amp;#8220;System&amp;#8221; -&amp;gt; &amp;#8220;Systemverwaltung&amp;#8221; -&amp;gt; &amp;#8220;Synaptic Paketverwalung&amp;#8221;. In der Paketverwaltung finden sich die Paketquellen unter dem Menüpunkt &amp;#8220;Einstellungen&amp;#8221;. In den Einstellungen wechselt man auf den Reiter &amp;#8220;Andere Software&amp;#8221; und aktiviert dort &amp;#8220;Canonical-Partner&amp;#8221; bzw. &amp;#8220;Canonical-Partner (Quelltext)&amp;#8221;. Nach dem Klick auf &amp;#8220;Schließen&amp;#8221; werden die Paketlisten neu geladen.</description>
+    </item>
+    
+    <item>
+      <title>Dilbert’s Salary Law</title>
+      <link>https://blog.muehlburger.at/2011/01/dilberts-salary-law/</link>
+      <pubDate>Sun, 09 Jan 2011 13:19:33 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/01/dilberts-salary-law/</guid>
+      <description>Dilbert&amp;#8217;s Salary Theorem states that: &amp;#8220;Engineers and scientists will never make as much money as business executives.&amp;#8220;
+Now we have an mathematical proof that explains why this is true:
+ Postulate 1: Knowledge is Power Postulate 2: Time is Money  As every engineer knows,
+ Power = Work/Time
+ Since Knowledge = Power we have:
+ Knowledge = Work/Time.
+ Since Time = Money we have:
+ Knowledge = Work/Money.</description>
+    </item>
+    
+    <item>
+      <title>[video] – Developing Android REST Client Applications</title>
+      <link>https://blog.muehlburger.at/2010/12/video-developing-android-rest-client-applications/</link>
+      <pubDate>Mon, 13 Dec 2010 15:45:53 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/12/video-developing-android-rest-client-applications/</guid>
+      <description> Virgil Dobjanschi demonstrates in this Google I/O session patterns for developing RESTful applications on the Android platform.
+[youtube xHXn3Kg2IQE]
+(via Google I/O 2010)
+Related articles Android Market gets an update &amp;#8211; Christmas come early? (geek.com)  Developing Android Applications with Adobe AIR: Rough Cuts Version (oreilly.com)  Video: Google releases YouTube 2.1 for Android 2.2 and later devices [Watch the demo on a Nexus S] (intomobile.com)     </description>
+    </item>
+    
+    <item>
+      <title>Google released Android 2.3 Gingerbread</title>
+      <link>https://blog.muehlburger.at/2010/12/google-released-android-2-3-gingerbread/</link>
+      <pubDate>Tue, 07 Dec 2010 16:02:19 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/12/google-released-android-2-3-gingerbread/</guid>
+      <description>Yesterday Google released a new version of Android 2.3 called Gingerbread. The following video explains some of the new features:
+[youtube Jx3pdWBlZ34]
+I am looking forward to updating my HTC Desire when it receives the update.
+Update: Apart from this information ReadWriteWeb found some interesting new features as stated on their weblog:
+ Yesterday, Google launched a new version of the Android operating system, Android 2.3, code-named &amp;#8220;Gingerbread.&amp;#8221; Since then, developers have been scouring through the software development kit (SDK) to see what&amp;#8217;s new.</description>
+    </item>
+    
+    <item>
+      <title>[video] – How is Hadoop used at Twitter?</title>
+      <link>https://blog.muehlburger.at/2010/09/video-how-is-hadoop-used-at-twitter/</link>
+      <pubDate>Fri, 10 Sep 2010 13:02:24 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/09/video-how-is-hadoop-used-at-twitter/</guid>
+      <description>Image via CrunchBase  In the following video Dmitriy Ryaboy, a Twitter Analytics Engineer and a former Cloudera Intern, explains how Twitter uses Hadoop and Pig. Enjoy the video and have a good weekend!
+[vimeo 11110059]
+Related articles {.zemanta-related-title} How GE uses Hadoop to analyze big data (news.cnet.com)  How GE uses Hadoop to analyze big data (news.cnet.com)  Hadoop There it Was&amp;#8211;Hadoop Summit June 2010 (developer.yahoo.net)  Whooping it up for Hadoop (ycorpblog.</description>
+    </item>
+    
+    <item>
+      <title>[video] – Thoughts on Google Instant</title>
+      <link>https://blog.muehlburger.at/2010/09/video-thoughts-on-google-instant/</link>
+      <pubDate>Thu, 09 Sep 2010 17:00:14 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/09/video-thoughts-on-google-instant/</guid>
+      <description>Image via CrunchBase     Here is an introductory video to Google Instant the new search feature that Google provides for its search engine.
+http://www.youtube.com/watch?v=_oarMXGq3gIElubRNRIUg4
+I personally do really like the new feature searching while you type. What do you think about it? Do you prefer the traditional &amp;#8220;push-the-button&amp;#8221; search approach?
+RWW asks how will this change affect your companie&amp;#8217;s search engine optimization?  tries to answer the similar question on if SEO will still be required in 5 years.</description>
+    </item>
+    
+    <item>
+      <title>Video by Google on K-Means Clustering</title>
+      <link>https://blog.muehlburger.at/2010/08/video-by-google-on-k-means-clustering/</link>
+      <pubDate>Wed, 04 Aug 2010 12:43:43 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/08/video-by-google-on-k-means-clustering/</guid>
+      <description> Recently I was searching for good ressources explaining the k-means clustering algorithm. I found the following video from Google Research on YouTube. It explains the K-Means clustering algorithm quite well.
+Related articles {.zemanta-related-title} The Difference between Segmentation and Clustering (zyxo.wordpress.com)  Clustergram: visualization and diagnostics for cluster analysis (R code) (r-statistics.com)  Clustering large datasets (metalev.org)    </description>
+    </item>
+    
+    <item>
+      <title>NOSQL Summer in Graz Kick-Off Meeting</title>
+      <link>https://blog.muehlburger.at/2010/07/nosql-summer-in-graz-kick-off-meeting/</link>
+      <pubDate>Wed, 21 Jul 2010 19:27:07 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/07/nosql-summer-in-graz-kick-off-meeting/</guid>
+      <description>Today was the kick-off meeting of NOSQL Summer here in Graz, Austria.
+ A NOSQL Summer is a network of local reading groups, that will decipher &amp;amp; discuss NOSQL-related articles, from late June to early September 2010. Each group sets its own meeting pace (usually once a week or once every two weeks) and select which papers are up for discussion.
+At every cycle, members read the selected paper at home and then meet up for an hour or so to discuss, debate and answer their own questions.</description>
+    </item>
+    
+    <item>
+      <title>[video] – HBase and Pig: The Hadoop Ecosystem at Twitter</title>
+      <link>https://blog.muehlburger.at/2010/06/video-hbase-and-pig-the-hadoop-ecosystem-at-twitter/</link>
+      <pubDate>Fri, 25 Jun 2010 06:17:16 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/06/video-hbase-and-pig-the-hadoop-ecosystem-at-twitter/</guid>
+      <description>            Related articles by Zemanta {.zemanta-related-title}        I have just found this very interesting video dealing with the implementation of HBase and Pig in combination with Hadoop at Twitter:
+Related articles by Zemanta {.zemanta-related-title} HBase Digest, March 2010 (sematext.com)  Cassandra+Hadoop (slideshare.net)  Hadoop, Hbase and Hive- Bay area Hadoop User Group (slideshare.net)   </description>
+    </item>
+    
+    <item>
+      <title>Grabeeter – Grab and Search your Tweets offline and online</title>
+      <link>https://blog.muehlburger.at/2010/06/grabeeter-grab-and-search-your-tweets-offline-and-online/</link>
+      <pubDate>Sat, 19 Jun 2010 06:51:24 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/06/grabeeter-grab-and-search-your-tweets-offline-and-online/</guid>
+      <description>Grabeeter (@grabeeter) has just been launched and I think it is a very useful tool.
+Grabeeter enables you to grab your tweets which means that you are able to store your tweets on your local harddrive in a structured format (xml at the time). Using the Grabeeter Client you are also able to perform searches on your local stored tweets.
+This solves in parts the following problem. Maybe some of you have already noticed that if you have written more than 3200 Tweets you are not able to access your first tweets anymore due to Twitter access restrictions.</description>
+    </item>
+    
+    <item>
+      <title>What Is I.B.M.’s Watson?</title>
+      <link>https://blog.muehlburger.at/2010/06/what-is-i-b-m-s-watson/</link>
+      <pubDate>Fri, 18 Jun 2010 11:29:44 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/06/what-is-i-b-m-s-watson/</guid>
+      <description>A very short answer is the following:
+ &amp;#8220;IBM is working to build a computing system that can understand and answer complex questions with enough precision and speed to compete against some of the best Jeopardy! contestants out there.&amp;#8221; [IBM]
+ A longer answer to this question is the following video explaining what I.B.M. Watson is in detail:
+[youtube FC3IryWr4c8]
+(via New York Times Technology)
+Related articles This supercomputer plans to beat humans on Jeopardy!</description>
+    </item>
+    
+    <item>
+      <title>[paper] – Information and communication technologies in the life of university freshmen: An analysis of change</title>
+      <link>https://blog.muehlburger.at/2010/05/paper-information-and-communication-technologies-in-the-life-of-university-freshmen-an-analysis-of-change/</link>
+      <pubDate>Tue, 18 May 2010 10:17:20 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/05/paper-information-and-communication-technologies-in-the-life-of-university-freshmen-an-analysis-of-change/</guid>
+      <description>Ein weiterer Artikel mit dem ich mich im Zuge der Lehrveranstaltung &amp;#8220;Technology Enhanced Learning&amp;#8220;, abgehalten an der Technischen Universität Graz (TU Graz), beschäftigt habe, ist: &amp;#8220;Information and communication technologies in the life of university freshmen: An analysis of change&amp;#8221; 1. Die Studie versucht Antworten auf die folgenden Fragen zu finden:
+  What is the self-perception of ICT competences among freshmen and is there a change in this self-perception 6 months after entering the university?</description>
+    </item>
+    
+    <item>
+      <title>[paper] – Toward deep learning for adult students in online courses</title>
+      <link>https://blog.muehlburger.at/2010/05/paper-toward-deep-learning-for-adult-students-in-online-courses/</link>
+      <pubDate>Tue, 18 May 2010 09:47:59 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/05/paper-toward-deep-learning-for-adult-students-in-online-courses/</guid>
+      <description>Diese Woche habe ich mich im Zuge der Lehrveranstaltung &amp;#8220;Technology Enhanced Learning&amp;#8220;, abgehalten an der Technischen Universität Graz (TU Graz), mit dem Artikel &amp;#8220;Toward deep learning for adult students in online courses&amp;#8221; 1 beschäftigt. Der Artikel beschäftigt sich mit Methoden, die speziell im e-Learning für den Erwachsenenbereich angewendet werden können. Die steigende Bedeutung der Erwachsenenbildung soll durch verschiedenen, in der Publikation behandelten Strategien, unterstützt werden. Die Ergebnisse der empirischen Studie können für die Entwicklung von adaptiven e-Learning Systemen eingesetzt werden.</description>
+    </item>
+    
+    <item>
+      <title>[paper] – Peer Assessment System for Modern Learning Settings: Towards a Flexible E-Assessment System</title>
+      <link>https://blog.muehlburger.at/2010/05/paper-peer-assessment-system-for-modern-learning-settings-towards-a-flexible-e-assessment-system/</link>
+      <pubDate>Tue, 04 May 2010 08:27:09 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/05/paper-peer-assessment-system-for-modern-learning-settings-towards-a-flexible-e-assessment-system/</guid>
+      <description>Diese Woche habe ich mich im Zuge der Lehrveranstaltung &amp;#8220;Technology Enhanced Learning&amp;#8220;, abgehalten an der Technischen Universität Graz (TU Graz), mit dem Artikel &amp;#8220;Peer Assessment System for Modern Learning Settings: Towards a Flexible E-Assessment System&amp;#8221; [1] beschäftigt. In diesem Artikel beschreiben die Autoren PASS (Peer ASsessment System), einen Prototypen eines Peer Assessment Systems, der im Zuge der Lehrveranstaltung &amp;#8220;Information Search and Retrieval&amp;#8221; an der TU Graz zur Beurteilung der Studierendenleistungen eingesetzt wurde.</description>
+    </item>
+    
+    <item>
+      <title>[video] – TEDxNYED – Dan Meyer presents Impressive Ways to Teach Mathematics</title>
+      <link>https://blog.muehlburger.at/2010/04/video-tedxnyed-dan-meyer-presents-impressive-ways-to-teach-mathematics/</link>
+      <pubDate>Tue, 27 Apr 2010 12:06:26 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/04/video-tedxnyed-dan-meyer-presents-impressive-ways-to-teach-mathematics/</guid>
+      <description>In the following video Dan Meyer (@ddmeyer) presents an impressive way to teach applied mathematics. I hope that some of our professors will watch this video and keep some of the ideas in mind.
+[youtube BlvKWEvKSi8]
+(via e-Learning Blog)
+  </description>
+    </item>
+    
+    <item>
+      <title>[paper] – Learning Management Systems: Are They Knowledge Management Tools?</title>
+      <link>https://blog.muehlburger.at/2010/04/learning-management-systems-are-they-knowledge-management-tools/</link>
+      <pubDate>Tue, 27 Apr 2010 09:51:09 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/04/learning-management-systems-are-they-knowledge-management-tools/</guid>
+      <description>Im Zuge der Lehrveranstaltung &amp;#8220;Technology Enhanced Learning&amp;#8221; an der TU Graz , abgehalten von Dr. Martin Ebner (@mebner) habe ich den Artikel &amp;#8220;Learning Management Systems: Are They Knowledge Management Tools?&amp;#8221; als Leitartikel zum Thema Lern-Management-Systeme (LMS) ausgewählt.
+Dieser Artikel beschäftigt sich mit der Frage, ob Lern-Management-Systeme (LMS) zu Wissensmanagement Werkzeugen gezählt werden sollten. Die Autoren definieren zunächst Wissensmanagement und Lernen auf Grundlage vorhandener Literatur, bevor auf eLearning und dort im speziellen auf LMS eingegangen wird.</description>
+    </item>
+    
+    <item>
+      <title>Nobody Can Stop Facebook Because Nobody Understands Facebook</title>
+      <link>https://blog.muehlburger.at/2010/04/nobody-can-stop-facebook-because-nobody-understands-facebook/</link>
+      <pubDate>Tue, 27 Apr 2010 08:28:25 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/04/nobody-can-stop-facebook-because-nobody-understands-facebook/</guid>
+      <description>Image via Wikipedia  Mashable has just published a post titled &amp;#8220;Nobody Can Stop Facebook Because Nobody Understands Facebook&amp;#8220;. There is an interesting sentence in this post:
+ Have the nuances of online privacy become so complex that they’re beyond the comprehension of mere mortals? I’m not saying that Facebook has any intent to cause confusion, but the complexities of the open vs closed debate and the prescriptive vs descriptive nature of the “everybody” setting effectively act to shut down public discourse.</description>
+    </item>
+    
+    <item>
+      <title>[cartoon] – Think before you Tweet</title>
+      <link>https://blog.muehlburger.at/2010/03/cartoon-think-before-you-tweet/</link>
+      <pubDate>Sat, 20 Mar 2010 18:34:52 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/03/cartoon-think-before-you-tweet/</guid>
+      <description>Rob Cottingham (bcottingham.ca) made up the following great cartoon:
+
+(via e-Learning Blog)</description>
+    </item>
+    
+    <item>
+      <title>JavaFX Links of the Week 2, February 2010</title>
+      <link>https://blog.muehlburger.at/2010/02/javafx-links-of-the-week-2-february-2010/</link>
+      <pubDate>Mon, 08 Feb 2010 21:41:35 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/02/javafx-links-of-the-week-2-february-2010/</guid>
+      <description>Another week has passed and as I promised last week, I am going to post interesting JavaFX Links here again. I specially want to thank Jonathan Giles, Richard Bair and Jasper Potts for their work in collecting the JavaFX Links of the week. Yet I cannot contribute much to the links of the week but hopefully in the future this will change.
+Here are the JavaFX Links of the Week 2, February 2010:</description>
+    </item>
+    
+    <item>
+      <title>JavaFX Links of the Week 1, February 2010</title>
+      <link>https://blog.muehlburger.at/2010/02/javafx-links-of-the-week-1-february-2010/</link>
+      <pubDate>Mon, 01 Feb 2010 08:20:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/02/javafx-links-of-the-week-1-february-2010/</guid>
+      <description>Today I decided to post regularly interesting JavaFX links of the past week. Thanks to Jonathan Giles for his great posts on &amp;#8220;Java Desktop Links of the Week&amp;#8221;. The JavaFX links are just taken from Jonathan&amp;#8217;s posts in order to build a little JavaFX news archieve on my own blog and to inform my subscribers on interesting JavaFX news.
+Here are the JavaFX Links of the Week 1, February 2010:</description>
+    </item>
+    
+    <item>
+      <title>The Virtual Revolution covered by the BBC</title>
+      <link>https://blog.muehlburger.at/2010/01/the-virtual-revolution-covered-by-the-bbc/</link>
+      <pubDate>Sun, 31 Jan 2010 20:43:46 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/01/the-virtual-revolution-covered-by-the-bbc/</guid>
+      <description>The Virtual Revolution refers to the fact that 20-25% of the word&amp;#8217;s population is using the web by now, while other 80% are yet either not connected to broadband connections or are just not using it, as Sir Tim Berners-Lee, the inventor of the web, states. In Afrika for example, people are now getting connected to broadband internet in a wide variety of areas. This means that the digital revolution that has shaped our world as we know it now, will happen in these areas too.</description>
+    </item>
+    
+    <item>
+      <title>What is PupSubHubUp?</title>
+      <link>https://blog.muehlburger.at/2010/01/what-is-pupsubhubup/</link>
+      <pubDate>Thu, 28 Jan 2010 21:03:06 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/01/what-is-pupsubhubup/</guid>
+      <description>Pubsubhubbub is &amp;#8220;A simple, open, web-hook-based pubsub protocol &amp;amp; open source reference implementation&amp;#8220;. But what does this mean? The following video explains it very well:
+[youtube B5kHx0rGkec]
+  </description>
+    </item>
+    
+    <item>
+      <title>[livestream] – Apple iPad the new Apple Tablet</title>
+      <link>https://blog.muehlburger.at/2010/01/livestream-apple-ipad-the-new-apple-tablet/</link>
+      <pubDate>Wed, 27 Jan 2010 18:54:51 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/01/livestream-apple-ipad-the-new-apple-tablet/</guid>
+      <description>Apple has just announced the new Apple iPad.
+Everybody interesting in watching the live event should have a look at ustream.com.
+Great event and great device. Will have a try hopefully soon!</description>
+    </item>
+    
+    <item>
+      <title>“The Age of Privacy is Over” says Facebook’s CEO Mark Zuckerberg</title>
+      <link>https://blog.muehlburger.at/2010/01/the-age-of-privacy-is-over-says-facebooks-ceo-mark-zuckerberg/</link>
+      <pubDate>Sun, 10 Jan 2010 15:26:51 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/01/the-age-of-privacy-is-over-says-facebooks-ceo-mark-zuckerberg/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}        On a six-minute interview on stage with TechCrunch founder Michael Arrington Facebook CEO Mark Zuckerberg states that if he&amp;#8217;d start facebook again all privacy settings by DEFAULT would be PUBLIC. A very interesting approach which leads to the question if people want if all of their data is available publicly?</description>
+    </item>
+    
+    <item>
+      <title>Problems with WordPress Automatic Upgrade solved</title>
+      <link>https://blog.muehlburger.at/2010/01/problems-with-wordpress-automatic-upgrade-solved/</link>
+      <pubDate>Fri, 08 Jan 2010 16:32:13 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/01/problems-with-wordpress-automatic-upgrade-solved/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}           Image via CrunchBase     While trying to upgrade my WordPress installation from version 2.9 to version 2.9.1 I always got the following error:
+ Downloading update from http://wordpress.org/wordpress-2.9.1.zip.
+Download failed.: Operation timed out with 1201840 out of -1 bytes received</description>
+    </item>
+    
+    <item>
+      <title>Happy New Year 2010!!</title>
+      <link>https://blog.muehlburger.at/2009/12/happy-new-year-2010/</link>
+      <pubDate>Thu, 31 Dec 2009 11:34:22 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/12/happy-new-year-2010/</guid>
+      <description>Dear subscribers and readers of my blog. I thank all of you for your interest in my posts and hope you will stay with me also the next year.
+I wish all of you a Happy New Year and a great party today!
+Cheers,
+Herbert</description>
+    </item>
+    
+    <item>
+      <title>Great View sitting on my Balcony</title>
+      <link>https://blog.muehlburger.at/2009/12/great-view-sitting-on-my-balcony/</link>
+      <pubDate>Thu, 31 Dec 2009 10:48:31 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/12/great-view-sitting-on-my-balcony/</guid>
+      <description>This shot made two days ago while I was enjoying the sun on my balcony at home.
+View from my Balcony in Eastern Tyrol, Austria</description>
+    </item>
+    
+    <item>
+      <title>[video] – Did you Know 4.0</title>
+      <link>https://blog.muehlburger.at/2009/12/video-did-you-know-4-0/</link>
+      <pubDate>Mon, 28 Dec 2009 23:02:10 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/12/video-did-you-know-4-0/</guid>
+      <description>There is a new version of the great &amp;#8220;Did you Know&amp;#8221; series. Here is the new video:</description>
+    </item>
+    
+    <item>
+      <title>WordPress Upgrade worked great</title>
+      <link>https://blog.muehlburger.at/2009/12/wordpress-upgrade-worked-great/</link>
+      <pubDate>Mon, 28 Dec 2009 22:30:35 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/12/wordpress-upgrade-worked-great/</guid>
+      <description>   Image via Wikipedia     Just few minutes ago I finally upgraded my weblog to the new WordPress 2.9. My administrator area is in English now and I am happy! Everything worked fine during the upgrade process.
+Stay tuned!
+Herbert
+  </description>
+    </item>
+    
+    <item>
+      <title>Pivot – Great Visualization Tool developed by Microsoft Live Labs</title>
+      <link>https://blog.muehlburger.at/2009/11/pivot-developed-by-microsoft-live-labs/</link>
+      <pubDate>Mon, 23 Nov 2009 06:37:06 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/pivot-developed-by-microsoft-live-labs/</guid>
+      <description>This time I discovered a great application developed by Microsoft Live Labs called Pivot. Pivot enables users to discover huge information spaces by different visual filtering options. You are able to look at hundred thousands of information space entities such as pictures, &amp;#8230; and filter these in different ways (zoom in/out, create links between different information items, &amp;#8230;). The following video describes Pivot in more detail:
+[youtube BZuFUZpEZ-A]
+For the fasted nine users I will share my installation code:</description>
+    </item>
+    
+    <item>
+      <title>Web Science Reading List</title>
+      <link>https://blog.muehlburger.at/2009/11/web-science-reading-list/</link>
+      <pubDate>Sun, 15 Nov 2009 19:18:41 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/web-science-reading-list/</guid>
+      <description>I have just added a new site to my this weblog called &amp;#8220;Web Science Reading List&amp;#8220;. This reading list collects a lot of interesting information on web science and similar topics. Since I do not have time to read all of the articles immediately I am going to collect them on this site and bookmark them on delicious too. If you are interested in this topic as well do not hesitate to contact me or to subscribe to my delicious bookmarks and to the feed of this weblog.</description>
+    </item>
+    
+    <item>
+      <title>[video] – The Evolution of Google</title>
+      <link>https://blog.muehlburger.at/2009/11/video-the-evolution-of-google/</link>
+      <pubDate>Fri, 13 Nov 2009 07:44:35 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/video-the-evolution-of-google/</guid>
+      <description>Through @mebner I have found the following video demonstrating the evolution of Google:</description>
+    </item>
+    
+    <item>
+      <title>[video] – Rethink the Data Warehouse with Hadoop and Hive</title>
+      <link>https://blog.muehlburger.at/2009/11/video-rethink-the-data-warehouse-with-hadoop-and-hive/</link>
+      <pubDate>Thu, 12 Nov 2009 08:07:33 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/video-rethink-the-data-warehouse-with-hadoop-and-hive/</guid>
+      <description>Here is a great video explaining how Facebook uses Hadoop and Hive to build Data Warehouses and analyse their huge ammount of data. Every day Facebook gets around 4TB+ of compressed data, which is amazing and also difficult to be analysed.
+[vimeo 7111203]
+(via Cloudera)
+  </description>
+    </item>
+    
+    <item>
+      <title>How will The Future of Interface Design look like?</title>
+      <link>https://blog.muehlburger.at/2009/11/the-future-of-interface-design-how-will-it-look-like/</link>
+      <pubDate>Thu, 05 Nov 2009 08:16:31 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/the-future-of-interface-design-how-will-it-look-like/</guid>
+      <description>David Leggett tried to answer this question in a blogpost written for uxBOOTH. He writes:
+ The future of how we interact with computers is exciting to say the least. What once seemed like nonsense outside of Hollywood and Science Fiction is now starting to find it’s way into reality, and some of the technology is a bit overwhelming. Have a taste of what the future of interface design has to offer:</description>
+    </item>
+    
+    <item>
+      <title>Google Grippe-Trends jetzt auch für Österreich verfügbar</title>
+      <link>https://blog.muehlburger.at/2009/10/google-grippe-trends-fur-oesterreich-verfuegbar/</link>
+      <pubDate>Fri, 09 Oct 2009 06:22:51 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/10/google-grippe-trends-fur-oesterreich-verfuegbar/</guid>
+      <description>Google Grippe-Trends (Google Flu Trends) ist nun auch in Österreich verfügbar. Auf der extra dafür eingerichteten Website kann man den derzeitigen Verlauf der Grippewelle in Österreich, sowie in viele anderen Staaten verfolgen.
+Google bietet auch die Möglichkeit, die zugrunde liegenden Daten für eigene Zwecke herunterzuladen. Für jeden, der sich dafür interessiert, wie das Prinzip dahinter genau funktioniert verweise ich hier auf einen Artikel von Google (Detecting influenza epidemics using search engine query data), der in der Zeitschrift &amp;#8220;Nature&amp;#8221; veröffentlicht wurde.</description>
+    </item>
+    
+    <item>
+      <title>[Tutorial] – Java Online Programming Course</title>
+      <link>https://blog.muehlburger.at/2009/10/tutorial-java-online-programming-course/</link>
+      <pubDate>Thu, 08 Oct 2009 19:35:10 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/10/tutorial-java-online-programming-course/</guid>
+      <description>For everybody who likes to learn the Java programming language or who is forced to learn Java I have found a great online tutorial teaching you the essence of Java programming. Specially students should pay attention to this course as it gives a really good introduction to the Java programming language.
+The online course can be found here.
+Enjoy learning Java and afterwards take a look at JavaFX.</description>
+    </item>
+    
+    <item>
+      <title>[video] – User Interface Fundamentals for Programmers</title>
+      <link>https://blog.muehlburger.at/2009/10/video-user-interface-fundamentals-for-programmers/</link>
+      <pubDate>Thu, 08 Oct 2009 08:20:17 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/10/video-user-interface-fundamentals-for-programmers/</guid>
+      <description>Recently I have found a great video demonstrating the user interface design fundamentals every programmer should know. Check out the video, it is really interesting!
+UI Fundamentals for Programmers by Ryan Singer from ChicagoRuby on Vimeo.
+(via Smashing Magazine)
+Related articles by Zemanta {.zemanta-related-title} GUI Design by schematic visualization (slideshare.net)  Advances in mouse interface design video (core77.com)  Speaking at EdUI Conference 2009 (xaprb.com)  Visual Decision Making (alistapart.</description>
+    </item>
+    
+    <item>
+      <title>How to install Broadcom Wireless Device on HP Mini 5101 running Ubuntu Jaunty</title>
+      <link>https://blog.muehlburger.at/2009/09/howto-install-broadcom-wireless-device-on-hp-mini-5101-running-ubuntu-jaunty/</link>
+      <pubDate>Fri, 25 Sep 2009 17:31:37 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/09/howto-install-broadcom-wireless-device-on-hp-mini-5101-running-ubuntu-jaunty/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}           Yesterday I received my new HP Mini 5101 running Suse Linux Enterprise Desktop 11 (SLED 11). Due to the fact, that i do not like working with Suse I installed Ubuntu 9.04 but there were some problems regarding the wireless chipset (Broadcom 5343) and the Ethernet adapter (Marvel 436c).</description>
+    </item>
+    
+    <item>
+      <title>A Touchable Holography</title>
+      <link>https://blog.muehlburger.at/2009/08/touchable-holography/</link>
+      <pubDate>Thu, 06 Aug 2009 16:18:06 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/08/touchable-holography/</guid>
+      <description>At this years International Conference and Exhibition on Computer Graphics and Interactive Techniques (SIGGRAPH2009) a touchable holography was presented by the University of Tokio. It is a kind of holography that you are able to feel and interact with. Great development that you can see in the following video:
+[youtube Y-P1zZAcPuw]
+The first page of the presented scientific paper called &amp;#8220;Touchable Holography&amp;#8221; can be downloaded here.
+ [via Shinodalab]   </description>
+    </item>
+    
+    <item>
+      <title>[video] – E-Portfolios for Beginners and the Mahara UK 09 Conference</title>
+      <link>https://blog.muehlburger.at/2009/07/video-e-portfolios-for-beginners-and-the-mahara-uk-09-conference/</link>
+      <pubDate>Fri, 24 Jul 2009 09:01:44 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/07/video-e-portfolios-for-beginners-and-the-mahara-uk-09-conference/</guid>
+      <description>Since few time I am coding an extension to the open-source e-porfolio software Mahara. Therefore I have searched for a video explaining what an e-porfolio stands for and how it can be used:
+Here is a video that explains it:
+Few time ago Mahara UK 09, the very first conference covering the e-portfolio system Mahara, took place in the United Kingdom. It was organised by the University of London Computer Centre (ULCC) and the University of London Institute of Education (IOE).</description>
+    </item>
+    
+    <item>
+      <title>[video] – The Sixth Sense demonstrates the great abilities of User Interfaces</title>
+      <link>https://blog.muehlburger.at/2009/07/ted-talks-pattie-maes-demos-the-sixth-sense/</link>
+      <pubDate>Wed, 22 Jul 2009 09:07:27 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/07/ted-talks-pattie-maes-demos-the-sixth-sense/</guid>
+      <description>Image by Larry Johnson via Flickr     Wired.com states in an article (found by ReadWriteWeb) as follows:
+ LONG BEACH, California — Students at the MIT Media Lab have developed a wearable computing system that turns any surface into an interactive display screen. The wearer can summon virtual gadgets and internet data at will, then dispel them like smoke when they’re done.
+Pattie Maes of the lab’s Fluid Interfaces group said the research is aimed at creating a new digital</description>
+    </item>
+    
+    <item>
+      <title>Google Wave API combined with the Wookie engine and integrated in a Moodle platform</title>
+      <link>https://blog.muehlburger.at/2009/06/google-wave-api-combined-with-the-wookie-engine-and-integrated-in-a-moodle-platform/</link>
+      <pubDate>Sat, 13 Jun 2009 09:32:31 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/06/google-wave-api-combined-with-the-wookie-engine-and-integrated-in-a-moodle-platform/</guid>
+      <description>Everybody who is interesteded in Widget Mash-ups forPersonal Learning Environments (PLEs) should take a look at this article posted on Scott Wilson&amp;#8217;s Workblog. He demonstrates a very nice usage of the Google Wave API in combination with the Wookie engine integrated into a Moodle platform. Here is a part of his blogpost:   I&amp;#8217;ve created a Moodle course that uses some widgets, all of which make use of the Wave Gadget API.</description>
+    </item>
+    
+    <item>
+      <title>Google Wave – Google’s next killer application?</title>
+      <link>https://blog.muehlburger.at/2009/05/google-wave-googles-next-killer-application/</link>
+      <pubDate>Sat, 30 May 2009 09:49:40 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/05/google-wave-googles-next-killer-application/</guid>
+      <description>Image by liako via Flickr     Google&amp;#8217;s newest prodcut which was announced at the Google I/O this week is called Google Wave. They build an incredible tool for collaborative work and integrated services like email, instant messenging, collaborative editing, an incredible spell checker which checks the context of words in order to correct spelling. Other really greate features are gadgets like:
+ linky: adds links automatically while you type searchy: lets you search the internet through the application and integrate the searched contend into a wave buggy: through buggy you are able to interact with bug tracking software and easily administer bugs  This are just some kind of great tools available in Google Wave.</description>
+    </item>
+    
+    <item>
+      <title>[paper accepted] – Will Personal Learning Environments become ubiquitous through the use of Widgets?</title>
+      <link>https://blog.muehlburger.at/2009/05/paper-accepted-will-personal-learning-environments-become-ubiquitous-through-the-use-of-widgets/</link>
+      <pubDate>Mon, 25 May 2009 18:37:11 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/05/paper-accepted-will-personal-learning-environments-become-ubiquitous-through-the-use-of-widgets/</guid>
+      <description>Few time ago we got the review on our paper submitted to the 9th International Conference on Knowledge Management and Knowledge Technologies (I-KNOW &amp;#8217;09). The paper is titled &amp;#8220;Will Personal Learning Environments become ubiquitous through the use of Widgets?&amp;#8221; and was accepted as follows:
+ We are pleased to inform you that your paper
+Title: Will Personal Learning Environments become ubiquitous through the use of Widgets?
+has been accepted for publication as short paper (max.</description>
+    </item>
+    
+    <item>
+      <title>Designing for Change: Mash-Up Personal Learning Environments</title>
+      <link>https://blog.muehlburger.at/2009/05/designing-for-change-mash-up-personal-learning-environments/</link>
+      <pubDate>Tue, 19 May 2009 08:36:48 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/05/designing-for-change-mash-up-personal-learning-environments/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}        In order to describe what this article is about I cite Fridolin Wild, Felix Mödritscher and Stein E. Sigurdarson:
+ In this article we first clarify key concepts and assumptions for personalised learning environments. Afterwards, we summarise our critique on the contemporary models for personalised adaptive learning.</description>
+    </item>
+    
+    <item>
+      <title>[video] – Evan Williams on “How Twitter’s spectacular growth is being driven by unexpected uses”</title>
+      <link>https://blog.muehlburger.at/2009/04/video-evan-williams-on-how-twitters-spectacular-growth-is-being-driven-by-unexpected-uses/</link>
+      <pubDate>Thu, 23 Apr 2009 19:22:11 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/04/video-evan-williams-on-how-twitters-spectacular-growth-is-being-driven-by-unexpected-uses/</guid>
+      <description> The next video is about twitter&amp;#8217;s growth by the unexpected use of the service. Very intersting video!
+This video I found on the gorgeous TED Talks. Enjoy watching.
+(via TED)
+Related articles by Zemanta {.zemanta-related-title} TED Conferences app (textually.org)  Ted 2009 (q-ontech.blogspot.com)  TED conference accepting nominations for TED fellows (boingboing.net)  Curious about Twitter? (nylady.edublogs.org)     </description>
+    </item>
+    
+    <item>
+      <title>Scientist developes a Brain-To-Twitter Interface</title>
+      <link>https://blog.muehlburger.at/2009/04/scientist-developes-a-brain-to-twitter-interface/</link>
+      <pubDate>Tue, 21 Apr 2009 08:35:08 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/04/scientist-developes-a-brain-to-twitter-interface/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}           Image via CrunchBase     Adam Wilson, biomedical engineering doctoral student at University of Wisconsin-Madison has developed a brain to computer interface which makes it possible to directly write tweets through thoughts. ReadWriteWeb writes:
+ Technically, what Wilson did was come up with an interface combining an Electroencephalogram, or brain wave monitor, with an on screen keyboard for selecting letters.</description>
+    </item>
+    
+    <item>
+      <title>Obama’s impressive use of Semantic Web Technologies</title>
+      <link>https://blog.muehlburger.at/2009/03/obamas-impressive-use-of-semantic-web-technologies/</link>
+      <pubDate>Mon, 23 Mar 2009 19:47:27 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/03/obamas-impressive-use-of-semantic-web-technologies/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}        US President Obama enforces the use of Semantic Web Technologies. David Peterson posted on SitePoint the follwing:
+ In a revolutionary move, Obama’s administration is set to utilise next generation web technologies to bring an unprecedented level of transparency to government. In this case it will shed light on how the roughly US $800 billion dollar economic stimulus will be spent.</description>
+    </item>
+    
+    <item>
+      <title>TED Talks – Tim Berners-Lee: The next Web of open, linked data</title>
+      <link>https://blog.muehlburger.at/2009/03/ted-talks-tim-berners-lee-the-next-web-of-open-linked-data/</link>
+      <pubDate>Wed, 18 Mar 2009 10:24:44 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/03/ted-talks-tim-berners-lee-the-next-web-of-open-linked-data/</guid>
+      <description>For everybody who is asking: &amp;#8220;What&amp;#8217;s the next step in internet evolution?&amp;#8221; This presentation of Tim Berners-Lee could give you the anser. Linking Data is one of the most exciting initiatives going on right now. Enjoy the presentation!
+(via TED)</description>
+    </item>
+    
+    <item>
+      <title>Web Design Interfaces</title>
+      <link>https://blog.muehlburger.at/2009/02/web-design-interfaces/</link>
+      <pubDate>Mon, 23 Feb 2009 08:47:52 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/02/web-design-interfaces/</guid>
+      <description>I have found two great posts on web design interfaces. The first one deales with 30 essential controls used in web interfaces. The second one descirbes 15 common components used in web user interface design.
+On designwebinterfaces.com you can find many more useful posts dealing with web design interfaces.
+Related articles by Zemanta {.zemanta-related-title} 10 Useful Techniques To Improve Your User Interface Designs (web2list.com)  What Do Designer&amp;#8217;s Do? They Code (bleikamp.</description>
+    </item>
+    
+    <item>
+      <title>[video] – Google Latitude</title>
+      <link>https://blog.muehlburger.at/2009/02/video-google-latitude/</link>
+      <pubDate>Thu, 05 Feb 2009 09:59:01 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/02/video-google-latitude/</guid>
+      <description>Google released a new service called Google Latitude. This service enables you to see the location of your friends, collegues, etc. Here is a nice video explaining how Google Latitute workes:
+[youtube Q-Oq-9enE-k]
+Related articles by Zemanta {.zemanta-related-title} Google launches Latitude tool to help you track friends and family (telegraph.co.uk)  Blinkx adds couch potato mode to video site (news.cnet.com)  What is Google Latitude- a new Social networking tool and how to use it?</description>
+    </item>
+    
+    <item>
+      <title>SEAmail – Semantic Delivery of Emails</title>
+      <link>https://blog.muehlburger.at/2009/01/seamail-semantic-delivery-of-emails/</link>
+      <pubDate>Fri, 23 Jan 2009 09:38:25 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/seamail-semantic-delivery-of-emails/</guid>
+      <description>SEAmail is a prototype e-mail system implemented by Stanford University Logic Group lead by Michael Genesereth, an associate professor of computer science at Stanford University. The interesting and innovative part of this e-mail system is the use of semantic technologies in order to determine the recipient of an e-mail message. Users don&amp;#8217;t have to bother on keeping track of e-mail addresses, they just type in the real name of the recipient letting the system searching the right recipient address.</description>
+    </item>
+    
+    <item>
+      <title>SuggestRSS – Great Service to suggest interesting feeds</title>
+      <link>https://blog.muehlburger.at/2009/01/suggestrss-great-service-to-suggest-interesting-feeds/</link>
+      <pubDate>Thu, 22 Jan 2009 12:17:23 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/suggestrss-great-service-to-suggest-interesting-feeds/</guid>
+      <description>     SuggestRSS is a service suggesting feeds based on your actual feeds. Just upload a OPML export of your current subscribed feeds and you are going to get nice new suggestions. I tried it out and think it is very useful.
+(via ReadWriteWeb)
+Related articles by Zemanta {.zemanta-related-title} SuggestRSS  Goodbye, share.opml.org  SuggestRSS: Super Simple New Feed Recommendations  Feed Your Monster  One Way to Speed Up Your Feed Reading  Track Hot Topics On Niche Blogs With FeedVis  How to: Build a Social Media Cheat Sheet for Any Topic     </description>
+    </item>
+    
+    <item>
+      <title>How Google’s PageRank predicts Nobel Prize winners</title>
+      <link>https://blog.muehlburger.at/2009/01/how-googles-pagerank-predicts-nobel-prize-winners/</link>
+      <pubDate>Thu, 22 Jan 2009 11:46:16 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/how-googles-pagerank-predicts-nobel-prize-winners/</guid>
+      <description>Sergej Maslow and Sidney Redner, both researchers have found out that Google&amp;#8216;s Page Rank algorithm could be used to predict future nobel price winners based on interlinked scientific papers. Scientific papers are interlinked by references, just like websites are which means they can be ranked by googles page rank algorithm. Taking into account how important a paper is, it is possible to generate a list of wighted ranked scientific papers.</description>
+    </item>
+    
+    <item>
+      <title>[video] – It is time for a different kind of university</title>
+      <link>https://blog.muehlburger.at/2009/01/video-it-is-time-for-a-different-kind-of-university/</link>
+      <pubDate>Mon, 19 Jan 2009 07:45:57 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/video-it-is-time-for-a-different-kind-of-university/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}        Kaplan University has produced two interesting and inspiring videos on how e-Learning can be performed in near future.
+ It&amp;#8217;s time to use technology to rewrite the rules of education &amp;#8230;
+ [youtube e50YBu14j3U]
+Here is another one.
+[youtube F3nHvkJSNFg]
+Besides I have found an interesting article written by George Siemens on How MIT is going to get large lectures off the blackboard.</description>
+    </item>
+    
+    <item>
+      <title>Linking Open Data – Anwendungen für Endanwender</title>
+      <link>https://blog.muehlburger.at/2009/01/linking-open-data-anwendungen-fur-endanwender/</link>
+      <pubDate>Fri, 16 Jan 2009 21:11:02 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/linking-open-data-anwendungen-fur-endanwender/</guid>
+      <description>Für die Lehrveranstaltung &amp;#8220;Einführung in das wissenschaftliche Arbeiten&amp;#8221; bei Prof. Dr. Klaus Tochtermann habe ich einen Artikel zum Thema &amp;#8220;Linking Open Data &amp;#8211; Anwendungen für Endanwender&amp;#8221; geschrieben.
+Auszug aus dem Abstract:
+ Dieser Artikel beschäftigt sich mit Anwendungen, die das Linking Open Data Konzept verwenden. Zuerst wird auf das Open Data Movement eingegangen und anschließend auf das W3C SWEO Linking Open Data Community Project. Es sind zahlreiche Anwendungen entstanden, die Linked Open Data verwenden und daraus einen Mehrwert für Benutzer erzielen.</description>
+    </item>
+    
+    <item>
+      <title>[video] – Internet of Services makes live of young parents easier</title>
+      <link>https://blog.muehlburger.at/2009/01/video/</link>
+      <pubDate>Fri, 16 Jan 2009 11:05:55 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/video/</guid>
+      <description>Internet of Services makes live of young parents easier  Once a baby is born the organization marathon is just starting for it&amp;#8217;s parents: register the birth, register with the health insurance, apply for parents allowances and arrange a lot of other appointments. SAP Research is developing an internet platform aimed at helping youg parents. Automated Services will connect authorities and service providers with each other by the internet. This saves time and lakework in the future.</description>
+    </item>
+    
+    <item>
+      <title>10 Interesting Semantic Apps</title>
+      <link>https://blog.muehlburger.at/2009/01/10-interesting-semantic-apps/</link>
+      <pubDate>Sun, 11 Jan 2009 19:23:56 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/10-interesting-semantic-apps/</guid>
+      <description>One of the highlights of October&amp;#8217;s Web 2.0 Summit in San Francisco was the emergence of &amp;#8216;Semantic Apps&amp;#8217; as a force. Note that we&amp;#8217;re not necessarily talking about the Semantic Web, which is the Tim Berners-Lee W3C led initiative that touts technologies like RDF, OWL and other standards for metadata. Semantic Apps may use those technologies, but not necessarily [ReadWriteWeb 2007].  ReadWriteWeb has published a great list of 10 interesting semantic apps at the end of 2007.</description>
+    </item>
+    
+    <item>
+      <title>100 eLearning Articles and White Papers</title>
+      <link>https://blog.muehlburger.at/2009/01/100-elearning-articles-and-white-papers/</link>
+      <pubDate>Thu, 08 Jan 2009 11:48:37 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/100-elearning-articles-and-white-papers/</guid>
+      <description>I have found a great collection of 100 eLearning articles and white papers through dontwasteyourtime. The full list of articles can be found at Dr. Tony Karrer&amp;#8217;s weblog called elearningtech.
+(via cristinacost&amp;#8217;s tweet)
+  </description>
+    </item>
+    
+    <item>
+      <title>First BarCamp in Graz, Austria</title>
+      <link>https://blog.muehlburger.at/2008/11/first-barcamp-in-graz-austria/</link>
+      <pubDate>Sun, 23 Nov 2008 08:35:38 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/first-barcamp-in-graz-austria/</guid>
+      <description>[][1]First BarCamp in Graz November 2008  This weekend the first BarCamp of Graz, Austria is going on. Location is the Karl-Franzens University and today it is going to start at 10.00 o&amp;#8217;clock am. BarCamps are a growing type of events. A BarCamp is a so called unconference. On wikipedia you can read:
+ BarCamps are organized and evangelized largely through the web, harnessing what might be called a Web 2.</description>
+    </item>
+    
+    <item>
+      <title>[video] – Matrix for Windows</title>
+      <link>https://blog.muehlburger.at/2008/11/video-matrix-for-windows/</link>
+      <pubDate>Mon, 17 Nov 2008 21:24:43 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/video-matrix-for-windows/</guid>
+      <description>Just watch and enjoy:
+Matrix for Windows
+Check out Matrix XP as well.
+(via Basic Thinking Blog)</description>
+    </item>
+    
+    <item>
+      <title>SMOB – A Prototype for Semantic Microblogging</title>
+      <link>https://blog.muehlburger.at/2008/11/smob-a-prototype-for-semantic-microblogging/</link>
+      <pubDate>Mon, 17 Nov 2008 08:28:52 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/smob-a-prototype-for-semantic-microblogging/</guid>
+      <description>SMOB is a prototype developed to enable semantic microblogging. It can be seen as Twitter enriched with semantic data.
+[slideshare id=472659&amp;amp;doc=sfsw-1213739228503754-8&amp;amp;w=425]
+John Breslin writes in his blog post:
+ The prototype uses FOAF and SIOC to model microbloggers, their properties, account and service information, and the microblog updates that users create. A multitude of publishing services can ping one or a set of aggregating servers as selected by each user, and it is important to note that users retain control of their own data through self hosting.</description>
+    </item>
+    
+    <item>
+      <title>Google’s SEO Starter Guide – How to improve your website</title>
+      <link>https://blog.muehlburger.at/2008/11/googles-seo-starter-guide-how-to-improve-your-site/</link>
+      <pubDate>Thu, 13 Nov 2008 19:40:45 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/googles-seo-starter-guide-how-to-improve-your-site/</guid>
+      <description>Brandon Falls from Google Search Quality Team, wrote on the Official Google Webmaster Central Blog the following lines:
+ Webmasters often ask us at conferences or in the Webmaster Help Group, &amp;#8220;What are some simple ways that I can improve my website&amp;#8217;s performance in Google?&amp;#8221; There are lots of possible answers to this question, and a wealth of search engine optimization information on the web, so much that it can be intimidating for newer webmasters or those unfamiliar with the topic.</description>
+    </item>
+    
+    <item>
+      <title>Google Flu Trends – Google Uses Searches to Track Flu’s Spread</title>
+      <link>https://blog.muehlburger.at/2008/11/google-flu-trends-google-uses-searches-to-track-flu-spread/</link>
+      <pubDate>Wed, 12 Nov 2008 09:21:46 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/google-flu-trends-google-uses-searches-to-track-flu-spread/</guid>
+      <description>It stands to reason that people who are &amp;#8220;starting to come down with something&amp;#8221; often take the opportunity to search for information on what ails them, even before they discuss their symptoms with a healthcare professional. Who gets more of those searches than anyone? Google, of course. [ReadWriteWeb]
+ Google offers a new service called Google Flu Trends. The service uses an analysis of Google&amp;#8217;s millions of search queries every day to calculate flu trends.</description>
+    </item>
+    
+    <item>
+      <title>Do you need a problem to solve?</title>
+      <link>https://blog.muehlburger.at/2008/11/do-you-need-a-problem-to-solve/</link>
+      <pubDate>Tue, 11 Nov 2008 21:11:42 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/do-you-need-a-problem-to-solve/</guid>
+      <description>Need a Problem? Three guys from Switzerland have found a new business model: They create problems for their customers. You might know the film called &amp;#8220;The Game&amp;#8221; where Michael Douglas as a bored but rich investment banker gets involved in a kind of game.
+The three guys from Switzerland make a lot of money with their project called &amp;#8220;need a problem&amp;#8221; now. On the website www.needaproblem.com you can pay and they are going to give you a problem to solve.</description>
+    </item>
+    
+    <item>
+      <title>[video] – CNN for Holodeck</title>
+      <link>https://blog.muehlburger.at/2008/11/video-cnn-for-holodeck/</link>
+      <pubDate>Wed, 05 Nov 2008 11:11:56 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/video-cnn-for-holodeck/</guid>
+      <description>CNN yesterday used holograms for interviews in their broadcast on the presedential election 2008. The journalist Jessica Yellin was beamed from Chicago to the CNN studio, New York where Wolf Blitzer was speaking with her virtual hologram. Very interesting technique which shows where new media is moving.
+http://www.youtube.com/watch?v=x2bRNA2wpYk
+(via webstandard.at)</description>
+    </item>
+    
+    <item>
+      <title>[lecture] – Introduction to scientific working</title>
+      <link>https://blog.muehlburger.at/2008/11/lecture-introduction-to-scientific-working/</link>
+      <pubDate>Mon, 03 Nov 2008 17:00:20 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/lecture-introduction-to-scientific-working/</guid>
+      <description>Presenting the right things in the right way is very difficult. This winter term I attend a lecture called: &amp;#8220;Introduction to scientific working&amp;#8220;.  This lecture handles the craft of scientific working. Writing a paper about your work and presenting the results to your audience are very important. The lecture specially introduces to presentation techniques and gives guidelines for creating good presentations. Actually a very interesting topic which everybody be thinking of.</description>
+    </item>
+    
+    <item>
+      <title>Relaunch of Herbert Mühlburger’s Weblog</title>
+      <link>https://blog.muehlburger.at/2008/11/relaunch-of-herbert-muehlburgers-weblog/</link>
+      <pubDate>Sat, 01 Nov 2008 09:24:22 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/relaunch-of-herbert-muehlburgers-weblog/</guid>
+      <description>These days I decided to relaunch my weblog. Due to a problem in the wordpress upgrade process I was forced to this decision. The language of my weblog will now switch to English as well. As you may have recognized my weblog is updated in the visual manner as well.
+Hope to enlarge the number of my readers and to interest new people in my posts.</description>
+    </item>
+    
+    <item>
+      <title>Monopoly für die Generation Internet</title>
+      <link>https://blog.muehlburger.at/2008/06/monopoly-fur-die-generation-internet/</link>
+      <pubDate>Sun, 15 Jun 2008 11:51:06 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/06/monopoly-fur-die-generation-internet/</guid>
+      <description>Monopoly, ein Spiel das mit Sicherheit jeder schon mindestens einmal gepielt hat. Für die Generation Internet, gibt es jetzt eine neue Version dieses Spiels. Der Name, na wie sollte er schon sein: “Googolopoly“. Treffender könnte man die neue Version dieses Spiel wohl nicht benennen.
+Hier kann man sich die Vorlage für das Spiel herunterladen. Danach einfach ausdrucken und los geht’s. Spielgeld sucht man einfach auf Flickr. Oder man lädt es direkt hier herunter.</description>
+    </item>
+    
+    <item>
+      <title>European Forum Alpbach – 50 Years of EU in the World</title>
+      <link>https://blog.muehlburger.at/2007/08/european-forum-alpbach-50-years-of-eu-in-the-world/</link>
+      <pubDate>Sat, 18 Aug 2007 07:49:01 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/08/european-forum-alpbach-50-years-of-eu-in-the-world/</guid>
+      <description>I have found a very interesting video on YouTube regarding the history of the European Union. Please have a look at it. [youtube sO75ZsvMkc8]
+  </description>
+    </item>
+    
+    <item>
+      <title>European Forum Alpbach – Europe New and Old?</title>
+      <link>https://blog.muehlburger.at/2007/08/european-forum-alpbach-europe-new-and-old/</link>
+      <pubDate>Fri, 17 Aug 2007 08:48:53 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/08/european-forum-alpbach-europe-new-and-old/</guid>
+      <description>Europe Union New and Old?
+
+The seminars of the European Forum Alpbach have started today. One Seminar that I am attennding is called “Europe Old and New?” held by Fraser Cameron, Senior Adviser, European Policy Centre, Brussels and Gregor Woschnagg, Retired Ambassador, Republic of Austria, Vienna. Today we are briefly discussing the past 50 years of the European Union as well as some present issues for example the Reform Treaty.</description>
+    </item>
+    
+    <item>
+      <title>European Forum Alpbach</title>
+      <link>https://blog.muehlburger.at/2007/08/european-forum-alpbach/</link>
+      <pubDate>Fri, 17 Aug 2007 08:48:30 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/08/european-forum-alpbach/</guid>
+      <description>The European Forum Alpbach has started and is going on for the next two weeks. I am really looking forward in participating in different seminars as well as fireside talks.   </description>
+    </item>
+    
+    <item>
+      <title>HTML 4.01 bis XHTML 2.0 im Vergleich</title>
+      <link>https://blog.muehlburger.at/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/</link>
+      <pubDate>Thu, 05 Jul 2007 12:02:29 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}        Jens Meiert bietet auf seinem Blog eine tabellarische Übersicht über alle Elemente, die in HTML 4.01, XHTML 1.0 Strict, XHTML 1.1, HTML 5, und XHTML 2.0 spezifitiert werden.
+Hier der Link direkt zu Jens Meierts Weblog.
+[via pixelgraphix]
+Related articles by Zemanta {.zemanta-related-title} Html5 (slideshare.net)  HTML+RDFa First Draft Published (w3.</description>
+    </item>
+    
+    <item>
+      <title>lasttv.net – Personal Music Channel</title>
+      <link>https://blog.muehlburger.at/2007/06/lasttv-net-personal-music-channel/</link>
+      <pubDate>Fri, 22 Jun 2007 14:14:48 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/06/lasttv-net-personal-music-channel/</guid>
+      <description>Die Kombination von Last.fm und YouTube nennt sich Last.tv. Last.tv ist ein peronalisierter Musik Channel, der über das Benutzerprofil (Benutzernamen) von last.fm eine Musik Playlist erstellt und auf YouTube nach passenden Videos sucht und diese abspielt! Sehr interessantes Musik-Video Meshup. Last.fm und YouTube ist eine sehr interessante Kombination!
+Auf jeden Fall einen Klick wert!</description>
+    </item>
+    
+    <item>
+      <title>Meebo – Messenger Mashup</title>
+      <link>https://blog.muehlburger.at/2007/06/meebo-messenger-mashup/</link>
+      <pubDate>Mon, 11 Jun 2007 07:50:03 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/06/meebo-messenger-mashup/</guid>
+      <description>Wer hat nicht schon verschiedenste IM Messenger auf seinem Computer installiert? Bei jedem Verbindungsaufbau zum Internet versuchen diese auch einen Teil des Internets für sich zu beanspruchen. Wem das zu stressig ist, bzw. wer möchte, dass all diese IM Dienste irgendwo zentral verwaltet werden können, der sollte sich einmal meebo genauer anschauen. Bei meebo ist es möglich jegliche IM Dienste über eine Website zu verwalten und über diese mittels seiner IM Accounts zu kommunizieren.</description>
+    </item>
+    
+    <item>
+      <title>“Paper Four” – Papier der nächsten Generation</title>
+      <link>https://blog.muehlburger.at/2007/06/paper-four-papier-der-nachsten-generation/</link>
+      <pubDate>Mon, 11 Jun 2007 07:39:41 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/06/paper-four-papier-der-nachsten-generation/</guid>
+      <description>Mit “Paper Four” wird die eine neue Ära von Papier eingeläutet. “Paper Four”, entwickelt von Forschen der Mid Sweden University soll die vierte Generation von Papierprodukten einläuten. Paper Four ist ein Interaktives Multimediales Papierformat welches auf Berührung reagiert und digital abgespeicherte Audiodateien wiedergibt.
+  </description>
+    </item>
+    
+    <item>
+      <title>musicmesh – Cooles Mediameshup</title>
+      <link>https://blog.muehlburger.at/2007/05/musicmesh-cooles-mediameshup/</link>
+      <pubDate>Wed, 09 May 2007 15:15:16 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/05/musicmesh-cooles-mediameshup/</guid>
+      <description>Für jeden der schon immer mal das Video zu einem Audiotrack sehen wollte sollte sich einmal www.musicmesh.net ansehen. Dort kann man nach beliebigen Musikern suchen und sich danach ihre Songs anhören. Das coole dabei, es wird automatisch ein Musikvideo auf youtube gesucht und abgespielt! Sehr coole Sache!
+Metadaten über Musiker, Tracks, Alben, etc… werden per Audioscrobbler Web Services API von www.last.fm bezogen, passende Videos werden wie gesagt über die API von YouTube gesucht und eingebunden!</description>
+    </item>
+    
+    <item>
+      <title>Sloog – Bookmarking Tool für Second Life</title>
+      <link>https://blog.muehlburger.at/2007/05/sloog-bookmarking-tool-fur-second-life/</link>
+      <pubDate>Sun, 06 May 2007 13:55:24 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/05/sloog-bookmarking-tool-fur-second-life/</guid>
+      <description>Sloog ist ein Bookmarking Service der Spanischen Agentur Mosi-Mosi für Second Life Bürger. Man kann beliebige Orte und Avatare speichern um sie später wiederzufinden. Dies funktioniert nicht nur im Spiel (via plugin) sondern auch im Webbrowser via www.sloog.org.Sicher ein nützliches Tool, das so manchem beim Wiederfinden von Orten und Bekanntschaften nützlich sein kann.
+  </description>
+    </item>
+    
+    <item>
+      <title>walk2Web: Linkstrukturen graphisch darstellen</title>
+      <link>https://blog.muehlburger.at/2007/05/walk2web-linkstrukturen-graphisch-darstellen/</link>
+      <pubDate>Sun, 06 May 2007 13:44:41 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/05/walk2web-linkstrukturen-graphisch-darstellen/</guid>
+      <description>Linkstrukturen graphisch darstellen
+Mit Web2Walk kann man sich visuell darstellen lassen, wie Webseiten miteinander verbunden sind. Man gibt einfach eine beliebige Startadresse ein und erhält die Verlinkung dieser Seite als Graph. Jede weitere Seite in diesem Graph lässt sich bewerten, bookmarken und kommentieen.
+Link: walk2web.com
+  </description>
+    </item>
+    
+    <item>
+      <title>User Interface der Zukunft! Unglaublich …</title>
+      <link>https://blog.muehlburger.at/2007/04/user-interface-der-zukunft-unglaublich/</link>
+      <pubDate>Tue, 24 Apr 2007 05:52:50 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/04/user-interface-der-zukunft-unglaublich/</guid>
+      <description>Hier ein User Interface der Zukunft! Das ist wirklich unglaublich, was uns das zukünftig für greznenlose Möglichkeiten bieten wird! Viel Spaß damit!</description>
+    </item>
+    
+    <item>
+      <title>Jeff Han spricht auf der TED Konferenz</title>
+      <link>https://blog.muehlburger.at/2007/04/jeff-han-spricht-auf-der-ted-konferenz/</link>
+      <pubDate>Mon, 02 Apr 2007 21:47:36 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/04/jeff-han-spricht-auf-der-ted-konferenz/</guid>
+      <description>Jeff Han spricht auf der TED Konferenz über ein neues User Interface. Dieses Video ist sehr sehenswert!
+    </description>
+    </item>
+    
+    <item>
+      <title>Mittendrin im “Second Life”</title>
+      <link>https://blog.muehlburger.at/2007/03/mittendrin-im-second-life/</link>
+      <pubDate>Sun, 25 Mar 2007 19:00:51 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/03/mittendrin-im-second-life/</guid>
+      <description>Wie so viele Medien, die heutzutage up-to-date sein wollen beschäftigt sich auch die WELT ONLINE mit dem Thema Second Life. Auf der einen Seite gibt es Menschen, die sich das Second Life als neue Welt erschließen, vom großen Geld träumen und in der virtuellen Welt mit anderen “Avataren” ihren Feierabend verbringen.
+Andere sehen das Second Life als ein Phänomen, das die Vereinsamung der Menschen vorantreibt, und durchaus Suchtpotenzial hat. Die Welt Online legt in diesem Artikel eine sehr interessante dritte Betrachtungsweise dar, die durchaus realitätsnah ist.</description>
+    </item>
+    
+    <item>
+      <title>Die neue Informationsgesellschaft</title>
+      <link>https://blog.muehlburger.at/2007/03/die-neue-informationsgesellschaft/</link>
+      <pubDate>Sun, 18 Mar 2007 18:01:26 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/03/die-neue-informationsgesellschaft/</guid>
+      <description>Die neue Informationsgesellschaft, wie sie sich in Zeiten von Web2.0 zeigt, ist eines der spannenden Themen mit dem man sich zur Zeit auseinandersetzen kann.
+Wo YouTube, Flickr, last.fm, Wikipedia, StudiVZ, SchuelerVZ, Facebook, … Benutzern die Möglichkeit selbst aktiv das neue Web in einer noch nie dagewesenen Weise zu gestalten, lässt sich erkennen wie groß der Bedarf ist, sich mit anderen Benutzern zu vernetzen. Nicht nur, dass Netzwerke, wie sie sich im StudiVZ bzw.</description>
+    </item>
+    
+    <item>
+      <title>Second Life and more …</title>
+      <link>https://blog.muehlburger.at/2007/03/second-life-and-more/</link>
+      <pubDate>Sun, 18 Mar 2007 12:18:06 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/03/second-life-and-more/</guid>
+      <description>Second Life wer kenn das nicht, oder besser gefragt, wer hat nicht schon davon gehört? Interessanterweise haben bei der letzten Vorlesung in einem Hörsaal von ca. 300 &amp;#8211; 400 Studierenden nur 3 &amp;#8211; 4 Studierende angegeben, Second Life zu spielen. Spielen? Second Life spielt man nicht, man lebt in der virtuellen Welt und versucht sich dort in irgendeiner Weise zu verwirklichen. Ob das gelingt ist verschieden. Interessant ist auch, dass die Studierenden von denen hier dei Rede ist nicht einem Studium nachgehen, welches überhaupt nichts mit Informationstechnologie zu tun hat.</description>
+    </item>
+    
+    <item>
+      <title>Web 2.0 und Datenbanken Teil 1: Second Life</title>
+      <link>https://blog.muehlburger.at/2007/01/web-2-0-und-datenbanken-teil-1-second-life/</link>
+      <pubDate>Wed, 17 Jan 2007 19:29:41 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/01/web-2-0-und-datenbanken-teil-1-second-life/</guid>
+      <description>Dieser interessante Artikel von Tim O’Reilly beschäftigt sich mit der Datenbank von Second Life und deren Problemen! Cory Ondrejka and Ian Wilkes von Linden Labs wurden zu diesem Thema befragt!
+  </description>
+    </item>
+    
+  </channel>
+</rss>

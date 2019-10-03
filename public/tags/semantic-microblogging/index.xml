@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>semantic microblogging on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/semantic-microblogging/</link>
+    <description>Recent content in semantic microblogging on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 17 Nov 2008 08:28:52 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/semantic-microblogging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SMOB – A Prototype for Semantic Microblogging</title>
+      <link>https://blog.muehlburger.at/2008/11/smob-a-prototype-for-semantic-microblogging/</link>
+      <pubDate>Mon, 17 Nov 2008 08:28:52 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/smob-a-prototype-for-semantic-microblogging/</guid>
+      <description>SMOB is a prototype developed to enable semantic microblogging. It can be seen as Twitter enriched with semantic data.
+[slideshare id=472659&amp;amp;doc=sfsw-1213739228503754-8&amp;amp;w=425]
+John Breslin writes in his blog post:
+ The prototype uses FOAF and SIOC to model microbloggers, their properties, account and service information, and the microblog updates that users create. A multitude of publishing services can ping one or a set of aggregating servers as selected by each user, and it is important to note that users retain control of their own data through self hosting.</description>
+    </item>
+    
+  </channel>
+</rss>

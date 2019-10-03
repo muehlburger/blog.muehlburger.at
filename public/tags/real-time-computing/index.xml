@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Real-time computing on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/real-time-computing/</link>
+    <description>Recent content in Real-time computing on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 09 Sep 2010 17:00:14 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/real-time-computing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[video] – Thoughts on Google Instant</title>
+      <link>https://blog.muehlburger.at/2010/09/video-thoughts-on-google-instant/</link>
+      <pubDate>Thu, 09 Sep 2010 17:00:14 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/09/video-thoughts-on-google-instant/</guid>
+      <description>Image via CrunchBase     Here is an introductory video to Google Instant the new search feature that Google provides for its search engine.
+http://www.youtube.com/watch?v=_oarMXGq3gIElubRNRIUg4
+I personally do really like the new feature searching while you type. What do you think about it? Do you prefer the traditional &amp;#8220;push-the-button&amp;#8221; search approach?
+RWW asks how will this change affect your companie&amp;#8217;s search engine optimization?  tries to answer the similar question on if SEO will still be required in 5 years.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>writing on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/writing/</link>
+    <description>Recent content in writing on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Nov 2008 19:40:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google’s SEO Starter Guide – How to improve your website</title>
+      <link>https://blog.muehlburger.at/2008/11/googles-seo-starter-guide-how-to-improve-your-site/</link>
+      <pubDate>Thu, 13 Nov 2008 19:40:45 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/googles-seo-starter-guide-how-to-improve-your-site/</guid>
+      <description>Brandon Falls from Google Search Quality Team, wrote on the Official Google Webmaster Central Blog the following lines:
+ Webmasters often ask us at conferences or in the Webmaster Help Group, &amp;#8220;What are some simple ways that I can improve my website&amp;#8217;s performance in Google?&amp;#8221; There are lots of possible answers to this question, and a wealth of search engine optimization information on the web, so much that it can be intimidating for newer webmasters or those unfamiliar with the topic.</description>
+    </item>
+    
+    <item>
+      <title>[lecture] – Introduction to scientific working</title>
+      <link>https://blog.muehlburger.at/2008/11/lecture-introduction-to-scientific-working/</link>
+      <pubDate>Mon, 03 Nov 2008 17:00:20 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/lecture-introduction-to-scientific-working/</guid>
+      <description>Presenting the right things in the right way is very difficult. This winter term I attend a lecture called: &amp;#8220;Introduction to scientific working&amp;#8220;.  This lecture handles the craft of scientific working. Writing a paper about your work and presenting the results to your audience are very important. The lecture specially introduces to presentation techniques and gives guidelines for creating good presentations. Actually a very interesting topic which everybody be thinking of.</description>
+    </item>
+    
+  </channel>
+</rss>

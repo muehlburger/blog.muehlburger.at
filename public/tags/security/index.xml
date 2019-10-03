@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/security/</link>
+    <description>Recent content in Security on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Security by Design</title>
+      <link>https://blog.muehlburger.at/2017/02/security-by-design/</link>
+      <pubDate>Mon, 06 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2017/02/security-by-design/</guid>
+      <description>This interesting talk by Eoin Woods focusses on Security by Design. Eoin is the CTO of Endava.
+  </description>
+    </item>
+    
+    <item>
+      <title>Stateless Authentication using JWT (JSON Web Token)</title>
+      <link>https://blog.muehlburger.at/2017/01/stateless-authentication-using-jwt-json-web-token/</link>
+      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2017/01/stateless-authentication-using-jwt-json-web-token/</guid>
+      <description>Currently I work on an implementation for authentication and authorization using Spring Boot, Spring Security, OAuth 2.0 and JSON Web Tokens (JWT). In order to get a good understanding on these topics I found several talks that I&amp;#8217;m going to list here.
+&amp;#8220;100% Stateless with JWT (JSON Web Token)&amp;#8221; by Hubert Sablonnière. I found it very useful to get a better understanding on using JWTs to create a really stateless authentication architecture.</description>
+    </item>
+    
+    <item>
+      <title>Public Key Infrastructure (PKI) – Secure Key Exchange – [video]</title>
+      <link>https://blog.muehlburger.at/2010/05/problem-of-public-key-infrastructure-pki-secure-key-exchange-video/</link>
+      <pubDate>Mon, 10 May 2010 06:11:17 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/05/problem-of-public-key-infrastructure-pki-secure-key-exchange-video/</guid>
+      <description>In public key infrastructures a common problem is that both communication partners have to have the same key in order communicate in a secure way (to encrypt and decrypt messages properly). The question is how is it practically possible to share a secret key over an untrusted channel like the internet for example. The solution is the use of asynchronous methods (public and private keys) in order to exchange the secret key in a secure way.</description>
+    </item>
+    
+    <item>
+      <title>Nobody Can Stop Facebook Because Nobody Understands Facebook</title>
+      <link>https://blog.muehlburger.at/2010/04/nobody-can-stop-facebook-because-nobody-understands-facebook/</link>
+      <pubDate>Tue, 27 Apr 2010 08:28:25 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/04/nobody-can-stop-facebook-because-nobody-understands-facebook/</guid>
+      <description>Image via Wikipedia  Mashable has just published a post titled &amp;#8220;Nobody Can Stop Facebook Because Nobody Understands Facebook&amp;#8220;. There is an interesting sentence in this post:
+ Have the nuances of online privacy become so complex that they’re beyond the comprehension of mere mortals? I’m not saying that Facebook has any intent to cause confusion, but the complexities of the open vs closed debate and the prescriptive vs descriptive nature of the “everybody” setting effectively act to shut down public discourse.</description>
+    </item>
+    
+    <item>
+      <title>“The Age of Privacy is Over” says Facebook’s CEO Mark Zuckerberg</title>
+      <link>https://blog.muehlburger.at/2010/01/the-age-of-privacy-is-over-says-facebooks-ceo-mark-zuckerberg/</link>
+      <pubDate>Sun, 10 Jan 2010 15:26:51 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/01/the-age-of-privacy-is-over-says-facebooks-ceo-mark-zuckerberg/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}        On a six-minute interview on stage with TechCrunch founder Michael Arrington Facebook CEO Mark Zuckerberg states that if he&amp;#8217;d start facebook again all privacy settings by DEFAULT would be PUBLIC. A very interesting approach which leads to the question if people want if all of their data is available publicly?</description>
+    </item>
+    
+    <item>
+      <title>100 eLearning Articles and White Papers</title>
+      <link>https://blog.muehlburger.at/2009/01/100-elearning-articles-and-white-papers/</link>
+      <pubDate>Thu, 08 Jan 2009 11:48:37 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/100-elearning-articles-and-white-papers/</guid>
+      <description>I have found a great collection of 100 eLearning articles and white papers through dontwasteyourtime. The full list of articles can be found at Dr. Tony Karrer&amp;#8217;s weblog called elearningtech.
+(via cristinacost&amp;#8217;s tweet)
+  </description>
+    </item>
+    
+  </channel>
+</rss>

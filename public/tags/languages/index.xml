@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Languages on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/languages/</link>
+    <description>Recent content in Languages on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 Apr 2011 12:55:52 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/languages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing Robotium – A Testing Framework for Android</title>
+      <link>https://blog.muehlburger.at/2011/04/introducing-robotium-a-testing-framework-for-android/</link>
+      <pubDate>Tue, 19 Apr 2011 12:55:52 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/04/introducing-robotium-a-testing-framework-for-android/</guid>
+      <description>Image via Wikipedia  Robotium is an open source testing framework for Android applications. It makes it easy to write complex black-box test cases. Test driven development is a methology where tests are written before the actual application.
+ Write a testcase
+ Watch it failing
+ Write the actual source code in you application which enables the test to pass
+ Watch the test passing
+ Go back to step 1</description>
+    </item>
+    
+    <item>
+      <title>JavaFX Links of the Week 1, February 2010</title>
+      <link>https://blog.muehlburger.at/2010/02/javafx-links-of-the-week-1-february-2010/</link>
+      <pubDate>Mon, 01 Feb 2010 08:20:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/02/javafx-links-of-the-week-1-february-2010/</guid>
+      <description>Today I decided to post regularly interesting JavaFX links of the past week. Thanks to Jonathan Giles for his great posts on &amp;#8220;Java Desktop Links of the Week&amp;#8221;. The JavaFX links are just taken from Jonathan&amp;#8217;s posts in order to build a little JavaFX news archieve on my own blog and to inform my subscribers on interesting JavaFX news.
+Here are the JavaFX Links of the Week 1, February 2010:</description>
+    </item>
+    
+    <item>
+      <title>[Tutorial] – Java Online Programming Course</title>
+      <link>https://blog.muehlburger.at/2009/10/tutorial-java-online-programming-course/</link>
+      <pubDate>Thu, 08 Oct 2009 19:35:10 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/10/tutorial-java-online-programming-course/</guid>
+      <description>For everybody who likes to learn the Java programming language or who is forced to learn Java I have found a great online tutorial teaching you the essence of Java programming. Specially students should pay attention to this course as it gives a really good introduction to the Java programming language.
+The online course can be found here.
+Enjoy learning Java and afterwards take a look at JavaFX.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/categories/work/</link>
+    <description>Recent content in Work on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Sep 2015 09:40:16 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/categories/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interesting Creative Digital &amp; Internet Agencies</title>
+      <link>https://blog.muehlburger.at/2015/09/interesting-creative-digital-and-internet-agencies/</link>
+      <pubDate>Sun, 06 Sep 2015 09:40:16 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2015/09/interesting-creative-digital-and-internet-agencies/</guid>
+      <description>Since several months I work as a Full Stack Software Engineer for Scoop &amp;amp; Spoon, a creative digital &amp;amp; internet agency based in London (UK), Vienna and Graz (Austria). I was wondering which other digital &amp;amp; internet agencies are out there and luckily found an interesting article in the brand eins magazine regarding this topic. The following list is a compilation of interesting agencies out there:
+ Scoop &amp;amp; Spoon (www.</description>
+    </item>
+    
+    <item>
+      <title>Making Location completely unimportant</title>
+      <link>https://blog.muehlburger.at/2013/12/making-location-completely-unimportant/</link>
+      <pubDate>Thu, 19 Dec 2013 19:32:40 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2013/12/making-location-completely-unimportant/</guid>
+      <description>Working remote becomes more and more important to many people. Remote: Office Not Required written by Jason Fried (co-founder of 37signals) and David Heinemeier Hansson (original creator of Ruby on Rails) is a great book dealing with this topic. It describes in detail the benefits and problems of building a software company having employees working from remote locations spread all over the world. This gives them great flexibility and enables to recruit talents without being tied to a specific location.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web3.0 on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/web3.0/</link>
+    <description>Recent content in web3.0 on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Nov 2009 19:18:41 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/web3.0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web Science Reading List</title>
+      <link>https://blog.muehlburger.at/2009/11/web-science-reading-list/</link>
+      <pubDate>Sun, 15 Nov 2009 19:18:41 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/web-science-reading-list/</guid>
+      <description>I have just added a new site to my this weblog called &amp;#8220;Web Science Reading List&amp;#8220;. This reading list collects a lot of interesting information on web science and similar topics. Since I do not have time to read all of the articles immediately I am going to collect them on this site and bookmark them on delicious too. If you are interested in this topic as well do not hesitate to contact me or to subscribe to my delicious bookmarks and to the feed of this weblog.</description>
+    </item>
+    
+    <item>
+      <title>TED Talks – Tim Berners-Lee: The next Web of open, linked data</title>
+      <link>https://blog.muehlburger.at/2009/03/ted-talks-tim-berners-lee-the-next-web-of-open-linked-data/</link>
+      <pubDate>Wed, 18 Mar 2009 10:24:44 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/03/ted-talks-tim-berners-lee-the-next-web-of-open-linked-data/</guid>
+      <description>For everybody who is asking: &amp;#8220;What&amp;#8217;s the next step in internet evolution?&amp;#8221; This presentation of Tim Berners-Lee could give you the anser. Linking Data is one of the most exciting initiatives going on right now. Enjoy the presentation!
+(via TED)</description>
+    </item>
+    
+    <item>
+      <title>Linking Open Data – Anwendungen für Endanwender</title>
+      <link>https://blog.muehlburger.at/2009/01/linking-open-data-anwendungen-fur-endanwender/</link>
+      <pubDate>Fri, 16 Jan 2009 21:11:02 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/linking-open-data-anwendungen-fur-endanwender/</guid>
+      <description>Für die Lehrveranstaltung &amp;#8220;Einführung in das wissenschaftliche Arbeiten&amp;#8221; bei Prof. Dr. Klaus Tochtermann habe ich einen Artikel zum Thema &amp;#8220;Linking Open Data &amp;#8211; Anwendungen für Endanwender&amp;#8221; geschrieben.
+Auszug aus dem Abstract:
+ Dieser Artikel beschäftigt sich mit Anwendungen, die das Linking Open Data Konzept verwenden. Zuerst wird auf das Open Data Movement eingegangen und anschließend auf das W3C SWEO Linking Open Data Community Project. Es sind zahlreiche Anwendungen entstanden, die Linked Open Data verwenden und daraus einen Mehrwert für Benutzer erzielen.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business Models on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/business-models/</link>
+    <description>Recent content in Business Models on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Apr 2014 15:48:20 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/business-models/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nine Building Blocks of Business Models</title>
+      <link>https://blog.muehlburger.at/2014/04/nine-building-blocks-of-business-models/</link>
+      <pubDate>Mon, 14 Apr 2014 15:48:20 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2014/04/nine-building-blocks-of-business-models/</guid>
+      <description>In Alexander Osterwalder&amp;#8217;s business model generation canvas every organization&amp;#8217;s business model can be described using 9 building blocks:
+  Customer Segments This are all the people and organizations for which you are creating value. This includes simple users and paying customers.
+Value Proposition This are products and services that create value for each of your customer segments.
+Channels Channels describe through which touch points you are interacting with your customers and delivering value.</description>
+    </item>
+    
+  </channel>
+</rss>

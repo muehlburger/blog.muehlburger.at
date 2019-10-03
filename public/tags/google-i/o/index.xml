@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google I/O on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/google-i/o/</link>
+    <description>Recent content in Google I/O on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 May 2011 11:20:59 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/google-i/o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Videos of Google IO 2011 – Android Tracks of Day Two</title>
+      <link>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/</link>
+      <pubDate>Thu, 12 May 2011 11:20:59 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/</guid>
+      <description>In the next few videos you can seen the recorded tracks of Google&amp;#8217;s IO 2011 Developer Conference covering Android development. Sit back and enjoy! Google I/O 2011: Keynote Day 2 Android Market for Developers Designing and Implementing Android UIs for Phones and Tablets Building Android Apps for Google TV Android Development Tools Taking Android to Work Related articles {.zemanta-related-title} Google TV Gets Android Market And Android 3.1 Honeycomb (slashgear.com)  Google TV will get Android 3.</description>
+    </item>
+    
+    <item>
+      <title>Videos of Google IO 2011 – Android Tracks of Day One</title>
+      <link>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-one/</link>
+      <pubDate>Wed, 11 May 2011 17:09:56 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-one/</guid>
+      <description>&amp;nbsp; Google IO is currently taking place in San Francisco and for everybody who could not attend Google live streamed quite some sessions. In the following you can see the videos which are currently published:
+Google I/O 2011: Android Keynote Day One  [youtube OxzucwjFEEs]
+As an Android developer I am very interested in the Android sessions as you can imagine. So the following the next video first covers advaced topics of android development.</description>
+    </item>
+    
+    <item>
+      <title>[video] – Developing Android REST Client Applications</title>
+      <link>https://blog.muehlburger.at/2010/12/video-developing-android-rest-client-applications/</link>
+      <pubDate>Mon, 13 Dec 2010 15:45:53 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/12/video-developing-android-rest-client-applications/</guid>
+      <description> Virgil Dobjanschi demonstrates in this Google I/O session patterns for developing RESTful applications on the Android platform.
+[youtube xHXn3Kg2IQE]
+(via Google I/O 2010)
+Related articles Android Market gets an update &amp;#8211; Christmas come early? (geek.com)  Developing Android Applications with Adobe AIR: Rough Cuts Version (oreilly.com)  Video: Google releases YouTube 2.1 for Android 2.2 and later devices [Watch the demo on a Nexus S] (intomobile.com)     </description>
+    </item>
+    
+    <item>
+      <title>Google Wave – Google’s next killer application?</title>
+      <link>https://blog.muehlburger.at/2009/05/google-wave-googles-next-killer-application/</link>
+      <pubDate>Sat, 30 May 2009 09:49:40 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/05/google-wave-googles-next-killer-application/</guid>
+      <description>Image by liako via Flickr     Google&amp;#8217;s newest prodcut which was announced at the Google I/O this week is called Google Wave. They build an incredible tool for collaborative work and integrated services like email, instant messenging, collaborative editing, an incredible spell checker which checks the context of words in order to correct spelling. Other really greate features are gadgets like:
+ linky: adds links automatically while you type searchy: lets you search the internet through the application and integrate the searched contend into a wave buggy: through buggy you are able to interact with bug tracking software and easily administer bugs  This are just some kind of great tools available in Google Wave.</description>
+    </item>
+    
+  </channel>
+</rss>

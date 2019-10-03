@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serverless on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/serverless/</link>
+    <description>Recent content in Serverless on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 29 Jan 2018 15:34:05 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/serverless/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What means Serverless?</title>
+      <link>https://blog.muehlburger.at/2018/01/what-are-serverless-architectures/</link>
+      <pubDate>Mon, 29 Jan 2018 15:34:05 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2018/01/what-are-serverless-architectures/</guid>
+      <description>For those who want to understand Serverless architectures, I recommend reading this post by Mike Roberts. The term Serverless was already used in 2012. Mike defines the following characteristics of serverless architectures:
+Mike Roberts - Definition of Serverless   No management of server hosts or server processes You as a developer don&amp;#8217;t have to care about e.g. the number of servers running your software or where where it runs or things like OS upgrades, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

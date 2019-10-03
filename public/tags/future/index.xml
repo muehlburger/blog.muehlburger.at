@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>future on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/future/</link>
+    <description>Recent content in future on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Dec 2009 23:02:10 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/future/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[video] – Did you Know 4.0</title>
+      <link>https://blog.muehlburger.at/2009/12/video-did-you-know-4-0/</link>
+      <pubDate>Mon, 28 Dec 2009 23:02:10 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/12/video-did-you-know-4-0/</guid>
+      <description>There is a new version of the great &amp;#8220;Did you Know&amp;#8221; series. Here is the new video:</description>
+    </item>
+    
+    <item>
+      <title>[video] – The Evolution of Google</title>
+      <link>https://blog.muehlburger.at/2009/11/video-the-evolution-of-google/</link>
+      <pubDate>Fri, 13 Nov 2009 07:44:35 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/video-the-evolution-of-google/</guid>
+      <description>Through @mebner I have found the following video demonstrating the evolution of Google:</description>
+    </item>
+    
+    <item>
+      <title>What will the web look like in five years?</title>
+      <link>https://blog.muehlburger.at/2009/11/what-will-the-web-look-like-in-five-years/</link>
+      <pubDate>Sun, 01 Nov 2009 18:49:06 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/what-will-the-web-look-like-in-five-years/</guid>
+      <description>Eric Schmidt, CEO of Google was answering this question in an interesting interview at Gartner Symposium/ITxpo Orlando 2009. ReadWriteWeb has summarized the highlights of Eric&amp;#8217;s interview as follows:
+  Five years from now the internet will be dominated by Chinese-language content. Today&amp;#8217;s teenagers are the model of how the web will work in five years &amp;#8211; they jump from app to app to app seamlessly. Five years is a factor of ten in Moore&amp;#8217;s Law, meaning that computers will be capable of far more by that time than they are today.</description>
+    </item>
+    
+    <item>
+      <title>[video] – CNN for Holodeck</title>
+      <link>https://blog.muehlburger.at/2008/11/video-cnn-for-holodeck/</link>
+      <pubDate>Wed, 05 Nov 2008 11:11:56 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/video-cnn-for-holodeck/</guid>
+      <description>CNN yesterday used holograms for interviews in their broadcast on the presedential election 2008. The journalist Jessica Yellin was beamed from Chicago to the CNN studio, New York where Wolf Blitzer was speaking with her virtual hologram. Very interesting technique which shows where new media is moving.
+http://www.youtube.com/watch?v=x2bRNA2wpYk
+(via webstandard.at)</description>
+    </item>
+    
+  </channel>
+</rss>

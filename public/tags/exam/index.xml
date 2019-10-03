@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>exam on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/exam/</link>
+    <description>Recent content in exam on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Nov 2015 11:59:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/exam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Certified Salesforce Platform App Builder – Part 1: Exam Overview</title>
+      <link>https://blog.muehlburger.at/2015/11/certified-salesforce-platform-app-builder-part-1-exam-overview/</link>
+      <pubDate>Sun, 01 Nov 2015 11:59:44 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2015/11/certified-salesforce-platform-app-builder-part-1-exam-overview/</guid>
+      <description>In order to prepare and pass the Salesforce App Builder Exam I follow the learning path as described in the official &amp;#8220;Certified Salesforce Platform App Builder Study Guide&amp;#8220;.
+But how many questions on each topic have to be answered in the exam? The total number of questions is 60 and the expected number of questions on each topic can easily be calculated:
+Overview of exam questions per topic  Topic  Weight  Questions     Business Logic and Process Automation   27%   16,2     Data Modeling and Management   20%   12     User Interface   14%   8,4     Security   10%   6     Salesforce Fundamentals   8%   4,8     App Deployment   8%   4,8     Reporting   5%   3     Mobile   5%   3     Social   3%   1,8     Total   100%   60    My strategy is to begin with the most important topic with the most questions and work my way down to the end of the list.</description>
+    </item>
+    
+    <item>
+      <title>[university] – Mathematical Analysis T1 Exam</title>
+      <link>https://blog.muehlburger.at/2008/11/university-mathematical-analysis-t1-exam/</link>
+      <pubDate>Mon, 10 Nov 2008 20:53:30 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/university-mathematical-analysis-t1-exam/</guid>
+      <description>Tomorrow I will write the first mathematical analyis exam for this term. By now I solved all the exercise sheets and I think that I am well prepared. Need to pass this lecture this year since it is the last term of my undergraduate studies. Professor Grabner presented us this video about the mathematical analyis:
+What do you think about this video? I think it&amp;#8217;s weird. Well wish me luck for tomorrow.</description>
+    </item>
+    
+  </channel>
+</rss>

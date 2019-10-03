@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linked Data on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/linked-data/</link>
+    <description>Recent content in Linked Data on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Mar 2009 19:47:27 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/linked-data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Obama’s impressive use of Semantic Web Technologies</title>
+      <link>https://blog.muehlburger.at/2009/03/obamas-impressive-use-of-semantic-web-technologies/</link>
+      <pubDate>Mon, 23 Mar 2009 19:47:27 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/03/obamas-impressive-use-of-semantic-web-technologies/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}        US President Obama enforces the use of Semantic Web Technologies. David Peterson posted on SitePoint the follwing:
+ In a revolutionary move, Obama’s administration is set to utilise next generation web technologies to bring an unprecedented level of transparency to government. In this case it will shed light on how the roughly US $800 billion dollar economic stimulus will be spent.</description>
+    </item>
+    
+    <item>
+      <title>TED Talks – Tim Berners-Lee: The next Web of open, linked data</title>
+      <link>https://blog.muehlburger.at/2009/03/ted-talks-tim-berners-lee-the-next-web-of-open-linked-data/</link>
+      <pubDate>Wed, 18 Mar 2009 10:24:44 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/03/ted-talks-tim-berners-lee-the-next-web-of-open-linked-data/</guid>
+      <description>For everybody who is asking: &amp;#8220;What&amp;#8217;s the next step in internet evolution?&amp;#8221; This presentation of Tim Berners-Lee could give you the anser. Linking Data is one of the most exciting initiatives going on right now. Enjoy the presentation!
+(via TED)</description>
+    </item>
+    
+    <item>
+      <title>Linking Open Data – Anwendungen für Endanwender</title>
+      <link>https://blog.muehlburger.at/2009/01/linking-open-data-anwendungen-fur-endanwender/</link>
+      <pubDate>Fri, 16 Jan 2009 21:11:02 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/linking-open-data-anwendungen-fur-endanwender/</guid>
+      <description>Für die Lehrveranstaltung &amp;#8220;Einführung in das wissenschaftliche Arbeiten&amp;#8221; bei Prof. Dr. Klaus Tochtermann habe ich einen Artikel zum Thema &amp;#8220;Linking Open Data &amp;#8211; Anwendungen für Endanwender&amp;#8221; geschrieben.
+Auszug aus dem Abstract:
+ Dieser Artikel beschäftigt sich mit Anwendungen, die das Linking Open Data Konzept verwenden. Zuerst wird auf das Open Data Movement eingegangen und anschließend auf das W3C SWEO Linking Open Data Community Project. Es sind zahlreiche Anwendungen entstanden, die Linked Open Data verwenden und daraus einen Mehrwert für Benutzer erzielen.</description>
+    </item>
+    
+  </channel>
+</rss>

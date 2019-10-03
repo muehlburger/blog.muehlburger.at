@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JWT on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/jwt/</link>
+    <description>Recent content in JWT on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/jwt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stateless Authentication using JWT (JSON Web Token)</title>
+      <link>https://blog.muehlburger.at/2017/01/stateless-authentication-using-jwt-json-web-token/</link>
+      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2017/01/stateless-authentication-using-jwt-json-web-token/</guid>
+      <description>Currently I work on an implementation for authentication and authorization using Spring Boot, Spring Security, OAuth 2.0 and JSON Web Tokens (JWT). In order to get a good understanding on these topics I found several talks that I&amp;#8217;m going to list here.
+&amp;#8220;100% Stateless with JWT (JSON Web Token)&amp;#8221; by Hubert Sablonnière. I found it very useful to get a better understanding on using JWTs to create a really stateless authentication architecture.</description>
+    </item>
+    
+  </channel>
+</rss>

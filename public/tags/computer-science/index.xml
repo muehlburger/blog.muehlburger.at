@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/computer-science/</link>
+    <description>Recent content in Computer Science on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 May 2011 17:49:38 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our Choice – The Next Generation of Digital Books</title>
+      <link>https://blog.muehlburger.at/2011/05/video-our-choice-the-next-generation-of-digital-books/</link>
+      <pubDate>Mon, 02 May 2011 17:49:38 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/05/video-our-choice-the-next-generation-of-digital-books/</guid>
+      <description>Mike Matas (@mike_matas) and his team from Push Pop Press developed a great iPad and iPhone application called &amp;#8220;Our Choice&amp;#8220;. They claim it to be the next generation of digital books. In the following you see the TED Talk given by Mike Matas demonstrating &amp;#8220;Our Choice&amp;#8221;.
+What I find really interesting there are the interactive data visualizations. If you like this video drop me a comment! </description>
+    </item>
+    
+    <item>
+      <title>Google launched In-app Billing on Android Market</title>
+      <link>https://blog.muehlburger.at/2011/03/google-launched-in-app-billing-on-android-market/</link>
+      <pubDate>Wed, 30 Mar 2011 10:07:20 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/03/google-launched-in-app-billing-on-android-market/</guid>
+      <description>[][1]Google Android In-App Billing Google yesterday launched In-app Billing on the Android Market. This feature enables developers to publish apps that use in-app Billing and users can make purchages from within the Android apps.
+Google writes:
+ Android Market In-app Billing is an Android Market service that lets you sell digital content in your applications. You can use the service to sell a wide range of content, including downloadable content such as media files or photos, and virtual content such as game levels or potions.</description>
+    </item>
+    
+    <item>
+      <title>SEAmail – Semantic Delivery of Emails</title>
+      <link>https://blog.muehlburger.at/2009/01/seamail-semantic-delivery-of-emails/</link>
+      <pubDate>Fri, 23 Jan 2009 09:38:25 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/seamail-semantic-delivery-of-emails/</guid>
+      <description>SEAmail is a prototype e-mail system implemented by Stanford University Logic Group lead by Michael Genesereth, an associate professor of computer science at Stanford University. The interesting and innovative part of this e-mail system is the use of semantic technologies in order to determine the recipient of an e-mail message. Users don&amp;#8217;t have to bother on keeping track of e-mail addresses, they just type in the real name of the recipient letting the system searching the right recipient address.</description>
+    </item>
+    
+    <item>
+      <title>[university] – Mathematical Analysis T1 Exam</title>
+      <link>https://blog.muehlburger.at/2008/11/university-mathematical-analysis-t1-exam/</link>
+      <pubDate>Mon, 10 Nov 2008 20:53:30 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/university-mathematical-analysis-t1-exam/</guid>
+      <description>Tomorrow I will write the first mathematical analyis exam for this term. By now I solved all the exercise sheets and I think that I am well prepared. Need to pass this lecture this year since it is the last term of my undergraduate studies. Professor Grabner presented us this video about the mathematical analyis:
+What do you think about this video? I think it&amp;#8217;s weird. Well wish me luck for tomorrow.</description>
+    </item>
+    
+  </channel>
+</rss>

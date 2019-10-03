@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/tutorials/</link>
+    <description>Recent content in Tutorials on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 08 Oct 2009 19:35:10 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Tutorial] – Java Online Programming Course</title>
+      <link>https://blog.muehlburger.at/2009/10/tutorial-java-online-programming-course/</link>
+      <pubDate>Thu, 08 Oct 2009 19:35:10 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/10/tutorial-java-online-programming-course/</guid>
+      <description>For everybody who likes to learn the Java programming language or who is forced to learn Java I have found a great online tutorial teaching you the essence of Java programming. Specially students should pay attention to this course as it gives a really good introduction to the Java programming language.
+The online course can be found here.
+Enjoy learning Java and afterwards take a look at JavaFX.</description>
+    </item>
+    
+  </channel>
+</rss>

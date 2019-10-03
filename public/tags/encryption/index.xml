@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Encryption on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/encryption/</link>
+    <description>Recent content in Encryption on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 05 Jan 2014 15:35:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/encryption/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enable HTTPS everywhere</title>
+      <link>https://blog.muehlburger.at/2014/01/enable-https-everywhere/</link>
+      <pubDate>Sun, 05 Jan 2014 15:35:26 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2014/01/enable-https-everywhere/</guid>
+      <description>[][1]SSL-Report for blog.muehlburger.at Finally I finished to configure my HTTPS protocol support for blog.muehlburger.at. Supporting encrypted communication is an important part of the internet today. Everybody should support encrypted communication on the web. A good resource on how to select strong cypher suites and to configure your web server to support encryption properly is bettercrypto.org.
+There is also a great video covering the current state of the art in crypto held by security researchers at 30C3:</description>
+    </item>
+    
+    <item>
+      <title>Public Key Infrastructure (PKI) – Secure Key Exchange – [video]</title>
+      <link>https://blog.muehlburger.at/2010/05/problem-of-public-key-infrastructure-pki-secure-key-exchange-video/</link>
+      <pubDate>Mon, 10 May 2010 06:11:17 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/05/problem-of-public-key-infrastructure-pki-secure-key-exchange-video/</guid>
+      <description>In public key infrastructures a common problem is that both communication partners have to have the same key in order communicate in a secure way (to encrypt and decrypt messages properly). The question is how is it practically possible to share a secret key over an untrusted channel like the internet for example. The solution is the use of asynchronous methods (public and private keys) in order to exchange the secret key in a secure way.</description>
+    </item>
+    
+  </channel>
+</rss>

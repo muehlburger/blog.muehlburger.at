@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XML on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/xml/</link>
+    <description>Recent content in XML on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 19 Jun 2010 06:51:24 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/xml/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Grabeeter – Grab and Search your Tweets offline and online</title>
+      <link>https://blog.muehlburger.at/2010/06/grabeeter-grab-and-search-your-tweets-offline-and-online/</link>
+      <pubDate>Sat, 19 Jun 2010 06:51:24 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/06/grabeeter-grab-and-search-your-tweets-offline-and-online/</guid>
+      <description>Grabeeter (@grabeeter) has just been launched and I think it is a very useful tool.
+Grabeeter enables you to grab your tweets which means that you are able to store your tweets on your local harddrive in a structured format (xml at the time). Using the Grabeeter Client you are also able to perform searches on your local stored tweets.
+This solves in parts the following problem. Maybe some of you have already noticed that if you have written more than 3200 Tweets you are not able to access your first tweets anymore due to Twitter access restrictions.</description>
+    </item>
+    
+    <item>
+      <title>HTML 4.01 bis XHTML 2.0 im Vergleich</title>
+      <link>https://blog.muehlburger.at/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/</link>
+      <pubDate>Thu, 05 Jul 2007 12:02:29 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}        Jens Meiert bietet auf seinem Blog eine tabellarische Übersicht über alle Elemente, die in HTML 4.01, XHTML 1.0 Strict, XHTML 1.1, HTML 5, und XHTML 2.0 spezifitiert werden.
+Hier der Link direkt zu Jens Meierts Weblog.
+[via pixelgraphix]
+Related articles by Zemanta {.zemanta-related-title} Html5 (slideshare.net)  HTML+RDFa First Draft Published (w3.</description>
+    </item>
+    
+  </channel>
+</rss>

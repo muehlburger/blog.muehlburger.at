@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kafka on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/kafka/</link>
+    <description>Recent content in kafka on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 17 Jan 2017 16:17:01 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/kafka/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apache Kafka Streams</title>
+      <link>https://blog.muehlburger.at/2017/01/apache-kafka-streams/</link>
+      <pubDate>Tue, 17 Jan 2017 16:17:01 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2017/01/apache-kafka-streams/</guid>
+      <description>I&amp;#8217;m interested in Apache Kafka Streams and would like share some information on this topic with you. There is a great talk about Stream Processing from Neha Narkhede who co-authored Apache Kafka and is currently a co-founder and Head of Engineering of Confluent.
+Great talk about stream processing! https://t.co/Yn9eHLNZag #kafka #kafkastreams  &amp;mdash; Manuel Stößel (@Manuel_Stoessel) October 15, 2016  There is also a good article on Apache Kafka Streams with lots of background information.</description>
+    </item>
+    
+    <item>
+      <title>Talk on Infrastructure at Scale: Apache Kafka, Storm and Elastic Search</title>
+      <link>https://blog.muehlburger.at/2014/09/talk-on-infrastructure-at-scale-apache-kafka-storm-and-elastic-search/</link>
+      <pubDate>Sat, 06 Sep 2014 07:35:27 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2014/09/talk-on-infrastructure-at-scale-apache-kafka-storm-and-elastic-search/</guid>
+      <description>The following talk gives a good overview on the technologies used by Loggly.com to build their scalable real-time-search log-processing infrastructure.
+The slides of the talk can be found here:
+Infrastructure at Scale: Apache Kafka, Twitter Storm &amp;amp; Elastic Search (ARC303) | AWS re:Invent 2013 from Amazon Web Services
+(via loggly.com)  </description>
+    </item>
+    
+  </channel>
+</rss>

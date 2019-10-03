@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Source code on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/source-code/</link>
+    <description>Recent content in Source code on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 Apr 2011 12:55:52 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/source-code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing Robotium – A Testing Framework for Android</title>
+      <link>https://blog.muehlburger.at/2011/04/introducing-robotium-a-testing-framework-for-android/</link>
+      <pubDate>Tue, 19 Apr 2011 12:55:52 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/04/introducing-robotium-a-testing-framework-for-android/</guid>
+      <description>Image via Wikipedia  Robotium is an open source testing framework for Android applications. It makes it easy to write complex black-box test cases. Test driven development is a methology where tests are written before the actual application.
+ Write a testcase
+ Watch it failing
+ Write the actual source code in you application which enables the test to pass
+ Watch the test passing
+ Go back to step 1</description>
+    </item>
+    
+  </channel>
+</rss>

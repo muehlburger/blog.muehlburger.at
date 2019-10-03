@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hive on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/hive/</link>
+    <description>Recent content in Hive on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Mar 2011 19:31:59 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/hive/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NoSQL Databases: Why, what and when – An Overview on NoSQL Datastores</title>
+      <link>https://blog.muehlburger.at/2011/03/nosql-databases-why-what-and-when-an-overview-on-nosql-datastores/</link>
+      <pubDate>Sun, 06 Mar 2011 19:31:59 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/03/nosql-databases-why-what-and-when-an-overview-on-nosql-datastores/</guid>
+      <description>For everybody interested in NoSQL datastores the following presentation by Lorenzo Alberton is worth reading. It gives a good overview of the currently used technologies in the area of NoSQL and discusses the ground filling basics every NoSQL enthusiast should know.  NoSQL Databases: Why, what and when (via quipo)  &amp;nbsp;
+Related Articles NoSQL: Node.js + NoSQL Database = Real Time Chat Applications (themindstorms.blogspot.com)  NoSQL: The NoSQL Gene in SQL Azure Federations (themindstorms.</description>
+    </item>
+    
+    <item>
+      <title>[video] – Rethink the Data Warehouse with Hadoop and Hive</title>
+      <link>https://blog.muehlburger.at/2009/11/video-rethink-the-data-warehouse-with-hadoop-and-hive/</link>
+      <pubDate>Thu, 12 Nov 2009 08:07:33 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/video-rethink-the-data-warehouse-with-hadoop-and-hive/</guid>
+      <description>Here is a great video explaining how Facebook uses Hadoop and Hive to build Data Warehouses and analyse their huge ammount of data. Every day Facebook gets around 4TB+ of compressed data, which is amazing and also difficult to be analysed.
+[vimeo 7111203]
+(via Cloudera)
+  </description>
+    </item>
+    
+  </channel>
+</rss>

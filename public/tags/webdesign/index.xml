@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>webdesign on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/webdesign/</link>
+    <description>Recent content in webdesign on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Mar 2010 07:35:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/webdesign/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[video] – Understanding Gradients in CSS3</title>
+      <link>https://blog.muehlburger.at/2010/03/video-understanding-gradients-in-css3/</link>
+      <pubDate>Wed, 24 Mar 2010 07:35:31 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/03/video-understanding-gradients-in-css3/</guid>
+      <description>I&amp;#8217;ve found an interesting video explaining gradients in CSS3. Have a look at the following:
+(via nettuts)</description>
+    </item>
+    
+    <item>
+      <title>Google’s SEO Starter Guide – How to improve your website</title>
+      <link>https://blog.muehlburger.at/2008/11/googles-seo-starter-guide-how-to-improve-your-site/</link>
+      <pubDate>Thu, 13 Nov 2008 19:40:45 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/googles-seo-starter-guide-how-to-improve-your-site/</guid>
+      <description>Brandon Falls from Google Search Quality Team, wrote on the Official Google Webmaster Central Blog the following lines:
+ Webmasters often ask us at conferences or in the Webmaster Help Group, &amp;#8220;What are some simple ways that I can improve my website&amp;#8217;s performance in Google?&amp;#8221; There are lots of possible answers to this question, and a wealth of search engine optimization information on the web, so much that it can be intimidating for newer webmasters or those unfamiliar with the topic.</description>
+    </item>
+    
+    <item>
+      <title>HTML 4.01 bis XHTML 2.0 im Vergleich</title>
+      <link>https://blog.muehlburger.at/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/</link>
+      <pubDate>Thu, 05 Jul 2007 12:02:29 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}        Jens Meiert bietet auf seinem Blog eine tabellarische Übersicht über alle Elemente, die in HTML 4.01, XHTML 1.0 Strict, XHTML 1.1, HTML 5, und XHTML 2.0 spezifitiert werden.
+Hier der Link direkt zu Jens Meierts Weblog.
+[via pixelgraphix]
+Related articles by Zemanta {.zemanta-related-title} Html5 (slideshare.net)  HTML+RDFa First Draft Published (w3.</description>
+    </item>
+    
+  </channel>
+</rss>

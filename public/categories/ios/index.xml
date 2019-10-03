@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iOS on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/categories/ios/</link>
+    <description>Recent content in iOS on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 May 2011 17:49:38 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/categories/ios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our Choice – The Next Generation of Digital Books</title>
+      <link>https://blog.muehlburger.at/2011/05/video-our-choice-the-next-generation-of-digital-books/</link>
+      <pubDate>Mon, 02 May 2011 17:49:38 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/05/video-our-choice-the-next-generation-of-digital-books/</guid>
+      <description>Mike Matas (@mike_matas) and his team from Push Pop Press developed a great iPad and iPhone application called &amp;#8220;Our Choice&amp;#8220;. They claim it to be the next generation of digital books. In the following you see the TED Talk given by Mike Matas demonstrating &amp;#8220;Our Choice&amp;#8221;.
+What I find really interesting there are the interactive data visualizations. If you like this video drop me a comment! </description>
+    </item>
+    
+  </channel>
+</rss>

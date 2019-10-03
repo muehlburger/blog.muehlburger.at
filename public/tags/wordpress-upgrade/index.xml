@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wordpress upgrade on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/wordpress-upgrade/</link>
+    <description>Recent content in wordpress upgrade on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Dec 2009 22:30:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/wordpress-upgrade/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WordPress Upgrade worked great</title>
+      <link>https://blog.muehlburger.at/2009/12/wordpress-upgrade-worked-great/</link>
+      <pubDate>Mon, 28 Dec 2009 22:30:35 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/12/wordpress-upgrade-worked-great/</guid>
+      <description>   Image via Wikipedia     Just few minutes ago I finally upgraded my weblog to the new WordPress 2.9. My administrator area is in English now and I am happy! Everything worked fine during the upgrade process.
+Stay tuned!
+Herbert
+  </description>
+    </item>
+    
+  </channel>
+</rss>

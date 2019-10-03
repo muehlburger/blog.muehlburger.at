@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microsoft Live Labs on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/microsoft-live-labs/</link>
+    <description>Recent content in Microsoft Live Labs on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Nov 2009 06:37:06 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/microsoft-live-labs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pivot – Great Visualization Tool developed by Microsoft Live Labs</title>
+      <link>https://blog.muehlburger.at/2009/11/pivot-developed-by-microsoft-live-labs/</link>
+      <pubDate>Mon, 23 Nov 2009 06:37:06 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/pivot-developed-by-microsoft-live-labs/</guid>
+      <description>This time I discovered a great application developed by Microsoft Live Labs called Pivot. Pivot enables users to discover huge information spaces by different visual filtering options. You are able to look at hundred thousands of information space entities such as pictures, &amp;#8230; and filter these in different ways (zoom in/out, create links between different information items, &amp;#8230;). The following video describes Pivot in more detail:
+[youtube BZuFUZpEZ-A]
+For the fasted nine users I will share my installation code:</description>
+    </item>
+    
+  </channel>
+</rss>

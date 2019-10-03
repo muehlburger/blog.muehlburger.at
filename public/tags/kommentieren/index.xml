@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kommentieren on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/kommentieren/</link>
+    <description>Recent content in kommentieren on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 May 2007 13:44:41 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/kommentieren/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>walk2Web: Linkstrukturen graphisch darstellen</title>
+      <link>https://blog.muehlburger.at/2007/05/walk2web-linkstrukturen-graphisch-darstellen/</link>
+      <pubDate>Sun, 06 May 2007 13:44:41 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/05/walk2web-linkstrukturen-graphisch-darstellen/</guid>
+      <description>Linkstrukturen graphisch darstellen
+Mit Web2Walk kann man sich visuell darstellen lassen, wie Webseiten miteinander verbunden sind. Man gibt einfach eine beliebige Startadresse ein und erhält die Verlinkung dieser Seite als Graph. Jede weitere Seite in diesem Graph lässt sich bewerten, bookmarken und kommentieen.
+Link: walk2web.com
+  </description>
+    </item>
+    
+  </channel>
+</rss>

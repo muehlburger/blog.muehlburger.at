@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coding on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/coding/</link>
+    <description>Recent content in Coding on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 May 2016 09:10:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Programming as Performance</title>
+      <link>https://blog.muehlburger.at/2016/05/programming-as-performance/</link>
+      <pubDate>Sun, 01 May 2016 09:10:11 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2016/05/programming-as-performance/</guid>
+      <description>Programming as Performance? This sounds interesting and indeed it is, as you can see in this video by Sam Aaron (a Post-Doc Researcher at the Cambridge University):
+  He wrote Sonic Pi, a program to enable children and others interested in coding and music to create their very individual sounds using a simple keyboard and a Raspberry Pi.</description>
+    </item>
+    
+  </channel>
+</rss>

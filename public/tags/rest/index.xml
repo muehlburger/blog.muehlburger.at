@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>REST on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/rest/</link>
+    <description>Recent content in REST on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 13 Dec 2010 15:45:53 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/rest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[video] – Developing Android REST Client Applications</title>
+      <link>https://blog.muehlburger.at/2010/12/video-developing-android-rest-client-applications/</link>
+      <pubDate>Mon, 13 Dec 2010 15:45:53 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/12/video-developing-android-rest-client-applications/</guid>
+      <description> Virgil Dobjanschi demonstrates in this Google I/O session patterns for developing RESTful applications on the Android platform.
+[youtube xHXn3Kg2IQE]
+(via Google I/O 2010)
+Related articles Android Market gets an update &amp;#8211; Christmas come early? (geek.com)  Developing Android Applications with Adobe AIR: Rough Cuts Version (oreilly.com)  Video: Google releases YouTube 2.1 for Android 2.2 and later devices [Watch the demo on a Nexus S] (intomobile.com)     </description>
+    </item>
+    
+  </channel>
+</rss>

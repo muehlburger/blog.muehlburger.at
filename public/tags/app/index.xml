@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>App on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/app/</link>
+    <description>Recent content in App on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Nov 2011 09:00:07 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Simple Flashlight v3.1</title>
+      <link>https://blog.muehlburger.at/2011/11/simple-flashlight-v3-1/</link>
+      <pubDate>Tue, 29 Nov 2011 09:00:07 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/11/simple-flashlight-v3-1/</guid>
+      <description>Die &amp;#8220;Simple Flashlight&amp;#8221; App für Android ist nun in der Version 3.1 im Market verfügbar. Simple Flashlight ist eine einfache Taschenlampe für dein Mobiltelefon oder deinen Tablet. Es wurde die transparente Displaybeleuchtung entfernt. Zudem gibt es jetzt die Möglichkeit, durch &amp;#8220;Wischen&amp;#8221; nach rechts bzw. links die Farbe des Bildschirms auf rot oder blau zu ändern.
+Recent Changes (v3.1)  Displaybeleuchtung verbessert (Transparenz entfernt) Swipe nach rechts =&amp;gt; Bildschirm blau färben Swipe nach links =&amp;gt; Bildschirm rot färben Swipe verbessert  Recent Changes (v3.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muziic on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/muziic/</link>
+    <description>Recent content in Muziic on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 22 Jun 2007 10:47:17 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/muziic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ALARMD – Wecker 2.0</title>
+      <link>https://blog.muehlburger.at/2007/06/alarmd-wecker-2-0/</link>
+      <pubDate>Fri, 22 Jun 2007 10:47:17 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/06/alarmd-wecker-2-0/</guid>
+      <description>Wer schon immer mal von YouTube Videos bzw. von last.fm Playlists geweckt werden wollte, der sollte sich unbedingt ALARMD anschaun! Hier kann man sich seinen Wecker online stellen. Dieser holt sich dann von YouTube bzw. über last.fm und andere Services seine Videos und Musikstreams und spielt diese zur gewünschten Zeit ab! Ich finde die Idee einfach toll und bin komplett begeistert! Sehr coole Sache!
+[via Webware]
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java Development Kit on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/java-development-kit/</link>
+    <description>Recent content in Java Development Kit on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Jan 2011 20:45:32 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/java-development-kit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to install (Oracle) Sun Java SDK 1.6.x (Java 6) on Ubuntu</title>
+      <link>https://blog.muehlburger.at/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</link>
+      <pubDate>Mon, 10 Jan 2011 20:45:32 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</guid>
+      <description>Dieser Beitrag beschreibt die Installation des Sun Java SDK 1.6.x on Ubuntu (Maverick). The English explanation on how to install Sun Java SDK 1.6.x can be found here.
+Canonical-Partner Repositories aktivieren: Dies geschieht unter &amp;#8220;System&amp;#8221; -&amp;gt; &amp;#8220;Systemverwaltung&amp;#8221; -&amp;gt; &amp;#8220;Synaptic Paketverwalung&amp;#8221;. In der Paketverwaltung finden sich die Paketquellen unter dem Menüpunkt &amp;#8220;Einstellungen&amp;#8221;. In den Einstellungen wechselt man auf den Reiter &amp;#8220;Andere Software&amp;#8221; und aktiviert dort &amp;#8220;Canonical-Partner&amp;#8221; bzw. &amp;#8220;Canonical-Partner (Quelltext)&amp;#8221;. Nach dem Klick auf &amp;#8220;Schließen&amp;#8221; werden die Paketlisten neu geladen.</description>
+    </item>
+    
+  </channel>
+</rss>

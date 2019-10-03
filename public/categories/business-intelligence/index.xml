@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business Intelligence on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/categories/business-intelligence/</link>
+    <description>Recent content in Business Intelligence on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jul 2013 07:48:40 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/categories/business-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to fix error on Pentaho Data Integration (Kettle) startup</title>
+      <link>https://blog.muehlburger.at/2013/07/how-to-fix-error-on-pentaho-data-integration-kettle-startup/</link>
+      <pubDate>Tue, 23 Jul 2013 07:48:40 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2013/07/how-to-fix-error-on-pentaho-data-integration-kettle-startup/</guid>
+      <description>Howto fix startup error of Pentaho Data Integration (Kettle) on CentOS 6? You just need to modify the spoon.sh startup script after downloading and unzipping Pentaho Data Integration. The modification updates the Java runtime options for Kettle to startup properly. Therefore open
+[code language=&amp;#8221;bash&amp;#8221;]spoon.sh[/code]
+and change the end of the file in the following way:
+[code language=&amp;#8221;bash&amp;#8221;]
+# **********************
+# ** Set java runtime options **
+# ** Change 512m to higher values in case you run out of memory **</description>
+    </item>
+    
+    <item>
+      <title>[video] – How is Hadoop used at Twitter?</title>
+      <link>https://blog.muehlburger.at/2010/09/video-how-is-hadoop-used-at-twitter/</link>
+      <pubDate>Fri, 10 Sep 2010 13:02:24 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/09/video-how-is-hadoop-used-at-twitter/</guid>
+      <description>Image via CrunchBase  In the following video Dmitriy Ryaboy, a Twitter Analytics Engineer and a former Cloudera Intern, explains how Twitter uses Hadoop and Pig. Enjoy the video and have a good weekend!
+[vimeo 11110059]
+Related articles {.zemanta-related-title} How GE uses Hadoop to analyze big data (news.cnet.com)  How GE uses Hadoop to analyze big data (news.cnet.com)  Hadoop There it Was&amp;#8211;Hadoop Summit June 2010 (developer.yahoo.net)  Whooping it up for Hadoop (ycorpblog.</description>
+    </item>
+    
+    <item>
+      <title>[video] – HBase and Pig: The Hadoop Ecosystem at Twitter</title>
+      <link>https://blog.muehlburger.at/2010/06/video-hbase-and-pig-the-hadoop-ecosystem-at-twitter/</link>
+      <pubDate>Fri, 25 Jun 2010 06:17:16 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/06/video-hbase-and-pig-the-hadoop-ecosystem-at-twitter/</guid>
+      <description>            Related articles by Zemanta {.zemanta-related-title}        I have just found this very interesting video dealing with the implementation of HBase and Pig in combination with Hadoop at Twitter:
+Related articles by Zemanta {.zemanta-related-title} HBase Digest, March 2010 (sematext.com)  Cassandra+Hadoop (slideshare.net)  Hadoop, Hbase and Hive- Bay area Hadoop User Group (slideshare.net)   </description>
+    </item>
+    
+    <item>
+      <title>Twitter’s use of Cassandra, Hadoop, Pig and HBase for highly distributed Data Processing and Analysis</title>
+      <link>https://blog.muehlburger.at/2010/05/twitters-use-of-cassandra-pig-and-hbase-for-highly-distributed-data-processing-and-analysis/</link>
+      <pubDate>Thu, 06 May 2010 19:43:45 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/05/twitters-use-of-cassandra-pig-and-hbase-for-highly-distributed-data-processing-and-analysis/</guid>
+      <description>Kevin Weil, Analytics Lead at Twitter recently gave a presentation on Twitter’s use of Cassandra, Pig and HBase. Specially interesting is how Twitter uses Hadoop and Pig in their data analysis process.
+[slideshare id=3806196&amp;amp;doc=nosqlattwitter-nosqleu2010-100421124212-phpapp02]
+(via @kevinweil)
+Another great presentation from Tobias Ivarsson gives an overview on NoSQL:
+[slideshare id=3735857&amp;amp;doc=nosqlfordummies-100415085745-phpapp01]
+(via @thobe)
+  </description>
+    </item>
+    
+    <item>
+      <title>[video] – Rethink the Data Warehouse with Hadoop and Hive</title>
+      <link>https://blog.muehlburger.at/2009/11/video-rethink-the-data-warehouse-with-hadoop-and-hive/</link>
+      <pubDate>Thu, 12 Nov 2009 08:07:33 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/video-rethink-the-data-warehouse-with-hadoop-and-hive/</guid>
+      <description>Here is a great video explaining how Facebook uses Hadoop and Hive to build Data Warehouses and analyse their huge ammount of data. Every day Facebook gets around 4TB+ of compressed data, which is amazing and also difficult to be analysed.
+[vimeo 7111203]
+(via Cloudera)
+  </description>
+    </item>
+    
+    <item>
+      <title>[video] – The History of Business Intelligence</title>
+      <link>https://blog.muehlburger.at/2009/08/video-the-history-of-business-intelligence/</link>
+      <pubDate>Sat, 01 Aug 2009 09:17:53 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/08/video-the-history-of-business-intelligence/</guid>
+      <description>I have found a really nice video explaining Business Intelligence as a concept and highlighting the development phases of Business Intelligence through the history.
+[youtube _1y5jBESLPE]
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/programming/</link>
+    <description>Recent content in Programming on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 26 Dec 2018 16:32:23 +0100</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Micro Frotendends</title>
+      <link>https://blog.muehlburger.at/2018/12/micro-frontends/</link>
+      <pubDate>Wed, 26 Dec 2018 16:32:23 +0100</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2018/12/micro-frontends/</guid>
+      <description>This is an interesting talk from Michael Geers on Micro Frontends. He gave the talk at Web Rebells 2018.
+   Michael Geers: Micro Frontends - Think Smaller, Avoid the Monolith, ❤️ the Backend | Web Rebels 2018</description>
+    </item>
+    
+    <item>
+      <title>Programming as Performance</title>
+      <link>https://blog.muehlburger.at/2016/05/programming-as-performance/</link>
+      <pubDate>Sun, 01 May 2016 09:10:11 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2016/05/programming-as-performance/</guid>
+      <description>Programming as Performance? This sounds interesting and indeed it is, as you can see in this video by Sam Aaron (a Post-Doc Researcher at the Cambridge University):
+  He wrote Sonic Pi, a program to enable children and others interested in coding and music to create their very individual sounds using a simple keyboard and a Raspberry Pi.</description>
+    </item>
+    
+    <item>
+      <title>What Most Schools Don’t Teach – Programming</title>
+      <link>https://blog.muehlburger.at/2013/03/what-most-schools-dont-teach-programming/</link>
+      <pubDate>Mon, 04 Mar 2013 10:27:24 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2013/03/what-most-schools-dont-teach-programming/</guid>
+      <description>&amp;#8220;The programmers of tomorrow are the wizards of the future. You are going to look like you have magic power, compared to everybody else.&amp;#8221; Diese Aussage beschreibt den Wert, den &amp;#8220;Coding Skills&amp;#8221; heute und in Zukunft haben. Die Fähigkeit Software nach eigenen Vorstellungen zu entwickeln stellt für jeden Bürger eine wichtige Möglichkeit dar das Grundrecht der Freiheit auszuleben.
+Das folgende Video beschreibt was &amp;#8220;die meisten Schulen (noch) nicht lehren&amp;#8221; nämlich Software zu entwickeln und Quellcode lesen zu können.</description>
+    </item>
+    
+    <item>
+      <title>Introducing Robotium – A Testing Framework for Android</title>
+      <link>https://blog.muehlburger.at/2011/04/introducing-robotium-a-testing-framework-for-android/</link>
+      <pubDate>Tue, 19 Apr 2011 12:55:52 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/04/introducing-robotium-a-testing-framework-for-android/</guid>
+      <description>Image via Wikipedia  Robotium is an open source testing framework for Android applications. It makes it easy to write complex black-box test cases. Test driven development is a methology where tests are written before the actual application.
+ Write a testcase
+ Watch it failing
+ Write the actual source code in you application which enables the test to pass
+ Watch the test passing
+ Go back to step 1</description>
+    </item>
+    
+    <item>
+      <title>Google launched In-app Billing on Android Market</title>
+      <link>https://blog.muehlburger.at/2011/03/google-launched-in-app-billing-on-android-market/</link>
+      <pubDate>Wed, 30 Mar 2011 10:07:20 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/03/google-launched-in-app-billing-on-android-market/</guid>
+      <description>[][1]Google Android In-App Billing Google yesterday launched In-app Billing on the Android Market. This feature enables developers to publish apps that use in-app Billing and users can make purchages from within the Android apps.
+Google writes:
+ Android Market In-app Billing is an Android Market service that lets you sell digital content in your applications. You can use the service to sell a wide range of content, including downloadable content such as media files or photos, and virtual content such as game levels or potions.</description>
+    </item>
+    
+    <item>
+      <title>How to install (Oracle) Sun Java SDK 1.6.x (Java 6) on Ubuntu</title>
+      <link>https://blog.muehlburger.at/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</link>
+      <pubDate>Mon, 10 Jan 2011 20:45:32 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</guid>
+      <description>Dieser Beitrag beschreibt die Installation des Sun Java SDK 1.6.x on Ubuntu (Maverick). The English explanation on how to install Sun Java SDK 1.6.x can be found here.
+Canonical-Partner Repositories aktivieren: Dies geschieht unter &amp;#8220;System&amp;#8221; -&amp;gt; &amp;#8220;Systemverwaltung&amp;#8221; -&amp;gt; &amp;#8220;Synaptic Paketverwalung&amp;#8221;. In der Paketverwaltung finden sich die Paketquellen unter dem Menüpunkt &amp;#8220;Einstellungen&amp;#8221;. In den Einstellungen wechselt man auf den Reiter &amp;#8220;Andere Software&amp;#8221; und aktiviert dort &amp;#8220;Canonical-Partner&amp;#8221; bzw. &amp;#8220;Canonical-Partner (Quelltext)&amp;#8221;. Nach dem Klick auf &amp;#8220;Schließen&amp;#8221; werden die Paketlisten neu geladen.</description>
+    </item>
+    
+    <item>
+      <title>JavaFX Links of the Week 1, February 2010</title>
+      <link>https://blog.muehlburger.at/2010/02/javafx-links-of-the-week-1-february-2010/</link>
+      <pubDate>Mon, 01 Feb 2010 08:20:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/02/javafx-links-of-the-week-1-february-2010/</guid>
+      <description>Today I decided to post regularly interesting JavaFX links of the past week. Thanks to Jonathan Giles for his great posts on &amp;#8220;Java Desktop Links of the Week&amp;#8221;. The JavaFX links are just taken from Jonathan&amp;#8217;s posts in order to build a little JavaFX news archieve on my own blog and to inform my subscribers on interesting JavaFX news.
+Here are the JavaFX Links of the Week 1, February 2010:</description>
+    </item>
+    
+    <item>
+      <title>What is PupSubHubUp?</title>
+      <link>https://blog.muehlburger.at/2010/01/what-is-pupsubhubup/</link>
+      <pubDate>Thu, 28 Jan 2010 21:03:06 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/01/what-is-pupsubhubup/</guid>
+      <description>Pubsubhubbub is &amp;#8220;A simple, open, web-hook-based pubsub protocol &amp;amp; open source reference implementation&amp;#8220;. But what does this mean? The following video explains it very well:
+[youtube B5kHx0rGkec]
+  </description>
+    </item>
+    
+    <item>
+      <title>[Tutorial] – Java Online Programming Course</title>
+      <link>https://blog.muehlburger.at/2009/10/tutorial-java-online-programming-course/</link>
+      <pubDate>Thu, 08 Oct 2009 19:35:10 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/10/tutorial-java-online-programming-course/</guid>
+      <description>For everybody who likes to learn the Java programming language or who is forced to learn Java I have found a great online tutorial teaching you the essence of Java programming. Specially students should pay attention to this course as it gives a really good introduction to the Java programming language.
+The online course can be found here.
+Enjoy learning Java and afterwards take a look at JavaFX.</description>
+    </item>
+    
+    <item>
+      <title>[video] – User Interface Fundamentals for Programmers</title>
+      <link>https://blog.muehlburger.at/2009/10/video-user-interface-fundamentals-for-programmers/</link>
+      <pubDate>Thu, 08 Oct 2009 08:20:17 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/10/video-user-interface-fundamentals-for-programmers/</guid>
+      <description>Recently I have found a great video demonstrating the user interface design fundamentals every programmer should know. Check out the video, it is really interesting!
+UI Fundamentals for Programmers by Ryan Singer from ChicagoRuby on Vimeo.
+(via Smashing Magazine)
+Related articles by Zemanta {.zemanta-related-title} GUI Design by schematic visualization (slideshare.net)  Advances in mouse interface design video (core77.com)  Speaking at EdUI Conference 2009 (xaprb.com)  Visual Decision Making (alistapart.</description>
+    </item>
+    
+    <item>
+      <title>User Interface der Zukunft! Unglaublich …</title>
+      <link>https://blog.muehlburger.at/2007/04/user-interface-der-zukunft-unglaublich/</link>
+      <pubDate>Tue, 24 Apr 2007 05:52:50 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/04/user-interface-der-zukunft-unglaublich/</guid>
+      <description>Hier ein User Interface der Zukunft! Das ist wirklich unglaublich, was uns das zukünftig für greznenlose Möglichkeiten bieten wird! Viel Spaß damit!</description>
+    </item>
+    
+  </channel>
+</rss>

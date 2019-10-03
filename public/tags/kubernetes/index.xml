@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kubernetes on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/kubernetes/</link>
+    <description>Recent content in kubernetes on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 25 Jan 2019 21:10:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Istio</title>
+      <link>https://blog.muehlburger.at/2019/01/istio/</link>
+      <pubDate>Fri, 25 Jan 2019 21:10:00 +0100</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2019/01/istio/</guid>
+      <description>Istio has gained lots of traction in the Kubernetes space. Here is a compiled list of interesting talks on Istio.
+Kudos to Lachlan Evenson for creating this content:
+Setting Sail with Istio   Istio - up and running by Lachlan Evenson   Istio - adding services to the mesh by Lachlan Evenson   Istio - Working with Ingress   Istio - Working with Egress   Istio - Request Routing   Istio - Fault Injection Testing   I hope you find something useful in these resources.</description>
+    </item>
+    
+    <item>
+      <title>The Evolution of Microservices</title>
+      <link>https://blog.muehlburger.at/2018/02/the-evolution-of-microservices/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2018/02/the-evolution-of-microservices/</guid>
+      <description>Have you ever wondered on how the concept of Microservices developed? The following video by Adrian Cockcroft gives a quite good overview on the evolution of microservices.
+  (via Scalable Microservices with Kubernetes)</description>
+    </item>
+    
+  </channel>
+</rss>

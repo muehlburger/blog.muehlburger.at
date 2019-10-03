@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google Maps on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/google-maps/</link>
+    <description>Recent content in Google Maps on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Feb 2009 09:59:01 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/google-maps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[video] – Google Latitude</title>
+      <link>https://blog.muehlburger.at/2009/02/video-google-latitude/</link>
+      <pubDate>Thu, 05 Feb 2009 09:59:01 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/02/video-google-latitude/</guid>
+      <description>Google released a new service called Google Latitude. This service enables you to see the location of your friends, collegues, etc. Here is a nice video explaining how Google Latitute workes:
+[youtube Q-Oq-9enE-k]
+Related articles by Zemanta {.zemanta-related-title} Google launches Latitude tool to help you track friends and family (telegraph.co.uk)  Blinkx adds couch potato mode to video site (news.cnet.com)  What is Google Latitude- a new Social networking tool and how to use it?</description>
+    </item>
+    
+    <item>
+      <title>Apple iPhone</title>
+      <link>https://blog.muehlburger.at/2007/04/apple-iphone/</link>
+      <pubDate>Wed, 11 Apr 2007 13:42:32 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/04/apple-iphone/</guid>
+      <description>Hier ein sehr interessantes Video über das neue iPhone von Apple! Viel Spaß damit! Google Maps on iPhone:
+http://www.youtube.com/watch?v=YRNugqEQYS4</description>
+    </item>
+    
+  </channel>
+</rss>

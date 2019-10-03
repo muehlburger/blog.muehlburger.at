@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/categories/android/</link>
+    <description>Recent content in Android on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Nov 2011 09:00:07 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/categories/android/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Simple Flashlight v3.1</title>
+      <link>https://blog.muehlburger.at/2011/11/simple-flashlight-v3-1/</link>
+      <pubDate>Tue, 29 Nov 2011 09:00:07 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/11/simple-flashlight-v3-1/</guid>
+      <description>Die &amp;#8220;Simple Flashlight&amp;#8221; App für Android ist nun in der Version 3.1 im Market verfügbar. Simple Flashlight ist eine einfache Taschenlampe für dein Mobiltelefon oder deinen Tablet. Es wurde die transparente Displaybeleuchtung entfernt. Zudem gibt es jetzt die Möglichkeit, durch &amp;#8220;Wischen&amp;#8221; nach rechts bzw. links die Farbe des Bildschirms auf rot oder blau zu ändern.
+Recent Changes (v3.1)  Displaybeleuchtung verbessert (Transparenz entfernt) Swipe nach rechts =&amp;gt; Bildschirm blau färben Swipe nach links =&amp;gt; Bildschirm rot färben Swipe verbessert  Recent Changes (v3.</description>
+    </item>
+    
+    <item>
+      <title>Simple Flashlight v3.0</title>
+      <link>https://blog.muehlburger.at/2011/11/simple-flashlight-v-3-0/</link>
+      <pubDate>Sat, 26 Nov 2011 21:49:24 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/11/simple-flashlight-v-3-0/</guid>
+      <description>  Die &amp;#8220;Simple Flashlight&amp;#8221; App für Android ist nun in der Version 3.0 im Market verfügbar. Simple Flashlight ist eine einfache Taschenlampe für dein Mobiltelefon oder deinen Tablet.
+Recent Changes (v3.0)   Möglichkeit die App zu starten indem man die Suchtaste gedrückt hält  Bildschirmbeleuchtung ist nun transparent  Swipe-up und Swipe-Down zum dimmen der Bildschirmhelligkeit   Downloaden und ausprobieren: https://market.android.com/details?id=at.muehlburger.android.simple.flashlight
+  </description>
+    </item>
+    
+    <item>
+      <title>[spritpreisrechner.at] – Apps entwickeln</title>
+      <link>https://blog.muehlburger.at/2011/08/spritpreisrechner-at-apps-entwickeln/</link>
+      <pubDate>Fri, 26 Aug 2011 09:17:35 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/08/spritpreisrechner-at-apps-entwickeln/</guid>
+      <description>Vor kurzem wurde in Österreich der Spritpreisrechner der E-Control offiziell der Öffentlichkeit vorgestellt. Es hat nicht lange gedauert, bis auch die ersten Android App Entwickler die Seite zu nutzen versuchten. So finden sich derzeit im Android Market schon einige Spritpreisrechner Apps.
+Ich habe mir einmal das Datenformat angesehen, welches die Website spritpreisrechner.at für die Abfrage der Spritdaten benutzt. Es ist eigentlich ganz einfach:
+Es werden per HTTP POST Request Anfragen an http://www.</description>
+    </item>
+    
+    <item>
+      <title>Videos of Google IO 2011 – Android Tracks of Day Two</title>
+      <link>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/</link>
+      <pubDate>Thu, 12 May 2011 11:20:59 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/</guid>
+      <description>In the next few videos you can seen the recorded tracks of Google&amp;#8217;s IO 2011 Developer Conference covering Android development. Sit back and enjoy! Google I/O 2011: Keynote Day 2 Android Market for Developers Designing and Implementing Android UIs for Phones and Tablets Building Android Apps for Google TV Android Development Tools Taking Android to Work Related articles {.zemanta-related-title} Google TV Gets Android Market And Android 3.1 Honeycomb (slashgear.com)  Google TV will get Android 3.</description>
+    </item>
+    
+    <item>
+      <title>Videos of Google IO 2011 – Android Tracks of Day One</title>
+      <link>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-one/</link>
+      <pubDate>Wed, 11 May 2011 17:09:56 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-one/</guid>
+      <description>&amp;nbsp; Google IO is currently taking place in San Francisco and for everybody who could not attend Google live streamed quite some sessions. In the following you can see the videos which are currently published:
+Google I/O 2011: Android Keynote Day One  [youtube OxzucwjFEEs]
+As an Android developer I am very interested in the Android sessions as you can imagine. So the following the next video first covers advaced topics of android development.</description>
+    </item>
+    
+    <item>
+      <title>Introducing Robotium – A Testing Framework for Android</title>
+      <link>https://blog.muehlburger.at/2011/04/introducing-robotium-a-testing-framework-for-android/</link>
+      <pubDate>Tue, 19 Apr 2011 12:55:52 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/04/introducing-robotium-a-testing-framework-for-android/</guid>
+      <description>Image via Wikipedia  Robotium is an open source testing framework for Android applications. It makes it easy to write complex black-box test cases. Test driven development is a methology where tests are written before the actual application.
+ Write a testcase
+ Watch it failing
+ Write the actual source code in you application which enables the test to pass
+ Watch the test passing
+ Go back to step 1</description>
+    </item>
+    
+    <item>
+      <title>Google launched In-app Billing on Android Market</title>
+      <link>https://blog.muehlburger.at/2011/03/google-launched-in-app-billing-on-android-market/</link>
+      <pubDate>Wed, 30 Mar 2011 10:07:20 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/03/google-launched-in-app-billing-on-android-market/</guid>
+      <description>[][1]Google Android In-App Billing Google yesterday launched In-app Billing on the Android Market. This feature enables developers to publish apps that use in-app Billing and users can make purchages from within the Android apps.
+Google writes:
+ Android Market In-app Billing is an Android Market service that lets you sell digital content in your applications. You can use the service to sell a wide range of content, including downloadable content such as media files or photos, and virtual content such as game levels or potions.</description>
+    </item>
+    
+    <item>
+      <title>HowTo set up the Android SDK on Ubuntu for HTC Phones</title>
+      <link>https://blog.muehlburger.at/2011/03/howto-set-up-the-android-sdk-on-ubuntu-for-htc-phones/</link>
+      <pubDate>Sat, 12 Mar 2011 18:19:18 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/03/howto-set-up-the-android-sdk-on-ubuntu-for-htc-phones/</guid>
+      <description>Image via CrunchBase  In this post I will explain how I set up the Android SDK on Ubuntu for my HTC Desire.
+I first followed the steps for Ubuntu as described in Setting up a Device for Development:
+ With an Android-powered device, you can develop and debug your Android applications just as you would on the emulator. Before you can start, there are just a few things to do:</description>
+    </item>
+    
+    <item>
+      <title>[video] – Developing Android REST Client Applications</title>
+      <link>https://blog.muehlburger.at/2010/12/video-developing-android-rest-client-applications/</link>
+      <pubDate>Mon, 13 Dec 2010 15:45:53 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/12/video-developing-android-rest-client-applications/</guid>
+      <description> Virgil Dobjanschi demonstrates in this Google I/O session patterns for developing RESTful applications on the Android platform.
+[youtube xHXn3Kg2IQE]
+(via Google I/O 2010)
+Related articles Android Market gets an update &amp;#8211; Christmas come early? (geek.com)  Developing Android Applications with Adobe AIR: Rough Cuts Version (oreilly.com)  Video: Google releases YouTube 2.1 for Android 2.2 and later devices [Watch the demo on a Nexus S] (intomobile.com)     </description>
+    </item>
+    
+    <item>
+      <title>Android 2.2 Froyo Update for HTC Desire</title>
+      <link>https://blog.muehlburger.at/2010/07/android-2-2-froyo-update-for-htc-desire/</link>
+      <pubDate>Sat, 31 Jul 2010 09:28:15 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/07/android-2-2-froyo-update-for-htc-desire/</guid>
+      <description>This weekend i will receive an update to Android 2.2 (Froyo) for my HTC Desire. I am really looking forward to this update.
+Here is the official video of Google introducing Android 2.2 (Froyo):
+[youtube yAZYSVr2Bhc]</description>
+    </item>
+    
+    <item>
+      <title>Car Manufacturers work on Android Integration for their Vehicles – [videos]</title>
+      <link>https://blog.muehlburger.at/2010/05/car-manufacturers-work-on-android-integration-for-their-vehicles-videos/</link>
+      <pubDate>Wed, 19 May 2010 06:08:49 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/05/car-manufacturers-work-on-android-integration-for-their-vehicles-videos/</guid>
+      <description>GM and OnStar are working on the integration of mobile Android application into one of their cars (Chevrolet Volt). A demonstration of a first working prototype can be seen in the video below.
+[youtube KFj3OdXxszk]
+Ford was also working on integrating mobile applications into their cars as the following two videos demonstrate:
+SYNC AppLink and the New 2011 Ford Fiesta [youtube 3xSOON3hxPg]
+Ford SYNC and Pandora Pandora is a free internet radio which currently sadly cannot be accesed in Austria.</description>
+    </item>
+    
+  </channel>
+</rss>

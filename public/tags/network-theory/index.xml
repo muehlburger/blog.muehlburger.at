@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network Theory on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/network-theory/</link>
+    <description>Recent content in Network Theory on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Nov 2009 19:18:41 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/network-theory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web Science Reading List</title>
+      <link>https://blog.muehlburger.at/2009/11/web-science-reading-list/</link>
+      <pubDate>Sun, 15 Nov 2009 19:18:41 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/web-science-reading-list/</guid>
+      <description>I have just added a new site to my this weblog called &amp;#8220;Web Science Reading List&amp;#8220;. This reading list collects a lot of interesting information on web science and similar topics. Since I do not have time to read all of the articles immediately I am going to collect them on this site and bookmark them on delicious too. If you are interested in this topic as well do not hesitate to contact me or to subscribe to my delicious bookmarks and to the feed of this weblog.</description>
+    </item>
+    
+  </channel>
+</rss>

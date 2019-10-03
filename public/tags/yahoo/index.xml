@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yahoo on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/yahoo/</link>
+    <description>Recent content in Yahoo on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 Sep 2010 13:02:24 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/yahoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[video] – How is Hadoop used at Twitter?</title>
+      <link>https://blog.muehlburger.at/2010/09/video-how-is-hadoop-used-at-twitter/</link>
+      <pubDate>Fri, 10 Sep 2010 13:02:24 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/09/video-how-is-hadoop-used-at-twitter/</guid>
+      <description>Image via CrunchBase  In the following video Dmitriy Ryaboy, a Twitter Analytics Engineer and a former Cloudera Intern, explains how Twitter uses Hadoop and Pig. Enjoy the video and have a good weekend!
+[vimeo 11110059]
+Related articles {.zemanta-related-title} How GE uses Hadoop to analyze big data (news.cnet.com)  How GE uses Hadoop to analyze big data (news.cnet.com)  Hadoop There it Was&amp;#8211;Hadoop Summit June 2010 (developer.yahoo.net)  Whooping it up for Hadoop (ycorpblog.</description>
+    </item>
+    
+    <item>
+      <title>[video] – Google Latitude</title>
+      <link>https://blog.muehlburger.at/2009/02/video-google-latitude/</link>
+      <pubDate>Thu, 05 Feb 2009 09:59:01 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/02/video-google-latitude/</guid>
+      <description>Google released a new service called Google Latitude. This service enables you to see the location of your friends, collegues, etc. Here is a nice video explaining how Google Latitute workes:
+[youtube Q-Oq-9enE-k]
+Related articles by Zemanta {.zemanta-related-title} Google launches Latitude tool to help you track friends and family (telegraph.co.uk)  Blinkx adds couch potato mode to video site (news.cnet.com)  What is Google Latitude- a new Social networking tool and how to use it?</description>
+    </item>
+    
+    <item>
+      <title>If you don’t ask, you don’t get!</title>
+      <link>https://blog.muehlburger.at/2007/03/if-you-dont-ask-you-dont-get/</link>
+      <pubDate>Sun, 25 Mar 2007 19:21:11 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/03/if-you-dont-ask-you-dont-get/</guid>
+      <description>In unserer heutigen von Informationen überfluteten Informationsgesellschaft wird ein Aspekt immmer wichtiger. Dies ist das altbewährte seit Jahrhunderten praktizierte und immer wieder so hilfreiche “FRAGEN”. Auch das Web2.0 bzw. die gesamte Internet Community hat sich dies zu nutze gemacht und Aplikationen wie askeet! oder Yahoo! Answers bzw. Google Answers entwickelt. Ein interessantes Werbevideo von ask.com kann hier bewundert werden.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

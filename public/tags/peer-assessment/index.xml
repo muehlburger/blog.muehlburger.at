@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peer-Assessment on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/peer-assessment/</link>
+    <description>Recent content in Peer-Assessment on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 May 2010 08:27:09 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/peer-assessment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[paper] – Peer Assessment System for Modern Learning Settings: Towards a Flexible E-Assessment System</title>
+      <link>https://blog.muehlburger.at/2010/05/paper-peer-assessment-system-for-modern-learning-settings-towards-a-flexible-e-assessment-system/</link>
+      <pubDate>Tue, 04 May 2010 08:27:09 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/05/paper-peer-assessment-system-for-modern-learning-settings-towards-a-flexible-e-assessment-system/</guid>
+      <description>Diese Woche habe ich mich im Zuge der Lehrveranstaltung &amp;#8220;Technology Enhanced Learning&amp;#8220;, abgehalten an der Technischen Universität Graz (TU Graz), mit dem Artikel &amp;#8220;Peer Assessment System for Modern Learning Settings: Towards a Flexible E-Assessment System&amp;#8221; [1] beschäftigt. In diesem Artikel beschreiben die Autoren PASS (Peer ASsessment System), einen Prototypen eines Peer Assessment Systems, der im Zuge der Lehrveranstaltung &amp;#8220;Information Search and Retrieval&amp;#8221; an der TU Graz zur Beurteilung der Studierendenleistungen eingesetzt wurde.</description>
+    </item>
+    
+  </channel>
+</rss>

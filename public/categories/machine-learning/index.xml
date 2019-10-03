@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/categories/machine-learning/</link>
+    <description>Recent content in Machine Learning on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 16 Nov 2011 11:04:20 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Machine Learning is awesome</title>
+      <link>https://blog.muehlburger.at/2011/11/machine-learning-is-awesome/</link>
+      <pubDate>Wed, 16 Nov 2011 11:04:20 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/11/machine-learning-is-awesome/</guid>
+      <description>Machine Learning Class Machine Learning has always been a topic that attracted my interest. Currently I attend the &amp;#8220;Machine Learning&amp;#8221; class (@ml_class) offered by Prof. Andrew Ng from Stanford University. The class is awesome. The video lectures are made of small chunks explaining every topic in detail. A lot of topics were already covered:
+ Linear regression with one variable Linear regression with multiple variable One-vs-all Classification Regularization Backpropagation Algorithm Neural Networks Practical advise for applying learning algorithms How to develop and debug learning algorithms Feature and model design, setting up experiments  Other interesting topics are following.</description>
+    </item>
+    
+    <item>
+      <title>[video] – The Filter Bubble – From Human to Algorithmic Gatekeepers</title>
+      <link>https://blog.muehlburger.at/2011/05/video-the-filter-bubble-from-human-to-algorithmic-gatekeepers/</link>
+      <pubDate>Fri, 06 May 2011 17:36:10 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/05/video-the-filter-bubble-from-human-to-algorithmic-gatekeepers/</guid>
+      <description>Related articles {.zemanta-related-title}        Web personalization and personalized recommendations are recently gaining more and more interest. Companies like Amazon, Google, Netflix, The New York Times, Facebook, Twitter, &amp;#8230; already personalize their products in different ways. If you take Google&amp;#8217;s search results as an example. Have you ever noticed that a friend of you gets different search results as you do for the same search query?</description>
+    </item>
+    
+    <item>
+      <title>[video] – How is Hadoop used at Twitter?</title>
+      <link>https://blog.muehlburger.at/2010/09/video-how-is-hadoop-used-at-twitter/</link>
+      <pubDate>Fri, 10 Sep 2010 13:02:24 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/09/video-how-is-hadoop-used-at-twitter/</guid>
+      <description>Image via CrunchBase  In the following video Dmitriy Ryaboy, a Twitter Analytics Engineer and a former Cloudera Intern, explains how Twitter uses Hadoop and Pig. Enjoy the video and have a good weekend!
+[vimeo 11110059]
+Related articles {.zemanta-related-title} How GE uses Hadoop to analyze big data (news.cnet.com)  How GE uses Hadoop to analyze big data (news.cnet.com)  Hadoop There it Was&amp;#8211;Hadoop Summit June 2010 (developer.yahoo.net)  Whooping it up for Hadoop (ycorpblog.</description>
+    </item>
+    
+    <item>
+      <title>Video by Google on K-Means Clustering</title>
+      <link>https://blog.muehlburger.at/2010/08/video-by-google-on-k-means-clustering/</link>
+      <pubDate>Wed, 04 Aug 2010 12:43:43 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/08/video-by-google-on-k-means-clustering/</guid>
+      <description> Recently I was searching for good ressources explaining the k-means clustering algorithm. I found the following video from Google Research on YouTube. It explains the K-Means clustering algorithm quite well.
+Related articles {.zemanta-related-title} The Difference between Segmentation and Clustering (zyxo.wordpress.com)  Clustergram: visualization and diagnostics for cluster analysis (R code) (r-statistics.com)  Clustering large datasets (metalev.org)    </description>
+    </item>
+    
+  </channel>
+</rss>

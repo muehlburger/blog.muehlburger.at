@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oracle Corporation on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/oracle-corporation/</link>
+    <description>Recent content in Oracle Corporation on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Feb 2010 08:20:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/oracle-corporation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JavaFX Links of the Week 1, February 2010</title>
+      <link>https://blog.muehlburger.at/2010/02/javafx-links-of-the-week-1-february-2010/</link>
+      <pubDate>Mon, 01 Feb 2010 08:20:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/02/javafx-links-of-the-week-1-february-2010/</guid>
+      <description>Today I decided to post regularly interesting JavaFX links of the past week. Thanks to Jonathan Giles for his great posts on &amp;#8220;Java Desktop Links of the Week&amp;#8221;. The JavaFX links are just taken from Jonathan&amp;#8217;s posts in order to build a little JavaFX news archieve on my own blog and to inform my subscribers on interesting JavaFX news.
+Here are the JavaFX Links of the Week 1, February 2010:</description>
+    </item>
+    
+  </channel>
+</rss>

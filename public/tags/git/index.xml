@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/git/</link>
+    <description>Recent content in Git on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 17 Nov 2016 10:25:34 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[video] – Knowledge is Power: Getting out of Trouble by Understanding Git</title>
+      <link>https://blog.muehlburger.at/2016/11/video-knowledge-is-power-getting-out-of-trouble-by-understanding-git/</link>
+      <pubDate>Thu, 17 Nov 2016 10:25:34 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2016/11/video-knowledge-is-power-getting-out-of-trouble-by-understanding-git/</guid>
+      <description>Have you ever wondered how git works internally or why git does certain things in a certain way? Recently I found an interesting talk about git&amp;rsquo;s internals on https://gotocon.com. It explains all the building blocks that you need to understand to better understand git.
+  Knowledge is Power: Getting out of Trouble by Understanding Git</description>
+    </item>
+    
+    <item>
+      <title>Video Introduction to GIT Version Control by Scott Chacon of GitHub</title>
+      <link>https://blog.muehlburger.at/2012/01/video-introduction-to-git-version-control-by-scott-chacon-of-github/</link>
+      <pubDate>Thu, 26 Jan 2012 08:17:48 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2012/01/video-introduction-to-git-version-control-by-scott-chacon-of-github/</guid>
+      <description>The following talk, given by Scott Chacon of GitHub, gives a very good introduction to the version control system GIT and its usage. This is by far the best introduction that I have found so far.
+(via Marakana)</description>
+    </item>
+    
+  </channel>
+</rss>

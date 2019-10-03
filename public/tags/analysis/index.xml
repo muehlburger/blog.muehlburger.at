@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analysis on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/analysis/</link>
+    <description>Recent content in Analysis on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Nov 2009 08:07:33 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[video] – Rethink the Data Warehouse with Hadoop and Hive</title>
+      <link>https://blog.muehlburger.at/2009/11/video-rethink-the-data-warehouse-with-hadoop-and-hive/</link>
+      <pubDate>Thu, 12 Nov 2009 08:07:33 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/video-rethink-the-data-warehouse-with-hadoop-and-hive/</guid>
+      <description>Here is a great video explaining how Facebook uses Hadoop and Hive to build Data Warehouses and analyse their huge ammount of data. Every day Facebook gets around 4TB+ of compressed data, which is amazing and also difficult to be analysed.
+[vimeo 7111203]
+(via Cloudera)
+  </description>
+    </item>
+    
+    <item>
+      <title>[university] – Mathematical Analysis T1 Exam</title>
+      <link>https://blog.muehlburger.at/2008/11/university-mathematical-analysis-t1-exam/</link>
+      <pubDate>Mon, 10 Nov 2008 20:53:30 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/university-mathematical-analysis-t1-exam/</guid>
+      <description>Tomorrow I will write the first mathematical analyis exam for this term. By now I solved all the exercise sheets and I think that I am well prepared. Need to pass this lecture this year since it is the last term of my undergraduate studies. Professor Grabner presented us this video about the mathematical analyis:
+What do you think about this video? I think it&amp;#8217;s weird. Well wish me luck for tomorrow.</description>
+    </item>
+    
+  </channel>
+</rss>

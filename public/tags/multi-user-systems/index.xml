@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multi-User Systems on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/multi-user-systems/</link>
+    <description>Recent content in Multi-User Systems on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 09 Jun 2007 15:40:42 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/multi-user-systems/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wer spielt noch Second Life?</title>
+      <link>https://blog.muehlburger.at/2007/06/wer-spielt-noch-second-life/</link>
+      <pubDate>Sat, 09 Jun 2007 15:40:42 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/06/wer-spielt-noch-second-life/</guid>
+      <description>Hallo alle miteinander!
+Ist Second Life ein Hype oder nicht!? Mich würde einmal interessieren, wer von Euch überhaupt Second Life spielt! Spielt ihr Second Life nur wegen GADI oder habt ihr auch schon vorher regelmäßig in der virtuellen Welt “gelebt”? Ich persönlich spiele überhaupt kein Second Life mehr. Den Reiz hat diese “Spiel” schon längst für mich verloren und dieser Ansich bin ich scheinbar nicht alleine, wie dieser Artikel im Standard bekräftigt.</description>
+    </item>
+    
+    <item>
+      <title>Sloog – Bookmarking Tool für Second Life</title>
+      <link>https://blog.muehlburger.at/2007/05/sloog-bookmarking-tool-fur-second-life/</link>
+      <pubDate>Sun, 06 May 2007 13:55:24 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/05/sloog-bookmarking-tool-fur-second-life/</guid>
+      <description>Sloog ist ein Bookmarking Service der Spanischen Agentur Mosi-Mosi für Second Life Bürger. Man kann beliebige Orte und Avatare speichern um sie später wiederzufinden. Dies funktioniert nicht nur im Spiel (via plugin) sondern auch im Webbrowser via www.sloog.org.Sicher ein nützliches Tool, das so manchem beim Wiederfinden von Orten und Bekanntschaften nützlich sein kann.
+  </description>
+    </item>
+    
+    <item>
+      <title>FBI ermittelt bei Second Life</title>
+      <link>https://blog.muehlburger.at/2007/04/fbi-ermittelt-bei-second-life/</link>
+      <pubDate>Sat, 07 Apr 2007 16:14:07 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/04/fbi-ermittelt-bei-second-life/</guid>
+      <description>Laut diesem Artikel von “WELT ONLINE” machen sich Glücksspieler, die in Second Life spielen möglicherweise strafbar. Das FBI prüft eine Anlage wegen illegalem Glückspiels gegen die Firma Linden Labs. Linden-Lab-Manager Ginsu Yoon antwortete darauf mit einer Einladung an die FBI ermittler. Diese wären eingeladen sich in den virtuellen Casinos umzusehen und zu prüfen, ob diese gegen US-Gesetze verstoßen. Den gesamten Artikel kann man hier nachlesen.
+  </description>
+    </item>
+    
+    <item>
+      <title>Web 2.0 und Datenbanken Teil 1: Second Life</title>
+      <link>https://blog.muehlburger.at/2007/01/web-2-0-und-datenbanken-teil-1-second-life/</link>
+      <pubDate>Wed, 17 Jan 2007 19:29:41 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/01/web-2-0-und-datenbanken-teil-1-second-life/</guid>
+      <description>Dieser interessante Artikel von Tim O’Reilly beschäftigt sich mit der Datenbank von Second Life und deren Problemen! Cory Ondrejka and Ian Wilkes von Linden Labs wurden zu diesem Thema befragt!
+  </description>
+    </item>
+    
+  </channel>
+</rss>

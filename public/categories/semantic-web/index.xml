@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Semantic Web on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/categories/semantic-web/</link>
+    <description>Recent content in Semantic Web on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Nov 2009 19:18:41 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/categories/semantic-web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web Science Reading List</title>
+      <link>https://blog.muehlburger.at/2009/11/web-science-reading-list/</link>
+      <pubDate>Sun, 15 Nov 2009 19:18:41 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/web-science-reading-list/</guid>
+      <description>I have just added a new site to my this weblog called &amp;#8220;Web Science Reading List&amp;#8220;. This reading list collects a lot of interesting information on web science and similar topics. Since I do not have time to read all of the articles immediately I am going to collect them on this site and bookmark them on delicious too. If you are interested in this topic as well do not hesitate to contact me or to subscribe to my delicious bookmarks and to the feed of this weblog.</description>
+    </item>
+    
+    <item>
+      <title>[video] – Rethink the Data Warehouse with Hadoop and Hive</title>
+      <link>https://blog.muehlburger.at/2009/11/video-rethink-the-data-warehouse-with-hadoop-and-hive/</link>
+      <pubDate>Thu, 12 Nov 2009 08:07:33 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/video-rethink-the-data-warehouse-with-hadoop-and-hive/</guid>
+      <description>Here is a great video explaining how Facebook uses Hadoop and Hive to build Data Warehouses and analyse their huge ammount of data. Every day Facebook gets around 4TB+ of compressed data, which is amazing and also difficult to be analysed.
+[vimeo 7111203]
+(via Cloudera)
+  </description>
+    </item>
+    
+    <item>
+      <title>What will the web look like in five years?</title>
+      <link>https://blog.muehlburger.at/2009/11/what-will-the-web-look-like-in-five-years/</link>
+      <pubDate>Sun, 01 Nov 2009 18:49:06 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/11/what-will-the-web-look-like-in-five-years/</guid>
+      <description>Eric Schmidt, CEO of Google was answering this question in an interesting interview at Gartner Symposium/ITxpo Orlando 2009. ReadWriteWeb has summarized the highlights of Eric&amp;#8217;s interview as follows:
+  Five years from now the internet will be dominated by Chinese-language content. Today&amp;#8217;s teenagers are the model of how the web will work in five years &amp;#8211; they jump from app to app to app seamlessly. Five years is a factor of ten in Moore&amp;#8217;s Law, meaning that computers will be capable of far more by that time than they are today.</description>
+    </item>
+    
+    <item>
+      <title>[video] – The Sixth Sense demonstrates the great abilities of User Interfaces</title>
+      <link>https://blog.muehlburger.at/2009/07/ted-talks-pattie-maes-demos-the-sixth-sense/</link>
+      <pubDate>Wed, 22 Jul 2009 09:07:27 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/07/ted-talks-pattie-maes-demos-the-sixth-sense/</guid>
+      <description>Image by Larry Johnson via Flickr     Wired.com states in an article (found by ReadWriteWeb) as follows:
+ LONG BEACH, California — Students at the MIT Media Lab have developed a wearable computing system that turns any surface into an interactive display screen. The wearer can summon virtual gadgets and internet data at will, then dispel them like smoke when they’re done.
+Pattie Maes of the lab’s Fluid Interfaces group said the research is aimed at creating a new digital</description>
+    </item>
+    
+    <item>
+      <title>Obama’s impressive use of Semantic Web Technologies</title>
+      <link>https://blog.muehlburger.at/2009/03/obamas-impressive-use-of-semantic-web-technologies/</link>
+      <pubDate>Mon, 23 Mar 2009 19:47:27 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/03/obamas-impressive-use-of-semantic-web-technologies/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}        US President Obama enforces the use of Semantic Web Technologies. David Peterson posted on SitePoint the follwing:
+ In a revolutionary move, Obama’s administration is set to utilise next generation web technologies to bring an unprecedented level of transparency to government. In this case it will shed light on how the roughly US $800 billion dollar economic stimulus will be spent.</description>
+    </item>
+    
+    <item>
+      <title>TED Talks – Tim Berners-Lee: The next Web of open, linked data</title>
+      <link>https://blog.muehlburger.at/2009/03/ted-talks-tim-berners-lee-the-next-web-of-open-linked-data/</link>
+      <pubDate>Wed, 18 Mar 2009 10:24:44 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/03/ted-talks-tim-berners-lee-the-next-web-of-open-linked-data/</guid>
+      <description>For everybody who is asking: &amp;#8220;What&amp;#8217;s the next step in internet evolution?&amp;#8221; This presentation of Tim Berners-Lee could give you the anser. Linking Data is one of the most exciting initiatives going on right now. Enjoy the presentation!
+(via TED)</description>
+    </item>
+    
+    <item>
+      <title>SEAmail – Semantic Delivery of Emails</title>
+      <link>https://blog.muehlburger.at/2009/01/seamail-semantic-delivery-of-emails/</link>
+      <pubDate>Fri, 23 Jan 2009 09:38:25 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/seamail-semantic-delivery-of-emails/</guid>
+      <description>SEAmail is a prototype e-mail system implemented by Stanford University Logic Group lead by Michael Genesereth, an associate professor of computer science at Stanford University. The interesting and innovative part of this e-mail system is the use of semantic technologies in order to determine the recipient of an e-mail message. Users don&amp;#8217;t have to bother on keeping track of e-mail addresses, they just type in the real name of the recipient letting the system searching the right recipient address.</description>
+    </item>
+    
+    <item>
+      <title>How Google’s PageRank predicts Nobel Prize winners</title>
+      <link>https://blog.muehlburger.at/2009/01/how-googles-pagerank-predicts-nobel-prize-winners/</link>
+      <pubDate>Thu, 22 Jan 2009 11:46:16 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/how-googles-pagerank-predicts-nobel-prize-winners/</guid>
+      <description>Sergej Maslow and Sidney Redner, both researchers have found out that Google&amp;#8216;s Page Rank algorithm could be used to predict future nobel price winners based on interlinked scientific papers. Scientific papers are interlinked by references, just like websites are which means they can be ranked by googles page rank algorithm. Taking into account how important a paper is, it is possible to generate a list of wighted ranked scientific papers.</description>
+    </item>
+    
+    <item>
+      <title>[video] – It is time for a different kind of university</title>
+      <link>https://blog.muehlburger.at/2009/01/video-it-is-time-for-a-different-kind-of-university/</link>
+      <pubDate>Mon, 19 Jan 2009 07:45:57 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/video-it-is-time-for-a-different-kind-of-university/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}        Kaplan University has produced two interesting and inspiring videos on how e-Learning can be performed in near future.
+ It&amp;#8217;s time to use technology to rewrite the rules of education &amp;#8230;
+ [youtube e50YBu14j3U]
+Here is another one.
+[youtube F3nHvkJSNFg]
+Besides I have found an interesting article written by George Siemens on How MIT is going to get large lectures off the blackboard.</description>
+    </item>
+    
+    <item>
+      <title>Linking Open Data – Anwendungen für Endanwender</title>
+      <link>https://blog.muehlburger.at/2009/01/linking-open-data-anwendungen-fur-endanwender/</link>
+      <pubDate>Fri, 16 Jan 2009 21:11:02 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/linking-open-data-anwendungen-fur-endanwender/</guid>
+      <description>Für die Lehrveranstaltung &amp;#8220;Einführung in das wissenschaftliche Arbeiten&amp;#8221; bei Prof. Dr. Klaus Tochtermann habe ich einen Artikel zum Thema &amp;#8220;Linking Open Data &amp;#8211; Anwendungen für Endanwender&amp;#8221; geschrieben.
+Auszug aus dem Abstract:
+ Dieser Artikel beschäftigt sich mit Anwendungen, die das Linking Open Data Konzept verwenden. Zuerst wird auf das Open Data Movement eingegangen und anschließend auf das W3C SWEO Linking Open Data Community Project. Es sind zahlreiche Anwendungen entstanden, die Linked Open Data verwenden und daraus einen Mehrwert für Benutzer erzielen.</description>
+    </item>
+    
+    <item>
+      <title>10 Interesting Semantic Apps</title>
+      <link>https://blog.muehlburger.at/2009/01/10-interesting-semantic-apps/</link>
+      <pubDate>Sun, 11 Jan 2009 19:23:56 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/10-interesting-semantic-apps/</guid>
+      <description>One of the highlights of October&amp;#8217;s Web 2.0 Summit in San Francisco was the emergence of &amp;#8216;Semantic Apps&amp;#8217; as a force. Note that we&amp;#8217;re not necessarily talking about the Semantic Web, which is the Tim Berners-Lee W3C led initiative that touts technologies like RDF, OWL and other standards for metadata. Semantic Apps may use those technologies, but not necessarily [ReadWriteWeb 2007].  ReadWriteWeb has published a great list of 10 interesting semantic apps at the end of 2007.</description>
+    </item>
+    
+    <item>
+      <title>SMOB – A Prototype for Semantic Microblogging</title>
+      <link>https://blog.muehlburger.at/2008/11/smob-a-prototype-for-semantic-microblogging/</link>
+      <pubDate>Mon, 17 Nov 2008 08:28:52 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/smob-a-prototype-for-semantic-microblogging/</guid>
+      <description>SMOB is a prototype developed to enable semantic microblogging. It can be seen as Twitter enriched with semantic data.
+[slideshare id=472659&amp;amp;doc=sfsw-1213739228503754-8&amp;amp;w=425]
+John Breslin writes in his blog post:
+ The prototype uses FOAF and SIOC to model microbloggers, their properties, account and service information, and the microblog updates that users create. A multitude of publishing services can ping one or a set of aggregating servers as selected by each user, and it is important to note that users retain control of their own data through self hosting.</description>
+    </item>
+    
+  </channel>
+</rss>

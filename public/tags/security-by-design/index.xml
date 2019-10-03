@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security by Design on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/security-by-design/</link>
+    <description>Recent content in Security by Design on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/security-by-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Security by Design</title>
+      <link>https://blog.muehlburger.at/2017/02/security-by-design/</link>
+      <pubDate>Mon, 06 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2017/02/security-by-design/</guid>
+      <description>This interesting talk by Eoin Woods focusses on Security by Design. Eoin is the CTO of Endava.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

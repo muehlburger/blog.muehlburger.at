@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>snow on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/snow/</link>
+    <description>Recent content in snow on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 31 Dec 2009 10:48:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/snow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Great View sitting on my Balcony</title>
+      <link>https://blog.muehlburger.at/2009/12/great-view-sitting-on-my-balcony/</link>
+      <pubDate>Thu, 31 Dec 2009 10:48:31 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/12/great-view-sitting-on-my-balcony/</guid>
+      <description>This shot made two days ago while I was enjoying the sun on my balcony at home.
+View from my Balcony in Eastern Tyrol, Austria</description>
+    </item>
+    
+    <item>
+      <title>musicmesh – Cooles Mediameshup</title>
+      <link>https://blog.muehlburger.at/2007/05/musicmesh-cooles-mediameshup/</link>
+      <pubDate>Wed, 09 May 2007 15:15:16 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/05/musicmesh-cooles-mediameshup/</guid>
+      <description>Für jeden der schon immer mal das Video zu einem Audiotrack sehen wollte sollte sich einmal www.musicmesh.net ansehen. Dort kann man nach beliebigen Musikern suchen und sich danach ihre Songs anhören. Das coole dabei, es wird automatisch ein Musikvideo auf youtube gesucht und abgespielt! Sehr coole Sache!
+Metadaten über Musiker, Tracks, Alben, etc… werden per Audioscrobbler Web Services API von www.last.fm bezogen, passende Videos werden wie gesagt über die API von YouTube gesucht und eingebunden!</description>
+    </item>
+    
+  </channel>
+</rss>

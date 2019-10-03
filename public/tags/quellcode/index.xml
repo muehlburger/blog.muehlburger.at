@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quellcode on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/quellcode/</link>
+    <description>Recent content in Quellcode on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Mar 2013 10:27:24 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/quellcode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What Most Schools Don’t Teach – Programming</title>
+      <link>https://blog.muehlburger.at/2013/03/what-most-schools-dont-teach-programming/</link>
+      <pubDate>Mon, 04 Mar 2013 10:27:24 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2013/03/what-most-schools-dont-teach-programming/</guid>
+      <description>&amp;#8220;The programmers of tomorrow are the wizards of the future. You are going to look like you have magic power, compared to everybody else.&amp;#8221; Diese Aussage beschreibt den Wert, den &amp;#8220;Coding Skills&amp;#8221; heute und in Zukunft haben. Die Fähigkeit Software nach eigenen Vorstellungen zu entwickeln stellt für jeden Bürger eine wichtige Möglichkeit dar das Grundrecht der Freiheit auszuleben.
+Das folgende Video beschreibt was &amp;#8220;die meisten Schulen (noch) nicht lehren&amp;#8221; nämlich Software zu entwickeln und Quellcode lesen zu können.</description>
+    </item>
+    
+  </channel>
+</rss>

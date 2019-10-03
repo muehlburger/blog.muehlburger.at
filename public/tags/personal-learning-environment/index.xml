@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Learning Environment on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/personal-learning-environment/</link>
+    <description>Recent content in Personal Learning Environment on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 13 Jun 2009 09:32:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/personal-learning-environment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Wave API combined with the Wookie engine and integrated in a Moodle platform</title>
+      <link>https://blog.muehlburger.at/2009/06/google-wave-api-combined-with-the-wookie-engine-and-integrated-in-a-moodle-platform/</link>
+      <pubDate>Sat, 13 Jun 2009 09:32:31 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/06/google-wave-api-combined-with-the-wookie-engine-and-integrated-in-a-moodle-platform/</guid>
+      <description>Everybody who is interesteded in Widget Mash-ups forPersonal Learning Environments (PLEs) should take a look at this article posted on Scott Wilson&amp;#8217;s Workblog. He demonstrates a very nice usage of the Google Wave API in combination with the Wookie engine integrated into a Moodle platform. Here is a part of his blogpost:   I&amp;#8217;ve created a Moodle course that uses some widgets, all of which make use of the Wave Gadget API.</description>
+    </item>
+    
+    <item>
+      <title>[paper accepted] – Will Personal Learning Environments become ubiquitous through the use of Widgets?</title>
+      <link>https://blog.muehlburger.at/2009/05/paper-accepted-will-personal-learning-environments-become-ubiquitous-through-the-use-of-widgets/</link>
+      <pubDate>Mon, 25 May 2009 18:37:11 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/05/paper-accepted-will-personal-learning-environments-become-ubiquitous-through-the-use-of-widgets/</guid>
+      <description>Few time ago we got the review on our paper submitted to the 9th International Conference on Knowledge Management and Knowledge Technologies (I-KNOW &amp;#8217;09). The paper is titled &amp;#8220;Will Personal Learning Environments become ubiquitous through the use of Widgets?&amp;#8221; and was accepted as follows:
+ We are pleased to inform you that your paper
+Title: Will Personal Learning Environments become ubiquitous through the use of Widgets?
+has been accepted for publication as short paper (max.</description>
+    </item>
+    
+  </channel>
+</rss>

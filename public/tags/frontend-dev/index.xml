@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>frontend-dev on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/frontend-dev/</link>
+    <description>Recent content in frontend-dev on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 26 Dec 2018 16:32:23 +0100</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/frontend-dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Micro Frotendends</title>
+      <link>https://blog.muehlburger.at/2018/12/micro-frontends/</link>
+      <pubDate>Wed, 26 Dec 2018 16:32:23 +0100</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2018/12/micro-frontends/</guid>
+      <description>This is an interesting talk from Michael Geers on Micro Frontends. He gave the talk at Web Rebells 2018.
+   Michael Geers: Micro Frontends - Think Smaller, Avoid the Monolith, ❤️ the Backend | Web Rebels 2018</description>
+    </item>
+    
+  </channel>
+</rss>

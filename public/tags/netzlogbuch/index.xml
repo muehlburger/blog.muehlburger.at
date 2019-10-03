@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>netzlogbuch on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/netzlogbuch/</link>
+    <description>Recent content in netzlogbuch on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Nov 2008 19:40:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/netzlogbuch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google’s SEO Starter Guide – How to improve your website</title>
+      <link>https://blog.muehlburger.at/2008/11/googles-seo-starter-guide-how-to-improve-your-site/</link>
+      <pubDate>Thu, 13 Nov 2008 19:40:45 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2008/11/googles-seo-starter-guide-how-to-improve-your-site/</guid>
+      <description>Brandon Falls from Google Search Quality Team, wrote on the Official Google Webmaster Central Blog the following lines:
+ Webmasters often ask us at conferences or in the Webmaster Help Group, &amp;#8220;What are some simple ways that I can improve my website&amp;#8217;s performance in Google?&amp;#8221; There are lots of possible answers to this question, and a wealth of search engine optimization information on the web, so much that it can be intimidating for newer webmasters or those unfamiliar with the topic.</description>
+    </item>
+    
+  </channel>
+</rss>

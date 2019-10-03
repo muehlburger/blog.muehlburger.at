@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android Market on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/android-market/</link>
+    <description>Recent content in Android Market on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 26 Nov 2011 21:49:24 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/android-market/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Simple Flashlight v3.0</title>
+      <link>https://blog.muehlburger.at/2011/11/simple-flashlight-v-3-0/</link>
+      <pubDate>Sat, 26 Nov 2011 21:49:24 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/11/simple-flashlight-v-3-0/</guid>
+      <description>  Die &amp;#8220;Simple Flashlight&amp;#8221; App für Android ist nun in der Version 3.0 im Market verfügbar. Simple Flashlight ist eine einfache Taschenlampe für dein Mobiltelefon oder deinen Tablet.
+Recent Changes (v3.0)   Möglichkeit die App zu starten indem man die Suchtaste gedrückt hält  Bildschirmbeleuchtung ist nun transparent  Swipe-up und Swipe-Down zum dimmen der Bildschirmhelligkeit   Downloaden und ausprobieren: https://market.android.com/details?id=at.muehlburger.android.simple.flashlight
+  </description>
+    </item>
+    
+    <item>
+      <title>[spritpreisrechner.at] – Apps entwickeln</title>
+      <link>https://blog.muehlburger.at/2011/08/spritpreisrechner-at-apps-entwickeln/</link>
+      <pubDate>Fri, 26 Aug 2011 09:17:35 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/08/spritpreisrechner-at-apps-entwickeln/</guid>
+      <description>Vor kurzem wurde in Österreich der Spritpreisrechner der E-Control offiziell der Öffentlichkeit vorgestellt. Es hat nicht lange gedauert, bis auch die ersten Android App Entwickler die Seite zu nutzen versuchten. So finden sich derzeit im Android Market schon einige Spritpreisrechner Apps.
+Ich habe mir einmal das Datenformat angesehen, welches die Website spritpreisrechner.at für die Abfrage der Spritdaten benutzt. Es ist eigentlich ganz einfach:
+Es werden per HTTP POST Request Anfragen an http://www.</description>
+    </item>
+    
+    <item>
+      <title>Videos of Google IO 2011 – Android Tracks of Day Two</title>
+      <link>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/</link>
+      <pubDate>Thu, 12 May 2011 11:20:59 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/</guid>
+      <description>In the next few videos you can seen the recorded tracks of Google&amp;#8217;s IO 2011 Developer Conference covering Android development. Sit back and enjoy! Google I/O 2011: Keynote Day 2 Android Market for Developers Designing and Implementing Android UIs for Phones and Tablets Building Android Apps for Google TV Android Development Tools Taking Android to Work Related articles {.zemanta-related-title} Google TV Gets Android Market And Android 3.1 Honeycomb (slashgear.com)  Google TV will get Android 3.</description>
+    </item>
+    
+    <item>
+      <title>Google launched In-app Billing on Android Market</title>
+      <link>https://blog.muehlburger.at/2011/03/google-launched-in-app-billing-on-android-market/</link>
+      <pubDate>Wed, 30 Mar 2011 10:07:20 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/03/google-launched-in-app-billing-on-android-market/</guid>
+      <description>[][1]Google Android In-App Billing Google yesterday launched In-app Billing on the Android Market. This feature enables developers to publish apps that use in-app Billing and users can make purchages from within the Android apps.
+Google writes:
+ Android Market In-app Billing is an Android Market service that lets you sell digital content in your applications. You can use the service to sell a wide range of content, including downloadable content such as media files or photos, and virtual content such as game levels or potions.</description>
+    </item>
+    
+  </channel>
+</rss>

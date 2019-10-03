@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>APIs on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/apis/</link>
+    <description>Recent content in APIs on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 Apr 2015 13:10:16 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/apis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to choose a versioning scheme for your software</title>
+      <link>https://blog.muehlburger.at/2015/04/how-to-choose-a-versioning-scheme-for-your-software/</link>
+      <pubDate>Thu, 16 Apr 2015 13:10:16 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2015/04/how-to-choose-a-versioning-scheme-for-your-software/</guid>
+      <description>As a developer, there comes the time were you think about how to version your software. One approach is &amp;#8220;Semantic Versioning&amp;#8221; which leverages the level of change on your public API. Depending on what you changed in your code, Semantic Versioning proposes different version numbers:
+ Given a version number MAJOR.MINOR.PATCH, increment the:
+ MAJOR version when you make incompatible API changes, MINOR version when you add functionality in a backwards-compatible manner, and PATCH version when you make backwards-compatible bug fixes.</description>
+    </item>
+    
+  </channel>
+</rss>

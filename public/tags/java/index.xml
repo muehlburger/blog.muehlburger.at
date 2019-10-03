@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/java/</link>
+    <description>Recent content in Java on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 17 Jan 2017 16:17:01 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apache Kafka Streams</title>
+      <link>https://blog.muehlburger.at/2017/01/apache-kafka-streams/</link>
+      <pubDate>Tue, 17 Jan 2017 16:17:01 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2017/01/apache-kafka-streams/</guid>
+      <description>I&amp;#8217;m interested in Apache Kafka Streams and would like share some information on this topic with you. There is a great talk about Stream Processing from Neha Narkhede who co-authored Apache Kafka and is currently a co-founder and Head of Engineering of Confluent.
+Great talk about stream processing! https://t.co/Yn9eHLNZag #kafka #kafkastreams  &amp;mdash; Manuel Stößel (@Manuel_Stoessel) October 15, 2016  There is also a good article on Apache Kafka Streams with lots of background information.</description>
+    </item>
+    
+    <item>
+      <title>[video] – Docker for Java Developers</title>
+      <link>https://blog.muehlburger.at/2016/12/video-docker-for-java-developers/</link>
+      <pubDate>Mon, 05 Dec 2016 21:41:17 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2016/12/video-docker-for-java-developers/</guid>
+      <description>Here is a good introductory video on Docker for Java Developers:</description>
+    </item>
+    
+    <item>
+      <title>Javapocalypse</title>
+      <link>https://blog.muehlburger.at/2013/06/javapocalypse/</link>
+      <pubDate>Fri, 14 Jun 2013 17:00:47 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2013/06/javapocalypse/</guid>
+      <description>I need to share the following video on &amp;#8220;Javapocalypse&amp;#8221; from JavaZone. Pushing the &amp;#8220;Undo Java&amp;#8221; button will have huge impact. Have a look at these consequences. The following trailer highlights the importance of Java.
+JavaZone 2013 takes places in Oslo at the 10th and 11th of September 2013.
+ JavaZone is an important meeting place for software developers in Scandinavia, and is the biggest community driven conference of its kind. JavaZone has been described as a high quality, independent conference – a leading forum for knowledge exchange for IT- professionals.</description>
+    </item>
+    
+    <item>
+      <title>Introducing Robotium – A Testing Framework for Android</title>
+      <link>https://blog.muehlburger.at/2011/04/introducing-robotium-a-testing-framework-for-android/</link>
+      <pubDate>Tue, 19 Apr 2011 12:55:52 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/04/introducing-robotium-a-testing-framework-for-android/</guid>
+      <description>Image via Wikipedia  Robotium is an open source testing framework for Android applications. It makes it easy to write complex black-box test cases. Test driven development is a methology where tests are written before the actual application.
+ Write a testcase
+ Watch it failing
+ Write the actual source code in you application which enables the test to pass
+ Watch the test passing
+ Go back to step 1</description>
+    </item>
+    
+    <item>
+      <title>How to install (Oracle) Sun Java SDK 1.6.x (Java 6) on Ubuntu</title>
+      <link>https://blog.muehlburger.at/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</link>
+      <pubDate>Mon, 10 Jan 2011 20:45:32 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</guid>
+      <description>Dieser Beitrag beschreibt die Installation des Sun Java SDK 1.6.x on Ubuntu (Maverick). The English explanation on how to install Sun Java SDK 1.6.x can be found here.
+Canonical-Partner Repositories aktivieren: Dies geschieht unter &amp;#8220;System&amp;#8221; -&amp;gt; &amp;#8220;Systemverwaltung&amp;#8221; -&amp;gt; &amp;#8220;Synaptic Paketverwalung&amp;#8221;. In der Paketverwaltung finden sich die Paketquellen unter dem Menüpunkt &amp;#8220;Einstellungen&amp;#8221;. In den Einstellungen wechselt man auf den Reiter &amp;#8220;Andere Software&amp;#8221; und aktiviert dort &amp;#8220;Canonical-Partner&amp;#8221; bzw. &amp;#8220;Canonical-Partner (Quelltext)&amp;#8221;. Nach dem Klick auf &amp;#8220;Schließen&amp;#8221; werden die Paketlisten neu geladen.</description>
+    </item>
+    
+    <item>
+      <title>[video] – Developing Android REST Client Applications</title>
+      <link>https://blog.muehlburger.at/2010/12/video-developing-android-rest-client-applications/</link>
+      <pubDate>Mon, 13 Dec 2010 15:45:53 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/12/video-developing-android-rest-client-applications/</guid>
+      <description> Virgil Dobjanschi demonstrates in this Google I/O session patterns for developing RESTful applications on the Android platform.
+[youtube xHXn3Kg2IQE]
+(via Google I/O 2010)
+Related articles Android Market gets an update &amp;#8211; Christmas come early? (geek.com)  Developing Android Applications with Adobe AIR: Rough Cuts Version (oreilly.com)  Video: Google releases YouTube 2.1 for Android 2.2 and later devices [Watch the demo on a Nexus S] (intomobile.com)     </description>
+    </item>
+    
+    <item>
+      <title>JavaFX Links of the Week 1, February 2010</title>
+      <link>https://blog.muehlburger.at/2010/02/javafx-links-of-the-week-1-february-2010/</link>
+      <pubDate>Mon, 01 Feb 2010 08:20:00 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/02/javafx-links-of-the-week-1-february-2010/</guid>
+      <description>Today I decided to post regularly interesting JavaFX links of the past week. Thanks to Jonathan Giles for his great posts on &amp;#8220;Java Desktop Links of the Week&amp;#8221;. The JavaFX links are just taken from Jonathan&amp;#8217;s posts in order to build a little JavaFX news archieve on my own blog and to inform my subscribers on interesting JavaFX news.
+Here are the JavaFX Links of the Week 1, February 2010:</description>
+    </item>
+    
+    <item>
+      <title>[Tutorial] – Java Online Programming Course</title>
+      <link>https://blog.muehlburger.at/2009/10/tutorial-java-online-programming-course/</link>
+      <pubDate>Thu, 08 Oct 2009 19:35:10 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/10/tutorial-java-online-programming-course/</guid>
+      <description>For everybody who likes to learn the Java programming language or who is forced to learn Java I have found a great online tutorial teaching you the essence of Java programming. Specially students should pay attention to this course as it gives a really good introduction to the Java programming language.
+The online course can be found here.
+Enjoy learning Java and afterwards take a look at JavaFX.</description>
+    </item>
+    
+  </channel>
+</rss>

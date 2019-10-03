@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Puzzle on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/puzzle/</link>
+    <description>Recent content in Puzzle on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Feb 2010 21:41:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/puzzle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JavaFX Links of the Week 2, February 2010</title>
+      <link>https://blog.muehlburger.at/2010/02/javafx-links-of-the-week-2-february-2010/</link>
+      <pubDate>Mon, 08 Feb 2010 21:41:35 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/02/javafx-links-of-the-week-2-february-2010/</guid>
+      <description>Another week has passed and as I promised last week, I am going to post interesting JavaFX Links here again. I specially want to thank Jonathan Giles, Richard Bair and Jasper Potts for their work in collecting the JavaFX Links of the week. Yet I cannot contribute much to the links of the week but hopefully in the future this will change.
+Here are the JavaFX Links of the Week 2, February 2010:</description>
+    </item>
+    
+  </channel>
+</rss>

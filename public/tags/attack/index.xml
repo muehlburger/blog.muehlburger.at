@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>attack on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/attack/</link>
+    <description>Recent content in attack on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Mar 2011 18:41:36 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/attack/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Up and runnig again</title>
+      <link>https://blog.muehlburger.at/2011/03/up-and-runnig-again/</link>
+      <pubDate>Thu, 03 Mar 2011 18:41:36 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/03/up-and-runnig-again/</guid>
+      <description>Due to some dubious actions my blog was taken offline for a short time. Luckily now we are up and running again. 🙂</description>
+    </item>
+    
+  </channel>
+</rss>

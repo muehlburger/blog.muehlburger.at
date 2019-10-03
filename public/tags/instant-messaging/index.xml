@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Instant messaging on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/instant-messaging/</link>
+    <description>Recent content in Instant messaging on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 May 2009 09:49:40 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/instant-messaging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Wave – Google’s next killer application?</title>
+      <link>https://blog.muehlburger.at/2009/05/google-wave-googles-next-killer-application/</link>
+      <pubDate>Sat, 30 May 2009 09:49:40 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/05/google-wave-googles-next-killer-application/</guid>
+      <description>Image by liako via Flickr     Google&amp;#8217;s newest prodcut which was announced at the Google I/O this week is called Google Wave. They build an incredible tool for collaborative work and integrated services like email, instant messenging, collaborative editing, an incredible spell checker which checks the context of words in order to correct spelling. Other really greate features are gadgets like:
+ linky: adds links automatically while you type searchy: lets you search the internet through the application and integrate the searched contend into a wave buggy: through buggy you are able to interact with bug tracking software and easily administer bugs  This are just some kind of great tools available in Google Wave.</description>
+    </item>
+    
+  </channel>
+</rss>

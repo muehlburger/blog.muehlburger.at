@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Massachusetts Institute of Technology on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/massachusetts-institute-of-technology/</link>
+    <description>Recent content in Massachusetts Institute of Technology on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Jul 2009 09:07:27 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/massachusetts-institute-of-technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[video] – The Sixth Sense demonstrates the great abilities of User Interfaces</title>
+      <link>https://blog.muehlburger.at/2009/07/ted-talks-pattie-maes-demos-the-sixth-sense/</link>
+      <pubDate>Wed, 22 Jul 2009 09:07:27 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/07/ted-talks-pattie-maes-demos-the-sixth-sense/</guid>
+      <description>Image by Larry Johnson via Flickr     Wired.com states in an article (found by ReadWriteWeb) as follows:
+ LONG BEACH, California — Students at the MIT Media Lab have developed a wearable computing system that turns any surface into an interactive display screen. The wearer can summon virtual gadgets and internet data at will, then dispel them like smoke when they’re done.
+Pattie Maes of the lab’s Fluid Interfaces group said the research is aimed at creating a new digital</description>
+    </item>
+    
+    <item>
+      <title>SEAmail – Semantic Delivery of Emails</title>
+      <link>https://blog.muehlburger.at/2009/01/seamail-semantic-delivery-of-emails/</link>
+      <pubDate>Fri, 23 Jan 2009 09:38:25 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/seamail-semantic-delivery-of-emails/</guid>
+      <description>SEAmail is a prototype e-mail system implemented by Stanford University Logic Group lead by Michael Genesereth, an associate professor of computer science at Stanford University. The interesting and innovative part of this e-mail system is the use of semantic technologies in order to determine the recipient of an e-mail message. Users don&amp;#8217;t have to bother on keeping track of e-mail addresses, they just type in the real name of the recipient letting the system searching the right recipient address.</description>
+    </item>
+    
+    <item>
+      <title>Linking Open Data – Anwendungen für Endanwender</title>
+      <link>https://blog.muehlburger.at/2009/01/linking-open-data-anwendungen-fur-endanwender/</link>
+      <pubDate>Fri, 16 Jan 2009 21:11:02 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/linking-open-data-anwendungen-fur-endanwender/</guid>
+      <description>Für die Lehrveranstaltung &amp;#8220;Einführung in das wissenschaftliche Arbeiten&amp;#8221; bei Prof. Dr. Klaus Tochtermann habe ich einen Artikel zum Thema &amp;#8220;Linking Open Data &amp;#8211; Anwendungen für Endanwender&amp;#8221; geschrieben.
+Auszug aus dem Abstract:
+ Dieser Artikel beschäftigt sich mit Anwendungen, die das Linking Open Data Konzept verwenden. Zuerst wird auf das Open Data Movement eingegangen und anschließend auf das W3C SWEO Linking Open Data Community Project. Es sind zahlreiche Anwendungen entstanden, die Linked Open Data verwenden und daraus einen Mehrwert für Benutzer erzielen.</description>
+    </item>
+    
+  </channel>
+</rss>

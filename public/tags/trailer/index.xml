@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trailer on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/trailer/</link>
+    <description>Recent content in Trailer on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 14 Jun 2013 17:00:47 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/trailer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Javapocalypse</title>
+      <link>https://blog.muehlburger.at/2013/06/javapocalypse/</link>
+      <pubDate>Fri, 14 Jun 2013 17:00:47 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2013/06/javapocalypse/</guid>
+      <description>I need to share the following video on &amp;#8220;Javapocalypse&amp;#8221; from JavaZone. Pushing the &amp;#8220;Undo Java&amp;#8221; button will have huge impact. Have a look at these consequences. The following trailer highlights the importance of Java.
+JavaZone 2013 takes places in Oslo at the 10th and 11th of September 2013.
+ JavaZone is an important meeting place for software developers in Scandinavia, and is the biggest community driven conference of its kind. JavaZone has been described as a high quality, independent conference – a leading forum for knowledge exchange for IT- professionals.</description>
+    </item>
+    
+  </channel>
+</rss>

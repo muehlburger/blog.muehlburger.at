@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>On the Web on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/on-the-web/</link>
+    <description>Recent content in On the Web on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 May 2009 09:28:12 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/on-the-web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[video] – Trouble with the Twittersphere</title>
+      <link>https://blog.muehlburger.at/2009/05/video-trouble-with-the-twittersphere/</link>
+      <pubDate>Thu, 07 May 2009 09:28:12 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/05/video-trouble-with-the-twittersphere/</guid>
+      <description>            Related articles by Zemanta {.zemanta-related-title}        Just found a nice video about twitter and it&amp;#8217;s users called the Twittersphere.
+[youtube PN2HAroA12w]
+(via blogdrauf.de)
+Related articles by Zemanta {.zemanta-related-title} Immorality and Twitter  (scientificamerican.com)  Getting sucked into Twittersphere&amp;#8230; (localglobe.blogspot.com)     </description>
+    </item>
+    
+    <item>
+      <title>SuggestRSS – Great Service to suggest interesting feeds</title>
+      <link>https://blog.muehlburger.at/2009/01/suggestrss-great-service-to-suggest-interesting-feeds/</link>
+      <pubDate>Thu, 22 Jan 2009 12:17:23 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/01/suggestrss-great-service-to-suggest-interesting-feeds/</guid>
+      <description>     SuggestRSS is a service suggesting feeds based on your actual feeds. Just upload a OPML export of your current subscribed feeds and you are going to get nice new suggestions. I tried it out and think it is very useful.
+(via ReadWriteWeb)
+Related articles by Zemanta {.zemanta-related-title} SuggestRSS  Goodbye, share.opml.org  SuggestRSS: Super Simple New Feed Recommendations  Feed Your Monster  One Way to Speed Up Your Feed Reading  Track Hot Topics On Niche Blogs With FeedVis  How to: Build a Social Media Cheat Sheet for Any Topic     </description>
+    </item>
+    
+  </channel>
+</rss>

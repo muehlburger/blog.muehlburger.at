@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cryptography on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/cryptography/</link>
+    <description>Recent content in Cryptography on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 May 2010 06:11:17 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/cryptography/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Public Key Infrastructure (PKI) – Secure Key Exchange – [video]</title>
+      <link>https://blog.muehlburger.at/2010/05/problem-of-public-key-infrastructure-pki-secure-key-exchange-video/</link>
+      <pubDate>Mon, 10 May 2010 06:11:17 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2010/05/problem-of-public-key-infrastructure-pki-secure-key-exchange-video/</guid>
+      <description>In public key infrastructures a common problem is that both communication partners have to have the same key in order communicate in a secure way (to encrypt and decrypt messages properly). The question is how is it practically possible to share a secret key over an untrusted channel like the internet for example. The solution is the use of asynchronous methods (public and private keys) in order to exchange the secret key in a secure way.</description>
+    </item>
+    
+  </channel>
+</rss>

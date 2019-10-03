@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Law on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/law/</link>
+    <description>Recent content in Law on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 09 Jan 2011 13:19:33 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/law/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dilbert’s Salary Law</title>
+      <link>https://blog.muehlburger.at/2011/01/dilberts-salary-law/</link>
+      <pubDate>Sun, 09 Jan 2011 13:19:33 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2011/01/dilberts-salary-law/</guid>
+      <description>Dilbert&amp;#8217;s Salary Theorem states that: &amp;#8220;Engineers and scientists will never make as much money as business executives.&amp;#8220;
+Now we have an mathematical proof that explains why this is true:
+ Postulate 1: Knowledge is Power Postulate 2: Time is Money  As every engineer knows,
+ Power = Work/Time
+ Since Knowledge = Power we have:
+ Knowledge = Work/Time.
+ Since Time = Money we have:
+ Knowledge = Work/Money.</description>
+    </item>
+    
+  </channel>
+</rss>

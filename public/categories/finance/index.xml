@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finance on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/categories/finance/</link>
+    <description>Recent content in Finance on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Feb 2017 09:00:36 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/categories/finance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blockchain 101</title>
+      <link>https://blog.muehlburger.at/2017/02/blockchain-101/</link>
+      <pubDate>Tue, 07 Feb 2017 09:00:36 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2017/02/blockchain-101/</guid>
+      <description>Have you ever wondered how the Blockchain works? I found an interesting visual illustration about Blockchains by Anders Brownworth. Anders is a coder at Circle, a FinTech company based in the US.
+  (via anders.com and anders.com/blockchain)</description>
+    </item>
+    
+    <item>
+      <title>Free Online Courses on Finance and Related Topics</title>
+      <link>https://blog.muehlburger.at/2013/07/free-online-courses-on-finance-and-related-topics/</link>
+      <pubDate>Thu, 25 Jul 2013 13:56:24 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2013/07/free-online-courses-on-finance-and-related-topics/</guid>
+      <description>Are you interested in finance and financial topics? Here are some links on interesting free online courses on finance and financial topics:
+Open Yale Courses Yale provides two courses (ECON 252, ECON 251):
+ ECON 252: Financial Markets (2008) ECON 252: Financial Markets (2011) ECON 251: Financial Theory, (Recommended Books)  Stanford Courses Stanford University provides a course on
+ Finance.  Coursera.org Courses On Coursera there are lots of online courses.</description>
+    </item>
+    
+  </channel>
+</rss>

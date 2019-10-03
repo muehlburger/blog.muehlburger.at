@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Link on DI Herbert Mühlburger</title>
+    <link>https://blog.muehlburger.at/tags/link/</link>
+    <description>Recent content in Link on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 May 2009 08:36:48 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.muehlburger.at/tags/link/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Designing for Change: Mash-Up Personal Learning Environments</title>
+      <link>https://blog.muehlburger.at/2009/05/designing-for-change-mash-up-personal-learning-environments/</link>
+      <pubDate>Tue, 19 May 2009 08:36:48 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2009/05/designing-for-change-mash-up-personal-learning-environments/</guid>
+      <description>Related articles by Zemanta {.zemanta-related-title}        In order to describe what this article is about I cite Fridolin Wild, Felix Mödritscher and Stein E. Sigurdarson:
+ In this article we first clarify key concepts and assumptions for personalised learning environments. Afterwards, we summarise our critique on the contemporary models for personalised adaptive learning.</description>
+    </item>
+    
+    <item>
+      <title>walk2Web: Linkstrukturen graphisch darstellen</title>
+      <link>https://blog.muehlburger.at/2007/05/walk2web-linkstrukturen-graphisch-darstellen/</link>
+      <pubDate>Sun, 06 May 2007 13:44:41 +0000</pubDate>
+      
+      <guid>https://blog.muehlburger.at/2007/05/walk2web-linkstrukturen-graphisch-darstellen/</guid>
+      <description>Linkstrukturen graphisch darstellen
+Mit Web2Walk kann man sich visuell darstellen lassen, wie Webseiten miteinander verbunden sind. Man gibt einfach eine beliebige Startadresse ein und erhält die Verlinkung dieser Seite als Graph. Jede weitere Seite in diesem Graph lässt sich bewerten, bookmarken und kommentieen.
+Link: walk2web.com
+  </description>
+    </item>
+    
+  </channel>
+</rss>
