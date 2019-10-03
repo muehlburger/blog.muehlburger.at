@@ -41,10 +41,10 @@ googleAnalytics = "UA-131790127-1"
     maxSeeAlsoItems = 5
 
     # Custom CSS
-    custom_css = []
+    custom_css = ["css/cookieconsent.min.css"]
 
     # Custom JS
-    custom_js = []
+    custom_js = ["js/cookieconsent.min.js", "js/init-cookieconsent.js"]
 
 [taxonomies]
   category = "categories"
