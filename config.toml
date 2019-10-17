@@ -1,4 +1,4 @@
-baseurl = "https://blog.muehlburger.at"
+baseurl = "/"
 title = "DI Herbert Mühlburger"
 
 theme = "hugo-coder"
