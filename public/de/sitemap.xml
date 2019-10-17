@@ -3,216 +3,216 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.muehlburger.at/de/categories/</loc>
+    <loc>/de/categories/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/categories/"
+                href="/de/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/de/</loc>
+    <loc>/de/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/"
+                href="/de/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/de/2019/01/istio/</loc>
+    <loc>/de/2019/01/istio/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/de/tags/istio/</loc>
-    <lastmod>2019-01-25T21:10:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.muehlburger.at/tags/istio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://blog.muehlburger.at/de/tags/istio/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://blog.muehlburger.at/de/categories/istio/</loc>
+    <loc>/de/tags/istio/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/categories/istio/"
+                href="/tags/istio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/categories/istio/"
+                href="/de/tags/istio/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/de/categories/kubernetes/</loc>
+    <loc>/de/categories/istio/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/categories/kubernetes/"
+                href="/categories/istio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/categories/kubernetes/"
+                href="/de/categories/istio/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/de/tags/kubernetes/</loc>
+    <loc>/de/categories/kubernetes/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/tags/kubernetes/"
+                href="/categories/kubernetes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/tags/kubernetes/"
+                href="/de/categories/kubernetes/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/de/tags/learning/</loc>
+    <loc>/de/tags/kubernetes/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/tags/learning/"
+                href="/tags/kubernetes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/tags/learning/"
+                href="/de/tags/kubernetes/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/de/posts/</loc>
+    <loc>/de/tags/learning/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/posts/"
+                href="/tags/learning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/posts/"
+                href="/de/tags/learning/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/de/tags/</loc>
+    <loc>/de/posts/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/tags/"
+                href="/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/tags/"
+                href="/de/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/de/tags/videos/</loc>
+    <loc>/de/tags/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/tags/videos/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/tags/videos/"
+                href="/de/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/de/categories/videos/</loc>
+    <loc>/de/tags/videos/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/categories/videos/"
+                href="/tags/videos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/categories/videos/"
+                href="/de/tags/videos/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/de/datenschutz/</loc>
+    <loc>/de/categories/videos/</loc>
+    <lastmod>2019-01-25T21:10:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/videos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/categories/videos/"
+                />
+  </url>
+  
+  <url>
+    <loc>/de/datenschutz/</loc>
     <lastmod>2008-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/datenschutz/"
+                href="/datenschutz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/datenschutz/"
+                href="/de/datenschutz/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/de/about/</loc>
+    <loc>/de/about/</loc>
     <lastmod>2008-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/about/"
+                href="/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/about/"
+                href="/de/about/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/de/series/</loc>
+    <loc>/de/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/series/"
+                href="/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/series/"
+                href="/de/series/"
                 />
   </url>
   

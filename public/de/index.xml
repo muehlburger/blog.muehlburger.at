@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DI Herbert Mühlburger</title>
-    <link>https://blog.muehlburger.at/de/</link>
+    <link>/de/</link>
     <description>Recent content on DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 25 Jan 2019 21:10:00 +0100</lastBuildDate>
     
-	<atom:link href="https://blog.muehlburger.at/de/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/de/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Istio</title>
-      <link>https://blog.muehlburger.at/de/2019/01/istio/</link>
+      <link>/de/2019/01/istio/</link>
       <pubDate>Fri, 25 Jan 2019 21:10:00 +0100</pubDate>
       
-      <guid>https://blog.muehlburger.at/de/2019/01/istio/</guid>
+      <guid>/de/2019/01/istio/</guid>
       <description>Istio wurde im Umfeld von Kubernetes immer wichtiger. In diesem Post habe ich deshalb begonnen interessante Istio Resourcen zu sammeln.
 Vielen Dank an Lachlan Evenson für die Erstellung dieses Contents:
 Setting Sail with Istio   Istio - up and running by Lachlan Evenson   Istio - adding services to the mesh by Lachlan Evenson   Istio - Working with Ingress   Istio - Working with Egress   Istio - Request Routing   Istio - Fault Injection Testing   Ich hoffe, Du findest einige interessante Resourcen.</description>
@@ -24,20 +24,20 @@ Setting Sail with Istio   Istio - up and running by Lachlan Evenson   Istio - ad
     
     <item>
       <title>Datenschutzerklärung &amp; Impressum</title>
-      <link>https://blog.muehlburger.at/de/datenschutz/</link>
+      <link>/de/datenschutz/</link>
       <pubDate>Fri, 31 Oct 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.muehlburger.at/de/datenschutz/</guid>
+      <guid>/de/datenschutz/</guid>
       <description>Datenschutzerklärung &amp;amp; Impressum Der Schutz Ihrer persönlichen Daten ist uns wichtig. Wir verarbeiten Ihre Daten ausschließlich im Rahmen der gesetzlichen Bestimmungen (DSGVO, DSG 2000 TKG 2003). Nachfolgend informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website.
 Kontakt mit uns Wenn Sie per Formular auf der Website oder per E-Mail Kontakt mit uns aufnehmen, werden Ihre angegebenen Daten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen sechs Monate bei uns gespeichert.</description>
     </item>
     
     <item>
       <title>Über mich</title>
-      <link>https://blog.muehlburger.at/de/about/</link>
+      <link>/de/about/</link>
       <pubDate>Fri, 31 Oct 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.muehlburger.at/de/about/</guid>
+      <guid>/de/about/</guid>
       <description>Hallo.
 Mein Name ist Herbert M&amp;uuml;hlburger und ich bin Solution Architect und Senior Software Engineer aus &amp;Ouml;sterreich.
  DI Herbert M&amp;uuml;hlburger, BSc Am Quellenhof 2/3 8301 Laßnitzh&amp;ouml;he mail (at) muehlburger.at GPG: 0x83AEBB7D  Du erreichst mich an einfachsten via Twitter unter @hmuehlburger.</description>

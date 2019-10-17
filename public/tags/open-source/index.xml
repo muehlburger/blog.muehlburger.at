@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open source on DI Herbert Mühlburger</title>
-    <link>https://blog.muehlburger.at/tags/open-source/</link>
+    <link>/tags/open-source/</link>
     <description>Recent content in Open source on DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 19 Apr 2011 12:55:52 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.muehlburger.at/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introducing Robotium – A Testing Framework for Android</title>
-      <link>https://blog.muehlburger.at/2011/04/introducing-robotium-a-testing-framework-for-android/</link>
+      <link>/2011/04/introducing-robotium-a-testing-framework-for-android/</link>
       <pubDate>Tue, 19 Apr 2011 12:55:52 +0000</pubDate>
       
-      <guid>https://blog.muehlburger.at/2011/04/introducing-robotium-a-testing-framework-for-android/</guid>
+      <guid>/2011/04/introducing-robotium-a-testing-framework-for-android/</guid>
       <description>Image via Wikipedia  Robotium is an open source testing framework for Android applications. It makes it easy to write complex black-box test cases. Test driven development is a methology where tests are written before the actual application.
  Write a testcase
  Watch it failing
@@ -27,10 +27,10 @@
     
     <item>
       <title>[video] – How is Hadoop used at Twitter?</title>
-      <link>https://blog.muehlburger.at/2010/09/video-how-is-hadoop-used-at-twitter/</link>
+      <link>/2010/09/video-how-is-hadoop-used-at-twitter/</link>
       <pubDate>Fri, 10 Sep 2010 13:02:24 +0000</pubDate>
       
-      <guid>https://blog.muehlburger.at/2010/09/video-how-is-hadoop-used-at-twitter/</guid>
+      <guid>/2010/09/video-how-is-hadoop-used-at-twitter/</guid>
       <description>Image via CrunchBase  In the following video Dmitriy Ryaboy, a Twitter Analytics Engineer and a former Cloudera Intern, explains how Twitter uses Hadoop and Pig. Enjoy the video and have a good weekend!
 [vimeo 11110059]
 Related articles {.zemanta-related-title} How GE uses Hadoop to analyze big data (news.cnet.com)  How GE uses Hadoop to analyze big data (news.cnet.com)  Hadoop There it Was&amp;#8211;Hadoop Summit June 2010 (developer.yahoo.net)  Whooping it up for Hadoop (ycorpblog.</description>
@@ -38,10 +38,10 @@ Related articles {.zemanta-related-title} How GE uses Hadoop to analyze big data
     
     <item>
       <title>NOSQL Summer in Graz Kick-Off Meeting</title>
-      <link>https://blog.muehlburger.at/2010/07/nosql-summer-in-graz-kick-off-meeting/</link>
+      <link>/2010/07/nosql-summer-in-graz-kick-off-meeting/</link>
       <pubDate>Wed, 21 Jul 2010 19:27:07 +0000</pubDate>
       
-      <guid>https://blog.muehlburger.at/2010/07/nosql-summer-in-graz-kick-off-meeting/</guid>
+      <guid>/2010/07/nosql-summer-in-graz-kick-off-meeting/</guid>
       <description>Today was the kick-off meeting of NOSQL Summer here in Graz, Austria.
  A NOSQL Summer is a network of local reading groups, that will decipher &amp;amp; discuss NOSQL-related articles, from late June to early September 2010. Each group sets its own meeting pace (usually once a week or once every two weeks) and select which papers are up for discussion.
 At every cycle, members read the selected paper at home and then meet up for an hour or so to discuss, debate and answer their own questions.</description>
@@ -49,10 +49,10 @@ At every cycle, members read the selected paper at home and then meet up for an 
     
     <item>
       <title>What is PupSubHubUp?</title>
-      <link>https://blog.muehlburger.at/2010/01/what-is-pupsubhubup/</link>
+      <link>/2010/01/what-is-pupsubhubup/</link>
       <pubDate>Thu, 28 Jan 2010 21:03:06 +0000</pubDate>
       
-      <guid>https://blog.muehlburger.at/2010/01/what-is-pupsubhubup/</guid>
+      <guid>/2010/01/what-is-pupsubhubup/</guid>
       <description>Pubsubhubbub is &amp;#8220;A simple, open, web-hook-based pubsub protocol &amp;amp; open source reference implementation&amp;#8220;. But what does this mean? The following video explains it very well:
 [youtube B5kHx0rGkec]
   </description>
@@ -60,10 +60,10 @@ At every cycle, members read the selected paper at home and then meet up for an 
     
     <item>
       <title>[video] – E-Portfolios for Beginners and the Mahara UK 09 Conference</title>
-      <link>https://blog.muehlburger.at/2009/07/video-e-portfolios-for-beginners-and-the-mahara-uk-09-conference/</link>
+      <link>/2009/07/video-e-portfolios-for-beginners-and-the-mahara-uk-09-conference/</link>
       <pubDate>Fri, 24 Jul 2009 09:01:44 +0000</pubDate>
       
-      <guid>https://blog.muehlburger.at/2009/07/video-e-portfolios-for-beginners-and-the-mahara-uk-09-conference/</guid>
+      <guid>/2009/07/video-e-portfolios-for-beginners-and-the-mahara-uk-09-conference/</guid>
       <description>Since few time I am coding an extension to the open-source e-porfolio software Mahara. Therefore I have searched for a video explaining what an e-porfolio stands for and how it can be used:
 Here is a video that explains it:
 Few time ago Mahara UK 09, the very first conference covering the e-portfolio system Mahara, took place in the United Kingdom. It was organised by the University of London Computer Centre (ULCC) and the University of London Institute of Education (IOE).</description>

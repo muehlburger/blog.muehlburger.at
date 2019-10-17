@@ -3,5191 +3,5191 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/categories/"
+                href="/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/categories/"
+                href="/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/</loc>
+    <loc>/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/"
+                href="/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/"
+                href="/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2019/01/istio/</loc>
+    <loc>/2019/01/istio/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/istio/</loc>
-    <lastmod>2019-01-25T21:10:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://blog.muehlburger.at/de/categories/istio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.muehlburger.at/categories/istio/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://blog.muehlburger.at/tags/istio/</loc>
+    <loc>/categories/istio/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/tags/istio/"
+                href="/de/categories/istio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/tags/istio/"
+                href="/categories/istio/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/kubernetes/</loc>
+    <loc>/tags/istio/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/categories/kubernetes/"
+                href="/de/tags/istio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/categories/kubernetes/"
+                href="/tags/istio/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/kubernetes/</loc>
+    <loc>/tags/kubernetes/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/tags/kubernetes/"
+                href="/de/tags/kubernetes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/tags/kubernetes/"
+                href="/tags/kubernetes/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/learning/</loc>
+    <loc>/categories/kubernetes/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/tags/learning/"
+                href="/de/categories/kubernetes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/tags/learning/"
+                href="/categories/kubernetes/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/posts/</loc>
+    <loc>/tags/learning/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/posts/"
+                href="/de/tags/learning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/posts/"
+                href="/tags/learning/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/</loc>
+    <loc>/posts/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/tags/"
+                href="/de/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/tags/"
+                href="/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/videos/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/categories/videos/"
+                href="/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/categories/videos/"
+                href="/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/videos/</loc>
+    <loc>/categories/videos/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/tags/videos/"
+                href="/de/categories/videos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/tags/videos/"
+                href="/categories/videos/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/architecture/</loc>
+    <loc>/tags/videos/</loc>
+    <lastmod>2019-01-25T21:10:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/tags/videos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/videos/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/architecture/</loc>
     <lastmod>2018-12-26T16:32:23+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/dev/</loc>
+    <loc>/tags/dev/</loc>
     <lastmod>2018-12-26T16:32:23+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/development/</loc>
+    <loc>/tags/development/</loc>
     <lastmod>2018-12-26T16:32:23+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/frontend-dev/</loc>
+    <loc>/tags/frontend-dev/</loc>
     <lastmod>2018-12-26T16:32:23+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2018/12/micro-frontends/</loc>
+    <loc>/2018/12/micro-frontends/</loc>
     <lastmod>2018-12-26T16:32:23+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/micro-frontends/</loc>
+    <loc>/tags/micro-frontends/</loc>
     <lastmod>2018-12-26T16:32:23+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/programming/</loc>
+    <loc>/categories/programming/</loc>
     <lastmod>2018-12-26T16:32:23+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/programming/</loc>
+    <loc>/tags/programming/</loc>
     <lastmod>2018-12-26T16:32:23+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/software-architecture/</loc>
+    <loc>/categories/software-architecture/</loc>
     <lastmod>2018-12-26T16:32:23+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/computer-science/</loc>
+    <loc>/categories/computer-science/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/containers/</loc>
+    <loc>/tags/containers/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/devops/</loc>
+    <loc>/categories/devops/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/docker/</loc>
+    <loc>/tags/docker/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/microservices/</loc>
+    <loc>/categories/microservices/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/microservices/</loc>
+    <loc>/tags/microservices/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/software-engineering/</loc>
+    <loc>/categories/software-engineering/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/technology/</loc>
+    <loc>/categories/technology/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2018/02/the-evolution-of-microservices/</loc>
+    <loc>/2018/02/the-evolution-of-microservices/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/baas/</loc>
+    <loc>/tags/baas/</loc>
     <lastmod>2018-01-29T15:34:05+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/faas/</loc>
+    <loc>/tags/faas/</loc>
     <lastmod>2018-01-29T15:34:05+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/paas/</loc>
+    <loc>/tags/paas/</loc>
     <lastmod>2018-01-29T15:34:05+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/serverless/</loc>
+    <loc>/tags/serverless/</loc>
     <lastmod>2018-01-29T15:34:05+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/serverless/</loc>
+    <loc>/categories/serverless/</loc>
     <lastmod>2018-01-29T15:34:05+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2018/01/what-are-serverless-architectures/</loc>
+    <loc>/2018/01/what-are-serverless-architectures/</loc>
     <lastmod>2018-01-29T15:34:05+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/2017/</loc>
+    <loc>/tags/2017/</loc>
     <lastmod>2018-01-19T10:26:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/javascript/</loc>
+    <loc>/tags/javascript/</loc>
     <lastmod>2018-01-19T10:26:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2018/01/javascript-rising-stars-2017/</loc>
+    <loc>/2018/01/javascript-rising-stars-2017/</loc>
     <lastmod>2018-01-19T10:26:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/risingstars/</loc>
+    <loc>/tags/risingstars/</loc>
     <lastmod>2018-01-19T10:26:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2017/12/a-channel-compendium-by-john-graham-cumming/</loc>
+    <loc>/2017/12/a-channel-compendium-by-john-graham-cumming/</loc>
     <lastmod>2017-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/channels/</loc>
+    <loc>/tags/channels/</loc>
     <lastmod>2017-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/go/</loc>
+    <loc>/tags/go/</loc>
     <lastmod>2017-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/golang/</loc>
+    <loc>/tags/golang/</loc>
     <lastmod>2017-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/goroutines/</loc>
+    <loc>/tags/goroutines/</loc>
     <lastmod>2017-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/video/</loc>
+    <loc>/tags/video/</loc>
     <lastmod>2017-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/blockchain/</loc>
+    <loc>/tags/blockchain/</loc>
     <lastmod>2017-02-07T09:00:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2017/02/blockchain-101/</loc>
+    <loc>/2017/02/blockchain-101/</loc>
     <lastmod>2017-02-07T09:00:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/finance/</loc>
+    <loc>/categories/finance/</loc>
     <lastmod>2017-02-07T09:00:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/fintec/</loc>
+    <loc>/categories/fintec/</loc>
     <lastmod>2017-02-07T09:00:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/fintech/</loc>
+    <loc>/tags/fintech/</loc>
     <lastmod>2017-02-07T09:00:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/tutorial/</loc>
+    <loc>/tags/tutorial/</loc>
     <lastmod>2017-02-07T09:00:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/video/</loc>
+    <loc>/categories/video/</loc>
     <lastmod>2017-02-07T09:00:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/security/</loc>
+    <loc>/tags/security/</loc>
     <lastmod>2017-02-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/security-by-design/</loc>
+    <loc>/tags/security-by-design/</loc>
     <lastmod>2017-02-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2017/02/security-by-design/</loc>
+    <loc>/2017/02/security-by-design/</loc>
     <lastmod>2017-02-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/talk/</loc>
+    <loc>/tags/talk/</loc>
     <lastmod>2017-02-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/authentication/</loc>
+    <loc>/tags/authentication/</loc>
     <lastmod>2017-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/authorization/</loc>
+    <loc>/tags/authorization/</loc>
     <lastmod>2017-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/jwt/</loc>
+    <loc>/tags/jwt/</loc>
     <lastmod>2017-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/spring-boot/</loc>
+    <loc>/tags/spring-boot/</loc>
     <lastmod>2017-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/spring-security/</loc>
+    <loc>/tags/spring-security/</loc>
     <lastmod>2017-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/spring-security-oauth/</loc>
+    <loc>/tags/spring-security-oauth/</loc>
     <lastmod>2017-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/stateless-authentication/</loc>
+    <loc>/tags/stateless-authentication/</loc>
     <lastmod>2017-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2017/01/stateless-authentication-using-jwt-json-web-token/</loc>
+    <loc>/2017/01/stateless-authentication-using-jwt-json-web-token/</loc>
     <lastmod>2017-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2017/01/apache-kafka-streams/</loc>
+    <loc>/2017/01/apache-kafka-streams/</loc>
     <lastmod>2017-01-17T16:17:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/java/</loc>
+    <loc>/tags/java/</loc>
     <lastmod>2017-01-17T16:17:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/kafka/</loc>
+    <loc>/tags/kafka/</loc>
     <lastmod>2017-01-17T16:17:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/streams/</loc>
+    <loc>/tags/streams/</loc>
     <lastmod>2017-01-17T16:17:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2016/12/video-docker-for-java-developers/</loc>
+    <loc>/2016/12/video-docker-for-java-developers/</loc>
     <lastmod>2016-12-05T21:41:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2016/11/video-knowledge-is-power-getting-out-of-trouble-by-understanding-git/</loc>
+    <loc>/2016/11/video-knowledge-is-power-getting-out-of-trouble-by-understanding-git/</loc>
     <lastmod>2016-11-17T10:25:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/git/</loc>
+    <loc>/tags/git/</loc>
     <lastmod>2016-11-17T10:25:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/how-to/</loc>
+    <loc>/tags/how-to/</loc>
     <lastmod>2016-11-17T10:25:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/art/</loc>
+    <loc>/tags/art/</loc>
     <lastmod>2016-05-01T09:10:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/art/</loc>
+    <loc>/categories/art/</loc>
     <lastmod>2016-05-01T09:10:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/coding/</loc>
+    <loc>/tags/coding/</loc>
     <lastmod>2016-05-01T09:10:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2016/05/programming-as-performance/</loc>
+    <loc>/2016/05/programming-as-performance/</loc>
     <lastmod>2016-05-01T09:10:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/rasperry-pi/</loc>
+    <loc>/tags/rasperry-pi/</loc>
     <lastmod>2016-05-01T09:10:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/sonic-pi/</loc>
+    <loc>/tags/sonic-pi/</loc>
     <lastmod>2016-05-01T09:10:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/convert/</loc>
+    <loc>/tags/convert/</loc>
     <lastmod>2016-03-31T08:27:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2016/03/how-to-convert-a-pdf-file-to-png-using-image-magick/</loc>
+    <loc>/2016/03/how-to-convert-a-pdf-file-to-png-using-image-magick/</loc>
     <lastmod>2016-03-31T08:27:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/howto/</loc>
+    <loc>/categories/howto/</loc>
     <lastmod>2016-03-31T08:27:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/image-converstion/</loc>
+    <loc>/tags/image-converstion/</loc>
     <lastmod>2016-03-31T08:27:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/image-manipulation/</loc>
+    <loc>/tags/image-manipulation/</loc>
     <lastmod>2016-03-31T08:27:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/certification/</loc>
+    <loc>/tags/certification/</loc>
     <lastmod>2015-11-01T11:59:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2015/11/certified-salesforce-platform-app-builder-part-1-exam-overview/</loc>
+    <loc>/2015/11/certified-salesforce-platform-app-builder-part-1-exam-overview/</loc>
     <lastmod>2015-11-01T11:59:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/consulting/</loc>
+    <loc>/categories/consulting/</loc>
     <lastmod>2015-11-01T11:59:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/exam/</loc>
+    <loc>/tags/exam/</loc>
     <lastmod>2015-11-01T11:59:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/platform-app-builder/</loc>
+    <loc>/tags/platform-app-builder/</loc>
     <lastmod>2015-11-01T11:59:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/preperation/</loc>
+    <loc>/tags/preperation/</loc>
     <lastmod>2015-11-01T11:59:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/salesforce/</loc>
+    <loc>/categories/salesforce/</loc>
     <lastmod>2015-11-01T11:59:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/salesforce/</loc>
+    <loc>/tags/salesforce/</loc>
     <lastmod>2015-11-01T11:59:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/salesforce-certified-platform-app-builder-exam/</loc>
+    <loc>/tags/salesforce-certified-platform-app-builder-exam/</loc>
     <lastmod>2015-11-01T11:59:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/study-guide/</loc>
+    <loc>/tags/study-guide/</loc>
     <lastmod>2015-11-01T11:59:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/agencies/</loc>
+    <loc>/tags/agencies/</loc>
     <lastmod>2015-09-06T09:40:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/agency/</loc>
+    <loc>/tags/agency/</loc>
     <lastmod>2015-09-06T09:40:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/digital/</loc>
+    <loc>/tags/digital/</loc>
     <lastmod>2015-09-06T09:40:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2015/09/interesting-creative-digital-and-internet-agencies/</loc>
+    <loc>/2015/09/interesting-creative-digital-and-internet-agencies/</loc>
     <lastmod>2015-09-06T09:40:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/internet/</loc>
+    <loc>/tags/internet/</loc>
     <lastmod>2015-09-06T09:40:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/list-of-agencies/</loc>
+    <loc>/tags/list-of-agencies/</loc>
     <lastmod>2015-09-06T09:40:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/marketing/</loc>
+    <loc>/categories/marketing/</loc>
     <lastmod>2015-09-06T09:40:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/marketing/</loc>
+    <loc>/tags/marketing/</loc>
     <lastmod>2015-09-06T09:40:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/technology/</loc>
+    <loc>/tags/technology/</loc>
     <lastmod>2015-09-06T09:40:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/work/</loc>
+    <loc>/categories/work/</loc>
     <lastmod>2015-09-06T09:40:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/apis/</loc>
+    <loc>/tags/apis/</loc>
     <lastmod>2015-04-16T13:10:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2015/04/how-to-choose-a-versioning-scheme-for-your-software/</loc>
+    <loc>/2015/04/how-to-choose-a-versioning-scheme-for-your-software/</loc>
     <lastmod>2015-04-16T13:10:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/software-development/</loc>
+    <loc>/tags/software-development/</loc>
     <lastmod>2015-04-16T13:10:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/versioning/</loc>
+    <loc>/tags/versioning/</loc>
     <lastmod>2015-04-16T13:10:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/entrepreneurship/</loc>
+    <loc>/categories/entrepreneurship/</loc>
     <lastmod>2014-12-15T17:33:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2014/12/forbes-magazine-features-the-austrian-startup-scene/</loc>
+    <loc>/2014/12/forbes-magazine-features-the-austrian-startup-scene/</loc>
     <lastmod>2014-12-15T17:33:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/startups/</loc>
+    <loc>/categories/startups/</loc>
     <lastmod>2014-12-15T17:33:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2014/12/eight-elementary-skills-every-entrepreneur-should-have/</loc>
+    <loc>/2014/12/eight-elementary-skills-every-entrepreneur-should-have/</loc>
     <lastmod>2014-12-14T14:45:39+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/entrepreneurship/</loc>
+    <loc>/tags/entrepreneurship/</loc>
     <lastmod>2014-12-14T14:45:39+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/skills/</loc>
+    <loc>/tags/skills/</loc>
     <lastmod>2014-12-14T14:45:39+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/start-ups/</loc>
+    <loc>/tags/start-ups/</loc>
     <lastmod>2014-12-14T14:45:39+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/startup/</loc>
+    <loc>/tags/startup/</loc>
     <lastmod>2014-12-14T14:45:39+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/startups/</loc>
+    <loc>/tags/startups/</loc>
     <lastmod>2014-12-14T14:45:39+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/technology-ventures/</loc>
+    <loc>/tags/technology-ventures/</loc>
     <lastmod>2014-12-14T14:45:39+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/ventures/</loc>
+    <loc>/tags/ventures/</loc>
     <lastmod>2014-12-14T14:45:39+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/apache/</loc>
+    <loc>/tags/apache/</loc>
     <lastmod>2014-09-06T07:35:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/infrastructure/</loc>
+    <loc>/tags/infrastructure/</loc>
     <lastmod>2014-09-06T07:35:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/loggly/</loc>
+    <loc>/tags/loggly/</loc>
     <lastmod>2014-09-06T07:35:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/processing/</loc>
+    <loc>/tags/processing/</loc>
     <lastmod>2014-09-06T07:35:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/realtime/</loc>
+    <loc>/categories/realtime/</loc>
     <lastmod>2014-09-06T07:35:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/realtime/</loc>
+    <loc>/tags/realtime/</loc>
     <lastmod>2014-09-06T07:35:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/storm/</loc>
+    <loc>/tags/storm/</loc>
     <lastmod>2014-09-06T07:35:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2014/09/talk-on-infrastructure-at-scale-apache-kafka-storm-and-elastic-search/</loc>
+    <loc>/2014/09/talk-on-infrastructure-at-scale-apache-kafka-storm-and-elastic-search/</loc>
     <lastmod>2014-09-06T07:35:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/collection/</loc>
+    <loc>/tags/collection/</loc>
     <lastmod>2014-07-21T11:23:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/dataset/</loc>
+    <loc>/tags/dataset/</loc>
     <lastmod>2014-07-21T11:23:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/networks/</loc>
+    <loc>/tags/networks/</loc>
     <lastmod>2014-07-21T11:23:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/networks/</loc>
+    <loc>/categories/networks/</loc>
     <lastmod>2014-07-21T11:23:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/snap/</loc>
+    <loc>/tags/snap/</loc>
     <lastmod>2014-07-21T11:23:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/stanford/</loc>
+    <loc>/tags/stanford/</loc>
     <lastmod>2014-07-21T11:23:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2014/07/stanford-large-network-dataset-collection/</loc>
+    <loc>/2014/07/stanford-large-network-dataset-collection/</loc>
     <lastmod>2014-07-21T11:23:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/8-blocks-of-business-model/</loc>
+    <loc>/tags/8-blocks-of-business-model/</loc>
     <lastmod>2014-04-14T15:48:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/building-blocks/</loc>
+    <loc>/tags/building-blocks/</loc>
     <lastmod>2014-04-14T15:48:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/business-model/</loc>
+    <loc>/tags/business-model/</loc>
     <lastmod>2014-04-14T15:48:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/business-models/</loc>
+    <loc>/tags/business-models/</loc>
     <lastmod>2014-04-14T15:48:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/business-models/</loc>
+    <loc>/categories/business-models/</loc>
     <lastmod>2014-04-14T15:48:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2014/04/nine-building-blocks-of-business-models/</loc>
+    <loc>/2014/04/nine-building-blocks-of-business-models/</loc>
     <lastmod>2014-04-14T15:48:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2014/03/how-to-get-skype-running-on-ubuntu-13-10/</loc>
+    <loc>/2014/03/how-to-get-skype-running-on-ubuntu-13-10/</loc>
     <lastmod>2014-03-14T10:30:08+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2014/03/how-to-mount-novell-directory-in-ubuntu/</loc>
+    <loc>/2014/03/how-to-mount-novell-directory-in-ubuntu/</loc>
     <lastmod>2014-03-12T14:04:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/mount/</loc>
+    <loc>/tags/mount/</loc>
     <lastmod>2014-03-12T14:04:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/ncpfs/</loc>
+    <loc>/tags/ncpfs/</loc>
     <lastmod>2014-03-12T14:04:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/ncpmount/</loc>
+    <loc>/tags/ncpmount/</loc>
     <lastmod>2014-03-12T14:04:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/novell/</loc>
+    <loc>/tags/novell/</loc>
     <lastmod>2014-03-12T14:04:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/ubuntu/</loc>
+    <loc>/tags/ubuntu/</loc>
     <lastmod>2014-03-12T14:04:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/30c3/</loc>
+    <loc>/tags/30c3/</loc>
     <lastmod>2014-01-05T15:35:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/crypto/</loc>
+    <loc>/tags/crypto/</loc>
     <lastmod>2014-01-05T15:35:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2014/01/enable-https-everywhere/</loc>
+    <loc>/2014/01/enable-https-everywhere/</loc>
     <lastmod>2014-01-05T15:35:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/encryption/</loc>
+    <loc>/tags/encryption/</loc>
     <lastmod>2014-01-05T15:35:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/https/</loc>
+    <loc>/tags/https/</loc>
     <lastmod>2014-01-05T15:35:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/ssl/</loc>
+    <loc>/tags/ssl/</loc>
     <lastmod>2014-01-05T15:35:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/tls/</loc>
+    <loc>/tags/tls/</loc>
     <lastmod>2014-01-05T15:35:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2013/12/making-location-completely-unimportant/</loc>
+    <loc>/2013/12/making-location-completely-unimportant/</loc>
     <lastmod>2013-12-19T19:32:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/work/</loc>
+    <loc>/tags/work/</loc>
     <lastmod>2013-12-19T19:32:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/working-remote/</loc>
+    <loc>/tags/working-remote/</loc>
     <lastmod>2013-12-19T19:32:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/coursera/</loc>
+    <loc>/tags/coursera/</loc>
     <lastmod>2013-07-25T13:56:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/finance/</loc>
+    <loc>/tags/finance/</loc>
     <lastmod>2013-07-25T13:56:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/financial-engineering/</loc>
+    <loc>/tags/financial-engineering/</loc>
     <lastmod>2013-07-25T13:56:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2013/07/free-online-courses-on-finance-and-related-topics/</loc>
+    <loc>/2013/07/free-online-courses-on-finance-and-related-topics/</loc>
     <lastmod>2013-07-25T13:56:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/online-courses/</loc>
+    <loc>/tags/online-courses/</loc>
     <lastmod>2013-07-25T13:56:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/online-lectures/</loc>
+    <loc>/tags/online-lectures/</loc>
     <lastmod>2013-07-25T13:56:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/yale/</loc>
+    <loc>/tags/yale/</loc>
     <lastmod>2013-07-25T13:56:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/bi/</loc>
+    <loc>/tags/bi/</loc>
     <lastmod>2013-07-23T07:48:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/business-intelligence/</loc>
+    <loc>/categories/business-intelligence/</loc>
     <lastmod>2013-07-23T07:48:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/business-intelligence/</loc>
+    <loc>/tags/business-intelligence/</loc>
     <lastmod>2013-07-23T07:48:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/data-integration/</loc>
+    <loc>/tags/data-integration/</loc>
     <lastmod>2013-07-23T07:48:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2013/07/how-to-fix-error-on-pentaho-data-integration-kettle-startup/</loc>
+    <loc>/2013/07/how-to-fix-error-on-pentaho-data-integration-kettle-startup/</loc>
     <lastmod>2013-07-23T07:48:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/kettle/</loc>
+    <loc>/categories/kettle/</loc>
     <lastmod>2013-07-23T07:48:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/kettle/</loc>
+    <loc>/tags/kettle/</loc>
     <lastmod>2013-07-23T07:48:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/pdi/</loc>
+    <loc>/tags/pdi/</loc>
     <lastmod>2013-07-23T07:48:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/pentaho/</loc>
+    <loc>/tags/pentaho/</loc>
     <lastmod>2013-07-23T07:48:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/pentaho/</loc>
+    <loc>/categories/pentaho/</loc>
     <lastmod>2013-07-23T07:48:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/conference/</loc>
+    <loc>/tags/conference/</loc>
     <lastmod>2013-06-14T17:00:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/javacopalypse/</loc>
+    <loc>/tags/javacopalypse/</loc>
     <lastmod>2013-06-14T17:00:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2013/06/javapocalypse/</loc>
+    <loc>/2013/06/javapocalypse/</loc>
     <lastmod>2013-06-14T17:00:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/javazone/</loc>
+    <loc>/tags/javazone/</loc>
     <lastmod>2013-06-14T17:00:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/trailer/</loc>
+    <loc>/tags/trailer/</loc>
     <lastmod>2013-06-14T17:00:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/freiheit/</loc>
+    <loc>/tags/freiheit/</loc>
     <lastmod>2013-03-04T10:27:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/grundrechte/</loc>
+    <loc>/tags/grundrechte/</loc>
     <lastmod>2013-03-04T10:27:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/programmierung/</loc>
+    <loc>/tags/programmierung/</loc>
     <lastmod>2013-03-04T10:27:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/quellcode/</loc>
+    <loc>/tags/quellcode/</loc>
     <lastmod>2013-03-04T10:27:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2013/03/what-most-schools-dont-teach-programming/</loc>
+    <loc>/2013/03/what-most-schools-dont-teach-programming/</loc>
     <lastmod>2013-03-04T10:27:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/configuration-management/</loc>
+    <loc>/tags/configuration-management/</loc>
     <lastmod>2012-01-26T08:17:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/github/</loc>
+    <loc>/tags/github/</loc>
     <lastmod>2012-01-26T08:17:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/revision-control/</loc>
+    <loc>/tags/revision-control/</loc>
     <lastmod>2012-01-26T08:17:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/scott-chacon/</loc>
+    <loc>/tags/scott-chacon/</loc>
     <lastmod>2012-01-26T08:17:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/talks/</loc>
+    <loc>/tags/talks/</loc>
     <lastmod>2012-01-26T08:17:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/tools/</loc>
+    <loc>/tags/tools/</loc>
     <lastmod>2012-01-26T08:17:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/version-control/</loc>
+    <loc>/tags/version-control/</loc>
     <lastmod>2012-01-26T08:17:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2012/01/video-introduction-to-git-version-control-by-scott-chacon-of-github/</loc>
+    <loc>/2012/01/video-introduction-to-git-version-control-by-scott-chacon-of-github/</loc>
     <lastmod>2012-01-26T08:17:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/android/</loc>
+    <loc>/categories/android/</loc>
     <lastmod>2011-11-29T09:00:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/android/</loc>
+    <loc>/tags/android/</loc>
     <lastmod>2011-11-29T09:00:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/app/</loc>
+    <loc>/tags/app/</loc>
     <lastmod>2011-11-29T09:00:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/apps/</loc>
+    <loc>/categories/apps/</loc>
     <lastmod>2011-11-29T09:00:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/flashlight/</loc>
+    <loc>/tags/flashlight/</loc>
     <lastmod>2011-11-29T09:00:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/simple/</loc>
+    <loc>/tags/simple/</loc>
     <lastmod>2011-11-29T09:00:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2011/11/simple-flashlight-v3-1/</loc>
+    <loc>/2011/11/simple-flashlight-v3-1/</loc>
     <lastmod>2011-11-29T09:00:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/simpleflashlight/</loc>
+    <loc>/tags/simpleflashlight/</loc>
     <lastmod>2011-11-29T09:00:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/taschenlampe/</loc>
+    <loc>/tags/taschenlampe/</loc>
     <lastmod>2011-11-29T09:00:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/android-market/</loc>
+    <loc>/tags/android-market/</loc>
     <lastmod>2011-11-26T21:49:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/simple-flashlight/</loc>
+    <loc>/tags/simple-flashlight/</loc>
     <lastmod>2011-11-26T21:49:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2011/11/simple-flashlight-v-3-0/</loc>
+    <loc>/2011/11/simple-flashlight-v-3-0/</loc>
     <lastmod>2011-11-26T21:49:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/artificial-intelligence/</loc>
+    <loc>/tags/artificial-intelligence/</loc>
     <lastmod>2011-11-16T11:04:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/contests/</loc>
+    <loc>/tags/contests/</loc>
     <lastmod>2011-11-16T11:04:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/kaggle/</loc>
+    <loc>/tags/kaggle/</loc>
     <lastmod>2011-11-16T11:04:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/linear-regression/</loc>
+    <loc>/tags/linear-regression/</loc>
     <lastmod>2011-11-16T11:04:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/logistic-regression/</loc>
+    <loc>/tags/logistic-regression/</loc>
     <lastmod>2011-11-16T11:04:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/machine-learning/</loc>
+    <loc>/tags/machine-learning/</loc>
     <lastmod>2011-11-16T11:04:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/machine-learning/</loc>
+    <loc>/categories/machine-learning/</loc>
     <lastmod>2011-11-16T11:04:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2011/11/machine-learning-is-awesome/</loc>
+    <loc>/2011/11/machine-learning-is-awesome/</loc>
     <lastmod>2011-11-16T11:04:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/neural-networks/</loc>
+    <loc>/tags/neural-networks/</loc>
     <lastmod>2011-11-16T11:04:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/tuned-it/</loc>
+    <loc>/tags/tuned-it/</loc>
     <lastmod>2011-11-16T11:04:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2011/08/spritpreisrechner-at-apps-entwickeln/</loc>
+    <loc>/2011/08/spritpreisrechner-at-apps-entwickeln/</loc>
     <lastmod>2011-08-26T09:17:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/http/</loc>
+    <loc>/tags/http/</loc>
     <lastmod>2011-08-26T09:17:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/json/</loc>
+    <loc>/tags/json/</loc>
     <lastmod>2011-08-26T09:17:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/latitude/</loc>
+    <loc>/tags/latitude/</loc>
     <lastmod>2011-08-26T09:17:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/spritpreise/</loc>
+    <loc>/tags/spritpreise/</loc>
     <lastmod>2011-08-26T09:17:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/spritpreisrechner.at/</loc>
+    <loc>/tags/spritpreisrechner.at/</loc>
     <lastmod>2011-08-26T09:17:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/google/</loc>
+    <loc>/tags/google/</loc>
     <lastmod>2011-05-12T11:20:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/google-i/o/</loc>
+    <loc>/tags/google-i/o/</loc>
     <lastmod>2011-05-12T11:20:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/google-tv/</loc>
+    <loc>/tags/google-tv/</loc>
     <lastmod>2011-05-12T11:20:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/user-interface/</loc>
+    <loc>/tags/user-interface/</loc>
     <lastmod>2011-05-12T11:20:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/</loc>
+    <loc>/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/</loc>
     <lastmod>2011-05-12T11:20:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/youtube/</loc>
+    <loc>/tags/youtube/</loc>
     <lastmod>2011-05-12T11:20:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/android-developers/</loc>
+    <loc>/tags/android-developers/</loc>
     <lastmod>2011-05-11T17:09:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/innovations/</loc>
+    <loc>/tags/innovations/</loc>
     <lastmod>2011-05-11T17:09:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/keynote/</loc>
+    <loc>/tags/keynote/</loc>
     <lastmod>2011-05-11T17:09:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/san-francisco/</loc>
+    <loc>/tags/san-francisco/</loc>
     <lastmod>2011-05-11T17:09:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2011/05/videos-of-google-io-2011-android-tracks-of-day-one/</loc>
+    <loc>/2011/05/videos-of-google-io-2011-android-tracks-of-day-one/</loc>
     <lastmod>2011-05-11T17:09:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2011/05/video-the-filter-bubble-from-human-to-algorithmic-gatekeepers/</loc>
+    <loc>/2011/05/video-the-filter-bubble-from-human-to-algorithmic-gatekeepers/</loc>
     <lastmod>2011-05-06T17:36:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/clustering/</loc>
+    <loc>/categories/clustering/</loc>
     <lastmod>2011-05-06T17:36:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/eli-pariser/</loc>
+    <loc>/tags/eli-pariser/</loc>
     <lastmod>2011-05-06T17:36:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/facebook/</loc>
+    <loc>/tags/facebook/</loc>
     <lastmod>2011-05-06T17:36:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/gatekeeper/</loc>
+    <loc>/tags/gatekeeper/</loc>
     <lastmod>2011-05-06T17:36:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/netflix/</loc>
+    <loc>/tags/netflix/</loc>
     <lastmod>2011-05-06T17:36:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/new-york-times/</loc>
+    <loc>/tags/new-york-times/</loc>
     <lastmod>2011-05-06T17:36:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/personalization/</loc>
+    <loc>/categories/personalization/</loc>
     <lastmod>2011-05-06T17:36:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/ted/</loc>
+    <loc>/tags/ted/</loc>
     <lastmod>2011-05-06T17:36:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/twitter/</loc>
+    <loc>/tags/twitter/</loc>
     <lastmod>2011-05-06T17:36:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/computer-science/</loc>
+    <loc>/tags/computer-science/</loc>
     <lastmod>2011-05-02T17:49:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/ios/</loc>
+    <loc>/categories/ios/</loc>
     <lastmod>2011-05-02T17:49:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/ios/</loc>
+    <loc>/tags/ios/</loc>
     <lastmod>2011-05-02T17:49:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/ipad/</loc>
+    <loc>/tags/ipad/</loc>
     <lastmod>2011-05-02T17:49:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/iphone/</loc>
+    <loc>/tags/iphone/</loc>
     <lastmod>2011-05-02T17:49:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/mobile-development/</loc>
+    <loc>/tags/mobile-development/</loc>
     <lastmod>2011-05-02T17:49:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2011/05/video-our-choice-the-next-generation-of-digital-books/</loc>
+    <loc>/2011/05/video-our-choice-the-next-generation-of-digital-books/</loc>
     <lastmod>2011-05-02T17:49:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/tablet/</loc>
+    <loc>/tags/tablet/</loc>
     <lastmod>2011-05-02T17:49:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/visualization/</loc>
+    <loc>/categories/visualization/</loc>
     <lastmod>2011-05-02T17:49:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/visualization/</loc>
+    <loc>/tags/visualization/</loc>
     <lastmod>2011-05-02T17:49:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/black-box-testing/</loc>
+    <loc>/tags/black-box-testing/</loc>
     <lastmod>2011-04-19T12:55:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2011/04/introducing-robotium-a-testing-framework-for-android/</loc>
+    <loc>/2011/04/introducing-robotium-a-testing-framework-for-android/</loc>
     <lastmod>2011-04-19T12:55:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/languages/</loc>
+    <loc>/tags/languages/</loc>
     <lastmod>2011-04-19T12:55:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/open-source/</loc>
+    <loc>/tags/open-source/</loc>
     <lastmod>2011-04-19T12:55:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/source-code/</loc>
+    <loc>/tags/source-code/</loc>
     <lastmod>2011-04-19T12:55:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/test-case/</loc>
+    <loc>/tags/test-case/</loc>
     <lastmod>2011-04-19T12:55:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/test-driven-development/</loc>
+    <loc>/tags/test-driven-development/</loc>
     <lastmod>2011-04-19T12:55:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/testing/</loc>
+    <loc>/tags/testing/</loc>
     <lastmod>2011-04-19T12:55:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/testing/</loc>
+    <loc>/categories/testing/</loc>
     <lastmod>2011-04-19T12:55:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/unit-testing/</loc>
+    <loc>/tags/unit-testing/</loc>
     <lastmod>2011-04-19T12:55:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/app-store/</loc>
+    <loc>/tags/app-store/</loc>
     <lastmod>2011-03-30T10:07:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/billing/</loc>
+    <loc>/tags/billing/</loc>
     <lastmod>2011-03-30T10:07:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2011/03/google-launched-in-app-billing-on-android-market/</loc>
+    <loc>/2011/03/google-launched-in-app-billing-on-android-market/</loc>
     <lastmod>2011-03-30T10:07:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/in-app-billing/</loc>
+    <loc>/tags/in-app-billing/</loc>
     <lastmod>2011-03-30T10:07:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/android-sdk/</loc>
+    <loc>/tags/android-sdk/</loc>
     <lastmod>2011-03-12T18:19:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/eclipse/</loc>
+    <loc>/tags/eclipse/</loc>
     <lastmod>2011-03-12T18:19:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2011/03/howto-set-up-the-android-sdk-on-ubuntu-for-htc-phones/</loc>
+    <loc>/2011/03/howto-set-up-the-android-sdk-on-ubuntu-for-htc-phones/</loc>
     <lastmod>2011-03-12T18:19:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/htc/</loc>
+    <loc>/tags/htc/</loc>
     <lastmod>2011-03-12T18:19:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/htc-corporation/</loc>
+    <loc>/tags/htc-corporation/</loc>
     <lastmod>2011-03-12T18:19:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/operating-system/</loc>
+    <loc>/tags/operating-system/</loc>
     <lastmod>2011-03-12T18:19:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2011/03/video-bis-an-die-grenzen-des-universums/</loc>
+    <loc>/2011/03/video-bis-an-die-grenzen-des-universums/</loc>
     <lastmod>2011-03-08T10:00:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/deutsch/</loc>
+    <loc>/tags/deutsch/</loc>
     <lastmod>2011-03-08T10:00:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/documentary-film/</loc>
+    <loc>/tags/documentary-film/</loc>
     <lastmod>2011-03-08T10:00:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/dokumentation/</loc>
+    <loc>/tags/dokumentation/</loc>
     <lastmod>2011-03-08T10:00:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/german/</loc>
+    <loc>/tags/german/</loc>
     <lastmod>2011-03-08T10:00:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/science/</loc>
+    <loc>/tags/science/</loc>
     <lastmod>2011-03-08T10:00:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/universe/</loc>
+    <loc>/tags/universe/</loc>
     <lastmod>2011-03-08T10:00:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/universum/</loc>
+    <loc>/tags/universum/</loc>
     <lastmod>2011-03-08T10:00:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/games/</loc>
+    <loc>/tags/games/</loc>
     <lastmod>2011-03-07T18:06:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/independent-video-game-development/</loc>
+    <loc>/tags/independent-video-game-development/</loc>
     <lastmod>2011-03-07T18:06:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/minecraft/</loc>
+    <loc>/tags/minecraft/</loc>
     <lastmod>2011-03-07T18:06:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2011/03/minecraft-documentary-explores-indie-games-impact/</loc>
+    <loc>/2011/03/minecraft-documentary-explores-indie-games-impact/</loc>
     <lastmod>2011-03-07T18:06:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/open-world/</loc>
+    <loc>/tags/open-world/</loc>
     <lastmod>2011-03-07T18:06:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/video-game/</loc>
+    <loc>/tags/video-game/</loc>
     <lastmod>2011-03-07T18:06:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/video-game-industry/</loc>
+    <loc>/tags/video-game-industry/</loc>
     <lastmod>2011-03-07T18:06:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/apache-cassandra/</loc>
+    <loc>/tags/apache-cassandra/</loc>
     <lastmod>2011-03-06T19:31:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/couchdb/</loc>
+    <loc>/tags/couchdb/</loc>
     <lastmod>2011-03-06T19:31:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/database/</loc>
+    <loc>/tags/database/</loc>
     <lastmod>2011-03-06T19:31:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/graphdb/</loc>
+    <loc>/tags/graphdb/</loc>
     <lastmod>2011-03-06T19:31:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/hadoop/</loc>
+    <loc>/tags/hadoop/</loc>
     <lastmod>2011-03-06T19:31:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/hive/</loc>
+    <loc>/tags/hive/</loc>
     <lastmod>2011-03-06T19:31:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/mongodb/</loc>
+    <loc>/tags/mongodb/</loc>
     <lastmod>2011-03-06T19:31:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/nosql/</loc>
+    <loc>/tags/nosql/</loc>
     <lastmod>2011-03-06T19:31:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2011/03/nosql-databases-why-what-and-when-an-overview-on-nosql-datastores/</loc>
+    <loc>/2011/03/nosql-databases-why-what-and-when-an-overview-on-nosql-datastores/</loc>
     <lastmod>2011-03-06T19:31:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/pig/</loc>
+    <loc>/tags/pig/</loc>
     <lastmod>2011-03-06T19:31:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/presentation/</loc>
+    <loc>/tags/presentation/</loc>
     <lastmod>2011-03-06T19:31:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/redis/</loc>
+    <loc>/tags/redis/</loc>
     <lastmod>2011-03-06T19:31:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/riak/</loc>
+    <loc>/tags/riak/</loc>
     <lastmod>2011-03-06T19:31:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/slideshare/</loc>
+    <loc>/tags/slideshare/</loc>
     <lastmod>2011-03-06T19:31:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/sql/</loc>
+    <loc>/tags/sql/</loc>
     <lastmod>2011-03-06T19:31:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/attack/</loc>
+    <loc>/tags/attack/</loc>
     <lastmod>2011-03-03T18:41:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/downtime/</loc>
+    <loc>/tags/downtime/</loc>
     <lastmod>2011-03-03T18:41:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/hack/</loc>
+    <loc>/tags/hack/</loc>
     <lastmod>2011-03-03T18:41:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2011/03/up-and-runnig-again/</loc>
+    <loc>/2011/03/up-and-runnig-again/</loc>
     <lastmod>2011-03-03T18:41:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2011/01/video-connect-your-mailbox-to-the-internet/</loc>
+    <loc>/2011/01/video-connect-your-mailbox-to-the-internet/</loc>
     <lastmod>2011-01-21T06:44:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/arduino/</loc>
+    <loc>/tags/arduino/</loc>
     <lastmod>2011-01-21T06:44:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/internet-of-things/</loc>
+    <loc>/tags/internet-of-things/</loc>
     <lastmod>2011-01-21T06:44:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/iot/</loc>
+    <loc>/tags/iot/</loc>
     <lastmod>2011-01-21T06:44:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/php/</loc>
+    <loc>/tags/php/</loc>
     <lastmod>2011-01-21T06:44:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/prowl/</loc>
+    <loc>/tags/prowl/</loc>
     <lastmod>2011-01-21T06:44:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/readwriteweb/</loc>
+    <loc>/tags/readwriteweb/</loc>
     <lastmod>2011-01-21T06:44:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/web-server/</loc>
+    <loc>/tags/web-server/</loc>
     <lastmod>2011-01-21T06:44:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</loc>
+    <loc>/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</loc>
     <lastmod>2011-01-10T20:45:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/installation/</loc>
+    <loc>/tags/installation/</loc>
     <lastmod>2011-01-10T20:45:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/instruction/</loc>
+    <loc>/tags/instruction/</loc>
     <lastmod>2011-01-10T20:45:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/java-development-kit/</loc>
+    <loc>/tags/java-development-kit/</loc>
     <lastmod>2011-01-10T20:45:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/oracle/</loc>
+    <loc>/tags/oracle/</loc>
     <lastmod>2011-01-10T20:45:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/sun/</loc>
+    <loc>/tags/sun/</loc>
     <lastmod>2011-01-10T20:45:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/dilbert/</loc>
+    <loc>/tags/dilbert/</loc>
     <lastmod>2011-01-09T13:19:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/dilberts-salary-law/</loc>
+    <loc>/tags/dilberts-salary-law/</loc>
     <lastmod>2011-01-09T13:19:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2011/01/dilberts-salary-law/</loc>
+    <loc>/2011/01/dilberts-salary-law/</loc>
     <lastmod>2011-01-09T13:19:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/knowledge/</loc>
+    <loc>/tags/knowledge/</loc>
     <lastmod>2011-01-09T13:19:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/knowledge-management/</loc>
+    <loc>/tags/knowledge-management/</loc>
     <lastmod>2011-01-09T13:19:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/law/</loc>
+    <loc>/tags/law/</loc>
     <lastmod>2011-01-09T13:19:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/salary/</loc>
+    <loc>/tags/salary/</loc>
     <lastmod>2011-01-09T13:19:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/12/video-developing-android-rest-client-applications/</loc>
+    <loc>/2010/12/video-developing-android-rest-client-applications/</loc>
     <lastmod>2010-12-13T15:45:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/mobile/</loc>
+    <loc>/tags/mobile/</loc>
     <lastmod>2010-12-13T15:45:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/resstful/</loc>
+    <loc>/tags/resstful/</loc>
     <lastmod>2010-12-13T15:45:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/rest/</loc>
+    <loc>/tags/rest/</loc>
     <lastmod>2010-12-13T15:45:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/12/google-released-android-2-3-gingerbread/</loc>
+    <loc>/2010/12/google-released-android-2-3-gingerbread/</loc>
     <lastmod>2010-12-07T16:02:19+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/htc-desire/</loc>
+    <loc>/tags/htc-desire/</loc>
     <lastmod>2010-12-07T16:02:19+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/nexus-s/</loc>
+    <loc>/tags/nexus-s/</loc>
     <lastmod>2010-12-07T16:02:19+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/playstation-controller/</loc>
+    <loc>/tags/playstation-controller/</loc>
     <lastmod>2010-12-07T16:02:19+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/09/video-drive-the-surprising-truth-about-what-motivates-us/</loc>
+    <loc>/2010/09/video-drive-the-surprising-truth-about-what-motivates-us/</loc>
     <lastmod>2010-09-11T17:53:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/arts/</loc>
+    <loc>/tags/arts/</loc>
     <lastmod>2010-09-11T17:53:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/health/</loc>
+    <loc>/tags/health/</loc>
     <lastmod>2010-09-11T17:53:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/hierarchy-of-needs/</loc>
+    <loc>/tags/hierarchy-of-needs/</loc>
     <lastmod>2010-09-11T17:53:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/maslows-hierarchy-of-needs/</loc>
+    <loc>/tags/maslows-hierarchy-of-needs/</loc>
     <lastmod>2010-09-11T17:53:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/mental-health/</loc>
+    <loc>/tags/mental-health/</loc>
     <lastmod>2010-09-11T17:53:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/motivation/</loc>
+    <loc>/tags/motivation/</loc>
     <lastmod>2010-09-11T17:53:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/self-help/</loc>
+    <loc>/tags/self-help/</loc>
     <lastmod>2010-09-11T17:53:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/09/video-how-is-hadoop-used-at-twitter/</loc>
+    <loc>/2010/09/video-how-is-hadoop-used-at-twitter/</loc>
     <lastmod>2010-09-10T13:02:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/cloudera/</loc>
+    <loc>/tags/cloudera/</loc>
     <lastmod>2010-09-10T13:02:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/online-communities/</loc>
+    <loc>/tags/online-communities/</loc>
     <lastmod>2010-09-10T13:02:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/social-networking/</loc>
+    <loc>/tags/social-networking/</loc>
     <lastmod>2010-09-10T13:02:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/trending-and-popularity/</loc>
+    <loc>/tags/trending-and-popularity/</loc>
     <lastmod>2010-09-10T13:02:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/yahoo/</loc>
+    <loc>/tags/yahoo/</loc>
     <lastmod>2010-09-10T13:02:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/09/video-thoughts-on-google-instant/</loc>
+    <loc>/2010/09/video-thoughts-on-google-instant/</loc>
     <lastmod>2010-09-09T17:00:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/instant-search/</loc>
+    <loc>/tags/instant-search/</loc>
     <lastmod>2010-09-09T17:00:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/real-time/</loc>
+    <loc>/tags/real-time/</loc>
     <lastmod>2010-09-09T17:00:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/real-time-computing/</loc>
+    <loc>/tags/real-time-computing/</loc>
     <lastmod>2010-09-09T17:00:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/search/</loc>
+    <loc>/tags/search/</loc>
     <lastmod>2010-09-09T17:00:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/search-engine/</loc>
+    <loc>/tags/search-engine/</loc>
     <lastmod>2010-09-09T17:00:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/search-engine-optimization/</loc>
+    <loc>/tags/search-engine-optimization/</loc>
     <lastmod>2010-09-09T17:00:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/web-search-engine/</loc>
+    <loc>/tags/web-search-engine/</loc>
     <lastmod>2010-09-09T17:00:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/cluster-analysis/</loc>
+    <loc>/tags/cluster-analysis/</loc>
     <lastmod>2010-08-04T12:43:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/k-means-clustering/</loc>
+    <loc>/tags/k-means-clustering/</loc>
     <lastmod>2010-08-04T12:43:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/08/video-by-google-on-k-means-clustering/</loc>
+    <loc>/2010/08/video-by-google-on-k-means-clustering/</loc>
     <lastmod>2010-08-04T12:43:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/android-2.2/</loc>
+    <loc>/tags/android-2.2/</loc>
     <lastmod>2010-07-31T09:28:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/07/android-2-2-froyo-update-for-htc-desire/</loc>
+    <loc>/2010/07/android-2-2-froyo-update-for-htc-desire/</loc>
     <lastmod>2010-07-31T09:28:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/desire/</loc>
+    <loc>/tags/desire/</loc>
     <lastmod>2010-07-31T09:28:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/froyo/</loc>
+    <loc>/tags/froyo/</loc>
     <lastmod>2010-07-31T09:28:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/austria/</loc>
+    <loc>/tags/austria/</loc>
     <lastmod>2010-07-21T19:27:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/cloud-computing/</loc>
+    <loc>/tags/cloud-computing/</loc>
     <lastmod>2010-07-21T19:27:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/distributed-computing/</loc>
+    <loc>/tags/distributed-computing/</loc>
     <lastmod>2010-07-21T19:27:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/graz-university-of-technology/</loc>
+    <loc>/tags/graz-university-of-technology/</loc>
     <lastmod>2010-07-21T19:27:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/nosql-summer/</loc>
+    <loc>/categories/nosql-summer/</loc>
     <lastmod>2010-07-21T19:27:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/nosql-summer/</loc>
+    <loc>/tags/nosql-summer/</loc>
     <lastmod>2010-07-21T19:27:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/07/nosql-summer-in-graz-kick-off-meeting/</loc>
+    <loc>/2010/07/nosql-summer-in-graz-kick-off-meeting/</loc>
     <lastmod>2010-07-21T19:27:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/privacy/</loc>
+    <loc>/tags/privacy/</loc>
     <lastmod>2010-07-21T19:27:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/social-network/</loc>
+    <loc>/tags/social-network/</loc>
     <lastmod>2010-07-21T19:27:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/06/video-hbase-and-pig-the-hadoop-ecosystem-at-twitter/</loc>
+    <loc>/2010/06/video-hbase-and-pig-the-hadoop-ecosystem-at-twitter/</loc>
     <lastmod>2010-06-25T06:17:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/hbase/</loc>
+    <loc>/tags/hbase/</loc>
     <lastmod>2010-06-25T06:17:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/mapreduce/</loc>
+    <loc>/tags/mapreduce/</loc>
     <lastmod>2010-06-25T06:17:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/grabeeter/</loc>
+    <loc>/tags/grabeeter/</loc>
     <lastmod>2010-06-19T06:51:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/06/grabeeter-grab-and-search-your-tweets-offline-and-online/</loc>
+    <loc>/2010/06/grabeeter-grab-and-search-your-tweets-offline-and-online/</loc>
     <lastmod>2010-06-19T06:51:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/xml/</loc>
+    <loc>/tags/xml/</loc>
     <lastmod>2010-06-19T06:51:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/computing/</loc>
+    <loc>/tags/computing/</loc>
     <lastmod>2010-06-18T11:29:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/ibm/</loc>
+    <loc>/tags/ibm/</loc>
     <lastmod>2010-06-18T11:29:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/jeopardy/</loc>
+    <loc>/tags/jeopardy/</loc>
     <lastmod>2010-06-18T11:29:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/natural-language/</loc>
+    <loc>/tags/natural-language/</loc>
     <lastmod>2010-06-18T11:29:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/the-new-york-times/</loc>
+    <loc>/tags/the-new-york-times/</loc>
     <lastmod>2010-06-18T11:29:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/watson/</loc>
+    <loc>/tags/watson/</loc>
     <lastmod>2010-06-18T11:29:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/06/what-is-i-b-m-s-watson/</loc>
+    <loc>/2010/06/what-is-i-b-m-s-watson/</loc>
     <lastmod>2010-06-18T11:29:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/automobile/</loc>
+    <loc>/tags/automobile/</loc>
     <lastmod>2010-05-19T06:08:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/05/car-manufacturers-work-on-android-integration-for-their-vehicles-videos/</loc>
+    <loc>/2010/05/car-manufacturers-work-on-android-integration-for-their-vehicles-videos/</loc>
     <lastmod>2010-05-19T06:08:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/cars/</loc>
+    <loc>/tags/cars/</loc>
     <lastmod>2010-05-19T06:08:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/chevrolet-volt/</loc>
+    <loc>/tags/chevrolet-volt/</loc>
     <lastmod>2010-05-19T06:08:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/ford/</loc>
+    <loc>/tags/ford/</loc>
     <lastmod>2010-05-19T06:08:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/ford-motor-company/</loc>
+    <loc>/tags/ford-motor-company/</loc>
     <lastmod>2010-05-19T06:08:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/fordsync/</loc>
+    <loc>/tags/fordsync/</loc>
     <lastmod>2010-05-19T06:08:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/onstar/</loc>
+    <loc>/tags/onstar/</loc>
     <lastmod>2010-05-19T06:08:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/pandora-radio/</loc>
+    <loc>/tags/pandora-radio/</loc>
     <lastmod>2010-05-19T06:08:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/radio/</loc>
+    <loc>/tags/radio/</loc>
     <lastmod>2010-05-19T06:08:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/05/paper-information-and-communication-technologies-in-the-life-of-university-freshmen-an-analysis-of-change/</loc>
+    <loc>/2010/05/paper-information-and-communication-technologies-in-the-life-of-university-freshmen-an-analysis-of-change/</loc>
     <lastmod>2010-05-18T10:17:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/bibsonomy/</loc>
+    <loc>/tags/bibsonomy/</loc>
     <lastmod>2010-05-18T10:17:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/business/</loc>
+    <loc>/tags/business/</loc>
     <lastmod>2010-05-18T10:17:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/distance-learning/</loc>
+    <loc>/tags/distance-learning/</loc>
     <lastmod>2010-05-18T10:17:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/education/</loc>
+    <loc>/tags/education/</loc>
     <lastmod>2010-05-18T10:17:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/higher-education/</loc>
+    <loc>/tags/higher-education/</loc>
     <lastmod>2010-05-18T10:17:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/ict/</loc>
+    <loc>/tags/ict/</loc>
     <lastmod>2010-05-18T10:17:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/information-and-communication-technologies/</loc>
+    <loc>/tags/information-and-communication-technologies/</loc>
     <lastmod>2010-05-18T10:17:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/information-technology/</loc>
+    <loc>/tags/information-technology/</loc>
     <lastmod>2010-05-18T10:17:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/management/</loc>
+    <loc>/tags/management/</loc>
     <lastmod>2010-05-18T10:17:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/social-sciences/</loc>
+    <loc>/tags/social-sciences/</loc>
     <lastmod>2010-05-18T10:17:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/student/</loc>
+    <loc>/tags/student/</loc>
     <lastmod>2010-05-18T10:17:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/tel/</loc>
+    <loc>/tags/tel/</loc>
     <lastmod>2010-05-18T10:17:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/05/paper-toward-deep-learning-for-adult-students-in-online-courses/</loc>
+    <loc>/2010/05/paper-toward-deep-learning-for-adult-students-in-online-courses/</loc>
     <lastmod>2010-05-18T09:47:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/colleges-and-universities/</loc>
+    <loc>/tags/colleges-and-universities/</loc>
     <lastmod>2010-05-18T09:47:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/methods-and-theories/</loc>
+    <loc>/tags/methods-and-theories/</loc>
     <lastmod>2010-05-18T09:47:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/online-teaching-and-learning/</loc>
+    <loc>/tags/online-teaching-and-learning/</loc>
     <lastmod>2010-05-18T09:47:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/05/a-video-introduction-to-web3-0-the-semantic-web/</loc>
+    <loc>/2010/05/a-video-introduction-to-web3-0-the-semantic-web/</loc>
     <lastmod>2010-05-10T20:14:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/search-engines/</loc>
+    <loc>/tags/search-engines/</loc>
     <lastmod>2010-05-10T20:14:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/semantic-web/</loc>
+    <loc>/tags/semantic-web/</loc>
     <lastmod>2010-05-10T20:14:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/tim-berners-lee/</loc>
+    <loc>/tags/tim-berners-lee/</loc>
     <lastmod>2010-05-10T20:14:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/web-3.0/</loc>
+    <loc>/tags/web-3.0/</loc>
     <lastmod>2010-05-10T20:14:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/asynchrony/</loc>
+    <loc>/tags/asynchrony/</loc>
     <lastmod>2010-05-10T06:11:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/communication-theory/</loc>
+    <loc>/tags/communication-theory/</loc>
     <lastmod>2010-05-10T06:11:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/cryptography/</loc>
+    <loc>/tags/cryptography/</loc>
     <lastmod>2010-05-10T06:11:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/key/</loc>
+    <loc>/tags/key/</loc>
     <lastmod>2010-05-10T06:11:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/math/</loc>
+    <loc>/tags/math/</loc>
     <lastmod>2010-05-10T06:11:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/05/problem-of-public-key-infrastructure-pki-secure-key-exchange-video/</loc>
+    <loc>/2010/05/problem-of-public-key-infrastructure-pki-secure-key-exchange-video/</loc>
     <lastmod>2010-05-10T06:11:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/public-key-cryptography/</loc>
+    <loc>/tags/public-key-cryptography/</loc>
     <lastmod>2010-05-10T06:11:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/symmetric-key-algorithm/</loc>
+    <loc>/tags/symmetric-key-algorithm/</loc>
     <lastmod>2010-05-10T06:11:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/window/</loc>
+    <loc>/tags/window/</loc>
     <lastmod>2010-05-10T06:11:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/social-media/</loc>
+    <loc>/tags/social-media/</loc>
     <lastmod>2010-05-07T19:09:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/statistics/</loc>
+    <loc>/tags/statistics/</loc>
     <lastmod>2010-05-07T19:09:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/05/social-media-revolution-facts-and-figures/</loc>
+    <loc>/2010/05/social-media-revolution-facts-and-figures/</loc>
     <lastmod>2010-05-07T19:09:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/web2.0/</loc>
+    <loc>/categories/web2.0/</loc>
     <lastmod>2010-05-07T19:09:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/cassandra/</loc>
+    <loc>/tags/cassandra/</loc>
     <lastmod>2010-05-06T19:43:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/data-analysis/</loc>
+    <loc>/tags/data-analysis/</loc>
     <lastmod>2010-05-06T19:43:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/data-mining/</loc>
+    <loc>/tags/data-mining/</loc>
     <lastmod>2010-05-06T19:43:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/kevin-weil/</loc>
+    <loc>/tags/kevin-weil/</loc>
     <lastmod>2010-05-06T19:43:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/05/twitters-use-of-cassandra-pig-and-hbase-for-highly-distributed-data-processing-and-analysis/</loc>
+    <loc>/2010/05/twitters-use-of-cassandra-pig-and-hbase-for-highly-distributed-data-processing-and-analysis/</loc>
     <lastmod>2010-05-06T19:43:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/05/video-how-fast-is-google-chrome/</loc>
+    <loc>/2010/05/video-how-fast-is-google-chrome/</loc>
     <lastmod>2010-05-05T18:12:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/google-chrome/</loc>
+    <loc>/tags/google-chrome/</loc>
     <lastmod>2010-05-05T18:12:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/searching/</loc>
+    <loc>/tags/searching/</loc>
     <lastmod>2010-05-05T18:12:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/05/paper-peer-assessment-system-for-modern-learning-settings-towards-a-flexible-e-assessment-system/</loc>
+    <loc>/2010/05/paper-peer-assessment-system-for-modern-learning-settings-towards-a-flexible-e-assessment-system/</loc>
     <lastmod>2010-05-04T08:27:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/assessment/</loc>
+    <loc>/tags/assessment/</loc>
     <lastmod>2010-05-04T08:27:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/graz/</loc>
+    <loc>/tags/graz/</loc>
     <lastmod>2010-05-04T08:27:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/instructional-technology/</loc>
+    <loc>/tags/instructional-technology/</loc>
     <lastmod>2010-05-04T08:27:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/learning-management-system/</loc>
+    <loc>/tags/learning-management-system/</loc>
     <lastmod>2010-05-04T08:27:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/peer-assessment/</loc>
+    <loc>/tags/peer-assessment/</loc>
     <lastmod>2010-05-04T08:27:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/technology-enhanced-learning/</loc>
+    <loc>/tags/technology-enhanced-learning/</loc>
     <lastmod>2010-05-04T08:27:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/tu-graz/</loc>
+    <loc>/tags/tu-graz/</loc>
     <lastmod>2010-05-04T08:27:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/fiverr/</loc>
+    <loc>/tags/fiverr/</loc>
     <lastmod>2010-05-02T17:08:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/05/fiverr-offer-or-buy-a-micro-services-for-5/</loc>
+    <loc>/2010/05/fiverr-offer-or-buy-a-micro-services-for-5/</loc>
     <lastmod>2010-05-02T17:08:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/micro-services/</loc>
+    <loc>/tags/micro-services/</loc>
     <lastmod>2010-05-02T17:08:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/04/video-tedxnyed-dan-meyer-presents-impressive-ways-to-teach-mathematics/</loc>
+    <loc>/2010/04/video-tedxnyed-dan-meyer-presents-impressive-ways-to-teach-mathematics/</loc>
     <lastmod>2010-04-27T12:06:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/academic-departments/</loc>
+    <loc>/tags/academic-departments/</loc>
     <lastmod>2010-04-27T12:06:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/coffee/</loc>
+    <loc>/tags/coffee/</loc>
     <lastmod>2010-04-27T12:06:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/dan-meyer/</loc>
+    <loc>/tags/dan-meyer/</loc>
     <lastmod>2010-04-27T12:06:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/e-learning/</loc>
+    <loc>/tags/e-learning/</loc>
     <lastmod>2010-04-27T12:06:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/mathematics/</loc>
+    <loc>/tags/mathematics/</loc>
     <lastmod>2010-04-27T12:06:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/04/learning-management-systems-are-they-knowledge-management-tools/</loc>
+    <loc>/2010/04/learning-management-systems-are-they-knowledge-management-tools/</loc>
     <lastmod>2010-04-27T09:51:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/jordan/</loc>
+    <loc>/tags/jordan/</loc>
     <lastmod>2010-04-27T09:51:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/lms/</loc>
+    <loc>/tags/lms/</loc>
     <lastmod>2010-04-27T09:51:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/middle-east/</loc>
+    <loc>/tags/middle-east/</loc>
     <lastmod>2010-04-27T09:51:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/open-university/</loc>
+    <loc>/tags/open-university/</loc>
     <lastmod>2010-04-27T09:51:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/internet-privacy/</loc>
+    <loc>/tags/internet-privacy/</loc>
     <lastmod>2010-04-27T08:28:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/mark-zuckerberg/</loc>
+    <loc>/tags/mark-zuckerberg/</loc>
     <lastmod>2010-04-27T08:28:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/04/nobody-can-stop-facebook-because-nobody-understands-facebook/</loc>
+    <loc>/2010/04/nobody-can-stop-facebook-because-nobody-understands-facebook/</loc>
     <lastmod>2010-04-27T08:28:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/protocols/</loc>
+    <loc>/tags/protocols/</loc>
     <lastmod>2010-04-27T08:28:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/commoncraft/</loc>
+    <loc>/tags/commoncraft/</loc>
     <lastmod>2010-04-26T09:46:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/investing/</loc>
+    <loc>/tags/investing/</loc>
     <lastmod>2010-04-26T09:46:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/money/</loc>
+    <loc>/tags/money/</loc>
     <lastmod>2010-04-26T09:46:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/04/what-does-investing-money-really-mean/</loc>
+    <loc>/2010/04/what-does-investing-money-really-mean/</loc>
     <lastmod>2010-04-26T09:46:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/03/video-understanding-gradients-in-css3/</loc>
+    <loc>/2010/03/video-understanding-gradients-in-css3/</loc>
     <lastmod>2010-03-24T07:35:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/css3/</loc>
+    <loc>/tags/css3/</loc>
     <lastmod>2010-03-24T07:35:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/gradients/</loc>
+    <loc>/tags/gradients/</loc>
     <lastmod>2010-03-24T07:35:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/nettuts/</loc>
+    <loc>/tags/nettuts/</loc>
     <lastmod>2010-03-24T07:35:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/web/</loc>
+    <loc>/tags/web/</loc>
     <lastmod>2010-03-24T07:35:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/webdesign/</loc>
+    <loc>/tags/webdesign/</loc>
     <lastmod>2010-03-24T07:35:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/webdevelopment/</loc>
+    <loc>/tags/webdevelopment/</loc>
     <lastmod>2010-03-24T07:35:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/03/cartoon-think-before-you-tweet/</loc>
+    <loc>/2010/03/cartoon-think-before-you-tweet/</loc>
     <lastmod>2010-03-20T18:34:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/evidence/</loc>
+    <loc>/tags/evidence/</loc>
     <lastmod>2010-03-20T18:34:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/twittersphere/</loc>
+    <loc>/tags/twittersphere/</loc>
     <lastmod>2010-03-20T18:34:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/add-new-tag/</loc>
+    <loc>/tags/add-new-tag/</loc>
     <lastmod>2010-02-08T21:41:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/downloads/</loc>
+    <loc>/tags/downloads/</loc>
     <lastmod>2010-02-08T21:41:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/free/</loc>
+    <loc>/tags/free/</loc>
     <lastmod>2010-02-08T21:41:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/game/</loc>
+    <loc>/tags/game/</loc>
     <lastmod>2010-02-08T21:41:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/javafx/</loc>
+    <loc>/tags/javafx/</loc>
     <lastmod>2010-02-08T21:41:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/02/javafx-links-of-the-week-2-february-2010/</loc>
+    <loc>/2010/02/javafx-links-of-the-week-2-february-2010/</loc>
     <lastmod>2010-02-08T21:41:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/linksoftheweek/</loc>
+    <loc>/tags/linksoftheweek/</loc>
     <lastmod>2010-02-08T21:41:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/physics/</loc>
+    <loc>/tags/physics/</loc>
     <lastmod>2010-02-08T21:41:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/puzzle/</loc>
+    <loc>/tags/puzzle/</loc>
     <lastmod>2010-02-08T21:41:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/tetris/</loc>
+    <loc>/tags/tetris/</loc>
     <lastmod>2010-02-08T21:41:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/tetris-like/</loc>
+    <loc>/tags/tetris-like/</loc>
     <lastmod>2010-02-08T21:41:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/02/javafx-links-of-the-week-1-february-2010/</loc>
+    <loc>/2010/02/javafx-links-of-the-week-1-february-2010/</loc>
     <lastmod>2010-02-01T08:20:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/links-of-the-week/</loc>
+    <loc>/tags/links-of-the-week/</loc>
     <lastmod>2010-02-01T08:20:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/oracle-corporation/</loc>
+    <loc>/tags/oracle-corporation/</loc>
     <lastmod>2010-02-01T08:20:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/platform-game/</loc>
+    <loc>/tags/platform-game/</loc>
     <lastmod>2010-02-01T08:20:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/bbc/</loc>
+    <loc>/tags/bbc/</loc>
     <lastmod>2010-01-31T20:43:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/broadband-internet-access/</loc>
+    <loc>/tags/broadband-internet-access/</loc>
     <lastmod>2010-01-31T20:43:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/digital-revolution/</loc>
+    <loc>/tags/digital-revolution/</loc>
     <lastmod>2010-01-31T20:43:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/future-of-internet/</loc>
+    <loc>/tags/future-of-internet/</loc>
     <lastmod>2010-01-31T20:43:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/history/</loc>
+    <loc>/tags/history/</loc>
     <lastmod>2010-01-31T20:43:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/invention/</loc>
+    <loc>/tags/invention/</loc>
     <lastmod>2010-01-31T20:43:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/population/</loc>
+    <loc>/tags/population/</loc>
     <lastmod>2010-01-31T20:43:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/01/the-virtual-revolution-covered-by-the-bbc/</loc>
+    <loc>/2010/01/the-virtual-revolution-covered-by-the-bbc/</loc>
     <lastmod>2010-01-31T20:43:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/virtual-revolution/</loc>
+    <loc>/tags/virtual-revolution/</loc>
     <lastmod>2010-01-31T20:43:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/articles/</loc>
+    <loc>/tags/articles/</loc>
     <lastmod>2010-01-28T21:03:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/protocol/</loc>
+    <loc>/tags/protocol/</loc>
     <lastmod>2010-01-28T21:03:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/pubsubhubbub/</loc>
+    <loc>/tags/pubsubhubbub/</loc>
     <lastmod>2010-01-28T21:03:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/01/what-is-pupsubhubup/</loc>
+    <loc>/2010/01/what-is-pupsubhubup/</loc>
     <lastmod>2010-01-28T21:03:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/01/livestream-apple-ipad-the-new-apple-tablet/</loc>
+    <loc>/2010/01/livestream-apple-ipad-the-new-apple-tablet/</loc>
     <lastmod>2010-01-27T18:54:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/privacy-settings/</loc>
+    <loc>/tags/privacy-settings/</loc>
     <lastmod>2010-01-10T15:26:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/techcrunch/</loc>
+    <loc>/tags/techcrunch/</loc>
     <lastmod>2010-01-10T15:26:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/01/the-age-of-privacy-is-over-says-facebooks-ceo-mark-zuckerberg/</loc>
+    <loc>/2010/01/the-age-of-privacy-is-over-says-facebooks-ceo-mark-zuckerberg/</loc>
     <lastmod>2010-01-10T15:26:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/blog/</loc>
+    <loc>/tags/blog/</loc>
     <lastmod>2010-01-08T16:32:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/failure/</loc>
+    <loc>/tags/failure/</loc>
     <lastmod>2010-01-08T16:32:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2010/01/problems-with-wordpress-automatic-upgrade-solved/</loc>
+    <loc>/2010/01/problems-with-wordpress-automatic-upgrade-solved/</loc>
     <lastmod>2010-01-08T16:32:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/weblog/</loc>
+    <loc>/tags/weblog/</loc>
     <lastmod>2010-01-08T16:32:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/website/</loc>
+    <loc>/tags/website/</loc>
     <lastmod>2010-01-08T16:32:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/wordpress/</loc>
+    <loc>/tags/wordpress/</loc>
     <lastmod>2010-01-08T16:32:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/happy-new-year/</loc>
+    <loc>/tags/happy-new-year/</loc>
     <lastmod>2009-12-31T11:34:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/12/happy-new-year-2010/</loc>
+    <loc>/2009/12/happy-new-year-2010/</loc>
     <lastmod>2009-12-31T11:34:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/new-year/</loc>
+    <loc>/tags/new-year/</loc>
     <lastmod>2009-12-31T11:34:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/wishes/</loc>
+    <loc>/tags/wishes/</loc>
     <lastmod>2009-12-31T11:34:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/eastern-tyrol/</loc>
+    <loc>/tags/eastern-tyrol/</loc>
     <lastmod>2009-12-31T10:48:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/12/great-view-sitting-on-my-balcony/</loc>
+    <loc>/2009/12/great-view-sitting-on-my-balcony/</loc>
     <lastmod>2009-12-31T10:48:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/holiday/</loc>
+    <loc>/tags/holiday/</loc>
     <lastmod>2009-12-31T10:48:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/mountains/</loc>
+    <loc>/tags/mountains/</loc>
     <lastmod>2009-12-31T10:48:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/oberleibnig/</loc>
+    <loc>/tags/oberleibnig/</loc>
     <lastmod>2009-12-31T10:48:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/osttirol/</loc>
+    <loc>/tags/osttirol/</loc>
     <lastmod>2009-12-31T10:48:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/snow/</loc>
+    <loc>/tags/snow/</loc>
     <lastmod>2009-12-31T10:48:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/st.-johann-im-walde/</loc>
+    <loc>/tags/st.-johann-im-walde/</loc>
     <lastmod>2009-12-31T10:48:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/weihnachten/</loc>
+    <loc>/tags/weihnachten/</loc>
     <lastmod>2009-12-31T10:48:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/xmas/</loc>
+    <loc>/tags/xmas/</loc>
     <lastmod>2009-12-31T10:48:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/12/video-did-you-know-4-0/</loc>
+    <loc>/2009/12/video-did-you-know-4-0/</loc>
     <lastmod>2009-12-28T23:02:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/did-you-know/</loc>
+    <loc>/tags/did-you-know/</loc>
     <lastmod>2009-12-28T23:02:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/future/</loc>
+    <loc>/tags/future/</loc>
     <lastmod>2009-12-28T23:02:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/trends/</loc>
+    <loc>/tags/trends/</loc>
     <lastmod>2009-12-28T23:02:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/wordpress-upgrade/</loc>
+    <loc>/tags/wordpress-upgrade/</loc>
     <lastmod>2009-12-28T22:30:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/12/wordpress-upgrade-worked-great/</loc>
+    <loc>/2009/12/wordpress-upgrade-worked-great/</loc>
     <lastmod>2009-12-28T22:30:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/bing/</loc>
+    <loc>/tags/bing/</loc>
     <lastmod>2009-11-23T06:37:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/economic/</loc>
+    <loc>/tags/economic/</loc>
     <lastmod>2009-11-23T06:37:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/information-visualization/</loc>
+    <loc>/tags/information-visualization/</loc>
     <lastmod>2009-11-23T06:37:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/microsoft/</loc>
+    <loc>/tags/microsoft/</loc>
     <lastmod>2009-11-23T06:37:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/microsoft-live-labs/</loc>
+    <loc>/tags/microsoft-live-labs/</loc>
     <lastmod>2009-11-23T06:37:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/monopolies-and-oligopolies/</loc>
+    <loc>/tags/monopolies-and-oligopolies/</loc>
     <lastmod>2009-11-23T06:37:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/msn/</loc>
+    <loc>/tags/msn/</loc>
     <lastmod>2009-11-23T06:37:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/pivot/</loc>
+    <loc>/tags/pivot/</loc>
     <lastmod>2009-11-23T06:37:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/11/pivot-developed-by-microsoft-live-labs/</loc>
+    <loc>/2009/11/pivot-developed-by-microsoft-live-labs/</loc>
     <lastmod>2009-11-23T06:37:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/windows-live/</loc>
+    <loc>/tags/windows-live/</loc>
     <lastmod>2009-11-23T06:37:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/berkshire/</loc>
+    <loc>/tags/berkshire/</loc>
     <lastmod>2009-11-15T19:18:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/england/</loc>
+    <loc>/tags/england/</loc>
     <lastmod>2009-11-15T19:18:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/network-analysis/</loc>
+    <loc>/tags/network-analysis/</loc>
     <lastmod>2009-11-15T19:18:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/network-theory/</loc>
+    <loc>/tags/network-theory/</loc>
     <lastmod>2009-11-15T19:18:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/products-and-services/</loc>
+    <loc>/tags/products-and-services/</loc>
     <lastmod>2009-11-15T19:18:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/reading/</loc>
+    <loc>/tags/reading/</loc>
     <lastmod>2009-11-15T19:18:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/reading-list/</loc>
+    <loc>/tags/reading-list/</loc>
     <lastmod>2009-11-15T19:18:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/semantic-web/</loc>
+    <loc>/categories/semantic-web/</loc>
     <lastmod>2009-11-15T19:18:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/social-network-analysis/</loc>
+    <loc>/tags/social-network-analysis/</loc>
     <lastmod>2009-11-15T19:18:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/social-networks/</loc>
+    <loc>/tags/social-networks/</loc>
     <lastmod>2009-11-15T19:18:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/society-and-culture/</loc>
+    <loc>/tags/society-and-culture/</loc>
     <lastmod>2009-11-15T19:18:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/web-science/</loc>
+    <loc>/tags/web-science/</loc>
     <lastmod>2009-11-15T19:18:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/11/web-science-reading-list/</loc>
+    <loc>/2009/11/web-science-reading-list/</loc>
     <lastmod>2009-11-15T19:18:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/web-technologies/</loc>
+    <loc>/tags/web-technologies/</loc>
     <lastmod>2009-11-15T19:18:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/web3.0/</loc>
+    <loc>/tags/web3.0/</loc>
     <lastmod>2009-11-15T19:18:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/11/video-the-evolution-of-google/</loc>
+    <loc>/2009/11/video-the-evolution-of-google/</loc>
     <lastmod>2009-11-13T07:44:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/evolution/</loc>
+    <loc>/tags/evolution/</loc>
     <lastmod>2009-11-13T07:44:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/evolution-of-google/</loc>
+    <loc>/tags/evolution-of-google/</loc>
     <lastmod>2009-11-13T07:44:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/11/video-rethink-the-data-warehouse-with-hadoop-and-hive/</loc>
+    <loc>/2009/11/video-rethink-the-data-warehouse-with-hadoop-and-hive/</loc>
     <lastmod>2009-11-12T08:07:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/analysis/</loc>
+    <loc>/tags/analysis/</loc>
     <lastmod>2009-11-12T08:07:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/data/</loc>
+    <loc>/tags/data/</loc>
     <lastmod>2009-11-12T08:07:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/data-warehouse/</loc>
+    <loc>/tags/data-warehouse/</loc>
     <lastmod>2009-11-12T08:07:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/data-warehousing/</loc>
+    <loc>/tags/data-warehousing/</loc>
     <lastmod>2009-11-12T08:07:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/extraction-and-transformation/</loc>
+    <loc>/tags/extraction-and-transformation/</loc>
     <lastmod>2009-11-12T08:07:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/metadata/</loc>
+    <loc>/tags/metadata/</loc>
     <lastmod>2009-11-12T08:07:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/application/</loc>
+    <loc>/tags/application/</loc>
     <lastmod>2009-11-05T08:16:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/ar/</loc>
+    <loc>/tags/ar/</loc>
     <lastmod>2009-11-05T08:16:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/augmented-reality/</loc>
+    <loc>/tags/augmented-reality/</loc>
     <lastmod>2009-11-05T08:16:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/bci/</loc>
+    <loc>/tags/bci/</loc>
     <lastmod>2009-11-05T08:16:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/brain-computer-interface/</loc>
+    <loc>/tags/brain-computer-interface/</loc>
     <lastmod>2009-11-05T08:16:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/gesture-based-interfacaes/</loc>
+    <loc>/tags/gesture-based-interfacaes/</loc>
     <lastmod>2009-11-05T08:16:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/handhelds/</loc>
+    <loc>/tags/handhelds/</loc>
     <lastmod>2009-11-05T08:16:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/head-up-display/</loc>
+    <loc>/tags/head-up-display/</loc>
     <lastmod>2009-11-05T08:16:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/11/the-future-of-interface-design-how-will-it-look-like/</loc>
+    <loc>/2009/11/the-future-of-interface-design-how-will-it-look-like/</loc>
     <lastmod>2009-11-05T08:16:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/interface-design/</loc>
+    <loc>/tags/interface-design/</loc>
     <lastmod>2009-11-05T08:16:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/mobile-device/</loc>
+    <loc>/tags/mobile-device/</loc>
     <lastmod>2009-11-05T08:16:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/science-fiction/</loc>
+    <loc>/tags/science-fiction/</loc>
     <lastmod>2009-11-05T08:16:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/sensor-based-interface/</loc>
+    <loc>/tags/sensor-based-interface/</loc>
     <lastmod>2009-11-05T08:16:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/smart-surfaces/</loc>
+    <loc>/tags/smart-surfaces/</loc>
     <lastmod>2009-11-05T08:16:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/smartphone/</loc>
+    <loc>/tags/smartphone/</loc>
     <lastmod>2009-11-05T08:16:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/spatial-motion-interfaces/</loc>
+    <loc>/tags/spatial-motion-interfaces/</loc>
     <lastmod>2009-11-05T08:16:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/usability/</loc>
+    <loc>/categories/usability/</loc>
     <lastmod>2009-11-05T08:16:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/user-interfaces/</loc>
+    <loc>/tags/user-interfaces/</loc>
     <lastmod>2009-11-05T08:16:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/virtual-reality/</loc>
+    <loc>/tags/virtual-reality/</loc>
     <lastmod>2009-11-05T08:16:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/chinese-language/</loc>
+    <loc>/tags/chinese-language/</loc>
     <lastmod>2009-11-01T18:49:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/eric-e.-schmidt/</loc>
+    <loc>/tags/eric-e.-schmidt/</loc>
     <lastmod>2009-11-01T18:49:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/eric-schmidt/</loc>
+    <loc>/tags/eric-schmidt/</loc>
     <lastmod>2009-11-01T18:49:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/moores-law/</loc>
+    <loc>/tags/moores-law/</loc>
     <lastmod>2009-11-01T18:49:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/11/what-will-the-web-look-like-in-five-years/</loc>
+    <loc>/2009/11/what-will-the-web-look-like-in-five-years/</loc>
     <lastmod>2009-11-01T18:49:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/companies/</loc>
+    <loc>/tags/companies/</loc>
     <lastmod>2009-10-09T06:22:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/10/google-grippe-trends-fur-oesterreich-verfuegbar/</loc>
+    <loc>/2009/10/google-grippe-trends-fur-oesterreich-verfuegbar/</loc>
     <lastmod>2009-10-09T06:22:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/grippe/</loc>
+    <loc>/tags/grippe/</loc>
     <lastmod>2009-10-09T06:22:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/homepage/</loc>
+    <loc>/tags/homepage/</loc>
     <lastmod>2009-10-09T06:22:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/10/tutorial-java-online-programming-course/</loc>
+    <loc>/2009/10/tutorial-java-online-programming-course/</loc>
     <lastmod>2009-10-08T19:35:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/electronic-learning/</loc>
+    <loc>/tags/electronic-learning/</loc>
     <lastmod>2009-10-08T19:35:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/faqs-help-and-tutorials/</loc>
+    <loc>/tags/faqs-help-and-tutorials/</loc>
     <lastmod>2009-10-08T19:35:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/programming-language/</loc>
+    <loc>/tags/programming-language/</loc>
     <lastmod>2009-10-08T19:35:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/tutorials/</loc>
+    <loc>/tags/tutorials/</loc>
     <lastmod>2009-10-08T19:35:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/10/video-user-interface-fundamentals-for-programmers/</loc>
+    <loc>/2009/10/video-user-interface-fundamentals-for-programmers/</loc>
     <lastmod>2009-10-08T08:20:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/companies-and-consultants/</loc>
+    <loc>/tags/companies-and-consultants/</loc>
     <lastmod>2009-10-08T08:20:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/human-computer-interaction/</loc>
+    <loc>/tags/human-computer-interaction/</loc>
     <lastmod>2009-10-08T08:20:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/user-interface-design/</loc>
+    <loc>/tags/user-interface-design/</loc>
     <lastmod>2009-10-08T08:20:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/vimeo/</loc>
+    <loc>/tags/vimeo/</loc>
     <lastmod>2009-10-08T08:20:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/distributions/</loc>
+    <loc>/tags/distributions/</loc>
     <lastmod>2009-09-25T17:31:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/hewlett-packard/</loc>
+    <loc>/tags/hewlett-packard/</loc>
     <lastmod>2009-09-25T17:31:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/09/howto-install-broadcom-wireless-device-on-hp-mini-5101-running-ubuntu-jaunty/</loc>
+    <loc>/2009/09/howto-install-broadcom-wireless-device-on-hp-mini-5101-running-ubuntu-jaunty/</loc>
     <lastmod>2009-09-25T17:31:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/hp-mini-5101/</loc>
+    <loc>/tags/hp-mini-5101/</loc>
     <lastmod>2009-09-25T17:31:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/linux/</loc>
+    <loc>/tags/linux/</loc>
     <lastmod>2009-09-25T17:31:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/netbook/</loc>
+    <loc>/tags/netbook/</loc>
     <lastmod>2009-09-25T17:31:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/suse-linux/</loc>
+    <loc>/tags/suse-linux/</loc>
     <lastmod>2009-09-25T17:31:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/suse-linux-enterprise-desktop/</loc>
+    <loc>/tags/suse-linux-enterprise-desktop/</loc>
     <lastmod>2009-09-25T17:31:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/08/touchable-holography/</loc>
+    <loc>/2009/08/touchable-holography/</loc>
     <lastmod>2009-08-06T16:18:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/academic-publishing/</loc>
+    <loc>/tags/academic-publishing/</loc>
     <lastmod>2009-08-06T16:18:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/computer-graphics/</loc>
+    <loc>/tags/computer-graphics/</loc>
     <lastmod>2009-08-06T16:18:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/conferences/</loc>
+    <loc>/tags/conferences/</loc>
     <lastmod>2009-08-06T16:18:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/holography/</loc>
+    <loc>/tags/holography/</loc>
     <lastmod>2009-08-06T16:18:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/light-and-optics/</loc>
+    <loc>/tags/light-and-optics/</loc>
     <lastmod>2009-08-06T16:18:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/08/video-the-history-of-business-intelligence/</loc>
+    <loc>/2009/08/video-the-history-of-business-intelligence/</loc>
     <lastmod>2009-08-01T09:17:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/business-administration/</loc>
+    <loc>/tags/business-administration/</loc>
     <lastmod>2009-08-01T09:17:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/business-and-economy/</loc>
+    <loc>/tags/business-and-economy/</loc>
     <lastmod>2009-08-01T09:17:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/databases/</loc>
+    <loc>/tags/databases/</loc>
     <lastmod>2009-08-01T09:17:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/lightstreamer/</loc>
+    <loc>/tags/lightstreamer/</loc>
     <lastmod>2009-08-01T09:17:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/valemobi/</loc>
+    <loc>/tags/valemobi/</loc>
     <lastmod>2009-08-01T09:17:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/07/video-e-portfolios-for-beginners-and-the-mahara-uk-09-conference/</loc>
+    <loc>/2009/07/video-e-portfolios-for-beginners-and-the-mahara-uk-09-conference/</loc>
     <lastmod>2009-07-24T09:01:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/advocacy/</loc>
+    <loc>/tags/advocacy/</loc>
     <lastmod>2009-07-24T09:01:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/directories/</loc>
+    <loc>/tags/directories/</loc>
     <lastmod>2009-07-24T09:01:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/e-portfolio/</loc>
+    <loc>/tags/e-portfolio/</loc>
     <lastmod>2009-07-24T09:01:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/institute-of-education/</loc>
+    <loc>/tags/institute-of-education/</loc>
     <lastmod>2009-07-24T09:01:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/mahara/</loc>
+    <loc>/tags/mahara/</loc>
     <lastmod>2009-07-24T09:01:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/mahara-uk-09/</loc>
+    <loc>/tags/mahara-uk-09/</loc>
     <lastmod>2009-07-24T09:01:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/university-of-london/</loc>
+    <loc>/tags/university-of-london/</loc>
     <lastmod>2009-07-24T09:01:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/07/ted-talks-pattie-maes-demos-the-sixth-sense/</loc>
+    <loc>/2009/07/ted-talks-pattie-maes-demos-the-sixth-sense/</loc>
     <lastmod>2009-07-22T09:07:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/fluid-interfaces-group/</loc>
+    <loc>/tags/fluid-interfaces-group/</loc>
     <lastmod>2009-07-22T09:07:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/massachusetts-institute-of-technology/</loc>
+    <loc>/tags/massachusetts-institute-of-technology/</loc>
     <lastmod>2009-07-22T09:07:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/media-lab/</loc>
+    <loc>/tags/media-lab/</loc>
     <lastmod>2009-07-22T09:07:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/mit-media-lab/</loc>
+    <loc>/tags/mit-media-lab/</loc>
     <lastmod>2009-07-22T09:07:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/mobile-phone/</loc>
+    <loc>/tags/mobile-phone/</loc>
     <lastmod>2009-07-22T09:07:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/pattie-maes/</loc>
+    <loc>/tags/pattie-maes/</loc>
     <lastmod>2009-07-22T09:07:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/wearable-computer/</loc>
+    <loc>/tags/wearable-computer/</loc>
     <lastmod>2009-07-22T09:07:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/wearables/</loc>
+    <loc>/tags/wearables/</loc>
     <lastmod>2009-07-22T09:07:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/wired-news/</loc>
+    <loc>/tags/wired-news/</loc>
     <lastmod>2009-07-22T09:07:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/wired.com/</loc>
+    <loc>/tags/wired.com/</loc>
     <lastmod>2009-07-22T09:07:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/google-wave/</loc>
+    <loc>/tags/google-wave/</loc>
     <lastmod>2009-06-13T09:32:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/google-wave-api/</loc>
+    <loc>/tags/google-wave-api/</loc>
     <lastmod>2009-06-13T09:32:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/06/google-wave-api-combined-with-the-wookie-engine-and-integrated-in-a-moodle-platform/</loc>
+    <loc>/2009/06/google-wave-api-combined-with-the-wookie-engine-and-integrated-in-a-moodle-platform/</loc>
     <lastmod>2009-06-13T09:32:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/html/</loc>
+    <loc>/tags/html/</loc>
     <lastmod>2009-06-13T09:32:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/moodle/</loc>
+    <loc>/tags/moodle/</loc>
     <lastmod>2009-06-13T09:32:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/personal-learning-environment/</loc>
+    <loc>/tags/personal-learning-environment/</loc>
     <lastmod>2009-06-13T09:32:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/ples/</loc>
+    <loc>/tags/ples/</loc>
     <lastmod>2009-06-13T09:32:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/scott-wilson/</loc>
+    <loc>/tags/scott-wilson/</loc>
     <lastmod>2009-06-13T09:32:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/virtual-learning-environment/</loc>
+    <loc>/tags/virtual-learning-environment/</loc>
     <lastmod>2009-06-13T09:32:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/vles/</loc>
+    <loc>/tags/vles/</loc>
     <lastmod>2009-06-13T09:32:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/wooke-engine/</loc>
+    <loc>/tags/wooke-engine/</loc>
     <lastmod>2009-06-13T09:32:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/05/google-wave-googles-next-killer-application/</loc>
+    <loc>/2009/05/google-wave-googles-next-killer-application/</loc>
     <lastmod>2009-05-30T09:49:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/googlewave/</loc>
+    <loc>/tags/googlewave/</loc>
     <lastmod>2009-05-30T09:49:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/instant-messaging/</loc>
+    <loc>/tags/instant-messaging/</loc>
     <lastmod>2009-05-30T09:49:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/spell-checker/</loc>
+    <loc>/tags/spell-checker/</loc>
     <lastmod>2009-05-30T09:49:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/spelling/</loc>
+    <loc>/tags/spelling/</loc>
     <lastmod>2009-05-30T09:49:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/05/paper-accepted-will-personal-learning-environments-become-ubiquitous-through-the-use-of-widgets/</loc>
+    <loc>/2009/05/paper-accepted-will-personal-learning-environments-become-ubiquitous-through-the-use-of-widgets/</loc>
     <lastmod>2009-05-25T18:37:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/elearning/</loc>
+    <loc>/tags/elearning/</loc>
     <lastmod>2009-05-25T18:37:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/management-information-systems/</loc>
+    <loc>/tags/management-information-systems/</loc>
     <lastmod>2009-05-25T18:37:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/management-science/</loc>
+    <loc>/tags/management-science/</loc>
     <lastmod>2009-05-25T18:37:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/mlearning/</loc>
+    <loc>/tags/mlearning/</loc>
     <lastmod>2009-05-25T18:37:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/publications/</loc>
+    <loc>/categories/publications/</loc>
     <lastmod>2009-05-25T18:37:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/ulearning/</loc>
+    <loc>/tags/ulearning/</loc>
     <lastmod>2009-05-25T18:37:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/widgets/</loc>
+    <loc>/tags/widgets/</loc>
     <lastmod>2009-05-25T18:37:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/05/designing-for-change-mash-up-personal-learning-environments/</loc>
+    <loc>/2009/05/designing-for-change-mash-up-personal-learning-environments/</loc>
     <lastmod>2009-05-19T08:36:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/history-of-personal-learning-environments/</loc>
+    <loc>/tags/history-of-personal-learning-environments/</loc>
     <lastmod>2009-05-19T08:36:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/link/</loc>
+    <loc>/tags/link/</loc>
     <lastmod>2009-05-19T08:36:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/wikipedia/</loc>
+    <loc>/tags/wikipedia/</loc>
     <lastmod>2009-05-19T08:36:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/05/video-trouble-with-the-twittersphere/</loc>
+    <loc>/2009/05/video-trouble-with-the-twittersphere/</loc>
     <lastmod>2009-05-07T09:28:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/on-the-web/</loc>
+    <loc>/tags/on-the-web/</loc>
     <lastmod>2009-05-07T09:28:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/problems/</loc>
+    <loc>/tags/problems/</loc>
     <lastmod>2009-05-07T09:28:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/trouble/</loc>
+    <loc>/tags/trouble/</loc>
     <lastmod>2009-05-07T09:28:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/web2.0/</loc>
+    <loc>/tags/web2.0/</loc>
     <lastmod>2009-05-07T09:28:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/04/video-evan-williams-on-how-twitters-spectacular-growth-is-being-driven-by-unexpected-uses/</loc>
+    <loc>/2009/04/video-evan-williams-on-how-twitters-spectacular-growth-is-being-driven-by-unexpected-uses/</loc>
     <lastmod>2009-04-23T19:22:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/bill-gates/</loc>
+    <loc>/tags/bill-gates/</loc>
     <lastmod>2009-04-23T19:22:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/evan-williams/</loc>
+    <loc>/tags/evan-williams/</loc>
     <lastmod>2009-04-23T19:22:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/ted-conference/</loc>
+    <loc>/tags/ted-conference/</loc>
     <lastmod>2009-04-23T19:22:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/adam-wilson/</loc>
+    <loc>/tags/adam-wilson/</loc>
     <lastmod>2009-04-21T08:35:08+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/biomedical-engineering/</loc>
+    <loc>/tags/biomedical-engineering/</loc>
     <lastmod>2009-04-21T08:35:08+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/disability/</loc>
+    <loc>/tags/disability/</loc>
     <lastmod>2009-04-21T08:35:08+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/electroencephalography/</loc>
+    <loc>/tags/electroencephalography/</loc>
     <lastmod>2009-04-21T08:35:08+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/04/scientist-developes-a-brain-to-twitter-interface/</loc>
+    <loc>/2009/04/scientist-developes-a-brain-to-twitter-interface/</loc>
     <lastmod>2009-04-21T08:35:08+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/text-messaging/</loc>
+    <loc>/tags/text-messaging/</loc>
     <lastmod>2009-04-21T08:35:08+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/university-of-wisconsin-madison/</loc>
+    <loc>/tags/university-of-wisconsin-madison/</loc>
     <lastmod>2009-04-21T08:35:08+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/david-peterson/</loc>
+    <loc>/tags/david-peterson/</loc>
     <lastmod>2009-03-23T19:47:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/knowledge-representation/</loc>
+    <loc>/tags/knowledge-representation/</loc>
     <lastmod>2009-03-23T19:47:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/linked-data/</loc>
+    <loc>/tags/linked-data/</loc>
     <lastmod>2009-03-23T19:47:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/linking-open-data/</loc>
+    <loc>/tags/linking-open-data/</loc>
     <lastmod>2009-03-23T19:47:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/03/obamas-impressive-use-of-semantic-web-technologies/</loc>
+    <loc>/2009/03/obamas-impressive-use-of-semantic-web-technologies/</loc>
     <lastmod>2009-03-23T19:47:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/rdfa/</loc>
+    <loc>/tags/rdfa/</loc>
     <lastmod>2009-03-23T19:47:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/representational-state-transfer/</loc>
+    <loc>/tags/representational-state-transfer/</loc>
     <lastmod>2009-03-23T19:47:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/rss/</loc>
+    <loc>/tags/rss/</loc>
     <lastmod>2009-03-23T19:47:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/sioc/</loc>
+    <loc>/tags/sioc/</loc>
     <lastmod>2009-03-23T19:47:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/sparql/</loc>
+    <loc>/tags/sparql/</loc>
     <lastmod>2009-03-23T19:47:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/raw-data/</loc>
+    <loc>/tags/raw-data/</loc>
     <lastmod>2009-03-18T10:24:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/03/ted-talks-tim-berners-lee-the-next-web-of-open-linked-data/</loc>
+    <loc>/2009/03/ted-talks-tim-berners-lee-the-next-web-of-open-linked-data/</loc>
     <lastmod>2009-03-18T10:24:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/w3c/</loc>
+    <loc>/tags/w3c/</loc>
     <lastmod>2009-03-18T10:24:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/web-of-data/</loc>
+    <loc>/tags/web-of-data/</loc>
     <lastmod>2009-03-18T10:24:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/computers-and-internet/</loc>
+    <loc>/tags/computers-and-internet/</loc>
     <lastmod>2009-02-23T08:47:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/design/</loc>
+    <loc>/tags/design/</loc>
     <lastmod>2009-02-23T08:47:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/web-design/</loc>
+    <loc>/tags/web-design/</loc>
     <lastmod>2009-02-23T08:47:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/web-design-and-development/</loc>
+    <loc>/tags/web-design-and-development/</loc>
     <lastmod>2009-02-23T08:47:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/02/web-design-interfaces/</loc>
+    <loc>/2009/02/web-design-interfaces/</loc>
     <lastmod>2009-02-23T08:47:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/02/video-google-latitude/</loc>
+    <loc>/2009/02/video-google-latitude/</loc>
     <lastmod>2009-02-05T09:59:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/google-latitude/</loc>
+    <loc>/tags/google-latitude/</loc>
     <lastmod>2009-02-05T09:59:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/google-maps/</loc>
+    <loc>/tags/google-maps/</loc>
     <lastmod>2009-02-05T09:59:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/google-talk/</loc>
+    <loc>/tags/google-talk/</loc>
     <lastmod>2009-02-05T09:59:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/google-video/</loc>
+    <loc>/tags/google-video/</loc>
     <lastmod>2009-02-05T09:59:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/warner-music-group/</loc>
+    <loc>/tags/warner-music-group/</loc>
     <lastmod>2009-02-05T09:59:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/computers/</loc>
+    <loc>/tags/computers/</loc>
     <lastmod>2009-01-23T09:38:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/e-mail-address/</loc>
+    <loc>/tags/e-mail-address/</loc>
     <lastmod>2009-01-23T09:38:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/michael-genesereth/</loc>
+    <loc>/tags/michael-genesereth/</loc>
     <lastmod>2009-01-23T09:38:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/mit/</loc>
+    <loc>/tags/mit/</loc>
     <lastmod>2009-01-23T09:38:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/research/</loc>
+    <loc>/tags/research/</loc>
     <lastmod>2009-01-23T09:38:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/01/seamail-semantic-delivery-of-emails/</loc>
+    <loc>/2009/01/seamail-semantic-delivery-of-emails/</loc>
     <lastmod>2009-01-23T09:38:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/semantic-delivery/</loc>
+    <loc>/tags/semantic-delivery/</loc>
     <lastmod>2009-01-23T09:38:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/stanford-university/</loc>
+    <loc>/tags/stanford-university/</loc>
     <lastmod>2009-01-23T09:38:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/technology-review/</loc>
+    <loc>/tags/technology-review/</loc>
     <lastmod>2009-01-23T09:38:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/export/</loc>
+    <loc>/tags/export/</loc>
     <lastmod>2009-01-22T12:17:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/feed-readers/</loc>
+    <loc>/tags/feed-readers/</loc>
     <lastmod>2009-01-22T12:17:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/generators/</loc>
+    <loc>/tags/generators/</loc>
     <lastmod>2009-01-22T12:17:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/opml/</loc>
+    <loc>/tags/opml/</loc>
     <lastmod>2009-01-22T12:17:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/01/suggestrss-great-service-to-suggest-interesting-feeds/</loc>
+    <loc>/2009/01/suggestrss-great-service-to-suggest-interesting-feeds/</loc>
     <lastmod>2009-01-22T12:17:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/syndication-and-feeds/</loc>
+    <loc>/tags/syndication-and-feeds/</loc>
     <lastmod>2009-01-22T12:17:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/01/how-googles-pagerank-predicts-nobel-prize-winners/</loc>
+    <loc>/2009/01/how-googles-pagerank-predicts-nobel-prize-winners/</loc>
     <lastmod>2009-01-22T11:46:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/makoto-kobayashi/</loc>
+    <loc>/tags/makoto-kobayashi/</loc>
     <lastmod>2009-01-22T11:46:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/nicola-cabibbo/</loc>
+    <loc>/tags/nicola-cabibbo/</loc>
     <lastmod>2009-01-22T11:46:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/nobel-prize/</loc>
+    <loc>/tags/nobel-prize/</loc>
     <lastmod>2009-01-22T11:46:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/nobel-prize-in-physics/</loc>
+    <loc>/tags/nobel-prize-in-physics/</loc>
     <lastmod>2009-01-22T11:46:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/pagerank/</loc>
+    <loc>/tags/pagerank/</loc>
     <lastmod>2009-01-22T11:46:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/sidney-redner/</loc>
+    <loc>/tags/sidney-redner/</loc>
     <lastmod>2009-01-22T11:46:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/toshihide-maskawa/</loc>
+    <loc>/tags/toshihide-maskawa/</loc>
     <lastmod>2009-01-22T11:46:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/yoichiro-nambu/</loc>
+    <loc>/tags/yoichiro-nambu/</loc>
     <lastmod>2009-01-22T11:46:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/01/video-it-is-time-for-a-different-kind-of-university/</loc>
+    <loc>/2009/01/video-it-is-time-for-a-different-kind-of-university/</loc>
     <lastmod>2009-01-19T07:45:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/george-siemens/</loc>
+    <loc>/tags/george-siemens/</loc>
     <lastmod>2009-01-19T07:45:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/kaplan-university/</loc>
+    <loc>/tags/kaplan-university/</loc>
     <lastmod>2009-01-19T07:45:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/learning-educational-technologies/</loc>
+    <loc>/tags/learning-educational-technologies/</loc>
     <lastmod>2009-01-19T07:45:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/media-literacy/</loc>
+    <loc>/tags/media-literacy/</loc>
     <lastmod>2009-01-19T07:45:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/germany/</loc>
+    <loc>/tags/germany/</loc>
     <lastmod>2009-01-16T21:11:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/linked-open-data/</loc>
+    <loc>/tags/linked-open-data/</loc>
     <lastmod>2009-01-16T21:11:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/01/linking-open-data-anwendungen-fur-endanwender/</loc>
+    <loc>/2009/01/linking-open-data-anwendungen-fur-endanwender/</loc>
     <lastmod>2009-01-16T21:11:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/lod/</loc>
+    <loc>/tags/lod/</loc>
     <lastmod>2009-01-16T21:11:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/metaweb/</loc>
+    <loc>/tags/metaweb/</loc>
     <lastmod>2009-01-16T21:11:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/open-data/</loc>
+    <loc>/tags/open-data/</loc>
     <lastmod>2009-01-16T21:11:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/states/</loc>
+    <loc>/tags/states/</loc>
     <lastmod>2009-01-16T21:11:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/world-wide-web-consortium/</loc>
+    <loc>/tags/world-wide-web-consortium/</loc>
     <lastmod>2009-01-16T21:11:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/01/video/</loc>
+    <loc>/2009/01/video/</loc>
     <lastmod>2009-01-16T11:05:55+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/erp/</loc>
+    <loc>/tags/erp/</loc>
     <lastmod>2009-01-16T11:05:55+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/financial-services/</loc>
+    <loc>/tags/financial-services/</loc>
     <lastmod>2009-01-16T11:05:55+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/health-insurance/</loc>
+    <loc>/tags/health-insurance/</loc>
     <lastmod>2009-01-16T11:05:55+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/insurance/</loc>
+    <loc>/tags/insurance/</loc>
     <lastmod>2009-01-16T11:05:55+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/sap-research/</loc>
+    <loc>/tags/sap-research/</loc>
     <lastmod>2009-01-16T11:05:55+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/service-provider/</loc>
+    <loc>/tags/service-provider/</loc>
     <lastmod>2009-01-16T11:05:55+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/01/10-interesting-semantic-apps/</loc>
+    <loc>/2009/01/10-interesting-semantic-apps/</loc>
     <lastmod>2009-01-11T19:23:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/san-francisco-california/</loc>
+    <loc>/tags/san-francisco-california/</loc>
     <lastmod>2009-01-11T19:23:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/semantic-apps/</loc>
+    <loc>/tags/semantic-apps/</loc>
     <lastmod>2009-01-11T19:23:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/technical-services/</loc>
+    <loc>/tags/technical-services/</loc>
     <lastmod>2009-01-11T19:23:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/web-2.0/</loc>
+    <loc>/tags/web-2.0/</loc>
     <lastmod>2009-01-11T19:23:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/web-ontology-language/</loc>
+    <loc>/tags/web-ontology-language/</loc>
     <lastmod>2009-01-11T19:23:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2009/01/100-elearning-articles-and-white-papers/</loc>
+    <loc>/2009/01/100-elearning-articles-and-white-papers/</loc>
     <lastmod>2009-01-08T11:48:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/cyberspace/</loc>
+    <loc>/tags/cyberspace/</loc>
     <lastmod>2009-01-08T11:48:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/tweets/</loc>
+    <loc>/tags/tweets/</loc>
     <lastmod>2009-01-08T11:48:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/university/</loc>
+    <loc>/tags/university/</loc>
     <lastmod>2009-01-08T11:48:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/weblogs/</loc>
+    <loc>/tags/weblogs/</loc>
     <lastmod>2009-01-08T11:48:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/white-paper/</loc>
+    <loc>/tags/white-paper/</loc>
     <lastmod>2009-01-08T11:48:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/barcamp/</loc>
+    <loc>/tags/barcamp/</loc>
     <lastmod>2008-11-23T08:35:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/barcamp-graz/</loc>
+    <loc>/tags/barcamp-graz/</loc>
     <lastmod>2008-11-23T08:35:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/bcg08/</loc>
+    <loc>/tags/bcg08/</loc>
     <lastmod>2008-11-23T08:35:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/blogger/</loc>
+    <loc>/tags/blogger/</loc>
     <lastmod>2008-11-23T08:35:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/blogging/</loc>
+    <loc>/tags/blogging/</loc>
     <lastmod>2008-11-23T08:35:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2008/11/first-barcamp-in-graz-austria/</loc>
+    <loc>/2008/11/first-barcamp-in-graz-austria/</loc>
     <lastmod>2008-11-23T08:35:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/november/</loc>
+    <loc>/tags/november/</loc>
     <lastmod>2008-11-23T08:35:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/photo-sharing/</loc>
+    <loc>/tags/photo-sharing/</loc>
     <lastmod>2008-11-23T08:35:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/social-bookmarking/</loc>
+    <loc>/tags/social-bookmarking/</loc>
     <lastmod>2008-11-23T08:35:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/unconference/</loc>
+    <loc>/tags/unconference/</loc>
     <lastmod>2008-11-23T08:35:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/wiki/</loc>
+    <loc>/tags/wiki/</loc>
     <lastmod>2008-11-23T08:35:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2008/11/video-matrix-for-windows/</loc>
+    <loc>/2008/11/video-matrix-for-windows/</loc>
     <lastmod>2008-11-17T21:24:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/errors/</loc>
+    <loc>/tags/errors/</loc>
     <lastmod>2008-11-17T21:24:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/failures/</loc>
+    <loc>/tags/failures/</loc>
     <lastmod>2008-11-17T21:24:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/faults/</loc>
+    <loc>/tags/faults/</loc>
     <lastmod>2008-11-17T21:24:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/film/</loc>
+    <loc>/tags/film/</loc>
     <lastmod>2008-11-17T21:24:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/fun/</loc>
+    <loc>/tags/fun/</loc>
     <lastmod>2008-11-17T21:24:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/matrix/</loc>
+    <loc>/tags/matrix/</loc>
     <lastmod>2008-11-17T21:24:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/windows/</loc>
+    <loc>/tags/windows/</loc>
     <lastmod>2008-11-17T21:24:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/foaf/</loc>
+    <loc>/tags/foaf/</loc>
     <lastmod>2008-11-17T08:28:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/prototype/</loc>
+    <loc>/tags/prototype/</loc>
     <lastmod>2008-11-17T08:28:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/semantic-microblogging/</loc>
+    <loc>/tags/semantic-microblogging/</loc>
     <lastmod>2008-11-17T08:28:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/smob/</loc>
+    <loc>/tags/smob/</loc>
     <lastmod>2008-11-17T08:28:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2008/11/smob-a-prototype-for-semantic-microblogging/</loc>
+    <loc>/2008/11/smob-a-prototype-for-semantic-microblogging/</loc>
     <lastmod>2008-11-17T08:28:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2008/11/error-message-twitter-is-over-capacity/</loc>
+    <loc>/2008/11/error-message-twitter-is-over-capacity/</loc>
     <lastmod>2008-11-16T09:15:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/microblogging/</loc>
+    <loc>/tags/microblogging/</loc>
     <lastmod>2008-11-16T09:15:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2008/11/googles-seo-starter-guide-how-to-improve-your-site/</loc>
+    <loc>/2008/11/googles-seo-starter-guide-how-to-improve-your-site/</loc>
     <lastmod>2008-11-13T19:40:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/guide/</loc>
+    <loc>/tags/guide/</loc>
     <lastmod>2008-11-13T19:40:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/netzlogbuch/</loc>
+    <loc>/tags/netzlogbuch/</loc>
     <lastmod>2008-11-13T19:40:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/paper/</loc>
+    <loc>/tags/paper/</loc>
     <lastmod>2008-11-13T19:40:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/quality/</loc>
+    <loc>/tags/quality/</loc>
     <lastmod>2008-11-13T19:40:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/seo/</loc>
+    <loc>/tags/seo/</loc>
     <lastmod>2008-11-13T19:40:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/thenextweb/</loc>
+    <loc>/tags/thenextweb/</loc>
     <lastmod>2008-11-13T19:40:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/tips/</loc>
+    <loc>/tags/tips/</loc>
     <lastmod>2008-11-13T19:40:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/writing/</loc>
+    <loc>/tags/writing/</loc>
     <lastmod>2008-11-13T19:40:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/flu/</loc>
+    <loc>/tags/flu/</loc>
     <lastmod>2008-11-12T09:21:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/google-flu-trends/</loc>
+    <loc>/tags/google-flu-trends/</loc>
     <lastmod>2008-11-12T09:21:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2008/11/google-flu-trends-google-uses-searches-to-track-flu-spread/</loc>
+    <loc>/2008/11/google-flu-trends-google-uses-searches-to-track-flu-spread/</loc>
     <lastmod>2008-11-12T09:21:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/google-trends/</loc>
+    <loc>/tags/google-trends/</loc>
     <lastmod>2008-11-12T09:21:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/influenza/</loc>
+    <loc>/tags/influenza/</loc>
     <lastmod>2008-11-12T09:21:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/reports/</loc>
+    <loc>/tags/reports/</loc>
     <lastmod>2008-11-12T09:21:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/websearch/</loc>
+    <loc>/tags/websearch/</loc>
     <lastmod>2008-11-12T09:21:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/boredom/</loc>
+    <loc>/tags/boredom/</loc>
     <lastmod>2008-11-11T21:11:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/die-zeit/</loc>
+    <loc>/tags/die-zeit/</loc>
     <lastmod>2008-11-11T21:11:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2008/11/do-you-need-a-problem-to-solve/</loc>
+    <loc>/2008/11/do-you-need-a-problem-to-solve/</loc>
     <lastmod>2008-11-11T21:11:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/need-a-problem/</loc>
+    <loc>/tags/need-a-problem/</loc>
     <lastmod>2008-11-11T21:11:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/solutions/</loc>
+    <loc>/tags/solutions/</loc>
     <lastmod>2008-11-11T21:11:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/switzerland/</loc>
+    <loc>/tags/switzerland/</loc>
     <lastmod>2008-11-11T21:11:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/the-game/</loc>
+    <loc>/tags/the-game/</loc>
     <lastmod>2008-11-11T21:11:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/zeit-online/</loc>
+    <loc>/tags/zeit-online/</loc>
     <lastmod>2008-11-11T21:11:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2008/11/university-mathematical-analysis-t1-exam/</loc>
+    <loc>/2008/11/university-mathematical-analysis-t1-exam/</loc>
     <lastmod>2008-11-10T20:53:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/study/</loc>
+    <loc>/tags/study/</loc>
     <lastmod>2008-11-10T20:53:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2008/11/video-cnn-for-holodeck/</loc>
+    <loc>/2008/11/video-cnn-for-holodeck/</loc>
     <lastmod>2008-11-05T11:11:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/beam/</loc>
+    <loc>/tags/beam/</loc>
     <lastmod>2008-11-05T11:11:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/cnn/</loc>
+    <loc>/tags/cnn/</loc>
     <lastmod>2008-11-05T11:11:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/election08/</loc>
+    <loc>/tags/election08/</loc>
     <lastmod>2008-11-05T11:11:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/holodeck/</loc>
+    <loc>/tags/holodeck/</loc>
     <lastmod>2008-11-05T11:11:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/hologram/</loc>
+    <loc>/tags/hologram/</loc>
     <lastmod>2008-11-05T11:11:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/new-media/</loc>
+    <loc>/tags/new-media/</loc>
     <lastmod>2008-11-05T11:11:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/tv/</loc>
+    <loc>/tags/tv/</loc>
     <lastmod>2008-11-05T11:11:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/usa/</loc>
+    <loc>/tags/usa/</loc>
     <lastmod>2008-11-05T11:11:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2008/11/video-acapella-session/</loc>
+    <loc>/2008/11/video-acapella-session/</loc>
     <lastmod>2008-11-04T17:18:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2008/11/lecture-introduction-to-scientific-working/</loc>
+    <loc>/2008/11/lecture-introduction-to-scientific-working/</loc>
     <lastmod>2008-11-03T17:00:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/powerpoint/</loc>
+    <loc>/tags/powerpoint/</loc>
     <lastmod>2008-11-03T17:00:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/presentation-technique/</loc>
+    <loc>/tags/presentation-technique/</loc>
     <lastmod>2008-11-03T17:00:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/scientific-working/</loc>
+    <loc>/tags/scientific-working/</loc>
     <lastmod>2008-11-03T17:00:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/scientific-writing/</loc>
+    <loc>/tags/scientific-writing/</loc>
     <lastmod>2008-11-03T17:00:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/collaboration/</loc>
+    <loc>/tags/collaboration/</loc>
     <lastmod>2008-11-03T11:50:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/think/</loc>
+    <loc>/tags/think/</loc>
     <lastmod>2008-11-03T11:50:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2008/11/video-we-think/</loc>
+    <loc>/2008/11/video-we-think/</loc>
     <lastmod>2008-11-03T11:50:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/we-think/</loc>
+    <loc>/tags/we-think/</loc>
     <lastmod>2008-11-03T11:50:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/problem/</loc>
+    <loc>/tags/problem/</loc>
     <lastmod>2008-11-01T09:24:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/relaunch/</loc>
+    <loc>/tags/relaunch/</loc>
     <lastmod>2008-11-01T09:24:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2008/11/relaunch-of-herbert-muehlburgers-weblog/</loc>
+    <loc>/2008/11/relaunch-of-herbert-muehlburgers-weblog/</loc>
     <lastmod>2008-11-01T09:24:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2008-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/about/"
+                href="/de/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/about/"
+                href="/about/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/datenschutz/</loc>
+    <loc>/datenschutz/</loc>
     <lastmod>2008-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/datenschutz/"
+                href="/de/datenschutz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/datenschutz/"
+                href="/datenschutz/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/board-games/</loc>
+    <loc>/tags/board-games/</loc>
     <lastmod>2008-06-15T11:51:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/generation-internet/</loc>
+    <loc>/tags/generation-internet/</loc>
     <lastmod>2008-06-15T11:51:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/googolopoly/</loc>
+    <loc>/tags/googolopoly/</loc>
     <lastmod>2008-06-15T11:51:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/lee-daniels/</loc>
+    <loc>/tags/lee-daniels/</loc>
     <lastmod>2008-06-15T11:51:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/monopoly/</loc>
+    <loc>/tags/monopoly/</loc>
     <lastmod>2008-06-15T11:51:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2008/06/monopoly-fur-die-generation-internet/</loc>
+    <loc>/2008/06/monopoly-fur-die-generation-internet/</loc>
     <lastmod>2008-06-15T11:51:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/sicherheit/</loc>
+    <loc>/tags/sicherheit/</loc>
     <lastmod>2008-06-15T11:51:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/spiel/</loc>
+    <loc>/tags/spiel/</loc>
     <lastmod>2008-06-15T11:51:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/alpbach/</loc>
+    <loc>/tags/alpbach/</loc>
     <lastmod>2007-08-18T07:49:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/europa/</loc>
+    <loc>/tags/europa/</loc>
     <lastmod>2007-08-18T07:49:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/europe/</loc>
+    <loc>/tags/europe/</loc>
     <lastmod>2007-08-18T07:49:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/european-forum-alpbach/</loc>
+    <loc>/tags/european-forum-alpbach/</loc>
     <lastmod>2007-08-18T07:49:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/08/european-forum-alpbach-50-years-of-eu-in-the-world/</loc>
+    <loc>/2007/08/european-forum-alpbach-50-years-of-eu-in-the-world/</loc>
     <lastmod>2007-08-18T07:49:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/european-union/</loc>
+    <loc>/tags/european-union/</loc>
     <lastmod>2007-08-18T07:49:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/europ%C3%A4ische-union/</loc>
+    <loc>/tags/europ%C3%A4ische-union/</loc>
     <lastmod>2007-08-18T07:49:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/europ%C3%A4isches-forum-alpbach/</loc>
+    <loc>/tags/europ%C3%A4isches-forum-alpbach/</loc>
     <lastmod>2007-08-18T07:49:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/florida/</loc>
+    <loc>/tags/florida/</loc>
     <lastmod>2007-08-18T07:49:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/geschichte/</loc>
+    <loc>/tags/geschichte/</loc>
     <lastmod>2007-08-18T07:49:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/government/</loc>
+    <loc>/tags/government/</loc>
     <lastmod>2007-08-18T07:49:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/herbert-m%C3%BChlburger/</loc>
+    <loc>/tags/herbert-m%C3%BChlburger/</loc>
     <lastmod>2007-08-18T07:49:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/menschen/</loc>
+    <loc>/tags/menschen/</loc>
     <lastmod>2007-08-18T07:49:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/republican/</loc>
+    <loc>/tags/republican/</loc>
     <lastmod>2007-08-18T07:49:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/sport/</loc>
+    <loc>/tags/sport/</loc>
     <lastmod>2007-08-18T07:49:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/studenten/</loc>
+    <loc>/tags/studenten/</loc>
     <lastmod>2007-08-18T07:49:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/universit%C3%A4t/</loc>
+    <loc>/tags/universit%C3%A4t/</loc>
     <lastmod>2007-08-18T07:49:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/brussels/</loc>
+    <loc>/tags/brussels/</loc>
     <lastmod>2007-08-17T08:48:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/08/european-forum-alpbach-europe-new-and-old/</loc>
+    <loc>/2007/08/european-forum-alpbach-europe-new-and-old/</loc>
     <lastmod>2007-08-17T08:48:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/lisbon-treaty/</loc>
+    <loc>/tags/lisbon-treaty/</loc>
     <lastmod>2007-08-17T08:48:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/multilateral/</loc>
+    <loc>/tags/multilateral/</loc>
     <lastmod>2007-08-17T08:48:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/seminar/</loc>
+    <loc>/tags/seminar/</loc>
     <lastmod>2007-08-17T08:48:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/seminars/</loc>
+    <loc>/tags/seminars/</loc>
     <lastmod>2007-08-17T08:48:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/tirol/</loc>
+    <loc>/tags/tirol/</loc>
     <lastmod>2007-08-17T08:48:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/%C3%B6sterreich/</loc>
+    <loc>/tags/%C3%B6sterreich/</loc>
     <lastmod>2007-08-17T08:48:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/business-associations/</loc>
+    <loc>/tags/business-associations/</loc>
     <lastmod>2007-08-17T08:48:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/european-commission/</loc>
+    <loc>/tags/european-commission/</loc>
     <lastmod>2007-08-17T08:48:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/08/european-forum-alpbach/</loc>
+    <loc>/2007/08/european-forum-alpbach/</loc>
     <lastmod>2007-08-17T08:48:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/organisations/</loc>
+    <loc>/tags/organisations/</loc>
     <lastmod>2007-08-17T08:48:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/united-states/</loc>
+    <loc>/tags/united-states/</loc>
     <lastmod>2007-08-17T08:48:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/data-formats/</loc>
+    <loc>/tags/data-formats/</loc>
     <lastmod>2007-07-05T12:02:29+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/</loc>
+    <loc>/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/</loc>
     <lastmod>2007-07-05T12:02:29+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/html-5/</loc>
+    <loc>/tags/html-5/</loc>
     <lastmod>2007-07-05T12:02:29+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/markup-languages/</loc>
+    <loc>/tags/markup-languages/</loc>
     <lastmod>2007-07-05T12:02:29+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/neue-technologien/</loc>
+    <loc>/tags/neue-technologien/</loc>
     <lastmod>2007-07-05T12:02:29+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/xhtml/</loc>
+    <loc>/tags/xhtml/</loc>
     <lastmod>2007-07-05T12:02:29+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/linden-lab/</loc>
+    <loc>/tags/linden-lab/</loc>
     <lastmod>2007-06-24T19:25:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/religion-and-spirituality/</loc>
+    <loc>/tags/religion-and-spirituality/</loc>
     <lastmod>2007-06-24T19:25:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/second-life/</loc>
+    <loc>/tags/second-life/</loc>
     <lastmod>2007-06-24T19:25:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/06/second-life-soll-filtersystem-bekommen/</loc>
+    <loc>/2007/06/second-life-soll-filtersystem-bekommen/</loc>
     <lastmod>2007-06-24T19:25:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/soziale-netzwerke/</loc>
+    <loc>/tags/soziale-netzwerke/</loc>
     <lastmod>2007-06-24T19:25:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/gadi/</loc>
+    <loc>/tags/gadi/</loc>
     <lastmod>2007-06-22T14:14:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/06/lasttv-net-personal-music-channel/</loc>
+    <loc>/2007/06/lasttv-net-personal-music-channel/</loc>
     <lastmod>2007-06-22T14:14:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/meshup/</loc>
+    <loc>/tags/meshup/</loc>
     <lastmod>2007-06-22T14:14:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/musik/</loc>
+    <loc>/tags/musik/</loc>
     <lastmod>2007-06-22T14:14:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/06/alarmd-wecker-2-0/</loc>
+    <loc>/2007/06/alarmd-wecker-2-0/</loc>
     <lastmod>2007-06-22T10:47:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/apple/</loc>
+    <loc>/tags/apple/</loc>
     <lastmod>2007-06-22T10:47:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/last.fm/</loc>
+    <loc>/tags/last.fm/</loc>
     <lastmod>2007-06-22T10:47:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/muziic/</loc>
+    <loc>/tags/muziic/</loc>
     <lastmod>2007-06-22T10:47:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/pandora/</loc>
+    <loc>/tags/pandora/</loc>
     <lastmod>2007-06-22T10:47:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/06/google-tochter-youtube-testet-digitale-videoerkennung/</loc>
+    <loc>/2007/06/google-tochter-youtube-testet-digitale-videoerkennung/</loc>
     <lastmod>2007-06-15T17:42:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/nexus-one/</loc>
+    <loc>/tags/nexus-one/</loc>
     <lastmod>2007-06-15T17:42:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/web-apis/</loc>
+    <loc>/tags/web-apis/</loc>
     <lastmod>2007-06-15T17:42:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/welt-online/</loc>
+    <loc>/tags/welt-online/</loc>
     <lastmod>2007-06-15T17:42:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/06/what-is-all-web2-0/</loc>
+    <loc>/2007/06/what-is-all-web2-0/</loc>
     <lastmod>2007-06-11T08:11:21+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/06/die-6-milliarden-anderen-www-6billionothers-org/</loc>
+    <loc>/2007/06/die-6-milliarden-anderen-www-6billionothers-org/</loc>
     <lastmod>2007-06-11T08:06:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/english-language/</loc>
+    <loc>/tags/english-language/</loc>
     <lastmod>2007-06-11T08:06:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/far-right/</loc>
+    <loc>/tags/far-right/</loc>
     <lastmod>2007-06-11T08:06:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/german-language/</loc>
+    <loc>/tags/german-language/</loc>
     <lastmod>2007-06-11T08:06:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/brandenburg/</loc>
+    <loc>/tags/brandenburg/</loc>
     <lastmod>2007-06-11T07:50:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/computer/</loc>
+    <loc>/tags/computer/</loc>
     <lastmod>2007-06-11T07:50:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/meebo/</loc>
+    <loc>/tags/meebo/</loc>
     <lastmod>2007-06-11T07:50:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/06/meebo-messenger-mashup/</loc>
+    <loc>/2007/06/meebo-messenger-mashup/</loc>
     <lastmod>2007-06-11T07:50:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/schleswig-holstein/</loc>
+    <loc>/tags/schleswig-holstein/</loc>
     <lastmod>2007-06-11T07:50:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/crafts/</loc>
+    <loc>/tags/crafts/</loc>
     <lastmod>2007-06-11T07:39:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/materials/</loc>
+    <loc>/tags/materials/</loc>
     <lastmod>2007-06-11T07:39:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/papermaking/</loc>
+    <loc>/tags/papermaking/</loc>
     <lastmod>2007-06-11T07:39:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/pulp-and-paper/</loc>
+    <loc>/tags/pulp-and-paper/</loc>
     <lastmod>2007-06-11T07:39:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/shopping/</loc>
+    <loc>/tags/shopping/</loc>
     <lastmod>2007-06-11T07:39:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/06/paper-four-papier-der-nachsten-generation/</loc>
+    <loc>/2007/06/paper-four-papier-der-nachsten-generation/</loc>
     <lastmod>2007-06-11T07:39:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/multi-user-systems/</loc>
+    <loc>/tags/multi-user-systems/</loc>
     <lastmod>2007-06-09T15:40:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/06/wer-spielt-noch-second-life/</loc>
+    <loc>/2007/06/wer-spielt-noch-second-life/</loc>
     <lastmod>2007-06-09T15:40:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/world-of-warcraft/</loc>
+    <loc>/tags/world-of-warcraft/</loc>
     <lastmod>2007-06-09T15:40:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/dominican-republic/</loc>
+    <loc>/tags/dominican-republic/</loc>
     <lastmod>2007-05-09T15:15:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/final-cut-express/</loc>
+    <loc>/tags/final-cut-express/</loc>
     <lastmod>2007-05-09T15:15:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/05/musicmesh-cooles-mediameshup/</loc>
+    <loc>/2007/05/musicmesh-cooles-mediameshup/</loc>
     <lastmod>2007-05-09T15:15:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/national-weather-service/</loc>
+    <loc>/tags/national-weather-service/</loc>
     <lastmod>2007-05-09T15:15:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/songs-anh%C3%B6ren/</loc>
+    <loc>/tags/songs-anh%C3%B6ren/</loc>
     <lastmod>2007-05-09T15:15:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/avatare/</loc>
+    <loc>/tags/avatare/</loc>
     <lastmod>2007-05-06T13:55:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/avatars/</loc>
+    <loc>/tags/avatars/</loc>
     <lastmod>2007-05-06T13:55:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/bookmarking-service/</loc>
+    <loc>/tags/bookmarking-service/</loc>
     <lastmod>2007-05-06T13:55:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/company/</loc>
+    <loc>/tags/company/</loc>
     <lastmod>2007-05-06T13:55:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/hud/</loc>
+    <loc>/tags/hud/</loc>
     <lastmod>2007-05-06T13:55:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/life-residents/</loc>
+    <loc>/tags/life-residents/</loc>
     <lastmod>2007-05-06T13:55:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/mosi/</loc>
+    <loc>/tags/mosi/</loc>
     <lastmod>2007-05-06T13:55:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/05/sloog-bookmarking-tool-fur-second-life/</loc>
+    <loc>/2007/05/sloog-bookmarking-tool-fur-second-life/</loc>
     <lastmod>2007-05-06T13:55:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/web-browser/</loc>
+    <loc>/tags/web-browser/</loc>
     <lastmod>2007-05-06T13:55:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/webbrowser/</loc>
+    <loc>/tags/webbrowser/</loc>
     <lastmod>2007-05-06T13:55:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/bewerten/</loc>
+    <loc>/tags/bewerten/</loc>
     <lastmod>2007-05-06T13:44:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/bookmark/</loc>
+    <loc>/tags/bookmark/</loc>
     <lastmod>2007-05-06T13:44:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/combinatorics/</loc>
+    <loc>/tags/combinatorics/</loc>
     <lastmod>2007-05-06T13:44:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/events/</loc>
+    <loc>/tags/events/</loc>
     <lastmod>2007-05-06T13:44:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/graph/</loc>
+    <loc>/tags/graph/</loc>
     <lastmod>2007-05-06T13:44:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/graph-drawing/</loc>
+    <loc>/tags/graph-drawing/</loc>
     <lastmod>2007-05-06T13:44:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/graph-theory/</loc>
+    <loc>/tags/graph-theory/</loc>
     <lastmod>2007-05-06T13:44:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/kommentieren/</loc>
+    <loc>/tags/kommentieren/</loc>
     <lastmod>2007-05-06T13:44:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/linkstrukturen/</loc>
+    <loc>/tags/linkstrukturen/</loc>
     <lastmod>2007-05-06T13:44:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/past-conferences/</loc>
+    <loc>/tags/past-conferences/</loc>
     <lastmod>2007-05-06T13:44:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/people/</loc>
+    <loc>/tags/people/</loc>
     <lastmod>2007-05-06T13:44:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/walk2web/</loc>
+    <loc>/tags/walk2web/</loc>
     <lastmod>2007-05-06T13:44:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/05/walk2web-linkstrukturen-graphisch-darstellen/</loc>
+    <loc>/2007/05/walk2web-linkstrukturen-graphisch-darstellen/</loc>
     <lastmod>2007-05-06T13:44:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/usability/</loc>
+    <loc>/tags/usability/</loc>
     <lastmod>2007-04-24T05:52:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/04/user-interface-der-zukunft-unglaublich/</loc>
+    <loc>/2007/04/user-interface-der-zukunft-unglaublich/</loc>
     <lastmod>2007-04-24T05:52:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/video-games/</loc>
+    <loc>/tags/video-games/</loc>
     <lastmod>2007-04-24T05:52:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/zukunft/</loc>
+    <loc>/tags/zukunft/</loc>
     <lastmod>2007-04-24T05:52:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/04/apple-iphone/</loc>
+    <loc>/2007/04/apple-iphone/</loc>
     <lastmod>2007-04-11T13:42:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/casinos/</loc>
+    <loc>/tags/casinos/</loc>
     <lastmod>2007-04-07T16:14:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/fbi/</loc>
+    <loc>/tags/fbi/</loc>
     <lastmod>2007-04-07T16:14:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/04/fbi-ermittelt-bei-second-life/</loc>
+    <loc>/2007/04/fbi-ermittelt-bei-second-life/</loc>
     <lastmod>2007-04-07T16:14:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/gl%C3%BCcksspiel/</loc>
+    <loc>/tags/gl%C3%BCcksspiel/</loc>
     <lastmod>2007-04-07T16:14:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/us-gesetze/</loc>
+    <loc>/tags/us-gesetze/</loc>
     <lastmod>2007-04-07T16:14:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/virtual-world/</loc>
+    <loc>/tags/virtual-world/</loc>
     <lastmod>2007-04-07T16:14:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/arbeitsschutz/</loc>
+    <loc>/tags/arbeitsschutz/</loc>
     <lastmod>2007-04-07T05:52:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/film-school/</loc>
+    <loc>/tags/film-school/</loc>
     <lastmod>2007-04-07T05:52:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/film-societies/</loc>
+    <loc>/tags/film-societies/</loc>
     <lastmod>2007-04-07T05:52:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/gabelstaplerfahrer-klaus/</loc>
+    <loc>/tags/gabelstaplerfahrer-klaus/</loc>
     <lastmod>2007-04-07T05:52:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/04/gabelstaplerfahrer-klaus-der-erste-arbeitstag/</loc>
+    <loc>/2007/04/gabelstaplerfahrer-klaus-der-erste-arbeitstag/</loc>
     <lastmod>2007-04-07T05:52:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/infogesellschaft/</loc>
+    <loc>/tags/infogesellschaft/</loc>
     <lastmod>2007-04-07T05:52:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/movies/</loc>
+    <loc>/tags/movies/</loc>
     <lastmod>2007-04-07T05:52:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/organizations/</loc>
+    <loc>/tags/organizations/</loc>
     <lastmod>2007-04-07T05:52:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/theory-and-criticism/</loc>
+    <loc>/tags/theory-and-criticism/</loc>
     <lastmod>2007-04-07T05:52:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/bank/</loc>
+    <loc>/tags/bank/</loc>
     <lastmod>2007-04-05T21:18:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/bonn/</loc>
+    <loc>/tags/bonn/</loc>
     <lastmod>2007-04-05T21:18:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/cafepodcast/</loc>
+    <loc>/tags/cafepodcast/</loc>
     <lastmod>2007-04-05T21:18:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/east-germany/</loc>
+    <loc>/tags/east-germany/</loc>
     <lastmod>2007-04-05T21:18:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/lawyer/</loc>
+    <loc>/tags/lawyer/</loc>
     <lastmod>2007-04-05T21:18:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/podcast/</loc>
+    <loc>/tags/podcast/</loc>
     <lastmod>2007-04-05T21:18:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/robin-hood/</loc>
+    <loc>/tags/robin-hood/</loc>
     <lastmod>2007-04-05T21:18:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/04/soziale-netzwerke-im-cafepodcast/</loc>
+    <loc>/2007/04/soziale-netzwerke-im-cafepodcast/</loc>
     <lastmod>2007-04-05T21:18:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/webwelt/</loc>
+    <loc>/tags/webwelt/</loc>
     <lastmod>2007-04-05T21:18:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/jeff-han/</loc>
+    <loc>/tags/jeff-han/</loc>
     <lastmod>2007-04-02T21:47:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/04/jeff-han-spricht-auf-der-ted-konferenz/</loc>
+    <loc>/2007/04/jeff-han-spricht-auf-der-ted-konferenz/</loc>
     <lastmod>2007-04-02T21:47:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/jefferson-han/</loc>
+    <loc>/tags/jefferson-han/</loc>
     <lastmod>2007-04-02T21:47:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/ask.com/</loc>
+    <loc>/tags/ask.com/</loc>
     <lastmod>2007-03-25T19:21:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/03/if-you-dont-ask-you-dont-get/</loc>
+    <loc>/2007/03/if-you-dont-ask-you-dont-get/</loc>
     <lastmod>2007-03-25T19:21:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/axel-springer/</loc>
+    <loc>/tags/axel-springer/</loc>
     <lastmod>2007-03-25T19:00:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/die-welt/</loc>
+    <loc>/tags/die-welt/</loc>
     <lastmod>2007-03-25T19:00:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/03/mittendrin-im-second-life/</loc>
+    <loc>/2007/03/mittendrin-im-second-life/</loc>
     <lastmod>2007-03-25T19:00:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/newspaper/</loc>
+    <loc>/tags/newspaper/</loc>
     <lastmod>2007-03-25T19:00:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/%C3%B6ffentlichkeit/</loc>
+    <loc>/tags/%C3%B6ffentlichkeit/</loc>
     <lastmod>2007-03-25T19:00:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/03/die-neue-informationsgesellschaft/</loc>
+    <loc>/2007/03/die-neue-informationsgesellschaft/</loc>
     <lastmod>2007-03-18T18:01:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/digg/</loc>
+    <loc>/tags/digg/</loc>
     <lastmod>2007-03-18T18:01:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/flickr/</loc>
+    <loc>/tags/flickr/</loc>
     <lastmod>2007-03-18T18:01:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/mondlandung/</loc>
+    <loc>/tags/mondlandung/</loc>
     <lastmod>2007-03-18T18:01:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/myspace/</loc>
+    <loc>/tags/myspace/</loc>
     <lastmod>2007-03-18T18:01:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/technorati/</loc>
+    <loc>/tags/technorati/</loc>
     <lastmod>2007-03-18T18:01:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/verschw%C3%B6rungstheorien/</loc>
+    <loc>/tags/verschw%C3%B6rungstheorien/</loc>
     <lastmod>2007-03-18T18:01:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/baden-w%C3%BCrttemberg/</loc>
+    <loc>/tags/baden-w%C3%BCrttemberg/</loc>
     <lastmod>2007-03-18T12:18:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/03/second-life-and-more/</loc>
+    <loc>/2007/03/second-life-and-more/</loc>
     <lastmod>2007-03-18T12:18:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/cory-ondrejka/</loc>
+    <loc>/tags/cory-ondrejka/</loc>
     <lastmod>2007-01-17T19:29:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/01/web-2-0-und-datenbanken-teil-1-second-life/</loc>
+    <loc>/2007/01/web-2-0-und-datenbanken-teil-1-second-life/</loc>
     <lastmod>2007-01-17T19:29:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/2007/01/flickr-goes-german-flickr-nun-auch-auf-deutsch-verfugbar/</loc>
+    <loc>/2007/01/flickr-goes-german-flickr-nun-auch-auf-deutsch-verfugbar/</loc>
     <lastmod>2007-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/series/</loc>
+    <loc>/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blog.muehlburger.at/de/series/"
+                href="/de/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.muehlburger.at/series/"
+                href="/series/"
                 />
   </url>
   

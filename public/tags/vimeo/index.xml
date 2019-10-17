@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>vimeo on DI Herbert Mühlburger</title>
-    <link>https://blog.muehlburger.at/tags/vimeo/</link>
+    <link>/tags/vimeo/</link>
     <description>Recent content in vimeo on DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 08 Oct 2009 08:20:17 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.muehlburger.at/tags/vimeo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/vimeo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>[video] – User Interface Fundamentals for Programmers</title>
-      <link>https://blog.muehlburger.at/2009/10/video-user-interface-fundamentals-for-programmers/</link>
+      <link>/2009/10/video-user-interface-fundamentals-for-programmers/</link>
       <pubDate>Thu, 08 Oct 2009 08:20:17 +0000</pubDate>
       
-      <guid>https://blog.muehlburger.at/2009/10/video-user-interface-fundamentals-for-programmers/</guid>
+      <guid>/2009/10/video-user-interface-fundamentals-for-programmers/</guid>
       <description>Recently I have found a great video demonstrating the user interface design fundamentals every programmer should know. Check out the video, it is really interesting!
 UI Fundamentals for Programmers by Ryan Singer from ChicagoRuby on Vimeo.
 (via Smashing Magazine)

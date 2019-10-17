@@ -20,20 +20,20 @@ Setting Sail with Istio   Istio - up and running by Lachlan Evenson   Istio - ad
 Kudos to Lachlan Evenson for creating this content:
 Setting Sail with Istio   Istio - up and running by Lachlan Evenson   Istio - adding services to the mesh by Lachlan Evenson   Istio - Working with Ingress   Istio - Working with Egress   Istio - Request Routing   Istio - Fault Injection Testing   I hope you find something useful in these resources." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://blog.muehlburger.at/2019/01/istio/" />
+<meta property="og:url" content="/2019/01/istio/" />
 <meta property="article:published_time" content="2019-01-25T21:10:00+01:00" />
 <meta property="article:modified_time" content="2019-01-25T21:10:00+01:00" />
 
 
     
-      <base href="https://blog.muehlburger.at/2019/01/istio/">
+      <base href="/2019/01/istio/">
     
     <title>
   Istio · DI Herbert Mühlburger
 </title>
 
     
-      <link rel="canonical" href="https://blog.muehlburger.at/2019/01/istio/">
+      <link rel="canonical" href="/2019/01/istio/">
     
 
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700" rel="stylesheet">
@@ -43,7 +43,7 @@ Setting Sail with Istio   Istio - up and running by Lachlan Evenson   Istio - ad
     
       
       
-      <link rel="stylesheet" href="https://blog.muehlburger.at/css/coder.min.28d751104f30c16da1aa1bb04015cbe662cacfe0d1b01af4f2240ad58580069c.css" integrity="sha256-KNdREE8wwW2hqhuwQBXL5mLKz&#43;DRsBr08iQK1YWABpw=" crossorigin="anonymous" media="screen" />
+      <link rel="stylesheet" href="/css/coder.min.28d751104f30c16da1aa1bb04015cbe662cacfe0d1b01af4f2240ad58580069c.css" integrity="sha256-KNdREE8wwW2hqhuwQBXL5mLKz&#43;DRsBr08iQK1YWABpw=" crossorigin="anonymous" media="screen" />
     
 
     
@@ -51,17 +51,17 @@ Setting Sail with Istio   Istio - up and running by Lachlan Evenson   Istio - ad
     
 
     
-      <link rel="stylesheet" href="https://blog.muehlburger.at/css/cookieconsent.min.css" />
+      <link rel="stylesheet" href="/css/cookieconsent.min.css" />
     
 
     
-      <script src="https://blog.muehlburger.at/js/cookieconsent.min.js"></script>
+      <script src="/js/cookieconsent.min.js"></script>
     
-      <script src="https://blog.muehlburger.at/js/init-cookieconsent.js"></script>
+      <script src="/js/init-cookieconsent.js"></script>
     
     
-    <link rel="icon" type="image/png" href="https://blog.muehlburger.at/images/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="https://blog.muehlburger.at/images/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
 
     <meta name="generator" content="Hugo 0.58.3" />
   </head>
@@ -70,7 +70,7 @@ Setting Sail with Istio   Istio - up and running by Lachlan Evenson   Istio - ad
     <main class="wrapper">
       <nav class="navigation">
   <section class="container">
-    <a class="navigation-title" href="https://blog.muehlburger.at/">
+    <a class="navigation-title" href="/">
       DI Herbert Mühlburger
     </a>
     <input type="checkbox" id="menu-toggle" />
@@ -79,11 +79,11 @@ Setting Sail with Istio   Istio - up and running by Lachlan Evenson   Istio - ad
       
         
           <li class="navigation-item">
-            <a class="navigation-link" href="https://blog.muehlburger.at/posts/">Blog</a>
+            <a class="navigation-link" href="/posts/">Blog</a>
           </li>
         
           <li class="navigation-item">
-            <a class="navigation-link" href="https://blog.muehlburger.at/about/">About</a>
+            <a class="navigation-link" href="/about/">About</a>
           </li>
         
       
@@ -99,7 +99,7 @@ Setting Sail with Istio   Istio - up and running by Lachlan Evenson   Istio - ad
               
             
             <li class="navigation-item">
-              <a href="https://blog.muehlburger.at/de/">Deutsch</a>
+              <a href="/de/">Deutsch</a>
             </li>
           
         
@@ -134,21 +134,21 @@ Setting Sail with Istio   Istio - up and running by Lachlan Evenson   Istio - ad
           </div>
           <div class="categories">
   <i class="fas fa-folder"></i>
-    <a href="https://blog.muehlburger.at/categories/istio/">istio</a>
+    <a href="/categories/istio/">istio</a>
       <span class="separator">•</span>
-    <a href="https://blog.muehlburger.at/categories/kubernetes/">kubernetes</a>
+    <a href="/categories/kubernetes/">kubernetes</a>
       <span class="separator">•</span>
-    <a href="https://blog.muehlburger.at/categories/videos/">videos</a></div>
+    <a href="/categories/videos/">videos</a></div>
 
           <div class="tags">
   <i class="fas fa-tag"></i>
-    <a href="https://blog.muehlburger.at/tags/istio/">istio</a>
+    <a href="/tags/istio/">istio</a>
       <span class="separator">•</span>
-    <a href="https://blog.muehlburger.at/tags/kubernetes/">kubernetes</a>
+    <a href="/tags/kubernetes/">kubernetes</a>
       <span class="separator">•</span>
-    <a href="https://blog.muehlburger.at/tags/videos/">videos</a>
+    <a href="/tags/videos/">videos</a>
       <span class="separator">•</span>
-    <a href="https://blog.muehlburger.at/tags/learning/">learning</a></div>
+    <a href="/tags/learning/">learning</a></div>
 
         </div>
       </header>
@@ -242,7 +242,7 @@ Setting Sail with Istio   Istio - up and running by Lachlan Evenson   Istio - ad
     
      © 2019
     
-    · <a href="https://blog.muehlburger.at/datenschutz" title="Privacy (Datenschutz)">Imprint & Privacy</a>
+    · <a href="/datenschutz" title="Privacy (Datenschutz)">Imprint & Privacy</a>
     
   </section>
 </footer>
