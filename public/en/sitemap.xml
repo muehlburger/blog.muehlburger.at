@@ -48,21 +48,6 @@
   </url>
   
   <url>
-    <loc>/categories/istio/</loc>
-    <lastmod>2019-01-25T21:10:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/categories/istio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/istio/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/istio/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
@@ -74,6 +59,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/istio/"
+                />
+  </url>
+  
+  <url>
+    <loc>/categories/istio/</loc>
+    <lastmod>2019-01-25T21:10:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/categories/istio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/istio/"
                 />
   </url>
   
@@ -213,12 +213,12 @@
   </url>
   
   <url>
-    <loc>/categories/programming/</loc>
+    <loc>/tags/programming/</loc>
     <lastmod>2018-12-26T16:32:23+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/programming/</loc>
+    <loc>/categories/programming/</loc>
     <lastmod>2018-12-26T16:32:23+01:00</lastmod>
   </url>
   
@@ -288,12 +288,12 @@
   </url>
   
   <url>
-    <loc>/categories/serverless/</loc>
+    <loc>/tags/serverless/</loc>
     <lastmod>2018-01-29T15:34:05+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/serverless/</loc>
+    <loc>/categories/serverless/</loc>
     <lastmod>2018-01-29T15:34:05+00:00</lastmod>
   </url>
   
@@ -768,12 +768,12 @@
   </url>
   
   <url>
-    <loc>/categories/networks/</loc>
+    <loc>/tags/networks/</loc>
     <lastmod>2014-07-21T11:23:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/networks/</loc>
+    <loc>/categories/networks/</loc>
     <lastmod>2014-07-21T11:23:47+00:00</lastmod>
   </url>
   
@@ -808,12 +808,12 @@
   </url>
   
   <url>
-    <loc>/tags/business-models/</loc>
+    <loc>/categories/business-models/</loc>
     <lastmod>2014-04-14T15:48:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/business-models/</loc>
+    <loc>/tags/business-models/</loc>
     <lastmod>2014-04-14T15:48:20+00:00</lastmod>
   </url>
   
@@ -948,12 +948,12 @@
   </url>
   
   <url>
-    <loc>/tags/business-intelligence/</loc>
+    <loc>/categories/business-intelligence/</loc>
     <lastmod>2013-07-23T07:48:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/business-intelligence/</loc>
+    <loc>/tags/business-intelligence/</loc>
     <lastmod>2013-07-23T07:48:40+00:00</lastmod>
   </url>
   
@@ -1333,12 +1333,12 @@
   </url>
   
   <url>
-    <loc>/tags/ios/</loc>
+    <loc>/categories/ios/</loc>
     <lastmod>2011-05-02T17:49:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/ios/</loc>
+    <loc>/tags/ios/</loc>
     <lastmod>2011-05-02T17:49:38+00:00</lastmod>
   </url>
   
@@ -1413,12 +1413,12 @@
   </url>
   
   <url>
-    <loc>/tags/testing/</loc>
+    <loc>/categories/testing/</loc>
     <lastmod>2011-04-19T12:55:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/testing/</loc>
+    <loc>/tags/testing/</loc>
     <lastmod>2011-04-19T12:55:52+00:00</lastmod>
   </url>
   
@@ -1958,12 +1958,12 @@
   </url>
   
   <url>
-    <loc>/tags/nosql-summer/</loc>
+    <loc>/categories/nosql-summer/</loc>
     <lastmod>2010-07-21T19:27:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/nosql-summer/</loc>
+    <loc>/tags/nosql-summer/</loc>
     <lastmod>2010-07-21T19:27:07+00:00</lastmod>
   </url>
   
