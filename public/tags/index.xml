@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on DI Herbert Mühlburger</title>
@@ -381,7 +381,7 @@
     </item>
     
     <item>
-      <title>Git</title>
+      <title>git</title>
       <link>/tags/git/</link>
       <pubDate>Thu, 17 Nov 2016 10:25:34 +0000</pubDate>
       
