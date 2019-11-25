@@ -20,9 +20,9 @@ googleAnalytics = "UA-131790127-1"
     author = "DI Herbert Mühlburger"
     description = "Experienced Technology Architect and Senior Software Engineer."
     keywords = "Mühlburger, Muehlburger, Information Technology, IT, Herbert Mühlburger, Herbert Muehlburger, Technology Architect, Senior Software Engineer"
-    info = "Technology Architect // Senior Software Engineer"
+    info = "IT-Ziviltechniker // Solution Architect // Senior Software Engineer"
     avatarurl = "images/avatar.jpg"
-    footercontent = "🔥for tech"
+    footercontent = "🔥 for tech: 👉 <a href='https://www.it-zt.at' target='_blank'>www.it-zt.at</a> 👈"
 
     dateformat = "January 2, 2006"
 
