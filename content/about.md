@@ -14,7 +14,7 @@ DI Herbert M&uuml;hlburger, BSc
 Am Quellenhof 2/3
 8301 Laßnitzh&ouml;he
 mail (at) muehlburger.at
-GPG: <a href="http://pgp.mit.edu:11371/pks/lookup?search=0x83AEBB7D&op=index">0x83AEBB7D</a>
+PGP Fingerprint: <a href="https://keyserver.ubuntu.com/pks/lookup?search=0x83AEBB7D&op=vindex&fingerprint=on">0xb2d2ee15de7ae6957aa3a4530491a77d83aebb7d</a>
 </pre>
 
 If you want to get in contact with me just drop me a message below or contact me on [Twitter (hmuehlburger)][1].
