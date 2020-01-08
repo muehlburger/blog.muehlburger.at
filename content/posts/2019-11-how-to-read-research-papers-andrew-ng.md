@@ -8,7 +8,7 @@ categories = ["research", "phd"]
 externalLink = ""
 +++
 
-Reading research papers can be time consuming and therefore I looked for strategies to optimize reading research papers. How should you read a research paper? How many papers should you read in order to understand a field broadly? There is a good talk on this topic from [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng), an Adjunct Professor at Stanford University. 
+Reading research papers can be hard and therefore I looked for strategies to optimize my paper readings. How should you read a research paper? How many papers should you read in order to understand a field broadly? There is a good talk on this topic from [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng), an Adjunct Professor at Stanford University. 
 
 {{< youtube 733m6qBH-jI >}}
 
