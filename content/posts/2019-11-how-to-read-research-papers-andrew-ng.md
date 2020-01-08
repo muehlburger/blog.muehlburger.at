@@ -17,9 +17,9 @@ Reading research papers can be hard and therefore I looked for strategies to opt
 - Read 5-20 papers to get a basic understanding of a field
 - Read 50 - 100 papers and you have a very good understanding
 
-## Steps to read understand a field
+## Steps to understand a field
 
-Andrew proposes the following three steps to understand a field better:
+Andrew Ng proposes the following three steps to understand a field better:
 
 1. Compile a list of papers (research papers, blog posts, ...)
 2. Skip around the list
