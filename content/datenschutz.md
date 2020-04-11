@@ -39,12 +39,9 @@ Ihnen stehen bezüglich Ihrer bei uns gespeicherten Daten grundsätzlich die Rec
 
 # Unsere Kontaktdaten
 
-<pre>
-DI Herbert Mühlburger, BSc
-Am Quellenhof 2/3
-8301 Laßnitzhöhe, Austria
-mail (at) muehlburger.at
-GPG: <a href="http://pgp.mit.edu:11371/pks/lookup?search=0x83AEBB7D&op=index">0x83AEBB7D</a>
-</pre>
+    IT-ZT DI Herbert Mühlburger, BSc
+    Am Quellenhof 2/3
+    8301 Laßnitzhöhe
+    mail (at) muehlburger.at
 
 Unseren Datenschutzkoordinator erreichen Sie unter: mail (at) muehlburger.at.

@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "DI Herbert Mühlburger"
+title = "IT-ZT DI Herbert Mühlburger"
 
 theme = "hugo-coder"
 
@@ -17,12 +17,12 @@ pygmentscodefencesguesssyntax = true
 googleAnalytics = "UA-131790127-1"
 
 [params]
-    author = "DI Herbert Mühlburger"
+    author = "IT-ZT DI Herbert Mühlburger"
     description = "Experienced Technology Architect and Senior Software Engineer."
-    keywords = "Mühlburger, Muehlburger, Information Technology, IT, Herbert Mühlburger, Herbert Muehlburger, Technology Architect, Senior Software Engineer"
+    keywords = "IT-ZT, Herbert Mühlburger, Mühlburger, Muehlburger, Information Technology, IT, Herbert Mühlburger, Herbert Muehlburger, Technology Architect, Senior Software Engineer"
     info = "IT-Ziviltechniker // Solution Architect // Senior Software Engineer"
     avatarurl = "images/avatar.jpg"
-    footercontent = "🔥 for tech. Hire me! 👉 <a href='https://www.it-zt.at' target='_blank'>www.it-zt.at</a> 👈"
+    footercontent = "🔥 for tech. Fire hire at 👉 <a href='https://www.it-zt.at' target='_blank'>www.it-zt.at</a> 👈"
 
     dateformat = "January 2, 2006"
 
@@ -84,31 +84,31 @@ googleAnalytics = "UA-131790127-1"
         [languages.en.menu]
 
             [[languages.en.menu.main]]
-            name = "About"
+            name = "About me"
             weight = 2
             url = "about/"
 
             [[languages.en.menu.main]]
-            name = "Blog"
+            name = "Posts"
             weight = 1
             url = "posts/"
 
     [languages.de]
         languagename = "Deutsch"
-        title = "DI Herbert Mühlburger"
+        title = "IT-ZT DI Herbert Mühlburger"
 
         [languages.de.params]
-            keywords = "Mühlburger, Softwareentwicklung - Wirtschaft, DSGVO, Datenschutz, Datenschutzzertifizierung, Zertifikat, IT, Informatik, Herbert Mühlburger, Technology Architekt, Senior Software Entwickler, Software Architekt"
+            keywords = "IT-ZT, IT-Ziviltechniker, Mühlburger, Softwareentwicklung - Wirtschaft, DSGVO, Datenschutz, Datenschutzzertifizierung, Zertifikat, IT, Informatik, Herbert Mühlburger, Technology Architekt, Senior Software Entwickler, Software Architekt"
 
         [languages.de.menu]
 
             [[languages.de.menu.main]]
-            name = "Blog"
+            name = "Posts"
             weight = 1
             url = "posts/"
 
             [[languages.de.menu.main]]
-            name = "About"
+            name = "Über mich"
             weight = 2
             url = "about/"
 [privacy]
