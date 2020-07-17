@@ -20,7 +20,10 @@ Wenn Sie dies nicht wünschen, so können Sie Ihren Browser so einrichten, dass 
 
 Bei der Deaktivierung von Cookies kann die Funktionalität unserer Website eingeschränkt sein.
 
-# Web-Analyse mit Google Analytics
+
+# Web-Analyse
+Wir verwenden keine Web-Analyse Tools und tracken Ihr Nutzerverhalten nicht.
+<!--
 Unsere Website verwendet Funktionen des Webanalysedienstes Google Analytics, einen Webanalysedienst der Google LLC („Google“). Dazu werden Cookies verwendet, die eine Analyse der Benutzung der Website durch Ihre Benutzer ermöglicht. Die dadurch erzeugten Informationen werden auf die Server von Google übertragen und dort gespeichert. 
 Sie können dies verhindern, indem Sie Ihren Browser so einrichten, dass keine Cookies gespeichert werden.
 
@@ -33,6 +36,7 @@ Die Datenverarbeitung erfolgt auf Basis der gesetzlichen Bestimmungen des § 96 
 Unser Anliegen im Sinne der DSGVO (berechtigtes Interesse) ist die Verbesserung unseres Angebotes und unseres Webauftritts. Da uns die Privatsphäre unserer Nutzer wichtig ist, werden die Nutzerdaten anonymisiert. Wir setzen Google Analytics nur mit aktivierter IP-Anonymisierung ein.
 
 Die Nutzerdaten werden für die Dauer von 6 Monaten aufbewahrt.
+-->
 
 # Ihre Rechte
 Ihnen stehen bezüglich Ihrer bei uns gespeicherten Daten grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerspruch zu. Wenn Sie glauben dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, können Sie sich bei uns mail@muehlburger.at oder der Datenschutzbehörde beschweren.
