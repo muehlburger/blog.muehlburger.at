@@ -4,6 +4,7 @@ author = ["Herbert Muehlburger"]
 date = 2020-07-21
 tags = ["neural-networks", "research", "learning", "perceptron", "deep-neural-networks"]
 categories = ["research"]
+url = "/2020/architectures-of-neural-networks-explained"
 +++
 
 There are a lot of different neural network architectures out there. Recently I found an article that gives a great overview on the different architectures. You can find the article here:
