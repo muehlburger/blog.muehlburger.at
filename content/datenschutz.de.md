@@ -11,6 +11,9 @@ Der Schutz Ihrer persönlichen Daten ist uns wichtig. Wir verarbeiten Ihre Daten
 # Kontakt mit uns
 Wenn Sie per Formular auf der Website oder per E-Mail Kontakt mit uns aufnehmen, werden Ihre angegebenen Daten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen sechs Monate bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
 
+# Server-Logfiles
+Dieser Server speichert die Verbindungsdaten aller Websitezugriffe in sogenannten Server-Logfiles. Diese Zugriffsdaten werden von Ihrem Browser an uns übertragen. Es handelt sich dabei um die folgenden Daten: Datum und Uhrzeit des Zugriffs, Name der angesehenen Seite, IP-Adresse Ihres Rechners, die URL von der aus Sie auf unsere Seite gekommen sind, die übermittelte Datenmenge sowie Informationen zu Ihrem Browser (Anbieter und Version) und Betriebssystem Ihres Rechners. Diese Informationen benötigen wir um einerseits den Service der Website zu optimieren bzw. um etwaige Fehler zu beheben, aber auch um die Website vor Angriffen, wie z.B. DDoS-Attacken, zu schützen. Die Logfiles werden zudem statistisch ausgewertet, etwa um die Anzahl der monatlichen Zugriffe, die am häufigsten besuchten Seiten oder Downloads zu analyieren. Dies erfolgt ohne Personenbezug und dient der Verbesserung des Angebots.
+
 # Cookies
 Unsere Website verwendet so genannte Cookies. Dabei handelt es sich um kleine Textdateien, die mit Hilfe des Browsers auf Ihrem Endgerät abgelegt werden. Sie richten keinen Schaden an.
 
