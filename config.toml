@@ -1,79 +1,132 @@
 baseurl = "/"
 title = "IT-ZT DI Herbert Mühlburger"
-
 theme = "hugo-coder"
-
-languagecode = "en"
-defaultcontentlanguage = "en"
-
+languageCode = "en"
+defaultContentLanguage = "en"
 paginate = 20
 canonifyurls = true
-
-pygmentsstyle = "b2"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
-
-#disqusShortname = "yourdiscussshortname"
+pygmentsStyle = "b2"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+enableEmoji = true
+# Enable Disqus comments
+# disqusShortname = "yourdiscussshortname"
 #googleAnalytics = "UA-131790127-1"
 
 [params]
-    author = "IT-ZT DI Herbert Mühlburger"
-    description = "Experienced Technology Architect and Senior Software Engineer."
-    keywords = "IT-ZT, Herbert Mühlburger, Mühlburger, Muehlburger, Information Technology, IT, Herbert Mühlburger, Herbert Muehlburger, Technology Architect, Senior Software Engineer"
-    info = "IT-Ziviltechniker // Solution Architect // Senior Software Engineer"
-    avatarurl = "images/herbert-muehlburger.jpg"
-    footercontent = "🔥 for tech. Hire me! 👉 <a href='https://www.it-zt.at' target='_blank'>www.it-zt.at</a> 👈"
+author = "IT-ZT DI Herbert Mühlburger"
+description = "Experienced Technology Architect and Senior Software Engineer."
+keywords = "IT-ZT, Herbert Mühlburger, Mühlburger, Muehlburger, Information Technology, IT, Herbert Mühlburger, Herbert Muehlburger, Technology Architect, Senior Software Engineer"
+info = "IT-Ziviltechniker // Solution Architect // Senior Software Engineer"
+avatarURL = "images/herbert-muehlburger.jpg"
+#gravatar = "john.doe@example.com"
+footerContent = "🔥 for tech. Hire me! 👉 <a href='https://www.it-zt.at' target='_blank'>www.it-zt.at</a> 👈"
+dateFormat = "January 2, 2006"
+hideFooter = false
+hideCredits = true
+hideCopyright = false
+since = 2019
 
-    dateformat = "January 2, 2006"
+# Git Commit in Footer, uncomment the line below to enable it.
+#commit = "https://github.com/muehlburger/muehlburger.github.io.git/"
 
-    hideCredits = true
-    hideCopyright = false
+rtl = false
+# Specify light/dark colorscheme
+# Supported values:
+# "auto" (use preference set by browser)
+# "dark" (dark background, light foreground)
+# "light" (light background, dark foreground) (default)
+colorScheme = "auto"
+# Hide the toggle button, along with the associated vertical divider
+hideColorSchemeToggle = false
+# Series see also post count
+maxSeeAlsoItems = 5
+# Enable Twemoji
+enableTwemoji = false
+# Custom CSS
+customCSS = ["css/cookieconsent.min.css"]
+# Custom SCSS
+customSCSS = []
+# Custom JS
+customJS = ["js/cookieconsent.min.js", "js/init-cookieconsent.js"]
 
-    # Git Commit in Footer, uncomment the line below to enable it.
-    #commit = "https://github.com/muehlburger/muehlburger.github.io.git/"
+# If you want to use fathom(https://usefathom.com) for analytics, add this section
+# [params.fathomAnalytics]
+# siteID = "ABCDE"
+# serverURL = "analytics.example.com" # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
 
-    rtl = false
+# If you want to use plausible(https://plausible.io) for analytics, add this section
+# [params.plausibleAnalytics]
+# domain = "example.com"
+# serverURL = "analytics.example.com" # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
 
-    # Use inverted colors
-    inverted = false
+# If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
+# [params.goatCounter]
+# code = "code"
 
-    # Series see also post count
-    maxSeeAlsoItems = 5
+# If you want to use Cloudflare Web Analytics(https://cloudflare.com) for analytics, add this section
+# [params.cloudflare]
+# token = "token"
 
-    # Custom CSS
-    custom_css = ["css/cookieconsent.min.css"]
+# If you want to use Matomo(https://matomo.org) for analytics, add this section
+# [params.matomo]
+# siteID = "ABCDE" # Default value is "1", overwrite this if you are cloud-hosting
+# serverURL = "analytics.example.com" # For cloud-hosting, use provided URL, e.g. example.matomo.cloud
 
-    # Custom JS
-    custom_js = ["js/cookieconsent.min.js", "js/init-cookieconsent.js"]
+# If you want to use Google Tag Manager(https://analytics.google.com/) for analytics, add this section
+# [params.googleTagManager]
+# id = "gid"
+
+# If you want to implement a Content-Security-Policy, add this section
+#[params.csp]
+#childsrc = ["'self'"]
+#fontsrc = ["'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net/"]
+#formaction = ["'self'"]
+#framesrc = ["'self'", "https://www.youtube.com"]
+#imgsrc = ["'self'"]
+#objectsrc = ["'none'"]
+#stylesrc = [
+#  "'self'",
+#  "'unsafe-inline'",
+#  "https://fonts.googleapis.com/",
+#  "https://cdn.jsdelivr.net/"
+#]
+#scriptsrc = ["'self'", "'unsafe-inline'", "https://www.google-analytics.com"]
+#prefetchsrc = ["'self'"]
+# connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
+#connectsrc = ["'self'", "https://www.google-analytics.com", "https://www.youtube.com"]
 
 [taxonomies]
   category = "categories"
   series = "series"
   tag = "tags"
+  author = "authors"
 
 [[params.social]]
     name = "Github"
-    icon = "fab fa-github"
+    icon = "fa fa-github"
     weight = 1
     url = "https://github.com/muehlburger/"
 
 [[params.social]]
     name = "Twitter"
-    icon = "fab fa-twitter"
+    icon = "fa fa-twitter"
     weight = 3
     url = "https://twitter.com/hmuehlburger/"
 
 [[params.social]]
     name = "LinkedIn"
-    icon = "fab fa-linkedin"
+    icon = "fa fa-linkedin"
     weight = 3
     url = "https://www.linkedin.com/in/herbert-muehlburger/"
 
 [[params.social]]
     name = "RSS"
-    icon = "fas fa-rss-square"
+    icon = "fa fa-rss"
     weight = 4
-    url = "index.xml"
+    url = "https://blog.muehlburger.at/index.xml"
+    rel = "alternate"
+    type = "application/rss+xml"
 
 [languages]
     [languages.en]
@@ -84,7 +137,7 @@ pygmentscodefencesguesssyntax = true
         [languages.en.menu]
 
             [[languages.en.menu.main]]
-            name = "About me"
+            name = "About"
             weight = 2
             url = "about/"
 
