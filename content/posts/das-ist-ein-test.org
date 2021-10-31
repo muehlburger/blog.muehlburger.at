@@ -1,0 +1,12 @@
+---
+title: "Das Ist Ein Test"
+date: 2021-08-13T00:23:54+02:00
+draft: true
+---
+
+* Github closes password authentication
+
+  [[https://github.blog/changelog/2021-08-12-git-password-authentication-is-shutting-down/][Github password authentication is shutting down.]] This move is interesting but shows that password authentication is not secure any more.
+
+(via [[https://news.ycombinator.com][ycombinator.com]])
+
