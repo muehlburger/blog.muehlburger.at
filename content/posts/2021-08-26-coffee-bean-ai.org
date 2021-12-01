@@ -1,0 +1,46 @@
+---
+title: Wake Up and Smell the AI
+date: 2021-08-26T13:16:55+02:00
+draft: true
+slug: wake-up-and-smell-the-ai
+tag: "[[id:14695797-c88c-4187-a00d-fce82e1200ac][How to write blog posts]]"
+---
+
+Coffee producers are using machine learning to grow better beans.
+
+
+
+[[/images/coffee-bean-ai.gif]]
+   
+*What's new:* Beverage giant Nespresso is rolling out a system to assess the quality of hybrid coffee seedlings using [[technology]] from Israeli-Colombian startup Demetria.
+   
+* How it works?
+
+   Nespresso develops new coffee varieties by grafting plant seedlings. Previously it relied on human experts to assess whether these grafts were viable. Demetria’s algorithm uses readings from a handheld near-infrared optical scanner to automate the evaluation.
+
+    - The scanner measures light frequencies reflected by the plants, which the algorithm interprets as markers of plant health. 
+    - In a three-month pilot program, Nespresso used the system to analyze over 240,000 plants. It sent the top-graded plants to farmers in Colombia. 
+    - An earlier Demetria model lets farmers match the near-infrared signature of raw beans to established flavor categories. The company trained that model on taste and smell data recorded by human tasters. 
+    - The company also offers a smartphone app for commercial coffee buyers that measures the size of individual coffee beans. Larger beans tend to produce better coffee. 
+   
+* Results
+   
+* Behind the news
+
+   The food industry has a growing appetite for AI.
+
+   List of facts to support this claim:
+
+   - [[eww:][Tuna Scope]] is a computer vision-powered smartphone app that scans slices of fish to determine whether they are suitable for sushi.
+   - Indian startup [[eww:][Intello Labs]] has developed computer vision tools that assess the quality of various types of fruits and vegetables.
+   - Frito-Lay [[https://patents.google.com/patent/US9541537?utm_campaign=The%20Batch&utm_medium=email&_hsmi=152811001&_hsenc=p2ANqtz-8oJJ7Dsn3w77ByHNKoPgdEsXpYuwzTfmdlLoHy1V2X_ZV4u86dQJ8vFdxs1nppbMGJQhJBwVXT3zMTTZ2PvggI4GuqPA&utm_content=152811001&utm_source=hs_email][patented]] a machine learning system that analyezs laser readings of individual chips to grade their texture.
+   
+* Why it matters
+
+   Nespresso believes that Demetria’s technology will save time and money. This may be bad for traditional plant assessors, whose skills may become obsolete. On the other hand, it may help struggling Colombian coffee farmers grow more profitable beans.
+   
+* Yes, but
+   
+* We're thinking
+
+   The thought of better coffee through I perked us right up.
