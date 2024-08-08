@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "IT-ZT DI Herbert Mühlburger"
+title = "Herbert Mühlburger"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -14,13 +14,13 @@ enableEmoji = true
 #googleAnalytics = "UA-131790127-1"
 
 [params]
-author = "IT-ZT DI Herbert Mühlburger"
+author = "Herbert Mühlburger"
 description = "Experienced Technology Architect and Senior Software Engineer."
 keywords = "IT-ZT, Herbert Mühlburger, Mühlburger, Muehlburger, Information Technology, IT, Herbert Mühlburger, Herbert Muehlburger, Technology Architect, Senior Software Engineer"
 info = "IT-Ziviltechniker // Solution Architect // Senior Software Engineer"
 avatarURL = "images/herbert-muehlburger.jpg"
 #gravatar = "john.doe@example.com"
-footerContent = "🔥 for tech. Hire me! 👉 <a href='https://www.it-zt.at' target='_blank'>www.it-zt.at</a> 👈"
+footerContent = "🔥 for tech. Hire us! 👉 <a href='https://www.it-zt.at' target='_blank'>www.it-zt.at</a> 👈"
 dateFormat = "January 2, 2006"
 hideFooter = false
 hideCredits = true
@@ -148,7 +148,7 @@ serverURL = "analytics.it-zt.at" # For cloud-hosting, use provided URL, e.g. exa
 
     [languages.de]
         languagename = "Deutsch"
-        title = "IT-ZT DI Herbert Mühlburger"
+        title = "Herbert Mühlburger"
 
         [languages.de.params]
             keywords = "IT-ZT, IT-Ziviltechniker, Mühlburger, Softwareentwicklung - Wirtschaft, DSGVO, Datenschutz, Datenschutzzertifizierung, Zertifikat, IT, Informatik, Herbert Mühlburger, Technology Architekt, Senior Software Entwickler, Software Architekt"

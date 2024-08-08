@@ -9,7 +9,7 @@ Hallo.
 
 Herbert Mühlburger ist IT-Ziviltechniker und erfahrener Solution Architect / Senior Software Engineer aus Österreich.
 
-    IT-ZT DI Herbert Mühlburger, BSc
+    Herbert Mühlburger
     Am Quellenhof 2/3
     8301 Laßnitzhöhe
     mail (at) muehlburger.at

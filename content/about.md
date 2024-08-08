@@ -9,7 +9,7 @@ Hi,
 
 Herbert Mühlburger is a Chartered Engineer in Information Technology and experienced Solution Architect / Senior Software Engineer from Austria.
 
-    IT-ZT DI Herbert Mühlburger, BSc
+    Herbert Mühlburger
     Am Quellenhof 2/3
     8301 Laßnitzhöhe
     mail (at) muehlburger.at
